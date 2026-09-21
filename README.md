@@ -1,34 +1,39 @@
 # YouTube FOMO Annihilator
 
-## Live leaderboard
+## Page with ranked results
 
 https://nateofspades.github.io/YouTube_FOMO_Annihilator
 
-An independent, automated daily leaderboard of the top 10 YouTube videos from curated channels. Results are available for Artificial intelligence, Emerging businesses & startups, Science & future technology, and Software & developer tools.
+An independent, automated daily leaderboard of the top-10 YouTube videos from selected YouTube channels for the following categories:
+
+- Artificial intelligence
+- Emerging businesses & startups
+- Science & future technology
+- Software & developer tools
 
 ## Using the site
 
 The live site has one leaderboard page with two filters:
 
-- Category — choose one of the four curated channel categories.
-- Date — open the calendar icon or date field to choose a published leaderboard date.
+- Category
+- Date
 
-The newest published date is selected by default. The calendar makes unavailable dates non-selectable: dates before the first publication are crossed out, and dates after the current date are greyed out. Every result row remains on one line without horizontal scrolling or truncated text. The table includes:
+The newest published date is selected by default. The earliest date for which results are available is September 21, 2026. The table includes:
 
 - Rank
-- YouTube Video — linked to the video on YouTube
-- Channel
-- Length — rounded to the nearest minute
-- Views — current public YouTube view count
+- YouTube Video
+- YouTube Channel
+- Length
+- Viewst
 
 ## Ranking method
 
-Each daily update does the following for every category:
+For each category, the automation:
 
-1. Looks at videos published in the last seven days by that category’s curated channels.
-2. Includes videos only when YouTube identifies their audio language as English and their title, description, or tags match the category topic.
-3. Ranks the eligible videos by their current public YouTube view count.
-4. Saves the 10 highest-ranked videos for that date so they can be selected with the site’s Category and Date filters.
+1. Reviews videos from the maintained curated channel universe that were published in the preceding seven days.
+2. Keeps videos with English audio-language metadata and a category-topic match in their title, description, or tags.
+3. Sorts qualifying videos by current public YouTube Data API v3 `viewCount`.
+4. Publishes the top 10 as date-stamped JSON for the site’s Category and Date filters.
 
 This project ranks qualifying videos from its curated channels; it does not claim to rank every relevant video on YouTube.
 
@@ -70,9 +75,9 @@ python3 -m http.server 8765 --directory docs
 
 Then open `http://127.0.0.1:8765/`.
 
-## Data source and API key security
+## Data source
 
-Automation uses the YouTube Data API v3. The `YOUTUBE_API_KEY` GitHub Actions repository secret is not committed to the repository. Restrict the key to the YouTube Data API v3; it should not rely on GitHub-hosted runner IP-address restrictions.
+Automation uses the YouTube Data API v3.
 
 ## Independence and trademark notice
 
