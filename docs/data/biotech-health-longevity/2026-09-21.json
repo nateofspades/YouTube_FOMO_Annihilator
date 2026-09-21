@@ -1,7 +1,7 @@
 {
   "slug": "biotech-health-longevity",
   "title": "Biotech, health technology, and longevity",
-  "generated_at": "2026-09-21T19:45:09.370423Z",
+  "generated_at": "2026-09-21T20:06:46.183468Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -157,7 +157,7 @@
       "channel_title": "U.S. Food and Drug Administration",
       "source_type": "Government",
       "published_at": "2026-09-17T20:36:55Z",
-      "view_count": 29231,
+      "view_count": 29268,
       "duration_minutes": 440,
       "url": "https://www.youtube.com/watch?v=mJQz5WBBNs8"
     },
@@ -190,7 +190,7 @@
       "channel_title": "World Health Organization (WHO)",
       "source_type": "Government",
       "published_at": "2026-09-20T08:37:28Z",
-      "view_count": 4477,
+      "view_count": 4541,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=A7r49be3MfY"
     },
@@ -212,7 +212,7 @@
       "channel_title": "U.S. Food and Drug Administration",
       "source_type": "Government",
       "published_at": "2026-09-16T20:44:22Z",
-      "view_count": 1919,
+      "view_count": 1920,
       "duration_minutes": 373,
       "url": "https://www.youtube.com/watch?v=1aHf3HoJ-p4"
     },
@@ -223,7 +223,7 @@
       "channel_title": "Broad Institute",
       "source_type": "Research institution",
       "published_at": "2026-09-17T12:57:23Z",
-      "view_count": 1823,
+      "view_count": 1819,
       "duration_minutes": 41,
       "url": "https://www.youtube.com/watch?v=Y8FV04VVbqY"
     },

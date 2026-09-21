@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-09-21T19:45:09.370423Z",
+  "generated_at": "2026-09-21T20:06:46.183468Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -102,7 +102,7 @@
       "handle": "@BessemerVenturePartners",
       "source_type": "Venture capital",
       "channel_id": "UCKuHAxZoh99t8uyPQhoDR3A",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Antler Global",
@@ -147,7 +147,7 @@
       "recent_video_count": 7
     }
   ],
-  "candidate_count": 85,
+  "candidate_count": 86,
   "results": [
     {
       "video_id": "yslXlV2BP_Y",
@@ -156,7 +156,7 @@
       "channel_title": "Y Combinator",
       "source_type": "Accelerator",
       "published_at": "2026-09-17T17:58:14Z",
-      "view_count": 115604,
+      "view_count": 115869,
       "duration_minutes": 36,
       "url": "https://www.youtube.com/watch?v=yslXlV2BP_Y"
     },
@@ -167,7 +167,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-09-18T13:15:08Z",
-      "view_count": 70274,
+      "view_count": 70512,
       "duration_minutes": 86,
       "url": "https://www.youtube.com/watch?v=bi23y0x-MhA"
     },
@@ -178,7 +178,7 @@
       "channel_title": "Antler Global",
       "source_type": "Venture capital",
       "published_at": "2026-09-17T14:11:05Z",
-      "view_count": 53938,
+      "view_count": 53920,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=PwcBgENkJyM"
     },
@@ -189,7 +189,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-09-16T12:30:31Z",
-      "view_count": 49921,
+      "view_count": 50002,
       "duration_minutes": 17,
       "url": "https://www.youtube.com/watch?v=47jy_FxuuBg"
     },
@@ -200,7 +200,7 @@
       "channel_title": "20VC with Harry Stebbings",
       "source_type": "Venture capital",
       "published_at": "2026-09-17T13:55:57Z",
-      "view_count": 32200,
+      "view_count": 32216,
       "duration_minutes": 79,
       "url": "https://www.youtube.com/watch?v=_tfUQrusRGM"
     },
@@ -211,7 +211,7 @@
       "channel_title": "Sequoia Capital",
       "source_type": "Venture capital",
       "published_at": "2026-09-17T12:00:08Z",
-      "view_count": 30562,
+      "view_count": 30582,
       "duration_minutes": 75,
       "url": "https://www.youtube.com/watch?v=k7wPdCNfljQ"
     },
@@ -244,20 +244,20 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-09-20T12:00:05Z",
-      "view_count": 21414,
+      "view_count": 21569,
       "duration_minutes": 81,
       "url": "https://www.youtube.com/watch?v=QtjLireBMI8"
     },
     {
-      "video_id": "GzEtpAKYRvE",
-      "title": "Databricks CEO: Stop Scaring People About AI",
-      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "channel_title": "a16z",
-      "source_type": "Venture capital",
-      "published_at": "2026-09-18T19:25:08Z",
-      "view_count": 20019,
-      "duration_minutes": 67,
-      "url": "https://www.youtube.com/watch?v=GzEtpAKYRvE"
+      "video_id": "97LRJUUPy_w",
+      "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
+      "channel_title": "Lenny's Podcast",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-20T12:30:03Z",
+      "view_count": 20092,
+      "duration_minutes": 97,
+      "url": "https://www.youtube.com/watch?v=97LRJUUPy_w"
     }
   ]
 }

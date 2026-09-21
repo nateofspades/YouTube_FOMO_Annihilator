@@ -1,7 +1,7 @@
 {
   "slug": "ai",
   "title": "Artificial intelligence",
-  "generated_at": "2026-09-21T19:45:09.370423Z",
+  "generated_at": "2026-09-21T20:06:46.183468Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -100,7 +100,7 @@
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-18T07:03:46Z",
-      "view_count": 295338,
+      "view_count": 295589,
       "duration_minutes": 5,
       "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw"
     },
@@ -111,7 +111,7 @@
       "channel_title": "AI Explained",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-16T20:51:40Z",
-      "view_count": 196170,
+      "view_count": 196310,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=J3ljHm57yU0"
     },
@@ -122,7 +122,7 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-16T22:29:43Z",
-      "view_count": 156767,
+      "view_count": 156869,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=P-8sCH6syag"
     },
@@ -133,7 +133,7 @@
       "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-16T20:57:15Z",
-      "view_count": 153509,
+      "view_count": 153690,
       "duration_minutes": 22,
       "url": "https://www.youtube.com/watch?v=S2VJU5DQqlU"
     },
@@ -144,7 +144,7 @@
       "channel_title": "WorldofAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-19T06:15:19Z",
-      "view_count": 149800,
+      "view_count": 149930,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=hUZNPCSZDaQ"
     },
@@ -155,7 +155,7 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-17T19:12:10Z",
-      "view_count": 127607,
+      "view_count": 127707,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=lxVMdEpe0RQ"
     },
@@ -166,7 +166,7 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-17T20:41:08Z",
-      "view_count": 117979,
+      "view_count": 118013,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=YeeGHCixr7o"
     },
@@ -177,7 +177,7 @@
       "channel_title": "TheAIGRID",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-18T05:52:57Z",
-      "view_count": 104162,
+      "view_count": 104557,
       "duration_minutes": 8,
       "url": "https://www.youtube.com/watch?v=LYveAOjtqqM"
     },
@@ -188,7 +188,7 @@
       "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-18T15:12:55Z",
-      "view_count": 102458,
+      "view_count": 102586,
       "duration_minutes": 27,
       "url": "https://www.youtube.com/watch?v=Kof2VcHTjrk"
     },
@@ -199,7 +199,7 @@
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-15T10:12:34Z",
-      "view_count": 99062,
+      "view_count": 99087,
       "duration_minutes": 4,
       "url": "https://www.youtube.com/watch?v=YoEWjZSwoys"
     }
