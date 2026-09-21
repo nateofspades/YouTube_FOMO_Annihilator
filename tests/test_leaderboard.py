@@ -86,29 +86,28 @@ class LeaderboardTests(unittest.TestCase):
         self.assertEqual(parse_duration_minutes("P1D"), 1440)
         self.assertEqual(parse_duration_minutes("P1DT3H27M25S"), 1647)
 
-    def test_root_current_and_archive_pages_each_offer_one_five_category_dropdown(self):
+    def test_single_leaderboard_page_offers_category_and_date_filters_without_biotech(self):
         root = Path(__file__).resolve().parents[1] / "docs"
         slugs = (
             "ai",
             "emerging-businesses-startups",
-            "biotech-health-longevity",
             "science-future-technology",
             "software-developer-tools",
         )
-        for page_name, data_file in (("index.html", "latest.json"), ("archive.html", "archive.json")):
-            content = (root / page_name).read_text()
-            self.assertEqual(content.count("<select"), 1, f"{page_name} must have one category dropdown")
-            self.assertEqual(content.count("<option"), len(slugs), f"{page_name} must offer all categories")
-            for slug in slugs:
-                self.assertIn(f'value="{slug}"', content)
-                self.assertIn(f"data/{slug}/{data_file}", content)
-
-    def test_legacy_category_pages_redirect_to_the_single_page_experience(self):
-        root = Path(__file__).resolve().parents[1] / "docs"
-        for page in root.glob("*/index.html"):
-            self.assertIn('url=../index.html', page.read_text())
-        for page in root.glob("*/archive.html"):
-            self.assertIn('url=../archive.html', page.read_text())
+        content = (root / "index.html").read_text()
+        self.assertEqual(content.count("<select"), 2)
+        self.assertIn('for="category">Category</label>', content)
+        self.assertIn('for="date">Date</label>', content)
+        self.assertNotIn("Leaderboard category", content)
+        self.assertNotIn("biotech-health-longevity", content)
+        self.assertNotIn("archive.html", content)
+        self.assertIn(".source-type{margin-top:7px}", content)
+        for slug in slugs:
+            self.assertIn(f'value="{slug}"', content)
+            self.assertIn(f"data/{slug}", content)
+        self.assertFalse((root / "archive.html").exists())
+        self.assertFalse(any(root.glob("*/index.html")))
+        self.assertFalse(any(root.glob("*/archive.html")))
 
     def test_load_categories_keeps_the_approved_source_types_and_channels(self):
         categories = load_categories()
@@ -117,7 +116,6 @@ class LeaderboardTests(unittest.TestCase):
             [category["slug"] for category in categories],
             [
                 "emerging-businesses-startups",
-                "biotech-health-longevity",
                 "science-future-technology",
                 "software-developer-tools",
             ],

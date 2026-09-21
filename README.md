@@ -6,24 +6,23 @@ An independent automated set of daily top-10 leaderboards for recently published
 
 - [Artificial intelligence](https://nateofspades.github.io/YouTube_FOMO_Annihilator/)
 - Emerging businesses and startups
-- Biotech, health technology, and longevity
 - Science and future technology
 - Software and developer tools
 
-The four additional category source universes and their source types are versioned in `config/categories.json`. The existing AI universe remains in `config/channels.json`.
+The three additional category source universes and their source types are versioned in `config/categories.json`. The existing AI universe remains in `config/channels.json`.
 
 ## Daily automation
 
-The GitHub Actions workflow runs the AI leaderboard and all four categories every day at 6:00 a.m. `America/New_York`. GitHub Actions schedules are best effort: the workflow schedules both 10:00 and 11:00 UTC to cover daylight saving time, and the program accepts only the target New York local hour. `workflow_dispatch` runs all five leaderboards immediately.
+The GitHub Actions workflow runs the AI leaderboard and all three additional categories every day at 6:00 a.m. `America/New_York`. GitHub Actions schedules are best effort: the workflow schedules both 10:00 and 11:00 UTC to cover daylight saving time, and the program accepts only the target New York local hour. `workflow_dispatch` runs all four leaderboards immediately.
 
 Each update:
 
 1. Reviews videos from the maintained curated source universe published in the preceding seven days.
 2. Keeps videos with English audio language metadata and a category-topic match in title, description, or tags.
 3. Ranks qualifying videos by current public YouTube API `viewCount`.
-4. Publishes current and date-stamped archive JSON to GitHub Pages.
+4. Publishes date-stamped JSON to GitHub Pages. The site’s Date filter defaults to the newest published date and can show earlier dates on the same page.
 
-Current and archive results show each video’s source type and video length rounded to the nearest minute.
+Results show each video’s source type and video length rounded to the nearest minute.
 
 ## Data source
 
