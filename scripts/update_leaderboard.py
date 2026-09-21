@@ -180,7 +180,7 @@ def main() -> int:
         raise RuntimeError("YOUTUBE_API_KEY is required")
 
     ai_payload = collect_ai(api_key, now)
-    write_results(ai_payload, ROOT / "docs/data")
+    write_results(ai_payload, ROOT / "docs/data" / "ai")
     print(f"Published AI: {len(ai_payload['results'])} ranked videos from {ai_payload['candidate_count']} candidates.")
     for category in load_categories():
         payload = collect_leaderboard(api_key, now, universe_version=1, **category)

@@ -26,7 +26,7 @@ AI_TERMS = (
     "hugging face",
 )
 NEW_YORK = ZoneInfo("America/New_York")
-_DURATION_PATTERN = re.compile(r"^PT(?:(?P<hours>\d+)H)?(?:(?P<minutes>\d+)M)?(?:(?P<seconds>\d+)S)?$")
+_DURATION_PATTERN = re.compile(r"^P(?:(?P<days>\d+)D)?(?:T(?:(?P<hours>\d+)H)?(?:(?P<minutes>\d+)M)?(?:(?P<seconds>\d+)S)?)?$")
 
 
 def parse_published_at(value: str) -> datetime:
@@ -40,7 +40,7 @@ def parse_duration_minutes(value: str) -> int:
     if not match:
         return 0
     parts = {name: int(raw or 0) for name, raw in match.groupdict().items()}
-    total_seconds = parts["hours"] * 3600 + parts["minutes"] * 60 + parts["seconds"]
+    total_seconds = parts["days"] * 86400 + parts["hours"] * 3600 + parts["minutes"] * 60 + parts["seconds"]
     return (total_seconds + 30) // 60
 
 

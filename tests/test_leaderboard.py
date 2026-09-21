@@ -1,5 +1,6 @@
 import unittest
 from datetime import datetime, timezone
+from pathlib import Path
 
 from app.leaderboard import (
     filter_and_rank_videos,
@@ -82,7 +83,28 @@ class LeaderboardTests(unittest.TestCase):
         self.assertEqual(parse_duration_minutes("PT1M29S"), 1)
         self.assertEqual(parse_duration_minutes("PT1M30S"), 2)
         self.assertEqual(parse_duration_minutes("PT2H"), 120)
-        self.assertEqual(parse_duration_minutes("P1D"), 0)
+        self.assertEqual(parse_duration_minutes("P1D"), 1440)
+        self.assertEqual(parse_duration_minutes("P1DT3H27M25S"), 1647)
+
+    def test_published_pages_expose_five_peer_leaderboard_and_archive_paths(self):
+        root = Path(__file__).resolve().parents[1] / "docs"
+        slugs = (
+            "ai",
+            "emerging-businesses-startups",
+            "biotech-health-longevity",
+            "science-future-technology",
+            "software-developer-tools",
+        )
+        for slug in slugs:
+            current_page = root / slug / "index.html"
+            archive_page = root / slug / "archive.html"
+            self.assertTrue(current_page.exists(), f"Missing current page: {current_page}")
+            self.assertTrue(archive_page.exists(), f"Missing archive page: {archive_page}")
+            current_content = current_page.read_text()
+            archive_content = archive_page.read_text()
+            for destination in slugs:
+                self.assertIn(f'href="../{destination}/"', current_content)
+                self.assertIn(f'href="../{destination}/archive.html"', archive_content)
 
     def test_load_categories_keeps_the_approved_source_types_and_channels(self):
         categories = load_categories()
