@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>YouTube FOMO Annihilator</title>
+  <style>
+    :root { color-scheme: dark; font-family: system-ui, sans-serif; background:#10131a; color:#eef2ff; }
+    body { max-width:900px; margin:0 auto; padding:32px 20px 64px; }
+    h1 { margin-bottom:4px; } .subtle { color:#b7c0d8; }
+    table { width:100%; border-collapse:collapse; margin-top:24px; background:#191f2c; border-radius:10px; overflow:hidden; }
+    th, td { text-align:left; padding:14px 12px; border-bottom:1px solid #30394d; }
+    th { color:#a8b8ff; } a { color:#9eb4ff; } .views { text-align:right; font-variant-numeric:tabular-nums; }
+    #error { color:#ffb4ab; } footer { margin-top:40px; font-size:.85rem; color:#aeb8cc; line-height:1.5; }
+  </style>
+</head>
+<body>
+  <h1>YouTube FOMO Annihilator</h1>
+  <p class="subtle">Top English-language AI videos published in the preceding seven days, ranked by current public YouTube view count.</p>
+  <p id="status">Loading the latest leaderboard…</p>
+  <p id="error" hidden></p>
+  <table id="leaderboard" hidden>
+    <thead><tr><th>#</th><th>Video</th><th>Channel</th><th class="views">Views</th></tr></thead>
+    <tbody></tbody>
+  </table>
+  <footer>
+    Independent and unofficial. Not affiliated with, sponsored by, endorsed by, or approved by YouTube, Google LLC, or listed channels. “YouTube” is a trademark of Google LLC.
+  </footer>
+  <script>
+    const number = new Intl.NumberFormat('en-US');
+    fetch('data/latest.json', {cache: 'no-store'}).then(r => {
+      if (!r.ok) throw new Error('No leaderboard has been published yet.');
+      return r.json();
+    }).then(data => {
+      document.querySelector('#status').textContent = `Updated ${new Date(data.generated_at).toLocaleString()} · ${data.candidate_count} candidates reviewed`;
+      const tbody = document.querySelector('tbody');
+      data.results.forEach((video, index) => {
+        const row = document.createElement('tr');
+        row.innerHTML = `<td>${index + 1}</td><td><a href="${video.url}" target="_blank" rel="noopener noreferrer"></a></td><td></td><td class="views"></td>`;
+        row.querySelector('a').textContent = video.title;
+        row.children[2].textContent = video.channel_title;
+        row.children[3].textContent = number.format(video.view_count);
+        tbody.append(row);
+      });
+      document.querySelector('#leaderboard').hidden = false;
+    }).catch(error => {
+      document.querySelector('#status').hidden = true;
+      const target = document.querySelector('#error'); target.textContent = error.message; target.hidden = false;
+    });
+  </script>
+</body>
+</html>

@@ -11,7 +11,7 @@ Project setup is in progress. Automation and the GitHub Pages dashboard have not
 At 6:00 a.m. in the `America/New_York` time zone, the project will:
 
 1. Review videos from the approved channel universe that were published in the preceding seven days.
-2. Keep videos that satisfy the project's English-language and AI-topic criteria.
+2. Keep videos whose YouTube language metadata identifies English audio and that satisfy the project's AI-topic criteria.
 3. Rank qualifying videos by the current public YouTube API `viewCount` value, from highest to lowest.
 4. Publish the top ten and a timestamped historical record to GitHub Pages.
 

@@ -1,0 +1,17 @@
+{
+  "universe_version": 1,
+  "channels": [
+    {"name": "AI Explained", "handle": "@aiexplained-official"},
+    {"name": "Matt Wolfe", "handle": "@mreflow"},
+    {"name": "TheAIGRID", "handle": "@TheAiGrid"},
+    {"name": "WorldofAI", "handle": "@intheworldofai"},
+    {"name": "All About AI", "handle": "@AllAboutAI"},
+    {"name": "The AI Advantage", "handle": "@aiadvantage"},
+    {"name": "Aitrepreneur", "handle": "@aitrepreneur"},
+    {"name": "Two Minute Papers", "handle": "@TwoMinutePapers"},
+    {"name": "Google DeepMind", "handle": "@googledeepmind"},
+    {"name": "OpenAI", "handle": "@openai"},
+    {"name": "Anthropic", "handle": "@anthropic-ai"},
+    {"name": "Hugging Face", "handle": "@HuggingFace"}
+  ]
+}
