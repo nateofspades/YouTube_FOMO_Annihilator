@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-09-21T21:40:34.088732Z",
+  "generated_at": "2026-09-21T21:57:40.697119Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -156,7 +156,7 @@
       "channel_title": "Y Combinator",
       "source_type": "Accelerator",
       "published_at": "2026-09-17T17:58:14Z",
-      "view_count": 116766,
+      "view_count": 116907,
       "duration_minutes": 36,
       "url": "https://www.youtube.com/watch?v=yslXlV2BP_Y"
     },
@@ -167,7 +167,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-09-18T13:15:08Z",
-      "view_count": 71396,
+      "view_count": 71556,
       "duration_minutes": 86,
       "url": "https://www.youtube.com/watch?v=bi23y0x-MhA"
     },
@@ -189,7 +189,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-09-16T12:30:31Z",
-      "view_count": 50317,
+      "view_count": 50410,
       "duration_minutes": 17,
       "url": "https://www.youtube.com/watch?v=47jy_FxuuBg"
     },
@@ -211,7 +211,7 @@
       "channel_title": "Sequoia Capital",
       "source_type": "Venture capital",
       "published_at": "2026-09-17T12:00:08Z",
-      "view_count": 30673,
+      "view_count": 30687,
       "duration_minutes": 75,
       "url": "https://www.youtube.com/watch?v=k7wPdCNfljQ"
     },
@@ -233,20 +233,9 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-09-20T12:00:05Z",
-      "view_count": 22107,
+      "view_count": 22216,
       "duration_minutes": 81,
       "url": "https://www.youtube.com/watch?v=QtjLireBMI8"
-    },
-    {
-      "video_id": "97LRJUUPy_w",
-      "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
-      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "channel_title": "Lenny's Podcast",
-      "source_type": "Independent creator",
-      "published_at": "2026-09-20T12:30:03Z",
-      "view_count": 20831,
-      "duration_minutes": 97,
-      "url": "https://www.youtube.com/watch?v=97LRJUUPy_w"
     },
     {
       "video_id": "TAHAlGH_DK0",
@@ -255,9 +244,20 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-09-21T13:30:36Z",
-      "view_count": 20521,
+      "view_count": 21889,
       "duration_minutes": 60,
       "url": "https://www.youtube.com/watch?v=TAHAlGH_DK0"
+    },
+    {
+      "video_id": "97LRJUUPy_w",
+      "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
+      "channel_title": "Lenny's Podcast",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-20T12:30:03Z",
+      "view_count": 20982,
+      "duration_minutes": 97,
+      "url": "https://www.youtube.com/watch?v=97LRJUUPy_w"
     }
   ]
 }
