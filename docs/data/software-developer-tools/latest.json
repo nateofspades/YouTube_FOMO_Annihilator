@@ -1,0 +1,263 @@
+{
+  "slug": "software-developer-tools",
+  "title": "Software and developer tools",
+  "generated_at": "2026-09-21T19:45:09.370423Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "GitHub",
+      "handle": "@GitHub",
+      "source_type": "Official company",
+      "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "recent_video_count": 11
+    },
+    {
+      "name": "Google for Developers",
+      "handle": "@GoogleDevelopers",
+      "source_type": "Official company",
+      "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Microsoft Developer",
+      "handle": "@MicrosoftDeveloper",
+      "source_type": "Official company",
+      "channel_id": "UCsMica-v34Irf9KVTh6xx-g",
+      "recent_video_count": 10
+    },
+    {
+      "name": "AWS Developers",
+      "handle": "@awsdevelopers",
+      "source_type": "Official company",
+      "channel_id": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Google Cloud Tech",
+      "handle": "@googlecloudtech",
+      "source_type": "Official company",
+      "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
+      "recent_video_count": 5
+    },
+    {
+      "name": "Cloudflare",
+      "handle": "UCgv3xMy6kECn0boYP9d2o-g",
+      "source_type": "Official company",
+      "channel_id": "UCgv3xMy6kECn0boYP9d2o-g",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Docker",
+      "handle": "dockerrun",
+      "source_type": "Official company",
+      "channel_id": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "recent_video_count": 1
+    },
+    {
+      "name": "CNCF",
+      "handle": "@cncf",
+      "source_type": "Research institution",
+      "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
+      "recent_video_count": 3
+    },
+    {
+      "name": "GitLab",
+      "handle": "@GitLab",
+      "source_type": "Official company",
+      "channel_id": "UCnMGQ8QHMAnVIsI3xJrihhg",
+      "recent_video_count": 1
+    },
+    {
+      "name": "JetBrains",
+      "handle": "@JetBrainsTV",
+      "source_type": "Official company",
+      "channel_id": "UCGp4UBwpTNegd_4nCpuBcow",
+      "recent_video_count": 4
+    },
+    {
+      "name": "Fireship",
+      "handle": "@Fireship",
+      "source_type": "Independent creator",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "recent_video_count": 3
+    },
+    {
+      "name": "freeCodeCamp.org",
+      "handle": "@freecodecamp",
+      "source_type": "Research institution",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Traversy Media",
+      "handle": "@TraversyMedia",
+      "source_type": "Independent creator",
+      "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Web Dev Simplified",
+      "handle": "@WebDevSimplified",
+      "source_type": "Independent creator",
+      "channel_id": "UCFbNIlppjAuEX4znoulh0Cw",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Theo",
+      "handle": "@t3dotgg",
+      "source_type": "Independent creator",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "recent_video_count": 6
+    },
+    {
+      "name": "ThePrimeagen",
+      "handle": "@ThePrimeagen",
+      "source_type": "Independent creator",
+      "channel_id": "UC8ENHE5xdFSwx71u3fDH5Xw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "TechWorld with Nana",
+      "handle": "@TechWorldwithNana",
+      "source_type": "Independent creator",
+      "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Hussein Nasser",
+      "handle": "@hnasr",
+      "source_type": "Independent creator",
+      "channel_id": "UC_ML5xP23TOWKUcc-oAE_Eg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "ByteByteGo",
+      "handle": "@ByteByteGo",
+      "source_type": "Independent creator",
+      "channel_id": "UCZgt6AzoyjslHTC9dz0UoTw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Laravel",
+      "handle": "@LaravelPHP",
+      "source_type": "Official company",
+      "channel_id": "UCfO2GiQwb-cwJTb1CuRSkwg",
+      "recent_video_count": 1
+    }
+  ],
+  "candidate_count": 56,
+  "results": [
+    {
+      "video_id": "7r4ikZHm9AI",
+      "title": "Anthropic researchers are quitting... and now we know why",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "channel_title": "Fireship",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-15T17:45:39Z",
+      "view_count": 2604464,
+      "duration_minutes": 6,
+      "url": "https://www.youtube.com/watch?v=7r4ikZHm9AI"
+    },
+    {
+      "video_id": "LoLYw--s-5w",
+      "title": "Did Google just kickstart the intelligence explosion?",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "channel_title": "Fireship",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-17T20:33:55Z",
+      "view_count": 1800014,
+      "duration_minutes": 5,
+      "url": "https://www.youtube.com/watch?v=LoLYw--s-5w"
+    },
+    {
+      "video_id": "wY5pQOTsGaA",
+      "title": "How to Deploy, Secure, and Automate Full-Stack Web Apps – Course for Beginners",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "channel_title": "freeCodeCamp.org",
+      "source_type": "Research institution",
+      "published_at": "2026-09-15T12:41:24Z",
+      "view_count": 317490,
+      "duration_minutes": 629,
+      "url": "https://www.youtube.com/watch?v=wY5pQOTsGaA"
+    },
+    {
+      "video_id": "F3YXg7AaKWE",
+      "title": "Jev is incredible",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "channel_title": "Theo - t3․gg",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-21T00:28:21Z",
+      "view_count": 301633,
+      "duration_minutes": 31,
+      "url": "https://www.youtube.com/watch?v=F3YXg7AaKWE"
+    },
+    {
+      "video_id": "BMYvfVk8Ar0",
+      "title": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "channel_title": "freeCodeCamp.org",
+      "source_type": "Research institution",
+      "published_at": "2026-09-17T13:32:11Z",
+      "view_count": 191687,
+      "duration_minutes": 0,
+      "url": "https://www.youtube.com/watch?v=BMYvfVk8Ar0"
+    },
+    {
+      "video_id": "iBrAWpjXNxs",
+      "title": "Please stop using stupid models",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "channel_title": "Theo - t3․gg",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-18T00:58:48Z",
+      "view_count": 174505,
+      "duration_minutes": 27,
+      "url": "https://www.youtube.com/watch?v=iBrAWpjXNxs"
+    },
+    {
+      "video_id": "jojMVmRZABw",
+      "title": "Why Your AI Generates Crap Code - And How to Fix It",
+      "channel_id": "UCFbNIlppjAuEX4znoulh0Cw",
+      "channel_title": "Web Dev Simplified",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-15T20:00:10Z",
+      "view_count": 138662,
+      "duration_minutes": 24,
+      "url": "https://www.youtube.com/watch?v=jojMVmRZABw"
+    },
+    {
+      "video_id": "NvVbCqDgfCs",
+      "title": "How I Code Without Typing",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "channel_title": "Theo - t3․gg",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-16T00:13:12Z",
+      "view_count": 128635,
+      "duration_minutes": 38,
+      "url": "https://www.youtube.com/watch?v=NvVbCqDgfCs"
+    },
+    {
+      "video_id": "TbkUKCm3CHQ",
+      "title": "An ex-OpenAI researcher just deleted language from the LLM...",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "channel_title": "Fireship",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-21T17:52:29Z",
+      "view_count": 115271,
+      "duration_minutes": 5,
+      "url": "https://www.youtube.com/watch?v=TbkUKCm3CHQ"
+    },
+    {
+      "video_id": "C_1QKZAcJjk",
+      "title": "Claude Certified Developer Foundations (CCDV-F) Certification Course",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "channel_title": "freeCodeCamp.org",
+      "source_type": "Research institution",
+      "published_at": "2026-09-21T12:12:42Z",
+      "view_count": 59001,
+      "duration_minutes": 467,
+      "url": "https://www.youtube.com/watch?v=C_1QKZAcJjk"
+    }
+  ]
+}

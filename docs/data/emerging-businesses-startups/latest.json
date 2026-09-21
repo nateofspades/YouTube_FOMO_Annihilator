@@ -1,0 +1,263 @@
+{
+  "slug": "emerging-businesses-startups",
+  "title": "Emerging businesses and startups",
+  "generated_at": "2026-09-21T19:45:09.370423Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "Y Combinator",
+      "handle": "@ycombinator",
+      "source_type": "Accelerator",
+      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "recent_video_count": 1
+    },
+    {
+      "name": "TechCrunch",
+      "handle": "@TechCrunch",
+      "source_type": "Editorial/media",
+      "channel_id": "UCCjyq_K1Xwfg8Lndy7lKMpA",
+      "recent_video_count": 8
+    },
+    {
+      "name": "a16z",
+      "handle": "@a16z",
+      "source_type": "Venture capital",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "recent_video_count": 7
+    },
+    {
+      "name": "Sequoia Capital",
+      "handle": "@sequoiacapital",
+      "source_type": "Venture capital",
+      "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
+      "recent_video_count": 2
+    },
+    {
+      "name": "This Week in Startups",
+      "handle": "@ThisWeekInStartups",
+      "source_type": "Editorial/media",
+      "channel_id": "UC1UbgWkb41KrhF824U6t6uQ",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Lenny’s Podcast",
+      "handle": "@LennysPodcast",
+      "source_type": "Independent creator",
+      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
+      "recent_video_count": 5
+    },
+    {
+      "name": "20VC",
+      "handle": "@20vc",
+      "source_type": "Venture capital",
+      "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
+      "recent_video_count": 13
+    },
+    {
+      "name": "Acquired",
+      "handle": "@AcquiredFM",
+      "source_type": "Independent creator",
+      "channel_id": "UCyFqFYfTW2VoIQKylJ04Rtw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Masters of Scale",
+      "handle": "@mastersofscale_",
+      "source_type": "Editorial/media",
+      "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
+      "recent_video_count": 7
+    },
+    {
+      "name": "My First Million",
+      "handle": "@myfirstmillionpod",
+      "source_type": "Independent creator",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "recent_video_count": 11
+    },
+    {
+      "name": "MicroConf",
+      "handle": "@MicroConf",
+      "source_type": "Founder community",
+      "channel_id": "UCroeMSea_O-xfgDvgbJGVQA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "SaaStr",
+      "handle": "@Saastr",
+      "source_type": "Founder community",
+      "channel_id": "UCwOILzAcxK5CM2M7oRBuWSg",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Slidebean",
+      "handle": "@Slidebean",
+      "source_type": "Official company",
+      "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Bessemer Venture Partners",
+      "handle": "@BessemerVenturePartners",
+      "source_type": "Venture capital",
+      "channel_id": "UCKuHAxZoh99t8uyPQhoDR3A",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Antler Global",
+      "handle": "@Antlerglobal",
+      "source_type": "Venture capital",
+      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
+      "recent_video_count": 9
+    },
+    {
+      "name": "Khosla Ventures",
+      "handle": "@KhoslaVentures1",
+      "source_type": "Venture capital",
+      "channel_id": "UCF92qR15QflJFGO7c_PeT-g",
+      "recent_video_count": 0
+    },
+    {
+      "name": "NFX",
+      "handle": "@nfxinsights",
+      "source_type": "Venture capital",
+      "channel_id": "UC2ZCl6UC4FYlvsUEtK4ZaOg",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Product School",
+      "handle": "UC6hlQ0x6kPbAGjYkoz53cvA",
+      "source_type": "Official company",
+      "channel_id": "UC6hlQ0x6kPbAGjYkoz53cvA",
+      "recent_video_count": 6
+    },
+    {
+      "name": "Startup Grind",
+      "handle": "StartupGrind",
+      "source_type": "Founder community",
+      "channel_id": "UCwB3HiWejAkml1UZ0Qo2bFg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "David Senra / Founders",
+      "handle": "@DavidSenra",
+      "source_type": "Independent creator",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "recent_video_count": 7
+    }
+  ],
+  "candidate_count": 85,
+  "results": [
+    {
+      "video_id": "yslXlV2BP_Y",
+      "title": "The State of Startups in 2026",
+      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "channel_title": "Y Combinator",
+      "source_type": "Accelerator",
+      "published_at": "2026-09-17T17:58:14Z",
+      "view_count": 115604,
+      "duration_minutes": 36,
+      "url": "https://www.youtube.com/watch?v=yslXlV2BP_Y"
+    },
+    {
+      "video_id": "bi23y0x-MhA",
+      "title": "Sam Altman's coach destroys your limiting beliefs for 86 minutes straight",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-18T13:15:08Z",
+      "view_count": 70274,
+      "duration_minutes": 86,
+      "url": "https://www.youtube.com/watch?v=bi23y0x-MhA"
+    },
+    {
+      "video_id": "PwcBgENkJyM",
+      "title": "Your career is one of the most important decisions you’ll ever make. Stop leaving it to chance.",
+      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
+      "channel_title": "Antler Global",
+      "source_type": "Venture capital",
+      "published_at": "2026-09-17T14:11:05Z",
+      "view_count": 53938,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=PwcBgENkJyM"
+    },
+    {
+      "video_id": "47jy_FxuuBg",
+      "title": "8 (stupidly simple) rules to grow on social media",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-16T12:30:31Z",
+      "view_count": 49921,
+      "duration_minutes": 17,
+      "url": "https://www.youtube.com/watch?v=47jy_FxuuBg"
+    },
+    {
+      "video_id": "_tfUQrusRGM",
+      "title": "Instinct Raising $1B at $10B & Meta Launches Muse | Miro Sells for $1.36B After a $17.5B Valuation",
+      "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
+      "channel_title": "20VC with Harry Stebbings",
+      "source_type": "Venture capital",
+      "published_at": "2026-09-17T13:55:57Z",
+      "view_count": 32200,
+      "duration_minutes": 79,
+      "url": "https://www.youtube.com/watch?v=_tfUQrusRGM"
+    },
+    {
+      "video_id": "k7wPdCNfljQ",
+      "title": "Databricks’ Ali Ghodsi Never Wanted to Be CEO. Now He’s Among the Best",
+      "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
+      "channel_title": "Sequoia Capital",
+      "source_type": "Venture capital",
+      "published_at": "2026-09-17T12:00:08Z",
+      "view_count": 30562,
+      "duration_minutes": 75,
+      "url": "https://www.youtube.com/watch?v=k7wPdCNfljQ"
+    },
+    {
+      "video_id": "y4PGjWWNRO0",
+      "title": "The $500K decision that made Tony Hawk millions",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-15T16:00:04Z",
+      "view_count": 30175,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=y4PGjWWNRO0"
+    },
+    {
+      "video_id": "6mbJHAxpR28",
+      "title": "Why this food business is really a content business",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-14T20:07:07Z",
+      "view_count": 22805,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=6mbJHAxpR28"
+    },
+    {
+      "video_id": "QtjLireBMI8",
+      "title": "Building One of the Fastest Growing CPG Companies in History | Peter Rahal of David Protein & RXBAR",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "channel_title": "David Senra",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-20T12:00:05Z",
+      "view_count": 21414,
+      "duration_minutes": 81,
+      "url": "https://www.youtube.com/watch?v=QtjLireBMI8"
+    },
+    {
+      "video_id": "GzEtpAKYRvE",
+      "title": "Databricks CEO: Stop Scaring People About AI",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "Venture capital",
+      "published_at": "2026-09-18T19:25:08Z",
+      "view_count": 20019,
+      "duration_minutes": 67,
+      "url": "https://www.youtube.com/watch?v=GzEtpAKYRvE"
+    }
+  ]
+}

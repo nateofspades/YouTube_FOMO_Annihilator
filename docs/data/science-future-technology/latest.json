@@ -1,0 +1,264 @@
+{
+  "slug": "science-future-technology",
+  "title": "Science and future technology",
+  "generated_at": "2026-09-21T19:45:09.370423Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "Kurzgesagt",
+      "handle": "@kurzgesagt",
+      "source_type": "Independent creator",
+      "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Veritasium",
+      "handle": "@veritasium",
+      "source_type": "Independent creator",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "recent_video_count": 2
+    },
+    {
+      "name": "PBS Space Time",
+      "handle": "@pbsspacetime",
+      "source_type": "Editorial/media",
+      "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
+      "recent_video_count": 0
+    },
+    {
+      "name": "SmarterEveryDay",
+      "handle": "@smartereveryday",
+      "source_type": "Independent creator",
+      "channel_id": "UC6107grRI4m0o2-emgoDnAA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Real Engineering",
+      "handle": "@RealEngineering",
+      "source_type": "Independent creator",
+      "channel_id": "UCR1IuLEqb6UEA_zQ81kwXfg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Practical Engineering",
+      "handle": "@PracticalEngineeringChannel",
+      "source_type": "Independent creator",
+      "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Mark Rober",
+      "handle": "@MarkRober",
+      "source_type": "Independent creator",
+      "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Hacksmith Industries",
+      "handle": "@hacksmith",
+      "source_type": "Official company",
+      "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Boston Dynamics",
+      "handle": "@BostonDynamics",
+      "source_type": "Official company",
+      "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
+      "recent_video_count": 0
+    },
+    {
+      "name": "NASA",
+      "handle": "@NASA",
+      "source_type": "Government",
+      "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "recent_video_count": 3
+    },
+    {
+      "name": "European Space Agency",
+      "handle": "@EuropeanSpaceAgency",
+      "source_type": "Government",
+      "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
+      "recent_video_count": 7
+    },
+    {
+      "name": "Cleo Abram",
+      "handle": "@CleoAbram",
+      "source_type": "Editorial/media",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "recent_video_count": 4
+    },
+    {
+      "name": "Undecided",
+      "handle": "@UndecidedTechnology",
+      "source_type": "Independent creator",
+      "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Everything Electric",
+      "handle": "@fullychargedshow",
+      "source_type": "Editorial/media",
+      "channel_id": "UCzz4CoEgSgWNs9ZAvRMhW2A",
+      "recent_video_count": 5
+    },
+    {
+      "name": "IBM Research",
+      "handle": "ibmresearch",
+      "source_type": "Research institution",
+      "channel_id": null,
+      "recent_video_count": 0,
+      "status": "unavailable"
+    },
+    {
+      "name": "Fermilab",
+      "handle": "@fermilab",
+      "source_type": "Research institution",
+      "channel_id": "UCD5B6VoXv41fJ-IW8Wrhz9A",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Applied Science",
+      "handle": "@AppliedScience",
+      "source_type": "Independent creator",
+      "channel_id": "UCivA7_KLKWo43tFcCkFvydw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Periodic Videos",
+      "handle": "@periodicvideos",
+      "source_type": "Independent creator",
+      "channel_id": "UCtESv1e7ntJaLJYKIO1FoYw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Two Bit da Vinci",
+      "handle": "@TwoBitDaVinci",
+      "source_type": "Independent creator",
+      "channel_id": "UCEgYhf84VjXDz-W7a9-rdCQ",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Branch Education",
+      "handle": "@BranchEducation",
+      "source_type": "Independent creator",
+      "channel_id": "UCdp4_l1vPmpN-gDbUwhaRUQ",
+      "recent_video_count": 1
+    }
+  ],
+  "candidate_count": 32,
+  "results": [
+    {
+      "video_id": "_L1Rim7-IPo",
+      "title": "Last Cheater Standing Wins $10,000!",
+      "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "channel_title": "Mark Rober",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-19T13:00:35Z",
+      "view_count": 8366787,
+      "duration_minutes": 34,
+      "url": "https://www.youtube.com/watch?v=_L1Rim7-IPo"
+    },
+    {
+      "video_id": "Wrps-lZQME8",
+      "title": "New Alien Host Planet Just Dropped",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-09-19T15:33:27Z",
+      "view_count": 3235591,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=Wrps-lZQME8"
+    },
+    {
+      "video_id": "QmRchnYSqBQ",
+      "title": "The Most Controversial Math Problem Today",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-09-15T14:11:49Z",
+      "view_count": 2397763,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=QmRchnYSqBQ"
+    },
+    {
+      "video_id": "91whZ90EQMU",
+      "title": "What happens when we coat a pingpong ball with metal? #tbt #hacksmith #makeitreal",
+      "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
+      "channel_title": "Hacksmith Industries",
+      "source_type": "Official company",
+      "published_at": "2026-09-17T16:00:32Z",
+      "view_count": 2288241,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=91whZ90EQMU"
+    },
+    {
+      "video_id": "NUVkpWAD548",
+      "title": "Chivalry or Engineering?",
+      "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "channel_title": "Mark Rober",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-18T13:00:02Z",
+      "view_count": 1954309,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=NUVkpWAD548"
+    },
+    {
+      "video_id": "n_1wzYQwnts",
+      "title": "Every US Electrical Outlet Explained",
+      "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
+      "channel_title": "Practical Engineering",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-15T13:00:35Z",
+      "view_count": 1177137,
+      "duration_minutes": 22,
+      "url": "https://www.youtube.com/watch?v=n_1wzYQwnts"
+    },
+    {
+      "video_id": "N3EqEocLPJk",
+      "title": "The World’s Largest Air Battery Just Switched On",
+      "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
+      "channel_title": "Undecided with Matt Ferrell",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-15T12:16:55Z",
+      "view_count": 843122,
+      "duration_minutes": 17,
+      "url": "https://www.youtube.com/watch?v=N3EqEocLPJk"
+    },
+    {
+      "video_id": "hPoJWjJ9Ao8",
+      "title": "Heating A Ball Just By Squeezing It",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channel_title": "Veritasium",
+      "source_type": "Independent creator",
+      "published_at": "2026-09-18T13:00:00Z",
+      "view_count": 458520,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=hPoJWjJ9Ao8"
+    },
+    {
+      "video_id": "DviPg66uW9U",
+      "title": "Thunderquakes Let Us Find Secrets Underground",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-09-18T14:39:42Z",
+      "view_count": 455534,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=DviPg66uW9U"
+    },
+    {
+      "video_id": "6Q2usdxSGwE",
+      "title": "How A Zero G Plane Works",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-09-17T14:06:07Z",
+      "view_count": 297613,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=6Q2usdxSGwE"
+    }
+  ]
+}
