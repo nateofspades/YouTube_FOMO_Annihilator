@@ -2,10 +2,10 @@ name: Update and publish leaderboard
 
 on:
   schedule:
-    # 10:00 UTC is 6 a.m. in New York during daylight saving time;
-    # 11:00 UTC is 6 a.m. during standard time. The script skips the other run.
-    - cron: '0 10 * * *'
-    - cron: '0 11 * * *'
+    # 04:00 UTC is midnight in New York during daylight saving time;
+    # 05:00 UTC is midnight during standard time. The script skips the other run.
+    - cron: '0 4 * * *'
+    - cron: '0 5 * * *'
   workflow_dispatch:
 
 permissions:

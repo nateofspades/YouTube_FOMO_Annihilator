@@ -13,7 +13,7 @@ The three additional category source universes and their source types are versio
 
 ## Daily automation
 
-The GitHub Actions workflow runs the AI leaderboard and all three additional categories every day at 6:00 a.m. `America/New_York`. GitHub Actions schedules are best effort: the workflow schedules both 10:00 and 11:00 UTC to cover daylight saving time, and the program accepts only the target New York local hour. `workflow_dispatch` runs all four leaderboards immediately.
+The GitHub Actions workflow runs the AI leaderboard and all three additional categories every day at midnight `America/New_York`. GitHub Actions schedules are best effort: the workflow schedules both 04:00 and 05:00 UTC to cover daylight saving time, and the program accepts only the target New York local hour. `workflow_dispatch` runs all four leaderboards immediately.
 
 Each update:
 
@@ -22,7 +22,7 @@ Each update:
 3. Ranks qualifying videos by current public YouTube API `viewCount`.
 4. Publishes date-stamped JSON to GitHub Pages. The site’s Date filter defaults to the newest published date and can show earlier dates on the same page.
 
-Results show each video’s source type and video length rounded to the nearest minute.
+Results show each video’s channel and length rounded to the nearest minute.
 
 ## Data source
 

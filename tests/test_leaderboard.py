@@ -101,7 +101,20 @@ class LeaderboardTests(unittest.TestCase):
         self.assertNotIn("Leaderboard category", content)
         self.assertNotIn("biotech-health-longevity", content)
         self.assertNotIn("archive.html", content)
-        self.assertIn(".source-type{margin-top:7px}", content)
+        self.assertIn(
+            "Top 10 YouTube videos from curated channels in the selected category and date, ranked by public view counts over the previous 7 days.",
+            content,
+        )
+        self.assertIn("<th>Rank</th><th>YouTube Video</th><th>Channel</th><th>Length</th>", content)
+        self.assertIn("white-space:nowrap", content)
+        self.assertIn("text-overflow:ellipsis", content)
+        self.assertIn('class="video"', content)
+        self.assertIn('class="channel"', content)
+        self.assertNotIn("Top English-language videos", content)
+        self.assertNotIn("Channel / source", content)
+        self.assertNotIn("source-type", content)
+        self.assertNotIn("candidates reviewed", content)
+        self.assertNotIn("updated ${new Date(data.generated_at).toLocaleString()}", content)
         for slug in slugs:
             self.assertIn(f'value="{slug}"', content)
             self.assertIn(f"data/{slug}", content)
@@ -129,10 +142,10 @@ class LeaderboardTests(unittest.TestCase):
             datetime(2026, 9, 21, 6, 0, tzinfo=timezone.utc),
         )
 
-    def test_should_run_now_accepts_only_the_six_am_new_york_hour(self):
-        self.assertTrue(should_run_now(datetime(2026, 7, 1, 10, 5, tzinfo=timezone.utc)))
-        self.assertTrue(should_run_now(datetime(2026, 1, 1, 11, 5, tzinfo=timezone.utc)))
-        self.assertFalse(should_run_now(datetime(2026, 7, 1, 11, 5, tzinfo=timezone.utc)))
+    def test_should_run_now_accepts_only_the_midnight_new_york_hour(self):
+        self.assertTrue(should_run_now(datetime(2026, 7, 1, 4, 5, tzinfo=timezone.utc)))
+        self.assertTrue(should_run_now(datetime(2026, 1, 1, 5, 5, tzinfo=timezone.utc)))
+        self.assertFalse(should_run_now(datetime(2026, 7, 1, 5, 5, tzinfo=timezone.utc)))
 
     def test_merge_archive_index_puts_newest_date_first_without_duplicates(self):
         existing = [{"date": "2026-09-20", "result_count": 10}]

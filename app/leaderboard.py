@@ -45,8 +45,8 @@ def parse_duration_minutes(value: str) -> int:
 
 
 def should_run_now(now: datetime) -> bool:
-    """Return whether a UTC time falls within the target 6 a.m. NY hour."""
-    return now.astimezone(NEW_YORK).hour == 6
+    """Return whether a UTC time falls within the target midnight NY hour."""
+    return now.astimezone(NEW_YORK).hour == 0
 
 
 def _is_english(video: dict) -> bool:
