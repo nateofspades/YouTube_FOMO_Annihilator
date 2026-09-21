@@ -108,7 +108,12 @@ def collect_leaderboard(api_key: str, now: datetime, *, slug: str, title: str, t
     source_types: dict[str, str] = {}
 
     for source in channels:
-        resolved = resolve_channel(source["handle"], api_key)
+        try:
+            resolved = resolve_channel(source["handle"], api_key)
+        except RuntimeError as exc:
+            print(f"Skipping unavailable source {source['name']}: {exc}")
+            sources.append({**source, "channel_id": None, "recent_video_count": 0, "status": "unavailable"})
+            continue
         ids = recent_video_ids(resolved["uploads_playlist"], cutoff, api_key)
         source_types[resolved["id"]] = source["source_type"]
         sources.append({**source, "channel_id": resolved["id"], "recent_video_count": len(ids)})
