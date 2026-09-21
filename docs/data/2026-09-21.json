@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T17:48:22.219723Z",
+  "generated_at": "2026-09-21T18:39:56.766318Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -38,7 +38,7 @@
       "name": "The AI Advantage",
       "handle": "@aiadvantage",
       "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Aitrepreneur",
@@ -77,7 +77,7 @@
       "recent_video_count": 4
     }
   ],
-  "candidate_count": 46,
+  "candidate_count": 45,
   "results": [
     {
       "video_id": "vIHw_2VjSUw",
@@ -85,7 +85,7 @@
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
       "channel_title": "Two Minute Papers",
       "published_at": "2026-09-18T07:03:46Z",
-      "view_count": 293844,
+      "view_count": 294495,
       "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw"
     },
     {
@@ -94,7 +94,7 @@
       "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
       "channel_title": "AI Explained",
       "published_at": "2026-09-16T20:51:40Z",
-      "view_count": 195506,
+      "view_count": 195804,
       "url": "https://www.youtube.com/watch?v=J3ljHm57yU0"
     },
     {
@@ -103,7 +103,7 @@
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
       "channel_title": "OpenAI",
       "published_at": "2026-09-16T22:29:43Z",
-      "view_count": 156123,
+      "view_count": 156412,
       "url": "https://www.youtube.com/watch?v=P-8sCH6syag"
     },
     {
@@ -112,7 +112,7 @@
       "channel_id": "UChpleBmo18P08aKCIgti38g",
       "channel_title": "Matt Wolfe",
       "published_at": "2026-09-16T20:57:15Z",
-      "view_count": 152643,
+      "view_count": 153015,
       "url": "https://www.youtube.com/watch?v=S2VJU5DQqlU"
     },
     {
@@ -121,7 +121,7 @@
       "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
       "channel_title": "WorldofAI",
       "published_at": "2026-09-19T06:15:19Z",
-      "view_count": 148967,
+      "view_count": 149366,
       "url": "https://www.youtube.com/watch?v=hUZNPCSZDaQ"
     },
     {
@@ -130,7 +130,7 @@
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
       "channel_title": "OpenAI",
       "published_at": "2026-09-17T19:12:10Z",
-      "view_count": 127137,
+      "view_count": 127339,
       "url": "https://www.youtube.com/watch?v=lxVMdEpe0RQ"
     },
     {
@@ -139,7 +139,7 @@
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
       "channel_title": "OpenAI",
       "published_at": "2026-09-17T20:41:08Z",
-      "view_count": 117736,
+      "view_count": 117849,
       "url": "https://www.youtube.com/watch?v=YeeGHCixr7o"
     },
     {
@@ -148,7 +148,7 @@
       "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
       "channel_title": "TheAIGRID",
       "published_at": "2026-09-18T05:52:57Z",
-      "view_count": 102654,
+      "view_count": 103252,
       "url": "https://www.youtube.com/watch?v=LYveAOjtqqM"
     },
     {
@@ -157,7 +157,7 @@
       "channel_id": "UChpleBmo18P08aKCIgti38g",
       "channel_title": "Matt Wolfe",
       "published_at": "2026-09-18T15:12:55Z",
-      "view_count": 101651,
+      "view_count": 102029,
       "url": "https://www.youtube.com/watch?v=Kof2VcHTjrk"
     },
     {
@@ -166,7 +166,7 @@
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
       "channel_title": "Two Minute Papers",
       "published_at": "2026-09-15T10:12:34Z",
-      "view_count": 98895,
+      "view_count": 98987,
       "url": "https://www.youtube.com/watch?v=YoEWjZSwoys"
     }
   ]
