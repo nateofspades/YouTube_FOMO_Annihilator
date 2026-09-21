@@ -23,12 +23,12 @@ The newest published date is selected by default. The calendar makes unavailable
 
 ## Ranking method
 
-For each category, the automation:
+Each daily update does the following for every category:
 
-1. Reviews videos from the maintained curated channel universe that were published in the preceding seven days.
-2. Keeps videos with English audio-language metadata and a category-topic match in their title, description, or tags.
-3. Sorts qualifying videos by current public YouTube Data API v3 `viewCount`.
-4. Publishes the top 10 as date-stamped JSON for the site’s Category and Date filters.
+1. Looks at videos published in the last seven days by that category’s curated channels.
+2. Includes videos only when YouTube identifies their audio language as English and their title, description, or tags match the category topic.
+3. Ranks the eligible videos by their current public YouTube view count.
+4. Saves the 10 highest-ranked videos for that date so they can be selected with the site’s Category and Date filters.
 
 This project ranks qualifying videos from its curated channels; it does not claim to rank every relevant video on YouTube.
 
