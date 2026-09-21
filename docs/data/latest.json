@@ -1,0 +1,173 @@
+{
+  "generated_at": "2026-09-21T17:48:22.219723Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "AI Explained",
+      "handle": "@aiexplained-official",
+      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Matt Wolfe",
+      "handle": "@mreflow",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "recent_video_count": 5
+    },
+    {
+      "name": "TheAIGRID",
+      "handle": "@TheAiGrid",
+      "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
+      "recent_video_count": 3
+    },
+    {
+      "name": "WorldofAI",
+      "handle": "@intheworldofai",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "recent_video_count": 4
+    },
+    {
+      "name": "All About AI",
+      "handle": "@AllAboutAI",
+      "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
+      "recent_video_count": 3
+    },
+    {
+      "name": "The AI Advantage",
+      "handle": "@aiadvantage",
+      "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ",
+      "recent_video_count": 4
+    },
+    {
+      "name": "Aitrepreneur",
+      "handle": "@aitrepreneur",
+      "channel_id": "UCEAbqW0HFB_UxZoUDO0kJBw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Two Minute Papers",
+      "handle": "@TwoMinutePapers",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Google DeepMind",
+      "handle": "@googledeepmind",
+      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "recent_video_count": 0
+    },
+    {
+      "name": "OpenAI",
+      "handle": "@openai",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "recent_video_count": 20
+    },
+    {
+      "name": "Anthropic",
+      "handle": "@anthropic-ai",
+      "channel_id": "UCrDwWp7EBBv4NwvScIpBDOA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Hugging Face",
+      "handle": "@HuggingFace",
+      "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
+      "recent_video_count": 4
+    }
+  ],
+  "candidate_count": 46,
+  "results": [
+    {
+      "video_id": "vIHw_2VjSUw",
+      "title": "DeepSeek’s Insane New Architecture",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-09-18T07:03:46Z",
+      "view_count": 293844,
+      "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw"
+    },
+    {
+      "video_id": "J3ljHm57yU0",
+      "title": "What AI Researchers Saw, Before Their Demand to ‘Pace’ AI",
+      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "channel_title": "AI Explained",
+      "published_at": "2026-09-16T20:51:40Z",
+      "view_count": 195506,
+      "url": "https://www.youtube.com/watch?v=J3ljHm57yU0"
+    },
+    {
+      "video_id": "P-8sCH6syag",
+      "title": "How to Ask ChatGPT Better Questions | OpenAI Academy",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-16T22:29:43Z",
+      "view_count": 156123,
+      "url": "https://www.youtube.com/watch?v=P-8sCH6syag"
+    },
+    {
+      "video_id": "S2VJU5DQqlU",
+      "title": "He Built The Ultimate Spy Tool (Free and Open-Source)",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-16T20:57:15Z",
+      "view_count": 152643,
+      "url": "https://www.youtube.com/watch?v=S2VJU5DQqlU"
+    },
+    {
+      "video_id": "hUZNPCSZDaQ",
+      "title": "HUGE Fable 5.2, Opus 5.2, Sonnet 5.2 LEAKS! Gemini World, Google AI HACKS Companies & More! AI NEWS",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "channel_title": "WorldofAI",
+      "published_at": "2026-09-19T06:15:19Z",
+      "view_count": 148967,
+      "url": "https://www.youtube.com/watch?v=hUZNPCSZDaQ"
+    },
+    {
+      "video_id": "lxVMdEpe0RQ",
+      "title": "ChatGPT for Word is now available",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-17T19:12:10Z",
+      "view_count": 127137,
+      "url": "https://www.youtube.com/watch?v=lxVMdEpe0RQ"
+    },
+    {
+      "video_id": "YeeGHCixr7o",
+      "title": "Astra for Law: Frontier intelligence built for your practice.",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "channel_title": "OpenAI",
+      "published_at": "2026-09-17T20:41:08Z",
+      "view_count": 117736,
+      "url": "https://www.youtube.com/watch?v=YeeGHCixr7o"
+    },
+    {
+      "video_id": "LYveAOjtqqM",
+      "title": "This New AI Could Be the Biggest Breakthrough Since ChatGPT - Jev",
+      "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
+      "channel_title": "TheAIGRID",
+      "published_at": "2026-09-18T05:52:57Z",
+      "view_count": 102654,
+      "url": "https://www.youtube.com/watch?v=LYveAOjtqqM"
+    },
+    {
+      "video_id": "Kof2VcHTjrk",
+      "title": "AI News: The AI Slowdown: What You Need to Know",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "channel_title": "Matt Wolfe",
+      "published_at": "2026-09-18T15:12:55Z",
+      "view_count": 101651,
+      "url": "https://www.youtube.com/watch?v=Kof2VcHTjrk"
+    },
+    {
+      "video_id": "YoEWjZSwoys",
+      "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "channel_title": "Two Minute Papers",
+      "published_at": "2026-09-15T10:12:34Z",
+      "view_count": 98895,
+      "url": "https://www.youtube.com/watch?v=YoEWjZSwoys"
+    }
+  ]
+}
