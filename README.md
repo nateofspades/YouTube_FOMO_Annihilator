@@ -4,7 +4,9 @@
 
 https://nateofspades.github.io/YouTube_FOMO_Annihilator
 
-An independent, automated daily leaderboard of the top-10 YouTube videos from selected YouTube channels for the following categories:
+## What the above page offers
+
+An independent, automated daily leaderboard of the top-10 YouTube videos from selected YouTube channels for each of the following categories:
 
 - Artificial intelligence
 - Emerging businesses & startups
@@ -24,18 +26,18 @@ The newest published date is selected by default. The earliest date for which re
 - YouTube Video
 - YouTube Channel
 - Length
-- Viewst
+- Views
 
 ## Ranking method
 
 For each category, the automation:
 
-1. Reviews videos from the maintained curated channel universe that were published in the preceding seven days.
+1. Reviews videos from the selected YouTube channels that were published in the preceding 7 days.
 2. Keeps videos with English audio-language metadata and a category-topic match in their title, description, or tags.
 3. Sorts qualifying videos by current public YouTube Data API v3 `viewCount`.
-4. Publishes the top 10 as date-stamped JSON for the site’s Category and Date filters.
+4. Publishes the top-10 as date-stamped JSON for the site’s Category and Date filters.
 
-This project ranks qualifying videos from its curated channels; it does not claim to rank every relevant video on YouTube.
+This project ranks qualifying videos from the selected YouTube channels; it does not claim to rank every relevant video on YouTube.
 
 ## Categories and sources
 
@@ -44,7 +46,7 @@ This project ranks qualifying videos from its curated channels; it does not clai
 - Science & future technology
 - Software & developer tools
 
-The list of channels used for the Artificial intelligence category is in `config/channels.json`. The lists for the other three categories are in `config/categories.json`; that file also records what kind of source each channel is (for example, a company, creator, or accelerator).
+The list of channels used for the Artificial intelligence category is in config/channels.json. The lists for the other three categories are in config/categories.json.
 
 ## Daily automation and publishing
 
