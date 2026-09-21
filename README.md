@@ -1,51 +1,36 @@
 # YouTube FOMO Annihilator
 
-An independent, automated leaderboard for recently published English-language AI videos. Each daily update is intended to identify the ten qualifying videos with the highest public YouTube `viewCount` among a curated set of AI-focused channels.
+An independent automated set of daily top-10 leaderboards for recently published English-language videos from curated YouTube channel universes. Each leaderboard ranks qualifying videos by current public YouTube `viewCount` within its category; it does not claim to rank every relevant video on YouTube.
 
-## Status
+## Categories
 
-Project setup is in progress. Automation and the GitHub Pages dashboard have not yet been deployed.
+- [Artificial intelligence](https://nateofspades.github.io/YouTube_FOMO_Annihilator/)
+- Emerging businesses and startups
+- Biotech, health technology, and longevity
+- Science and future technology
+- Software and developer tools
 
-## Planned ranking rules
+The four additional category source universes and their source types are versioned in `config/categories.json`. The existing AI universe remains in `config/channels.json`.
 
-At 6:00 a.m. in the `America/New_York` time zone, the project will:
+## Daily automation
 
-1. Review videos from the approved channel universe that were published in the preceding seven days.
-2. Keep videos whose YouTube language metadata identifies English audio and that satisfy the project's AI-topic criteria.
-3. Rank qualifying videos by the current public YouTube API `viewCount` value, from highest to lowest.
-4. Publish the top ten and a timestamped historical record to GitHub Pages.
+The GitHub Actions workflow runs the AI leaderboard and all four categories every day at 6:00 a.m. `America/New_York`. GitHub Actions schedules are best effort: the workflow schedules both 10:00 and 11:00 UTC to cover daylight saving time, and the program accepts only the target New York local hour. `workflow_dispatch` runs all five leaderboards immediately.
 
-The resulting leaderboard will be described accurately as the top ten qualifying videos from the curated channel universe; it does not claim to rank every AI video on YouTube.
+Each update:
 
-## Initial channel universe
+1. Reviews videos from the maintained curated source universe published in the preceding seven days.
+2. Keeps videos with English audio language metadata and a category-topic match in title, description, or tags.
+3. Ranks qualifying videos by current public YouTube API `viewCount`.
+4. Publishes current and date-stamped archive JSON to GitHub Pages.
 
-| # | Channel |
-| --- | --- |
-| 1 | [AI Explained](https://www.youtube.com/@aiexplained-official) |
-| 2 | [Matt Wolfe](https://www.youtube.com/@mreflow) |
-| 3 | [TheAIGRID](https://www.youtube.com/@TheAiGrid) |
-| 4 | [WorldofAI](https://www.youtube.com/@intheworldofai) |
-| 5 | [All About AI](https://www.youtube.com/@AllAboutAI) |
-| 6 | [The AI Advantage](https://www.youtube.com/@aiadvantage) |
-| 7 | [Aitrepreneur](https://www.youtube.com/@aitrepreneur) |
-| 8 | [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers) |
-| 9 | [Google DeepMind](https://www.youtube.com/@googledeepmind) |
-| 10 | [OpenAI](https://www.youtube.com/@openai) |
-| 11 | [Anthropic](https://www.youtube.com/@anthropic-ai) |
-| 12 | [Hugging Face](https://www.youtube.com/@HuggingFace) |
-
-This list is a versioned editorial input to the project and may be reviewed or updated as the project evolves.
+Current and archive results show each video’s source type and video length rounded to the nearest minute.
 
 ## Data source
 
-The planned automation will use the YouTube Data API v3. An API key will be stored only as a GitHub Actions repository secret and will never be committed to this repository.
+Automation uses the YouTube Data API v3. `YOUTUBE_API_KEY` is a GitHub Actions repository secret and is never committed. The API key should be restricted to YouTube Data API v3 rather than GitHub-hosted runner IP addresses.
 
 ## Independence and trademark notice
 
 This is an independent, unofficial project. It is not affiliated with, sponsored by, endorsed by, or approved by YouTube, Google LLC, or any channel listed above. The project does not represent YouTube, Google, or any of their products or services.
 
 “YouTube” is used only to identify the third-party platform and API used by the project. YouTube is a trademark of Google LLC. All video titles, thumbnails, channel names, and other third-party content remain the property of their respective owners.
-
-## License
-
-A license will be selected before the first production release.

@@ -4,13 +4,15 @@ from datetime import datetime, timezone
 from app.leaderboard import (
     filter_and_rank_videos,
     merge_archive_index,
+    parse_duration_minutes,
     parse_published_at,
     should_run_now,
 )
+from scripts.update_leaderboard import load_categories
 
 
 class LeaderboardTests(unittest.TestCase):
-    def test_filter_and_rank_keeps_recent_english_ai_videos_sorted_by_view_count(self):
+    def test_filter_and_rank_keeps_recent_english_videos_sorted_by_view_count(self):
         now = datetime(2026, 9, 21, 10, 0, tzinfo=timezone.utc)
         videos = [
             {
@@ -20,8 +22,11 @@ class LeaderboardTests(unittest.TestCase):
                     "description": "A practical LLM tutorial.",
                     "publishedAt": "2026-09-18T10:00:00Z",
                     "defaultAudioLanguage": "en",
+                    "channelId": "channel-a",
+                    "channelTitle": "Channel A",
                 },
                 "statistics": {"viewCount": "100"},
+                "contentDetails": {"duration": "PT4M31S"},
             },
             {
                 "id": "higher-count",
@@ -30,8 +35,11 @@ class LeaderboardTests(unittest.TestCase):
                     "description": "AI news and analysis.",
                     "publishedAt": "2026-09-19T10:00:00Z",
                     "defaultAudioLanguage": "en-US",
+                    "channelId": "channel-b",
+                    "channelTitle": "Channel B",
                 },
                 "statistics": {"viewCount": "300"},
+                "contentDetails": {"duration": "PT1H2M29S"},
             },
             {
                 "id": "old-video",
@@ -53,22 +61,43 @@ class LeaderboardTests(unittest.TestCase):
                 },
                 "statistics": {"viewCount": "9999"},
             },
-            {
-                "id": "not-ai",
-                "snippet": {
-                    "title": "Weekly office update",
-                    "description": "Company announcements.",
-                    "publishedAt": "2026-09-20T10:00:00Z",
-                    "defaultAudioLanguage": "en",
-                },
-                "statistics": {"viewCount": "9999"},
-            },
         ]
 
-        ranked = filter_and_rank_videos(videos, now=now, days=7, limit=10)
+        ranked = filter_and_rank_videos(
+            videos,
+            now=now,
+            days=7,
+            limit=10,
+            terms=("ai", "openai", "llm"),
+            source_types={"channel-a": "Independent creator", "channel-b": "Official company"},
+        )
 
         self.assertEqual([item["video_id"] for item in ranked], ["higher-count", "lower-count"])
         self.assertEqual([item["view_count"] for item in ranked], [300, 100])
+        self.assertEqual([item["duration_minutes"] for item in ranked], [62, 5])
+        self.assertEqual([item["source_type"] for item in ranked], ["Official company", "Independent creator"])
+
+    def test_parse_duration_minutes_rounds_to_nearest_minute(self):
+        self.assertEqual(parse_duration_minutes("PT59S"), 1)
+        self.assertEqual(parse_duration_minutes("PT1M29S"), 1)
+        self.assertEqual(parse_duration_minutes("PT1M30S"), 2)
+        self.assertEqual(parse_duration_minutes("PT2H"), 120)
+        self.assertEqual(parse_duration_minutes("P1D"), 0)
+
+    def test_load_categories_keeps_the_approved_source_types_and_channels(self):
+        categories = load_categories()
+
+        self.assertEqual(
+            [category["slug"] for category in categories],
+            [
+                "emerging-businesses-startups",
+                "biotech-health-longevity",
+                "science-future-technology",
+                "software-developer-tools",
+            ],
+        )
+        self.assertTrue(all(len(category["channels"]) == 20 for category in categories))
+        self.assertEqual(categories[0]["channels"][0], {"name": "Y Combinator", "handle": "@ycombinator", "source_type": "Accelerator"})
 
     def test_parse_published_at_returns_utc_datetime(self):
         self.assertEqual(
@@ -80,6 +109,7 @@ class LeaderboardTests(unittest.TestCase):
         self.assertTrue(should_run_now(datetime(2026, 7, 1, 10, 5, tzinfo=timezone.utc)))
         self.assertTrue(should_run_now(datetime(2026, 1, 1, 11, 5, tzinfo=timezone.utc)))
         self.assertFalse(should_run_now(datetime(2026, 7, 1, 11, 5, tzinfo=timezone.utc)))
+
     def test_merge_archive_index_puts_newest_date_first_without_duplicates(self):
         existing = [{"date": "2026-09-20", "result_count": 10}]
         updated = merge_archive_index(existing, "2026-09-21", 8)
