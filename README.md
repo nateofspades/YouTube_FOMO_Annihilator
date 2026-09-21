@@ -1,35 +1,81 @@
 # YouTube FOMO Annihilator
 
-An independent automated set of daily top-10 leaderboards for recently published English-language videos from curated YouTube channel universes. Each leaderboard ranks qualifying videos by current public YouTube `viewCount` within its category; it does not claim to rank every relevant video on YouTube.
+## Live leaderboard
 
-## Categories
+https://nateofspades.github.io/YouTube_FOMO_Annihilator
 
-- [Artificial intelligence](https://nateofspades.github.io/YouTube_FOMO_Annihilator/)
-- Emerging businesses and startups
-- Science and future technology
-- Software and developer tools
+An independent, automated daily leaderboard of the top 10 YouTube videos from curated channels. Results are available for Artificial intelligence, Emerging businesses & startups, Science & future technology, and Software & developer tools.
 
-The three additional category source universes and their source types are versioned in `config/categories.json`. The existing AI universe remains in `config/channels.json`.
+## Using the site
 
-## Daily automation
+The live site has one leaderboard page with two filters:
 
-The GitHub Actions workflow runs the AI leaderboard and all three additional categories every day at midnight `America/New_York`. GitHub Actions schedules are best effort: the workflow schedules both 04:00 and 05:00 UTC to cover daylight saving time, and the program accepts only the target New York local hour. `workflow_dispatch` runs all four leaderboards immediately.
+- Category — choose one of the four curated channel categories.
+- Date — open the calendar icon or date field to choose a published leaderboard date.
 
-Each update:
+The newest published date is selected by default. The calendar makes unavailable dates non-selectable: dates before the first publication are crossed out, and dates after the current date are greyed out. Every result row remains on one line without horizontal scrolling or truncated text. The table includes:
 
-1. Reviews videos from the maintained curated source universe published in the preceding seven days.
-2. Keeps videos with English audio language metadata and a category-topic match in title, description, or tags.
-3. Ranks qualifying videos by current public YouTube API `viewCount`.
-4. Publishes date-stamped JSON to GitHub Pages. The site’s Date filter defaults to the newest published date and can show earlier dates on the same page.
+- Rank
+- YouTube Video — linked to the video on YouTube
+- Channel
+- Length — rounded to the nearest minute
+- Views — current public YouTube view count
 
-Results show each video’s channel and length rounded to the nearest minute.
+## Ranking method
 
-## Data source
+For each category, the automation:
 
-Automation uses the YouTube Data API v3. `YOUTUBE_API_KEY` is a GitHub Actions repository secret and is never committed. The API key should be restricted to YouTube Data API v3 rather than GitHub-hosted runner IP addresses.
+1. Reviews videos from the maintained curated channel universe that were published in the preceding seven days.
+2. Keeps videos with English audio-language metadata and a category-topic match in their title, description, or tags.
+3. Sorts qualifying videos by current public YouTube Data API v3 `viewCount`.
+4. Publishes the top 10 as date-stamped JSON for the site’s Category and Date filters.
+
+This project ranks qualifying videos from its curated channels; it does not claim to rank every relevant video on YouTube.
+
+## Categories and sources
+
+- Artificial intelligence
+- Emerging businesses & startups
+- Science & future technology
+- Software & developer tools
+
+The Artificial intelligence source universe is maintained in `config/channels.json`. The other category universes, along with their source types, are maintained in `config/categories.json`.
+
+## Daily automation and publishing
+
+GitHub Actions runs daily at midnight in `America/New_York`. To handle daylight-saving time, the workflow is scheduled at both 04:00 and 05:00 UTC; the application only proceeds during the matching New York midnight hour. A manual `workflow_dispatch` run forces an immediate refresh of all four categories.
+
+Every successful run:
+
+1. Runs the unit tests.
+2. Collects and ranks videos.
+3. Commits updated data under `docs/data/` when it changed.
+4. Deploys the site to GitHub Pages.
+
+The workflow definition is `.github/workflows/update-leaderboard.yml`.
+
+## Local development
+
+Run the test suite:
+
+```sh
+python3 -m unittest discover -s tests -v
+```
+
+Serve the published site locally:
+
+```sh
+python3 -m http.server 8765 --directory docs
+```
+
+Then open `http://127.0.0.1:8765/`.
+
+## Data source and API key security
+
+Automation uses the YouTube Data API v3. The `YOUTUBE_API_KEY` GitHub Actions repository secret is not committed to the repository. Restrict the key to the YouTube Data API v3; it should not rely on GitHub-hosted runner IP-address restrictions.
 
 ## Independence and trademark notice
 
-This is an independent, unofficial project. It is not affiliated with, sponsored by, endorsed by, or approved by YouTube, Google LLC, or any channel listed above. The project does not represent YouTube, Google, or any of their products or services.
+This is an independent, unofficial project. It is not affiliated with, sponsored by, endorsed by, or approved by YouTube, Google LLC, or any listed channel. The project does not represent YouTube, Google, or any of their products or services.
 
-“YouTube” is used only to identify the third-party platform and API used by the project. YouTube is a trademark of Google LLC. All video titles, thumbnails, channel names, and other third-party content remain the property of their respective owners.
+“YouTube” is used only to identify the third-party platform and API used by the project. YouTube is a trademark of Google LLC. Video titles, thumbnails, channel names, and other third-party content remain the property of their respective owners.
