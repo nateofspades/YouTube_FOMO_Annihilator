@@ -17,7 +17,12 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
-from app.leaderboard import filter_and_rank_videos, parse_published_at, should_run_now
+from app.leaderboard import (
+    filter_and_rank_videos,
+    merge_archive_index,
+    parse_published_at,
+    should_run_now,
+)
 
 API_BASE = "https://www.googleapis.com/youtube/v3"
 
@@ -118,7 +123,13 @@ def write_results(payload: dict) -> None:
     local_date = datetime.fromisoformat(payload["generated_at"].replace("Z", "+00:00")).astimezone(
         ZoneInfo("America/New_York")
     ).date().isoformat()
-    (data_dir / f"{local_date}.json").write_text(rendered)
+    dated_path = data_dir / f"{local_date}.json"
+    dated_path.write_text(rendered)
+    index_path = data_dir / "archive.json"
+    existing = json.loads(index_path.read_text()) if index_path.exists() else []
+    index_path.write_text(
+        json.dumps(merge_archive_index(existing, local_date, len(payload["results"])), indent=2) + "\n"
+    )
 
 
 def main() -> int:

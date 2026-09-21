@@ -3,6 +3,7 @@ from datetime import datetime, timezone
 
 from app.leaderboard import (
     filter_and_rank_videos,
+    merge_archive_index,
     parse_published_at,
     should_run_now,
 )
@@ -79,6 +80,17 @@ class LeaderboardTests(unittest.TestCase):
         self.assertTrue(should_run_now(datetime(2026, 7, 1, 10, 5, tzinfo=timezone.utc)))
         self.assertTrue(should_run_now(datetime(2026, 1, 1, 11, 5, tzinfo=timezone.utc)))
         self.assertFalse(should_run_now(datetime(2026, 7, 1, 11, 5, tzinfo=timezone.utc)))
+    def test_merge_archive_index_puts_newest_date_first_without_duplicates(self):
+        existing = [{"date": "2026-09-20", "result_count": 10}]
+        updated = merge_archive_index(existing, "2026-09-21", 8)
+
+        self.assertEqual(
+            updated,
+            [
+                {"date": "2026-09-21", "result_count": 8},
+                {"date": "2026-09-20", "result_count": 10},
+            ],
+        )
 
 
 if __name__ == "__main__":

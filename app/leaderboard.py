@@ -63,6 +63,13 @@ def _is_recent(video: dict, now: datetime, days: int) -> bool:
     return now - timedelta(days=days) <= published_at <= now
 
 
+def merge_archive_index(existing: list[dict], date: str, result_count: int) -> list[dict]:
+    """Upsert a daily archive entry and return newest-first records."""
+    retained = [entry for entry in existing if entry.get("date") != date]
+    retained.append({"date": date, "result_count": result_count})
+    return sorted(retained, key=lambda entry: entry["date"], reverse=True)
+
+
 def filter_and_rank_videos(
     videos: list[dict], *, now: datetime, days: int, limit: int
 ) -> list[dict]:
