@@ -44,7 +44,7 @@ This project ranks qualifying videos from its curated channels; it does not clai
 - Science & future technology
 - Software & developer tools
 
-The Artificial intelligence source universe is maintained in `config/channels.json`. The other category universes, along with their source types, are maintained in `config/categories.json`.
+The list of channels used for the Artificial intelligence category is in `config/channels.json`. The lists for the other three categories are in `config/categories.json`; that file also records what kind of source each channel is (for example, a company, creator, or accelerator).
 
 ## Daily automation and publishing
 
