@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-09-21T20:36:30.203686Z",
+  "generated_at": "2026-09-21T20:55:57.406621Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -156,7 +156,7 @@
       "channel_title": "Y Combinator",
       "source_type": "Accelerator",
       "published_at": "2026-09-17T17:58:14Z",
-      "view_count": 116100,
+      "view_count": 116296,
       "duration_minutes": 36,
       "url": "https://www.youtube.com/watch?v=yslXlV2BP_Y"
     },
@@ -167,7 +167,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-09-18T13:15:08Z",
-      "view_count": 70740,
+      "view_count": 70920,
       "duration_minutes": 86,
       "url": "https://www.youtube.com/watch?v=bi23y0x-MhA"
     },
@@ -178,7 +178,7 @@
       "channel_title": "Antler Global",
       "source_type": "Venture capital",
       "published_at": "2026-09-17T14:11:05Z",
-      "view_count": 53955,
+      "view_count": 53956,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=PwcBgENkJyM"
     },
@@ -189,7 +189,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-09-16T12:30:31Z",
-      "view_count": 50058,
+      "view_count": 50118,
       "duration_minutes": 17,
       "url": "https://www.youtube.com/watch?v=47jy_FxuuBg"
     },
@@ -200,7 +200,7 @@
       "channel_title": "20VC with Harry Stebbings",
       "source_type": "Venture capital",
       "published_at": "2026-09-17T13:55:57Z",
-      "view_count": 32243,
+      "view_count": 32265,
       "duration_minutes": 79,
       "url": "https://www.youtube.com/watch?v=_tfUQrusRGM"
     },
@@ -211,7 +211,7 @@
       "channel_title": "Sequoia Capital",
       "source_type": "Venture capital",
       "published_at": "2026-09-17T12:00:08Z",
-      "view_count": 30604,
+      "view_count": 30628,
       "duration_minutes": 75,
       "url": "https://www.youtube.com/watch?v=k7wPdCNfljQ"
     },
@@ -222,7 +222,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-09-15T16:00:04Z",
-      "view_count": 30192,
+      "view_count": 30196,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=y4PGjWWNRO0"
     },
@@ -233,7 +233,7 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-09-20T12:00:05Z",
-      "view_count": 21714,
+      "view_count": 21825,
       "duration_minutes": 81,
       "url": "https://www.youtube.com/watch?v=QtjLireBMI8"
     },
@@ -244,7 +244,7 @@
       "channel_title": "Lenny's Podcast",
       "source_type": "Independent creator",
       "published_at": "2026-09-20T12:30:03Z",
-      "view_count": 20250,
+      "view_count": 20418,
       "duration_minutes": 97,
       "url": "https://www.youtube.com/watch?v=97LRJUUPy_w"
     },
@@ -255,7 +255,7 @@
       "channel_title": "a16z",
       "source_type": "Venture capital",
       "published_at": "2026-09-18T19:25:08Z",
-      "view_count": 20109,
+      "view_count": 20147,
       "duration_minutes": 67,
       "url": "https://www.youtube.com/watch?v=GzEtpAKYRvE"
     }

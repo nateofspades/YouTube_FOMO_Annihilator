@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-09-21T20:36:30.203686Z",
+  "generated_at": "2026-09-21T20:55:57.406621Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -156,7 +156,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-09-15T17:45:39Z",
-      "view_count": 2605773,
+      "view_count": 2606362,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=7r4ikZHm9AI"
     },
@@ -167,7 +167,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-09-17T20:33:55Z",
-      "view_count": 1804630,
+      "view_count": 1805655,
       "duration_minutes": 5,
       "url": "https://www.youtube.com/watch?v=LoLYw--s-5w"
     },
@@ -178,7 +178,7 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-09-15T12:41:24Z",
-      "view_count": 318167,
+      "view_count": 318466,
       "duration_minutes": 629,
       "url": "https://www.youtube.com/watch?v=wY5pQOTsGaA"
     },
@@ -189,20 +189,9 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-09-21T00:28:21Z",
-      "view_count": 310817,
+      "view_count": 313339,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=F3YXg7AaKWE"
-    },
-    {
-      "video_id": "BMYvfVk8Ar0",
-      "title": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
-      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
-      "channel_title": "freeCodeCamp.org",
-      "source_type": "Research institution",
-      "published_at": "2026-09-17T13:32:11Z",
-      "view_count": 192314,
-      "duration_minutes": 1647,
-      "url": "https://www.youtube.com/watch?v=BMYvfVk8Ar0"
     },
     {
       "video_id": "TbkUKCm3CHQ",
@@ -211,9 +200,20 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-09-21T17:52:29Z",
-      "view_count": 181005,
+      "view_count": 211270,
       "duration_minutes": 5,
       "url": "https://www.youtube.com/watch?v=TbkUKCm3CHQ"
+    },
+    {
+      "video_id": "BMYvfVk8Ar0",
+      "title": "Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "channel_title": "freeCodeCamp.org",
+      "source_type": "Research institution",
+      "published_at": "2026-09-17T13:32:11Z",
+      "view_count": 192367,
+      "duration_minutes": 1647,
+      "url": "https://www.youtube.com/watch?v=BMYvfVk8Ar0"
     },
     {
       "video_id": "iBrAWpjXNxs",
@@ -222,7 +222,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-09-18T00:58:48Z",
-      "view_count": 174688,
+      "view_count": 174753,
       "duration_minutes": 27,
       "url": "https://www.youtube.com/watch?v=iBrAWpjXNxs"
     },
@@ -233,7 +233,7 @@
       "channel_title": "Web Dev Simplified",
       "source_type": "Independent creator",
       "published_at": "2026-09-15T20:00:10Z",
-      "view_count": 138866,
+      "view_count": 138928,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=jojMVmRZABw"
     },
@@ -244,7 +244,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-09-16T00:13:12Z",
-      "view_count": 128737,
+      "view_count": 128779,
       "duration_minutes": 38,
       "url": "https://www.youtube.com/watch?v=NvVbCqDgfCs"
     },
@@ -255,7 +255,7 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-09-21T12:12:42Z",
-      "view_count": 62772,
+      "view_count": 64029,
       "duration_minutes": 467,
       "url": "https://www.youtube.com/watch?v=C_1QKZAcJjk"
     }
