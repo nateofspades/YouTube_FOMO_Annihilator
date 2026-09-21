@@ -86,7 +86,7 @@ class LeaderboardTests(unittest.TestCase):
         self.assertEqual(parse_duration_minutes("P1D"), 1440)
         self.assertEqual(parse_duration_minutes("P1DT3H27M25S"), 1647)
 
-    def test_published_pages_expose_five_peer_leaderboard_and_archive_paths(self):
+    def test_root_current_and_archive_pages_each_offer_one_five_category_dropdown(self):
         root = Path(__file__).resolve().parents[1] / "docs"
         slugs = (
             "ai",
@@ -95,16 +95,20 @@ class LeaderboardTests(unittest.TestCase):
             "science-future-technology",
             "software-developer-tools",
         )
-        for slug in slugs:
-            current_page = root / slug / "index.html"
-            archive_page = root / slug / "archive.html"
-            self.assertTrue(current_page.exists(), f"Missing current page: {current_page}")
-            self.assertTrue(archive_page.exists(), f"Missing archive page: {archive_page}")
-            current_content = current_page.read_text()
-            archive_content = archive_page.read_text()
-            for destination in slugs:
-                self.assertIn(f'href="../{destination}/"', current_content)
-                self.assertIn(f'href="../{destination}/archive.html"', archive_content)
+        for page_name, data_file in (("index.html", "latest.json"), ("archive.html", "archive.json")):
+            content = (root / page_name).read_text()
+            self.assertEqual(content.count("<select"), 1, f"{page_name} must have one category dropdown")
+            self.assertEqual(content.count("<option"), len(slugs), f"{page_name} must offer all categories")
+            for slug in slugs:
+                self.assertIn(f'value="{slug}"', content)
+                self.assertIn(f"data/{slug}/{data_file}", content)
+
+    def test_legacy_category_pages_redirect_to_the_single_page_experience(self):
+        root = Path(__file__).resolve().parents[1] / "docs"
+        for page in root.glob("*/index.html"):
+            self.assertIn('url=../index.html', page.read_text())
+        for page in root.glob("*/archive.html"):
+            self.assertIn('url=../archive.html', page.read_text())
 
     def test_load_categories_keeps_the_approved_source_types_and_channels(self):
         categories = load_categories()
