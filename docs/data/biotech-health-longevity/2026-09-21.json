@@ -1,7 +1,7 @@
 {
   "slug": "biotech-health-longevity",
   "title": "Biotech, health technology, and longevity",
-  "generated_at": "2026-09-21T20:06:46.183468Z",
+  "generated_at": "2026-09-21T20:36:30.203686Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -102,7 +102,7 @@
       "handle": "@JAMANetwork",
       "source_type": "Medical journal",
       "channel_id": "UC4p6bEngiRCN7TyTxZVJ3OQ",
-      "recent_video_count": 8
+      "recent_video_count": 6
     },
     {
       "name": "Johns Hopkins Medicine",
@@ -148,7 +148,7 @@
       "recent_video_count": 0
     }
   ],
-  "candidate_count": 50,
+  "candidate_count": 48,
   "results": [
     {
       "video_id": "mJQz5WBBNs8",
@@ -157,7 +157,7 @@
       "channel_title": "U.S. Food and Drug Administration",
       "source_type": "Government",
       "published_at": "2026-09-17T20:36:55Z",
-      "view_count": 29268,
+      "view_count": 29292,
       "duration_minutes": 440,
       "url": "https://www.youtube.com/watch?v=mJQz5WBBNs8"
     },
@@ -179,7 +179,7 @@
       "channel_title": "NEJM Group",
       "source_type": "Medical journal",
       "published_at": "2026-09-15T16:37:30Z",
-      "view_count": 7522,
+      "view_count": 7534,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=WJ5xraLHX38"
     },
@@ -190,7 +190,7 @@
       "channel_title": "World Health Organization (WHO)",
       "source_type": "Government",
       "published_at": "2026-09-20T08:37:28Z",
-      "view_count": 4541,
+      "view_count": 4576,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=A7r49be3MfY"
     },
@@ -201,7 +201,7 @@
       "channel_title": "Science Magazine",
       "source_type": "Editorial/media",
       "published_at": "2026-09-16T16:00:14Z",
-      "view_count": 2816,
+      "view_count": 2820,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=ATU01mz8dm0"
     },
@@ -223,7 +223,7 @@
       "channel_title": "Broad Institute",
       "source_type": "Research institution",
       "published_at": "2026-09-17T12:57:23Z",
-      "view_count": 1819,
+      "view_count": 1823,
       "duration_minutes": 41,
       "url": "https://www.youtube.com/watch?v=Y8FV04VVbqY"
     },
