@@ -8,7 +8,7 @@ from app.leaderboard import (
     parse_duration_minutes,
     parse_published_at,
 )
-from scripts.update_leaderboard import load_categories
+from scripts.update_leaderboard import load_categories, rank_category_videos
 
 
 class LeaderboardTests(unittest.TestCase):
@@ -97,6 +97,10 @@ class LeaderboardTests(unittest.TestCase):
         ranked = filter_and_rank_videos(videos, now=now, days=7, limit=10, terms=("ai agent",), title_terms=("ai agent",), source_types={"channel-a": "AI agent and automation"})
 
         self.assertEqual([item["video_id"] for item in ranked], ["included"])
+
+        relaxed = rank_category_videos(videos, now=now, terms=("ai agent",), title_terms=("ai agent",), source_types={"channel-a": "AI agent and automation"})
+
+        self.assertEqual([item["video_id"] for item in relaxed], ["excluded-incidental", "included"])
 
     def test_parse_duration_minutes_rounds_to_nearest_minute(self):
         self.assertEqual(parse_duration_minutes("PT59S"), 1)

@@ -36,7 +36,7 @@ The newest published date is selected by default. The earliest date for which re
 For each category, the automation:
 
 1. Reviews videos from the selected YouTube channels that were published in the preceding 7 days.
-2. Keeps videos with English audio-language metadata and a category-topic match. AI agents and automation and AI podcasts require a high-signal AI topic match in the title, so incidental mentions do not qualify.
+2. Keeps videos with English audio-language metadata and a category-topic match. AI agents and automation and AI podcasts first require a high-signal AI topic match in the title. If fewer than 10 videos qualify, the automation broadens that category’s matching rule to title, description, and tags so the published list can reach 10 when enough relevant videos exist.
 3. Sorts qualifying videos by current public YouTube Data API v3 `viewCount`.
 4. Publishes the top-10 as date-stamped JSON for the site’s Category and Date filters.
 

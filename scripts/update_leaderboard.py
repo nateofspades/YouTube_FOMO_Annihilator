@@ -101,6 +101,30 @@ def videos_by_id(video_ids: list[str], api_key: str) -> list[dict]:
     return videos
 
 
+def rank_category_videos(videos: list[dict], *, now: datetime, terms: tuple[str, ...], title_terms: tuple[str, ...] | None, source_types: dict[str, str]) -> list[dict]:
+    """Rank strict major-topic matches, broadening only when fewer than ten qualify."""
+    ranked = filter_and_rank_videos(
+        videos,
+        now=now,
+        days=WINDOW_DAYS,
+        limit=RESULT_LIMIT,
+        terms=terms,
+        title_terms=title_terms,
+        source_types=source_types,
+    )
+    if title_terms and len(ranked) < RESULT_LIMIT:
+        print(f"Only {len(ranked)} strict matches; broadening the category-topic match to fill the top {RESULT_LIMIT}.")
+        ranked = filter_and_rank_videos(
+            videos,
+            now=now,
+            days=WINDOW_DAYS,
+            limit=RESULT_LIMIT,
+            terms=terms,
+            source_types=source_types,
+        )
+    return ranked
+
+
 def collect_leaderboard(api_key: str, now: datetime, *, slug: str, title: str, terms: tuple[str, ...], channels: list[dict], universe_version: int, title_terms: tuple[str, ...] | None = None) -> dict:
     cutoff = now.replace(microsecond=0) - timedelta(days=WINDOW_DAYS)
     candidates: list[dict] = []
@@ -120,11 +144,9 @@ def collect_leaderboard(api_key: str, now: datetime, *, slug: str, title: str, t
         candidates.extend(videos_by_id(ids, api_key))
 
     unique_candidates = {video["id"]: video for video in candidates}
-    ranked = filter_and_rank_videos(
+    ranked = rank_category_videos(
         list(unique_candidates.values()),
         now=now,
-        days=WINDOW_DAYS,
-        limit=RESULT_LIMIT,
         terms=terms,
         title_terms=title_terms,
         source_types=source_types,
