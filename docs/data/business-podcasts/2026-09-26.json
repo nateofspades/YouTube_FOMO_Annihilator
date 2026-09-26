@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-09-26T22:03:02.370068Z",
+  "generated_at": "2026-09-26T22:16:42.693218Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -156,7 +156,7 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-09-24T07:00:17Z",
-      "view_count": 3054308,
+      "view_count": 3063595,
       "duration_minutes": 109,
       "url": "https://www.youtube.com/watch?v=UhzI1fg8rCA"
     },
@@ -167,7 +167,7 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-09-21T05:00:16Z",
-      "view_count": 2168056,
+      "view_count": 2169864,
       "duration_minutes": 167,
       "url": "https://www.youtube.com/watch?v=a_GiFiHXJ6g"
     },
@@ -178,7 +178,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-09-26T02:28:37Z",
-      "view_count": 315737,
+      "view_count": 320552,
       "duration_minutes": 94,
       "url": "https://www.youtube.com/watch?v=cvP_1jmnkmM"
     },
@@ -189,7 +189,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-09-23T01:51:07Z",
-      "view_count": 223220,
+      "view_count": 223555,
       "duration_minutes": 56,
       "url": "https://www.youtube.com/watch?v=VF90rBzl26E"
     },
@@ -200,7 +200,7 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-09-21T16:00:08Z",
-      "view_count": 207398,
+      "view_count": 207486,
       "duration_minutes": 22,
       "url": "https://www.youtube.com/watch?v=DeB5rBZEQNI"
     },
@@ -211,7 +211,7 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-09-24T20:00:14Z",
-      "view_count": 176829,
+      "view_count": 177400,
       "duration_minutes": 62,
       "url": "https://www.youtube.com/watch?v=luyu9m6Y9xU"
     },
@@ -222,7 +222,7 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-09-24T15:45:16Z",
-      "view_count": 174515,
+      "view_count": 175427,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=aSch4W4-aLM"
     },
@@ -233,7 +233,7 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-09-22T13:00:15Z",
-      "view_count": 171258,
+      "view_count": 171275,
       "duration_minutes": 73,
       "url": "https://www.youtube.com/watch?v=pPTy2vFtiP8"
     },
@@ -244,7 +244,7 @@
       "channel_title": "Alex Hormozi",
       "source_type": "Business podcast",
       "published_at": "2026-09-25T14:14:53Z",
-      "view_count": 154497,
+      "view_count": 155186,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=21flGkcZO3A"
     },
@@ -255,7 +255,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-09-23T23:00:16Z",
-      "view_count": 153846,
+      "view_count": 153964,
       "duration_minutes": 26,
       "url": "https://www.youtube.com/watch?v=6t5yF8ansoQ"
     }

@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-09-26T22:03:02.370068Z",
+  "generated_at": "2026-09-26T22:16:42.693218Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -107,7 +107,7 @@
       "channel_title": "Latent Space",
       "source_type": "AI podcast",
       "published_at": "2026-09-21T22:10:40Z",
-      "view_count": 310866,
+      "view_count": 310987,
       "duration_minutes": 142,
       "url": "https://www.youtube.com/watch?v=cFx9Z3ZXca0"
     },
@@ -118,7 +118,7 @@
       "channel_title": "Dwarkesh Patel",
       "source_type": "AI podcast",
       "published_at": "2026-09-20T18:08:17Z",
-      "view_count": 133542,
+      "view_count": 133629,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=jVyTt6eo1f8"
     },
@@ -129,7 +129,7 @@
       "channel_title": "Dwarkesh Patel",
       "source_type": "AI podcast",
       "published_at": "2026-09-22T19:28:29Z",
-      "view_count": 28573,
+      "view_count": 28594,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=W6fL5aGybMo"
     },
@@ -140,7 +140,7 @@
       "channel_title": "Dwarkesh Patel",
       "source_type": "AI podcast",
       "published_at": "2026-09-24T23:25:28Z",
-      "view_count": 23477,
+      "view_count": 23536,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=jlPNUtNnFvs"
     },
@@ -151,7 +151,7 @@
       "channel_title": "Dwarkesh Patel",
       "source_type": "AI podcast",
       "published_at": "2026-09-23T20:07:28Z",
-      "view_count": 22859,
+      "view_count": 22889,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=ISgqeLL5oeo"
     },
@@ -162,7 +162,7 @@
       "channel_title": "Latent Space",
       "source_type": "AI podcast",
       "published_at": "2026-09-22T21:07:45Z",
-      "view_count": 6129,
+      "view_count": 6132,
       "duration_minutes": 121,
       "url": "https://www.youtube.com/watch?v=2xBSGluFkG0"
     },
@@ -184,7 +184,7 @@
       "channel_title": "No Priors: AI, Machine Learning, Tech, & Startups",
       "source_type": "AI podcast",
       "published_at": "2026-09-24T10:00:05Z",
-      "view_count": 4111,
+      "view_count": 4119,
       "duration_minutes": 43,
       "url": "https://www.youtube.com/watch?v=TCpRwJBQvW0"
     },
@@ -195,7 +195,7 @@
       "channel_title": "AI Agents Podcast",
       "source_type": "AI podcast",
       "published_at": "2026-09-24T13:18:37Z",
-      "view_count": 3275,
+      "view_count": 3280,
       "duration_minutes": 4,
       "url": "https://www.youtube.com/watch?v=lGi_nJpSado"
     },
