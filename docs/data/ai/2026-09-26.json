@@ -1,7 +1,7 @@
 {
   "slug": "ai",
-  "title": "Artificial intelligence",
-  "generated_at": "2026-09-26T20:43:08.479105Z",
+  "title": "AI news",
+  "generated_at": "2026-09-26T22:03:02.370068Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -100,7 +100,7 @@
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-24T08:40:55Z",
-      "view_count": 300099,
+      "view_count": 301560,
       "duration_minutes": 5,
       "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0"
     },
@@ -111,7 +111,7 @@
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-22T09:32:13Z",
-      "view_count": 254169,
+      "view_count": 254776,
       "duration_minutes": 5,
       "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc"
     },
@@ -122,7 +122,7 @@
       "channel_title": "AI Explained",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-24T22:51:54Z",
-      "view_count": 225408,
+      "view_count": 226889,
       "duration_minutes": 33,
       "url": "https://www.youtube.com/watch?v=R9momwXV9w4"
     },
@@ -133,7 +133,7 @@
       "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-22T22:30:04Z",
-      "view_count": 209435,
+      "view_count": 209751,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=0t-eWrGFZyA"
     },
@@ -144,7 +144,7 @@
       "channel_title": "WorldofAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-26T06:43:06Z",
-      "view_count": 141517,
+      "view_count": 149110,
       "duration_minutes": 21,
       "url": "https://www.youtube.com/watch?v=NuXuUNRlaqk"
     },
@@ -155,7 +155,7 @@
       "channel_title": "Anthropic",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-23T18:01:32Z",
-      "view_count": 121687,
+      "view_count": 122308,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=DdCEmlAydcw"
     },
@@ -166,7 +166,7 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-23T17:11:13Z",
-      "view_count": 115602,
+      "view_count": 116127,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=96ogPwN9ykM"
     },
@@ -177,20 +177,9 @@
       "channel_title": "WorldofAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-22T06:15:02Z",
-      "view_count": 113697,
+      "view_count": 113948,
       "duration_minutes": 16,
       "url": "https://www.youtube.com/watch?v=Nv_kTdHIVNY"
-    },
-    {
-      "video_id": "FL6mI_Br-mc",
-      "title": "Create your own voices with Gemini 3.8 text-to-speech",
-      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
-      "channel_title": "Google DeepMind",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-09-23T15:23:38Z",
-      "view_count": 103706,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=FL6mI_Br-mc"
     },
     {
       "video_id": "aDpIra7NFuE",
@@ -199,9 +188,20 @@
       "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
       "published_at": "2026-09-26T02:37:49Z",
-      "view_count": 102304,
+      "view_count": 107880,
       "duration_minutes": 35,
       "url": "https://www.youtube.com/watch?v=aDpIra7NFuE"
+    },
+    {
+      "video_id": "FL6mI_Br-mc",
+      "title": "Create your own voices with Gemini 3.8 text-to-speech",
+      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "channel_title": "Google DeepMind",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-09-23T15:23:38Z",
+      "view_count": 104388,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=FL6mI_Br-mc"
     }
   ]
 }

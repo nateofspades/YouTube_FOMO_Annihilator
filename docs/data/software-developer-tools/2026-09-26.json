@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-09-26T20:43:08.479105Z",
+  "generated_at": "2026-09-26T22:03:02.370068Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -60,7 +60,7 @@
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 118
+      "recent_video_count": 117
     },
     {
       "name": "GitLab",
@@ -147,7 +147,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 181,
+  "candidate_count": 180,
   "results": [
     {
       "video_id": "TbkUKCm3CHQ",
@@ -156,7 +156,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-09-21T17:52:29Z",
-      "view_count": 2677694,
+      "view_count": 2684881,
       "duration_minutes": 5,
       "url": "https://www.youtube.com/watch?v=TbkUKCm3CHQ"
     },
@@ -167,7 +167,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-09-23T17:17:22Z",
-      "view_count": 1061789,
+      "view_count": 1064815,
       "duration_minutes": 5,
       "url": "https://www.youtube.com/watch?v=ylO0DQeVEBQ"
     },
@@ -178,7 +178,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-09-21T00:28:21Z",
-      "view_count": 469678,
+      "view_count": 470200,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=F3YXg7AaKWE"
     },
@@ -189,7 +189,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-09-23T17:03:05Z",
-      "view_count": 307669,
+      "view_count": 308091,
       "duration_minutes": 40,
       "url": "https://www.youtube.com/watch?v=jgGyX7MPPVg"
     },
@@ -200,7 +200,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-09-25T00:11:51Z",
-      "view_count": 187095,
+      "view_count": 188948,
       "duration_minutes": 29,
       "url": "https://www.youtube.com/watch?v=ejjBbaq9RmY"
     },
@@ -211,7 +211,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-09-22T20:15:01Z",
-      "view_count": 173318,
+      "view_count": 173672,
       "duration_minutes": 28,
       "url": "https://www.youtube.com/watch?v=jLgpzgpsWPc"
     },
@@ -222,7 +222,7 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-09-21T12:12:42Z",
-      "view_count": 166739,
+      "view_count": 167681,
       "duration_minutes": 467,
       "url": "https://www.youtube.com/watch?v=C_1QKZAcJjk"
     },
@@ -233,7 +233,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-09-22T10:42:31Z",
-      "view_count": 120863,
+      "view_count": 120992,
       "duration_minutes": 42,
       "url": "https://www.youtube.com/watch?v=-XWSJM-Ue-o"
     },
@@ -244,7 +244,7 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-09-24T14:28:39Z",
-      "view_count": 86421,
+      "view_count": 87472,
       "duration_minutes": 37,
       "url": "https://www.youtube.com/watch?v=FVN0t1vb7k8"
     },
@@ -255,7 +255,7 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-09-23T10:30:04Z",
-      "view_count": 71217,
+      "view_count": 71523,
       "duration_minutes": 260,
       "url": "https://www.youtube.com/watch?v=gYTA8nQN030"
     }

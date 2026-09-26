@@ -1,0 +1,214 @@
+{
+  "slug": "ai-podcasts",
+  "title": "AI podcasts",
+  "generated_at": "2026-09-26T22:03:02.370068Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "Lex Fridman",
+      "handle": "UCJIfeSCssxSC_Dhc5s7woww",
+      "source_type": "AI podcast",
+      "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
+      "recent_video_count": 13
+    },
+    {
+      "name": "Dwarkesh Patel",
+      "handle": "UCXl4i9dYBrFOabk0xGmbkRA",
+      "source_type": "AI podcast",
+      "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+      "recent_video_count": 8
+    },
+    {
+      "name": "Latent Space",
+      "handle": "UCxBcwypKK-W3GHd_RZ9FZrQ",
+      "source_type": "AI podcast",
+      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
+      "recent_video_count": 6
+    },
+    {
+      "name": "Cognitive Revolution",
+      "handle": "UCjNRVMBVI30Sak_p6HRWhIA",
+      "source_type": "AI podcast",
+      "channel_id": "UCjNRVMBVI30Sak_p6HRWhIA",
+      "recent_video_count": 5
+    },
+    {
+      "name": "No Priors",
+      "handle": "UCSI7h9hydQ40K5MJHnCrQvw",
+      "source_type": "AI podcast",
+      "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+      "recent_video_count": 3
+    },
+    {
+      "name": "The TWIML AI Podcast",
+      "handle": "UC7kjWIK1H8tfmFlzZO-wHMw",
+      "source_type": "AI podcast",
+      "channel_id": "UC7kjWIK1H8tfmFlzZO-wHMw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Practical AI",
+      "handle": "UC9tpZnMLKv5vbZIGuIIPmNg",
+      "source_type": "AI podcast",
+      "channel_id": "UC9tpZnMLKv5vbZIGuIIPmNg",
+      "recent_video_count": 5
+    },
+    {
+      "name": "The AI Breakdown",
+      "handle": "UCmc5j3MNKe4JKMCW6ukvmiQ",
+      "source_type": "AI podcast",
+      "channel_id": "UCmc5j3MNKe4JKMCW6ukvmiQ",
+      "recent_video_count": 0
+    },
+    {
+      "name": "The Artificial Intelligence Show Podcast",
+      "handle": "UCdHpbfqjELZmhqY3k0ELGcQ",
+      "source_type": "AI podcast",
+      "channel_id": "UCdHpbfqjELZmhqY3k0ELGcQ",
+      "recent_video_count": 4
+    },
+    {
+      "name": "The Gradient",
+      "handle": "UCsRy8FnMGxtQl0y-iY7nTIg",
+      "source_type": "AI podcast",
+      "channel_id": "UCsRy8FnMGxtQl0y-iY7nTIg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Last Week in AI",
+      "handle": "UCKARTq-t5SPMzwtft8FWwnA",
+      "source_type": "AI podcast",
+      "channel_id": "UCKARTq-t5SPMzwtft8FWwnA",
+      "recent_video_count": 5
+    },
+    {
+      "name": "Machine Gods",
+      "handle": "UCgx8lqX3QsHgH0bQq7-EHVg",
+      "source_type": "AI podcast",
+      "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "AI Agents Podcast",
+      "handle": "UCIkU9Fe0OccRmqBMXRm1Q7A",
+      "source_type": "AI podcast",
+      "channel_id": "UCIkU9Fe0OccRmqBMXRm1Q7A",
+      "recent_video_count": 1
+    }
+  ],
+  "candidate_count": 50,
+  "results": [
+    {
+      "video_id": "cFx9Z3ZXca0",
+      "title": "Why I couldn't build Jev at OpenAI — Diogo Almeida, TypeSafe Co-founder & CEO",
+      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
+      "channel_title": "Latent Space",
+      "source_type": "AI podcast",
+      "published_at": "2026-09-21T22:10:40Z",
+      "view_count": 310866,
+      "duration_minutes": 142,
+      "url": "https://www.youtube.com/watch?v=cFx9Z3ZXca0"
+    },
+    {
+      "video_id": "jVyTt6eo1f8",
+      "title": "Is AI Getting Smarter Faster Than We Think? - Noam Brown",
+      "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+      "channel_title": "Dwarkesh Patel",
+      "source_type": "AI podcast",
+      "published_at": "2026-09-20T18:08:17Z",
+      "view_count": 133542,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=jVyTt6eo1f8"
+    },
+    {
+      "video_id": "W6fL5aGybMo",
+      "title": "AI Agents Are More Honest With Each Other Than With Us - Noam Brown",
+      "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+      "channel_title": "Dwarkesh Patel",
+      "source_type": "AI podcast",
+      "published_at": "2026-09-22T19:28:29Z",
+      "view_count": 28573,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=W6fL5aGybMo"
+    },
+    {
+      "video_id": "jlPNUtNnFvs",
+      "title": "AI is learning to hide what it's thinking - Noam Brown",
+      "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+      "channel_title": "Dwarkesh Patel",
+      "source_type": "AI podcast",
+      "published_at": "2026-09-24T23:25:28Z",
+      "view_count": 23477,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=jlPNUtNnFvs"
+    },
+    {
+      "video_id": "ISgqeLL5oeo",
+      "title": "What happens when AI gets good at lying? - Noam Brown",
+      "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+      "channel_title": "Dwarkesh Patel",
+      "source_type": "AI podcast",
+      "published_at": "2026-09-23T20:07:28Z",
+      "view_count": 22859,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=ISgqeLL5oeo"
+    },
+    {
+      "video_id": "2xBSGluFkG0",
+      "title": "🔬 Google's AI Scientist Started as an Attempt to Automate Kaggle — John Platt, Google Fellow",
+      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
+      "channel_title": "Latent Space",
+      "source_type": "AI podcast",
+      "published_at": "2026-09-22T21:07:45Z",
+      "view_count": 6129,
+      "duration_minutes": 121,
+      "url": "https://www.youtube.com/watch?v=2xBSGluFkG0"
+    },
+    {
+      "video_id": "B7DdNj_VjcU",
+      "title": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
+      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
+      "channel_title": "Latent Space",
+      "source_type": "AI podcast",
+      "published_at": "2026-09-23T13:35:08Z",
+      "view_count": 4512,
+      "duration_minutes": 92,
+      "url": "https://www.youtube.com/watch?v=B7DdNj_VjcU"
+    },
+    {
+      "video_id": "TCpRwJBQvW0",
+      "title": "Re-Founding Incumbents for the AI Era with Sequence Holdings Co-Founder and CEO Michael Lee",
+      "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+      "channel_title": "No Priors: AI, Machine Learning, Tech, & Startups",
+      "source_type": "AI podcast",
+      "published_at": "2026-09-24T10:00:05Z",
+      "view_count": 4111,
+      "duration_minutes": 43,
+      "url": "https://www.youtube.com/watch?v=TCpRwJBQvW0"
+    },
+    {
+      "video_id": "lGi_nJpSado",
+      "title": "How Jotform AI Agents Started",
+      "channel_id": "UCIkU9Fe0OccRmqBMXRm1Q7A",
+      "channel_title": "AI Agents Podcast",
+      "source_type": "AI podcast",
+      "published_at": "2026-09-24T13:18:37Z",
+      "view_count": 3275,
+      "duration_minutes": 4,
+      "url": "https://www.youtube.com/watch?v=lGi_nJpSado"
+    },
+    {
+      "video_id": "63eZd5eELlM",
+      "title": "Ep. 241: Pacing the Frontier Gets Political & Why AI Labs Could Keep the Best Models for Themselves",
+      "channel_id": "UCdHpbfqjELZmhqY3k0ELGcQ",
+      "channel_title": "The Artificial Intelligence Show Podcast",
+      "source_type": "AI podcast",
+      "published_at": "2026-09-22T09:00:24Z",
+      "view_count": 2873,
+      "duration_minutes": 97,
+      "url": "https://www.youtube.com/watch?v=63eZd5eELlM"
+    }
+  ]
+}
