@@ -7,7 +7,6 @@ from app.leaderboard import (
     merge_archive_index,
     parse_duration_minutes,
     parse_published_at,
-    should_run_now,
 )
 from scripts.update_leaderboard import load_categories
 
@@ -161,10 +160,6 @@ class LeaderboardTests(unittest.TestCase):
             datetime(2026, 9, 21, 6, 0, tzinfo=timezone.utc),
         )
 
-    def test_should_run_now_accepts_only_the_midnight_new_york_hour(self):
-        self.assertTrue(should_run_now(datetime(2026, 7, 1, 4, 5, tzinfo=timezone.utc)))
-        self.assertTrue(should_run_now(datetime(2026, 1, 1, 5, 5, tzinfo=timezone.utc)))
-        self.assertFalse(should_run_now(datetime(2026, 7, 1, 5, 5, tzinfo=timezone.utc)))
 
     def test_merge_archive_index_puts_newest_date_first_without_duplicates(self):
         existing = [{"date": "2026-09-20", "result_count": 10}]

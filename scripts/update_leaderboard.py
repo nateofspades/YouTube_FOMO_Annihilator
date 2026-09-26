@@ -3,7 +3,6 @@
 
 from __future__ import annotations
 
-import argparse
 import json
 import os
 import sys
@@ -17,7 +16,7 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
-from app.leaderboard import AI_TERMS, filter_and_rank_videos, merge_archive_index, parse_published_at, should_run_now
+from app.leaderboard import AI_TERMS, filter_and_rank_videos, merge_archive_index, parse_published_at
 
 API_BASE = "https://www.googleapis.com/youtube/v3"
 WINDOW_DAYS = 7
@@ -167,13 +166,7 @@ def write_results(payload: dict, data_dir: Path) -> None:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--force", action="store_true", help="Run outside the scheduled 6 a.m. NY hour")
-    args = parser.parse_args()
     now = datetime.now(timezone.utc)
-    if not args.force and not should_run_now(now):
-        print("Skipping: this workflow is not running during the 6 a.m. America/New_York hour.")
-        return 0
 
     api_key = os.environ.get("YOUTUBE_API_KEY")
     if not api_key:

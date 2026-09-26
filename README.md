@@ -50,7 +50,7 @@ The list of channels used for the Artificial intelligence category is in config/
 
 ## Daily automation and publishing
 
-GitHub Actions runs daily at midnight in `America/New_York`. To handle daylight-saving time, the workflow is scheduled at both 04:00 and 05:00 UTC; the application only proceeds during the matching New York midnight hour. A manual `workflow_dispatch` run forces an immediate refresh of all four categories.
+GitHub Actions runs once daily at 10:00 UTC. That time falls on the same `America/New_York` calendar date in both standard and daylight time, so each successful run produces one date-stamped daily snapshot. A manual `workflow_dispatch` run forces an immediate refresh of all four categories.
 
 Every successful run:
 

@@ -2,10 +2,9 @@ name: Update and publish leaderboard
 
 on:
   schedule:
-    # 04:00 UTC is midnight in New York during daylight saving time;
-    # 05:00 UTC is midnight during standard time. The script skips the other run.
-    - cron: '0 4 * * *'
-    - cron: '0 5 * * *'
+    # Run once daily at 10:00 UTC. This keeps each generated snapshot on the
+    # same America/New_York calendar date in both standard and daylight time.
+    - cron: '0 10 * * *'
   workflow_dispatch:
 
 permissions:
@@ -36,12 +35,7 @@ jobs:
       - name: Collect and rank videos
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            python scripts/update_leaderboard.py --force
-          else
-            python scripts/update_leaderboard.py
-          fi
+        run: python scripts/update_leaderboard.py
 
       - name: Commit the daily data
         run: |

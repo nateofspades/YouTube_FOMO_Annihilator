@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import re
 from datetime import datetime, timedelta, timezone
-from zoneinfo import ZoneInfo
+
 
 AI_TERMS = (
     "ai",
@@ -25,7 +25,6 @@ AI_TERMS = (
     "deepmind",
     "hugging face",
 )
-NEW_YORK = ZoneInfo("America/New_York")
 _DURATION_PATTERN = re.compile(r"^P(?:(?P<days>\d+)D)?(?:T(?:(?P<hours>\d+)H)?(?:(?P<minutes>\d+)M)?(?:(?P<seconds>\d+)S)?)?$")
 
 
@@ -42,11 +41,6 @@ def parse_duration_minutes(value: str) -> int:
     parts = {name: int(raw or 0) for name, raw in match.groupdict().items()}
     total_seconds = parts["days"] * 86400 + parts["hours"] * 3600 + parts["minutes"] * 60 + parts["seconds"]
     return (total_seconds + 30) // 60
-
-
-def should_run_now(now: datetime) -> bool:
-    """Return whether a UTC time falls within the target midnight NY hour."""
-    return now.astimezone(NEW_YORK).hour == 0
 
 
 def _is_english(video: dict) -> bool:
