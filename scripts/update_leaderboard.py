@@ -30,6 +30,7 @@ def load_categories() -> list[dict]:
         {
             **category,
             "terms": tuple(category["terms"]),
+            "title_terms": tuple(category["title_terms"]) if "title_terms" in category else None,
             "channels": [
                 {"name": name, "handle": handle, "source_type": source_type}
                 for name, handle, source_type in category["channels"]
@@ -100,7 +101,7 @@ def videos_by_id(video_ids: list[str], api_key: str) -> list[dict]:
     return videos
 
 
-def collect_leaderboard(api_key: str, now: datetime, *, slug: str, title: str, terms: tuple[str, ...], channels: list[dict], universe_version: int) -> dict:
+def collect_leaderboard(api_key: str, now: datetime, *, slug: str, title: str, terms: tuple[str, ...], channels: list[dict], universe_version: int, title_terms: tuple[str, ...] | None = None) -> dict:
     cutoff = now.replace(microsecond=0) - timedelta(days=WINDOW_DAYS)
     candidates: list[dict] = []
     sources: list[dict] = []
@@ -125,6 +126,7 @@ def collect_leaderboard(api_key: str, now: datetime, *, slug: str, title: str, t
         days=WINDOW_DAYS,
         limit=RESULT_LIMIT,
         terms=terms,
+        title_terms=title_terms,
         source_types=source_types,
     )
     return {
@@ -147,7 +149,7 @@ def collect_ai(api_key: str, now: datetime) -> dict:
         api_key,
         now,
         slug="ai",
-        title="Artificial intelligence",
+        title="AI news",
         terms=AI_TERMS,
         channels=channels,
         universe_version=config["universe_version"],

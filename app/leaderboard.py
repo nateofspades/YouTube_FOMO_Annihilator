@@ -48,11 +48,12 @@ def _is_english(video: dict) -> bool:
     return language.lower().startswith("en")
 
 
-def _is_related(video: dict, terms: tuple[str, ...]) -> bool:
+def _is_related(video: dict, terms: tuple[str, ...], *, title_only: bool = False) -> bool:
     snippet = video.get("snippet", {})
-    text = " ".join(
-        [snippet.get("title", ""), snippet.get("description", ""), " ".join(snippet.get("tags", []))]
-    ).lower()
+    fields = [snippet.get("title", "")] if title_only else [
+        snippet.get("title", ""), snippet.get("description", ""), " ".join(snippet.get("tags", []))
+    ]
+    text = " ".join(fields).lower()
     return any(re.search(r"\bai\b", text) if term == "ai" else term.lower() in text for term in terms)
 
 
@@ -75,13 +76,19 @@ def filter_and_rank_videos(
     days: int,
     limit: int,
     terms: tuple[str, ...] = AI_TERMS,
+    title_terms: tuple[str, ...] | None = None,
     source_types: dict[str, str] | None = None,
 ) -> list[dict]:
     """Return eligible curated-source videos ordered by current public view count."""
     source_types = source_types or {}
     eligible = []
     for video in videos:
-        if not (_is_recent(video, now, days) and _is_english(video) and _is_related(video, terms)):
+        topic_terms = title_terms or terms
+        if not (
+            _is_recent(video, now, days)
+            and _is_english(video)
+            and _is_related(video, topic_terms, title_only=title_terms is not None)
+        ):
             continue
         snippet = video["snippet"]
         channel_id = snippet.get("channelId", "")

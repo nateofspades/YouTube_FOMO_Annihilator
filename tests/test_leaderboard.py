@@ -77,6 +77,27 @@ class LeaderboardTests(unittest.TestCase):
         self.assertEqual([item["duration_minutes"] for item in ranked], [62, 5])
         self.assertEqual([item["source_type"] for item in ranked], ["Official company", "Independent creator"])
 
+    def test_title_terms_require_ai_agents_as_the_major_topic(self):
+        now = datetime(2026, 9, 26, 10, 0, tzinfo=timezone.utc)
+        videos = [
+            {
+                "id": "included",
+                "snippet": {"title": "Building AI agents with MCP", "description": "A tutorial.", "publishedAt": "2026-09-25T10:00:00Z", "defaultAudioLanguage": "en", "channelId": "channel-a", "channelTitle": "Channel A"},
+                "statistics": {"viewCount": "100"},
+                "contentDetails": {"duration": "PT10M"},
+            },
+            {
+                "id": "excluded-incidental",
+                "snippet": {"title": "How sports agents negotiate", "description": "We briefly mention an AI agent.", "publishedAt": "2026-09-25T10:00:00Z", "defaultAudioLanguage": "en", "channelId": "channel-a", "channelTitle": "Channel A"},
+                "statistics": {"viewCount": "1000"},
+                "contentDetails": {"duration": "PT10M"},
+            },
+        ]
+
+        ranked = filter_and_rank_videos(videos, now=now, days=7, limit=10, terms=("ai agent",), title_terms=("ai agent",), source_types={"channel-a": "AI agent and automation"})
+
+        self.assertEqual([item["video_id"] for item in ranked], ["included"])
+
     def test_parse_duration_minutes_rounds_to_nearest_minute(self):
         self.assertEqual(parse_duration_minutes("PT59S"), 1)
         self.assertEqual(parse_duration_minutes("PT1M29S"), 1)
@@ -89,6 +110,9 @@ class LeaderboardTests(unittest.TestCase):
         root = Path(__file__).resolve().parents[1] / "docs"
         slugs = (
             "ai",
+            "ai-agents-and-automation",
+            "ai-podcasts",
+            "business-podcasts",
             "emerging-businesses-startups",
             "science-future-technology",
             "software-developer-tools",
@@ -149,10 +173,16 @@ class LeaderboardTests(unittest.TestCase):
                 "emerging-businesses-startups",
                 "science-future-technology",
                 "software-developer-tools",
+                "ai-agents-and-automation",
+                "ai-podcasts",
+                "business-podcasts",
             ],
         )
-        self.assertTrue(all(len(category["channels"]) == 20 for category in categories))
+        self.assertEqual([len(category["channels"]) for category in categories], [20, 20, 20, 18, 13, 20])
         self.assertEqual(categories[0]["channels"][0], {"name": "Y Combinator", "handle": "@ycombinator", "source_type": "Accelerator"})
+        self.assertEqual(categories[3]["channels"][0], {"name": "All About AI", "handle": "@allaboutai", "source_type": "AI agent and automation"})
+        self.assertEqual(categories[4]["channels"][0], {"name": "Lex Fridman", "handle": "UCJIfeSCssxSC_Dhc5s7woww", "source_type": "AI podcast"})
+        self.assertEqual(categories[5]["channels"][0], {"name": "The Diary Of A CEO", "handle": "@TheDiaryOfACEO", "source_type": "Business podcast"})
 
     def test_parse_published_at_returns_utc_datetime(self):
         self.assertEqual(

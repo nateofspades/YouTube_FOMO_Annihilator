@@ -8,7 +8,10 @@ https://nateofspades.github.io/YouTube_FOMO_Annihilator
 
 An independent, automated daily leaderboard of the top-10 YouTube videos from selected YouTube channels for each of the following categories:
 
-- Artificial intelligence
+- AI news
+- AI agents and automation
+- AI podcasts
+- Business podcasts
 - Emerging businesses & startups
 - Science & future technology
 - Software & developer tools
@@ -20,7 +23,7 @@ The live site has one leaderboard page with two filters:
 - Category
 - Date
 
-The newest published date is selected by default. The earliest date for which results are available is September 21, 2026. The table includes:
+The newest published date is selected by default. The earliest date for which results are available is September 26, 2026. The table includes:
 
 - Rank
 - YouTube Video
@@ -33,7 +36,7 @@ The newest published date is selected by default. The earliest date for which re
 For each category, the automation:
 
 1. Reviews videos from the selected YouTube channels that were published in the preceding 7 days.
-2. Keeps videos with English audio-language metadata and a category-topic match in their title, description, or tags.
+2. Keeps videos with English audio-language metadata and a category-topic match. AI agents and automation and AI podcasts require a high-signal AI topic match in the title, so incidental mentions do not qualify.
 3. Sorts qualifying videos by current public YouTube Data API v3 `viewCount`.
 4. Publishes the top-10 as date-stamped JSON for the site’s Category and Date filters.
 
@@ -41,16 +44,19 @@ This project ranks qualifying videos from the selected YouTube channels; it does
 
 ## Categories and sources
 
-- Artificial intelligence
+- AI news
+- AI agents and automation
+- AI podcasts
+- Business podcasts
 - Emerging businesses & startups
 - Science & future technology
 - Software & developer tools
 
-The list of channels used for the Artificial intelligence category is in config/channels.json. The lists for the other three categories are in config/categories.json.
+The list of channels used for the AI news category is in config/channels.json. The lists for the other six categories are in config/categories.json.
 
 ## Daily automation and publishing
 
-GitHub Actions runs once daily at 10:00 UTC. That time falls on the same `America/New_York` calendar date in both standard and daylight time, so each successful run produces one date-stamped daily snapshot. A manual `workflow_dispatch` run forces an immediate refresh of all four categories.
+GitHub Actions runs once daily at 10:00 UTC. That time falls on the same `America/New_York` calendar date in both standard and daylight time, so each successful run produces one date-stamped daily snapshot. A manual `workflow_dispatch` run forces an immediate refresh of all seven categories.
 
 Every successful run:
 
