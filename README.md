@@ -56,7 +56,9 @@ The list of channels used for the AI news category is in config/channels.json. T
 
 ## Daily automation and publishing
 
-GitHub Actions runs once daily at 10:00 UTC. That time falls on the same `America/New_York` calendar date in both standard and daylight time, so each successful run produces one date-stamped daily snapshot. A manual `workflow_dispatch` run forces an immediate refresh of all seven categories.
+GitHub Actions attempts collection at 10:17, 14:17, and 18:17 UTC each day. Scheduled runs are idempotent: after all seven categories have that `America/New_York` date's top-10 snapshot, later attempts do not recollect. A manual `workflow_dispatch` run forces an immediate refresh of all seven categories.
+
+An independent Hermes watchdog runs at 22:30 UTC. It verifies that every category has a valid date-stamped JSON file with exactly 10 results. If anything is missing, it dispatches the GitHub workflow, waits for it to finish, and verifies the result again. If recovery fails, it opens one GitHub issue for that date. This removes reliance on GitHub's best-effort schedule alone, but fresh data still depends on the YouTube API, GitHub availability, and the watchdog service.
 
 Every successful run:
 
