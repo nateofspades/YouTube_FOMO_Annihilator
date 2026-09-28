@@ -8,10 +8,25 @@ from app.leaderboard import (
     parse_duration_minutes,
     parse_published_at,
 )
-from scripts.update_leaderboard import load_categories, rank_category_videos
+from scripts.update_leaderboard import has_complete_snapshot, load_categories, rank_category_videos
 
 
 class LeaderboardTests(unittest.TestCase):
+    def test_complete_snapshot_requires_every_category_for_the_local_date(self):
+        from tempfile import TemporaryDirectory
+
+        now = datetime(2026, 9, 28, 15, 0, tzinfo=timezone.utc)
+        slugs = ["ai", "business"]
+        with TemporaryDirectory() as directory:
+            data_root = Path(directory)
+            (data_root / "ai").mkdir()
+            (data_root / "business").mkdir()
+            (data_root / "ai" / "2026-09-28.json").write_text("{}")
+            self.assertFalse(has_complete_snapshot(data_root, slugs, now))
+
+            (data_root / "business" / "2026-09-28.json").write_text("{}")
+            self.assertTrue(has_complete_snapshot(data_root, slugs, now))
+
     def test_filter_and_rank_keeps_recent_english_videos_sorted_by_view_count(self):
         now = datetime(2026, 9, 21, 10, 0, tzinfo=timezone.utc)
         videos = [

@@ -189,8 +189,20 @@ def write_results(payload: dict, data_dir: Path) -> None:
     index_path.write_text(json.dumps(merge_archive_index(existing, local_date, len(payload["results"])), indent=2) + "\n")
 
 
+def has_complete_snapshot(data_root: Path, slugs: list[str], now: datetime) -> bool:
+    """Return whether every category already has today's New York snapshot."""
+    local_date = now.astimezone(ZoneInfo("America/New_York")).date().isoformat()
+    return all((data_root / slug / f"{local_date}.json").is_file() for slug in slugs)
+
+
 def main() -> int:
     now = datetime.now(timezone.utc)
+
+    categories = load_categories()
+    slugs = ["ai", *(category["slug"] for category in categories)]
+    if os.environ.get("SKIP_IF_CURRENT_DATE", "").lower() == "true" and has_complete_snapshot(ROOT / "docs/data", slugs, now):
+        print("Today's New York leaderboard snapshots already exist; skipping collection.")
+        return 0
 
     api_key = os.environ.get("YOUTUBE_API_KEY")
     if not api_key:
@@ -199,7 +211,7 @@ def main() -> int:
     ai_payload = collect_ai(api_key, now)
     write_results(ai_payload, ROOT / "docs/data" / "ai")
     print(f"Published AI: {len(ai_payload['results'])} ranked videos from {ai_payload['candidate_count']} candidates.")
-    for category in load_categories():
+    for category in categories:
         payload = collect_leaderboard(api_key, now, universe_version=1, **category)
         write_results(payload, ROOT / "docs/data" / category["slug"])
         print(f"Published {category['slug']}: {len(payload['results'])} ranked videos from {payload['candidate_count']} candidates.")

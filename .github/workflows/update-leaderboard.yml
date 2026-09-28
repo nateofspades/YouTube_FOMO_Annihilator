@@ -2,9 +2,10 @@ name: Update and publish leaderboard
 
 on:
   schedule:
-    # Run once daily at 10:00 UTC. This keeps each generated snapshot on the
-    # same America/New_York calendar date in both standard and daylight time.
-    - cron: '0 10 * * *'
+    # Redundant daytime UTC triggers reduce the chance that a delayed or
+    # skipped GitHub schedule leaves a New York calendar date unpublished.
+    # Scheduled runs no-op after every category has that day's snapshot.
+    - cron: '17 10,14,18 * * *'
   workflow_dispatch:
 
 permissions:
@@ -35,6 +36,7 @@ jobs:
       - name: Collect and rank videos
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          SKIP_IF_CURRENT_DATE: ${{ github.event_name == 'schedule' }}
         run: python scripts/update_leaderboard.py
 
       - name: Commit the daily data
