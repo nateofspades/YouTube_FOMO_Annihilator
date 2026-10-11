@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-10-10T15:53:44.086648Z",
+  "generated_at": "2026-10-11T16:20:41.822823Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@GitHub",
       "source_type": "Official company",
       "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "Google for Developers",
@@ -25,7 +25,7 @@
       "handle": "@MicrosoftDeveloper",
       "source_type": "Official company",
       "channel_id": "UCsMica-v34Irf9KVTh6xx-g",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "AWS Developers",
@@ -60,7 +60,7 @@
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 10
+      "recent_video_count": 11
     },
     {
       "name": "GitLab",
@@ -147,7 +147,7 @@
       "recent_video_count": 3
     }
   ],
-  "candidate_count": 92,
+  "candidate_count": 91,
   "results": [
     {
       "video_id": "WrCjAAl9okA",
@@ -156,7 +156,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-10-07T20:24:27Z",
-      "view_count": 1215939,
+      "view_count": 1313858,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=WrCjAAl9okA"
     },
@@ -167,7 +167,7 @@
       "channel_title": "Google for Developers",
       "source_type": "Official company",
       "published_at": "2026-10-06T16:10:20Z",
-      "view_count": 184340,
+      "view_count": 186759,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=anPsS6huQk0"
     },
@@ -178,7 +178,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-05T05:35:48Z",
-      "view_count": 158333,
+      "view_count": 160104,
       "duration_minutes": 70,
       "url": "https://www.youtube.com/watch?v=FsDUOUV9Vs8"
     },
@@ -189,7 +189,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-07T20:40:02Z",
-      "view_count": 152057,
+      "view_count": 156984,
       "duration_minutes": 34,
       "url": "https://www.youtube.com/watch?v=nYA0yASgaZI"
     },
@@ -200,20 +200,9 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-09T02:20:47Z",
-      "view_count": 142276,
+      "view_count": 154015,
       "duration_minutes": 41,
       "url": "https://www.youtube.com/watch?v=38_6C0dkKmU"
-    },
-    {
-      "video_id": "pJljViiUEPw",
-      "title": "I love Ultrafast (it's unusable)",
-      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
-      "channel_title": "Theo - t3․gg",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-06T12:40:33Z",
-      "view_count": 135031,
-      "duration_minutes": 28,
-      "url": "https://www.youtube.com/watch?v=pJljViiUEPw"
     },
     {
       "video_id": "-gfgQfw2g_E",
@@ -222,7 +211,7 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-10-06T16:55:56Z",
-      "view_count": 133569,
+      "view_count": 143479,
       "duration_minutes": 44,
       "url": "https://www.youtube.com/watch?v=-gfgQfw2g_E"
     },
@@ -233,9 +222,31 @@
       "channel_title": "TechWorld with Nana",
       "source_type": "Independent creator",
       "published_at": "2026-10-06T13:34:18Z",
-      "view_count": 129545,
+      "view_count": 142911,
       "duration_minutes": 20,
       "url": "https://www.youtube.com/watch?v=EcpYM__4c8E"
+    },
+    {
+      "video_id": "pJljViiUEPw",
+      "title": "I love Ultrafast (it's unusable)",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "channel_title": "Theo - t3․gg",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-06T12:40:33Z",
+      "view_count": 138546,
+      "duration_minutes": 28,
+      "url": "https://www.youtube.com/watch?v=pJljViiUEPw"
+    },
+    {
+      "video_id": "ND_kRgU_WlY",
+      "title": "You can rewrite typescript in rust for $420k",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "channel_title": "Theo - t3․gg",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-10T10:58:42Z",
+      "view_count": 129102,
+      "duration_minutes": 48,
+      "url": "https://www.youtube.com/watch?v=ND_kRgU_WlY"
     },
     {
       "video_id": "YY-egxTQirA",
@@ -244,20 +255,9 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-10-09T17:00:19Z",
-      "view_count": 75511,
+      "view_count": 99809,
       "duration_minutes": 43,
       "url": "https://www.youtube.com/watch?v=YY-egxTQirA"
-    },
-    {
-      "video_id": "B7GM6F3BP6A",
-      "title": "CI/CD Made Simple: Build a Real Pipeline",
-      "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
-      "channel_title": "Traversy Media",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-05T16:12:09Z",
-      "view_count": 74667,
-      "duration_minutes": 35,
-      "url": "https://www.youtube.com/watch?v=B7GM6F3BP6A"
     }
   ]
 }

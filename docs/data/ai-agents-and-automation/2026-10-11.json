@@ -1,0 +1,249 @@
+{
+  "slug": "ai-agents-and-automation",
+  "title": "AI agents and automation",
+  "generated_at": "2026-10-11T16:20:41.822823Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "All About AI",
+      "handle": "@allaboutai",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Alex Finn",
+      "handle": "@AlexFinnOfficial",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+      "recent_video_count": 4
+    },
+    {
+      "name": "Matthew Berman",
+      "handle": "@matthew_berman",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "recent_video_count": 9
+    },
+    {
+      "name": "Cole Medin",
+      "handle": "@ColeMedin",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCMwVTLZIRRUyyVrkjDpn4pA",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Futurepedia",
+      "handle": "@Futurepedia_io",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC_RovKmk0OCbuZjA8f08opw",
+      "recent_video_count": 5
+    },
+    {
+      "name": "Nate Herk",
+      "handle": "@NateHerk",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+      "recent_video_count": 8
+    },
+    {
+      "name": "Krish Naik",
+      "handle": "@krishnaik06",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "recent_video_count": 5
+    },
+    {
+      "name": "AI Code King",
+      "handle": "@AICodeKing",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC0m81bQuthaQZmFbXEY9QSw",
+      "recent_video_count": 7
+    },
+    {
+      "name": "IndyDevDan",
+      "handle": "@IndyDevDan",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC_x36zCEGilGpB1m-V4gmjg",
+      "recent_video_count": 1
+    },
+    {
+      "name": "1littlecoder",
+      "handle": "@1littlecoder",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCpV_X0VrL8-jg3t6wYGS-1g",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Fireship",
+      "handle": "@Fireship",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Tech With Tim",
+      "handle": "@TechWithTim",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+      "recent_video_count": 13
+    },
+    {
+      "name": "NetworkChuck",
+      "handle": "@NetworkChuck",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC9x0AN7BWHpCDHSm9NiJFJQ",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Greg Isenberg",
+      "handle": "@GregIsenberg",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "recent_video_count": 2
+    },
+    {
+      "name": "How I AI",
+      "handle": "@howiaipodcast",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
+      "recent_video_count": 5
+    },
+    {
+      "name": "IBM Technology",
+      "handle": "@IBMTechnology",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "recent_video_count": 7
+    },
+    {
+      "name": "Weights & Biases",
+      "handle": "@WeightsBiases",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCBp3w4DCEC64FZr4k9ROxig",
+      "recent_video_count": 32
+    },
+    {
+      "name": "Hugging Face",
+      "handle": "@huggingface",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
+      "recent_video_count": 2
+    }
+  ],
+  "candidate_count": 107,
+  "results": [
+    {
+      "video_id": "mU5Hgbpff_s",
+      "title": "Every Type of AI Agent Explained (and Deployed) in One Video",
+      "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+      "channel_title": "Tech With Tim",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-09T15:58:42Z",
+      "view_count": 46866,
+      "duration_minutes": 24,
+      "url": "https://www.youtube.com/watch?v=mU5Hgbpff_s"
+    },
+    {
+      "video_id": "aL_WMpJB2iY",
+      "title": "Hark is a MIND BLOWING AI Agent you need to try",
+      "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+      "channel_title": "Alex Finn",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-06T16:27:16Z",
+      "view_count": 43658,
+      "duration_minutes": 15,
+      "url": "https://www.youtube.com/watch?v=aL_WMpJB2iY"
+    },
+    {
+      "video_id": "uccBE9Tun6M",
+      "title": "I Unleashed 100 AI Agents at Once. Here’s What Happened.",
+      "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+      "channel_title": "Tech With Tim",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-06T13:54:31Z",
+      "view_count": 25016,
+      "duration_minutes": 21,
+      "url": "https://www.youtube.com/watch?v=uccBE9Tun6M"
+    },
+    {
+      "video_id": "RknGPBeA6AQ",
+      "title": "Paperclip: Run a Small AI Agent Team (Claude Code + Codex) Without the Chaos",
+      "channel_id": "UC0m81bQuthaQZmFbXEY9QSw",
+      "channel_title": "AICodeKing",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-06T09:15:30Z",
+      "view_count": 16673,
+      "duration_minutes": 11,
+      "url": "https://www.youtube.com/watch?v=RknGPBeA6AQ"
+    },
+    {
+      "video_id": "cWjS56edaUA",
+      "title": "Agentic Apps: How Big Companies Are Actually Deploying AI Agents",
+      "channel_id": "UCMwVTLZIRRUyyVrkjDpn4pA",
+      "channel_title": "Cole Medin",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-09T14:52:28Z",
+      "view_count": 14928,
+      "duration_minutes": 13,
+      "url": "https://www.youtube.com/watch?v=cWjS56edaUA"
+    },
+    {
+      "video_id": "zRMAvMSSSII",
+      "title": "Human in the Loop Is Not a Governance Strategy for Agentic AI",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "channel_title": "IBM Technology",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-11T11:00:03Z",
+      "view_count": 10094,
+      "duration_minutes": 4,
+      "url": "https://www.youtube.com/watch?v=zRMAvMSSSII"
+    },
+    {
+      "video_id": "Di3HIeC9ylU",
+      "title": "AI Engineering Roadmap #aiengineering #generativeai #agenticai",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "channel_title": "Krish Naik",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-10T09:30:36Z",
+      "view_count": 5754,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=Di3HIeC9ylU"
+    },
+    {
+      "video_id": "T3K5H77ad18",
+      "title": "NVIDIA Vera CPU: The Foundation for Agentic AI",
+      "channel_id": "UCBp3w4DCEC64FZr4k9ROxig",
+      "channel_title": "CoreWeave",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-08T17:00:10Z",
+      "view_count": 514,
+      "duration_minutes": 23,
+      "url": "https://www.youtube.com/watch?v=T3K5H77ad18"
+    },
+    {
+      "video_id": "QzG7-2-b24g",
+      "title": "Scaling in the Agentic Era with NVIDIA Vera Rubin NVL72",
+      "channel_id": "UCBp3w4DCEC64FZr4k9ROxig",
+      "channel_title": "CoreWeave",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-07T18:30:07Z",
+      "view_count": 383,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=QzG7-2-b24g"
+    },
+    {
+      "video_id": "dmpmORvkI5g",
+      "title": "How MasterClass Builds Multi-Agent AI That Learners Can Trust",
+      "channel_id": "UCBp3w4DCEC64FZr4k9ROxig",
+      "channel_title": "CoreWeave",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-09T19:00:36Z",
+      "view_count": 331,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=dmpmORvkI5g"
+    }
+  ]
+}

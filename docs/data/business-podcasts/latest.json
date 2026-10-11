@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-10-10T15:53:44.086648Z",
+  "generated_at": "2026-10-11T16:20:41.822823Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@TheDiaryOfACEO",
       "source_type": "Business podcast",
       "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "My First Million",
@@ -32,7 +32,7 @@
       "handle": "@allin",
       "source_type": "Business podcast",
       "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Guy Raz / How I Built This",
@@ -53,7 +53,7 @@
       "handle": "@LennysPodcast",
       "source_type": "Business podcast",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "Masters of Scale",
@@ -81,7 +81,7 @@
       "handle": "@startups",
       "source_type": "Business podcast",
       "channel_id": "UCkkhmBWfS7pILYIk0izkc3A",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "20VC with Harry Stebbings",
@@ -123,14 +123,14 @@
       "handle": "@youngandprofiting",
       "source_type": "Business podcast",
       "channel_id": "UCtz8s6nPLvrVQ4YhOJz6DSg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Alex Hormozi / The Game",
       "handle": "@AlexHormozi",
       "source_type": "Business podcast",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "recent_video_count": 28
+      "recent_video_count": 26
     },
     {
       "name": "Startups for the Rest of Us",
@@ -147,7 +147,7 @@
       "recent_video_count": 1
     }
   ],
-  "candidate_count": 123,
+  "candidate_count": 118,
   "results": [
     {
       "video_id": "Q-DFC0AnbY4",
@@ -156,7 +156,7 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-10-05T07:00:06Z",
-      "view_count": 2237272,
+      "view_count": 2347003,
       "duration_minutes": 88,
       "url": "https://www.youtube.com/watch?v=Q-DFC0AnbY4"
     },
@@ -167,20 +167,9 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-10-08T07:00:35Z",
-      "view_count": 1386873,
+      "view_count": 1677030,
       "duration_minutes": 124,
       "url": "https://www.youtube.com/watch?v=qDzg-xvkeXw"
-    },
-    {
-      "video_id": "IXeBycWo9bI",
-      "title": "Kara Swisher and Scott Galloway Unpack Elon Musk’s Messy Breakup",
-      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-06T13:00:35Z",
-      "view_count": 216943,
-      "duration_minutes": 56,
-      "url": "https://www.youtube.com/watch?v=IXeBycWo9bI"
     },
     {
       "video_id": "TBLHdXABwAg",
@@ -189,20 +178,20 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-10T02:28:10Z",
-      "view_count": 167191,
+      "view_count": 353778,
       "duration_minutes": 93,
       "url": "https://www.youtube.com/watch?v=TBLHdXABwAg"
     },
     {
-      "video_id": "P1Y82k_ZjXI",
-      "title": "“My Team Can't Close Like Me”",
-      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "channel_title": "Alex Hormozi",
+      "video_id": "IXeBycWo9bI",
+      "title": "Kara Swisher and Scott Galloway Unpack Elon Musk’s Messy Breakup",
+      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
+      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
-      "published_at": "2026-10-07T16:54:22Z",
-      "view_count": 157159,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=P1Y82k_ZjXI"
+      "published_at": "2026-10-06T13:00:35Z",
+      "view_count": 225471,
+      "duration_minutes": 56,
+      "url": "https://www.youtube.com/watch?v=IXeBycWo9bI"
     },
     {
       "video_id": "pAO3nrxxbCg",
@@ -211,42 +200,9 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-09T13:00:30Z",
-      "view_count": 121702,
+      "view_count": 141833,
       "duration_minutes": 43,
       "url": "https://www.youtube.com/watch?v=pAO3nrxxbCg"
-    },
-    {
-      "video_id": "MM-C3JqCXBk",
-      "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
-      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "channel_title": "Lenny's Podcast",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-04T12:30:30Z",
-      "view_count": 116954,
-      "duration_minutes": 37,
-      "url": "https://www.youtube.com/watch?v=MM-C3JqCXBk"
-    },
-    {
-      "video_id": "_QSX3BF9UX0",
-      "title": "Why Every AI Lab Will Become a Biotech Company | Andrew Huberman",
-      "channel_id": "UCpQBb0fToph3jrDulwz1iUQ",
-      "channel_title": "Invest Like The Best",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-06T12:00:06Z",
-      "view_count": 96160,
-      "duration_minutes": 80,
-      "url": "https://www.youtube.com/watch?v=_QSX3BF9UX0"
-    },
-    {
-      "video_id": "L-qukKQGtyM",
-      "title": "Why America's health care crisis is worsening",
-      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "channel_title": "The Prof G Pod – Scott Galloway",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-04T13:00:36Z",
-      "view_count": 75535,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=L-qukKQGtyM"
     },
     {
       "video_id": "CwLvNcAyets",
@@ -255,9 +211,53 @@
       "channel_title": "My First Million",
       "source_type": "Business podcast",
       "published_at": "2026-10-04T23:05:05Z",
-      "view_count": 66191,
+      "view_count": 66831,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=CwLvNcAyets"
+    },
+    {
+      "video_id": "sLpf4kWdi4I",
+      "title": "Why Young Americans Are Rejecting Capitalism | Office Hours",
+      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
+      "channel_title": "The Prof G Pod – Scott Galloway",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-05T16:30:11Z",
+      "view_count": 60153,
+      "duration_minutes": 24,
+      "url": "https://www.youtube.com/watch?v=sLpf4kWdi4I"
+    },
+    {
+      "video_id": "uvP4IWau3N4",
+      "title": "“Why Does Business Feel So Hopeless?”",
+      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
+      "channel_title": "Alex Hormozi",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-08T19:00:29Z",
+      "view_count": 56385,
+      "duration_minutes": 0,
+      "url": "https://www.youtube.com/watch?v=uvP4IWau3N4"
+    },
+    {
+      "video_id": "XUPMdaFYe1s",
+      "title": "David Friedberg: Rising Rates Could Trigger a Banking Shock Right Before the Midterms",
+      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
+      "channel_title": "All-In Podcast",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-05T19:44:56Z",
+      "view_count": 55411,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=XUPMdaFYe1s"
+    },
+    {
+      "video_id": "4zvicsf1bJQ",
+      "title": "3 businesses we think are about to blow up",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-05T13:00:35Z",
+      "view_count": 54653,
+      "duration_minutes": 47,
+      "url": "https://www.youtube.com/watch?v=4zvicsf1bJQ"
     }
   ]
 }

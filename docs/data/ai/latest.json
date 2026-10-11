@@ -1,7 +1,7 @@
 {
   "slug": "ai",
   "title": "AI news",
-  "generated_at": "2026-10-10T15:53:44.086648Z",
+  "generated_at": "2026-10-11T16:20:41.822823Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -32,7 +32,7 @@
       "handle": "@intheworldofai",
       "source_type": "AI-focused channel",
       "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "All About AI",
@@ -53,7 +53,7 @@
       "handle": "@aitrepreneur",
       "source_type": "AI-focused channel",
       "channel_id": "UCEAbqW0HFB_UxZoUDO0kJBw",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Two Minute Papers",
@@ -74,7 +74,7 @@
       "handle": "@openai",
       "source_type": "AI-focused channel",
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "recent_video_count": 25
+      "recent_video_count": 26
     },
     {
       "name": "Anthropic",
@@ -91,7 +91,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 49,
+  "candidate_count": 50,
   "results": [
     {
       "video_id": "IsL4dVezs18",
@@ -100,7 +100,7 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-07T21:55:41Z",
-      "view_count": 588346,
+      "view_count": 613508,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=IsL4dVezs18"
     },
@@ -111,7 +111,7 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-06T21:33:36Z",
-      "view_count": 372593,
+      "view_count": 376855,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=FB6oCmrIj-Y"
     },
@@ -122,7 +122,7 @@
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-05T09:53:12Z",
-      "view_count": 150660,
+      "view_count": 153030,
       "duration_minutes": 4,
       "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU"
     },
@@ -133,7 +133,7 @@
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-07T13:29:33Z",
-      "view_count": 134128,
+      "view_count": 138938,
       "duration_minutes": 33,
       "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM"
     },
@@ -144,42 +144,9 @@
       "channel_title": "WorldofAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-09T06:26:46Z",
-      "view_count": 130215,
+      "view_count": 134219,
       "duration_minutes": 27,
       "url": "https://www.youtube.com/watch?v=ATBnss54_t4"
-    },
-    {
-      "video_id": "LiNhqbetrbU",
-      "title": "Build Plugins for ChatGPT",
-      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "channel_title": "OpenAI",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-07T21:34:02Z",
-      "view_count": 87399,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=LiNhqbetrbU"
-    },
-    {
-      "video_id": "p5KxBTUncoE",
-      "title": "Set up your dot in the ChatGPT mobile app",
-      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "channel_title": "OpenAI",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-09T19:13:03Z",
-      "view_count": 77645,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=p5KxBTUncoE"
-    },
-    {
-      "video_id": "NUizyuGj-kE",
-      "title": "AI News: Haiku-5.5, Visual ChatGPT, Grok's New Trick, and more!",
-      "channel_id": "UChpleBmo18P08aKCIgti38g",
-      "channel_title": "Matt Wolfe",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-09T15:00:01Z",
-      "view_count": 77443,
-      "duration_minutes": 35,
-      "url": "https://www.youtube.com/watch?v=NUizyuGj-kE"
     },
     {
       "video_id": "USpkPjv-lxs",
@@ -188,20 +155,53 @@
       "channel_title": "WorldofAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-10T07:34:33Z",
-      "view_count": 65973,
+      "view_count": 114185,
       "duration_minutes": 32,
       "url": "https://www.youtube.com/watch?v=USpkPjv-lxs"
     },
     {
-      "video_id": "Z9fvMJ9NSSI",
-      "title": "Anthropic Has Officially Lost Its Mind...",
-      "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
-      "channel_title": "TheAIGRID",
+      "video_id": "NUizyuGj-kE",
+      "title": "AI News: Haiku-5.5, Visual ChatGPT, Grok's New Trick, and more!",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
-      "published_at": "2026-10-09T23:05:38Z",
-      "view_count": 52694,
-      "duration_minutes": 26,
-      "url": "https://www.youtube.com/watch?v=Z9fvMJ9NSSI"
+      "published_at": "2026-10-09T15:00:01Z",
+      "view_count": 100033,
+      "duration_minutes": 35,
+      "url": "https://www.youtube.com/watch?v=NUizyuGj-kE"
+    },
+    {
+      "video_id": "p5KxBTUncoE",
+      "title": "Set up your dot in the ChatGPT mobile app",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "channel_title": "OpenAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-09T19:13:03Z",
+      "view_count": 99932,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=p5KxBTUncoE"
+    },
+    {
+      "video_id": "LiNhqbetrbU",
+      "title": "Build Plugins for ChatGPT",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "channel_title": "OpenAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-07T21:34:02Z",
+      "view_count": 90195,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=LiNhqbetrbU"
+    },
+    {
+      "video_id": "6gfACqBAKfw",
+      "title": "Claude Haiku 5.5 Is a GAME CHANGER! 90% CHEAPER & INSANE Performance! (Fully Tested)",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "channel_title": "WorldofAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-08T02:01:33Z",
+      "view_count": 73276,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=6gfACqBAKfw"
     }
   ]
 }

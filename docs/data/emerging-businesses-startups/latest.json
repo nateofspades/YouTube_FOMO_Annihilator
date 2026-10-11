@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-10-10T15:53:44.086648Z",
+  "generated_at": "2026-10-11T16:20:41.822823Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -46,7 +46,7 @@
       "handle": "@LennysPodcast",
       "source_type": "Independent creator",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "20VC",
@@ -147,19 +147,8 @@
       "recent_video_count": 10
     }
   ],
-  "candidate_count": 71,
+  "candidate_count": 72,
   "results": [
-    {
-      "video_id": "MM-C3JqCXBk",
-      "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
-      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "channel_title": "Lenny's Podcast",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-04T12:30:30Z",
-      "view_count": 116954,
-      "duration_minutes": 37,
-      "url": "https://www.youtube.com/watch?v=MM-C3JqCXBk"
-    },
     {
       "video_id": "CwLvNcAyets",
       "title": "How creators with under 100K followers are making $1M a year",
@@ -167,7 +156,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-04T23:05:05Z",
-      "view_count": 66231,
+      "view_count": 66831,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=CwLvNcAyets"
     },
@@ -178,7 +167,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-05T13:00:35Z",
-      "view_count": 52251,
+      "view_count": 54647,
       "duration_minutes": 47,
       "url": "https://www.youtube.com/watch?v=4zvicsf1bJQ"
     },
@@ -189,31 +178,9 @@
       "channel_title": "Slidebean",
       "source_type": "Official company",
       "published_at": "2026-10-06T12:15:34Z",
-      "view_count": 44773,
+      "view_count": 46863,
       "duration_minutes": 28,
       "url": "https://www.youtube.com/watch?v=IbGFwphI3xI"
-    },
-    {
-      "video_id": "cvmgnpxr-Lk",
-      "title": "How Mark Zuckerberg, Palmer Luckey, Josh Kushner & Scott Wu Think | Jeremy Stern",
-      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "channel_title": "David Senra",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-04T12:00:29Z",
-      "view_count": 43724,
-      "duration_minutes": 68,
-      "url": "https://www.youtube.com/watch?v=cvmgnpxr-Lk"
-    },
-    {
-      "video_id": "AU29sCqlUJ8",
-      "title": "Built as a quick internal hack. Now a $700M+ AI startup.",
-      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "channel_title": "Antler Global",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-07T14:00:30Z",
-      "view_count": 33973,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=AU29sCqlUJ8"
     },
     {
       "video_id": "2_UGBF5BwGQ",
@@ -222,20 +189,31 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-08T23:28:42Z",
-      "view_count": 33659,
+      "view_count": 45671,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=2_UGBF5BwGQ"
     },
     {
-      "video_id": "mG2MVR3KZag",
-      "title": "How Cody Ko made a #1 app before graduating college",
+      "video_id": "DHXPdVrsHkk",
+      "title": "What Palmer Luckey would build if he started over",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
       "channel_title": "My First Million",
       "source_type": "Independent creator",
-      "published_at": "2026-10-04T00:39:01Z",
-      "view_count": 30861,
+      "published_at": "2026-10-11T00:47:11Z",
+      "view_count": 42576,
       "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=mG2MVR3KZag"
+      "url": "https://www.youtube.com/watch?v=DHXPdVrsHkk"
+    },
+    {
+      "video_id": "AU29sCqlUJ8",
+      "title": "Built as a quick internal hack. Now a $700M+ AI startup.",
+      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
+      "channel_title": "Antler Global",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-07T14:00:30Z",
+      "view_count": 34006,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=AU29sCqlUJ8"
     },
     {
       "video_id": "1mZ8Cu8F54Y",
@@ -244,9 +222,20 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-07T13:30:28Z",
-      "view_count": 28981,
+      "view_count": 31087,
       "duration_minutes": 63,
       "url": "https://www.youtube.com/watch?v=1mZ8Cu8F54Y"
+    },
+    {
+      "video_id": "QeolP6gwSb4",
+      "title": "Building an Empire with Risk, Rage & 200 Phone Calls A Day | Ari Emanuel, WME & TKO",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "channel_title": "David Senra",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-07T12:00:29Z",
+      "view_count": 28104,
+      "duration_minutes": 84,
+      "url": "https://www.youtube.com/watch?v=QeolP6gwSb4"
     },
     {
       "video_id": "_RNFJpMxAIU",
@@ -255,9 +244,20 @@
       "channel_title": "Antler Global",
       "source_type": "Venture capital",
       "published_at": "2026-10-08T14:00:12Z",
-      "view_count": 27412,
+      "view_count": 27414,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=_RNFJpMxAIU"
+    },
+    {
+      "video_id": "aCvrzhwUxg0",
+      "title": "The Current State of Consumer AI",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-05T10:55:10Z",
+      "view_count": 25077,
+      "duration_minutes": 50,
+      "url": "https://www.youtube.com/watch?v=aCvrzhwUxg0"
     }
   ]
 }

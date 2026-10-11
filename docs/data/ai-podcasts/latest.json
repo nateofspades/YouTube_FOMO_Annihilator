@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-10-10T15:53:44.086648Z",
+  "generated_at": "2026-10-11T16:20:41.822823Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -107,7 +107,7 @@
       "channel_title": "Latent Space",
       "source_type": "AI podcast",
       "published_at": "2026-10-08T00:31:15Z",
-      "view_count": 23523,
+      "view_count": 32005,
       "duration_minutes": 85,
       "url": "https://www.youtube.com/watch?v=YHiqVRxGViM"
     },
@@ -118,20 +118,9 @@
       "channel_title": "The TWIML AI Podcast with Sam Charrington",
       "source_type": "AI podcast",
       "published_at": "2026-10-06T21:58:10Z",
-      "view_count": 6684,
+      "view_count": 7803,
       "duration_minutes": 90,
       "url": "https://www.youtube.com/watch?v=9Aato-NfjoU"
-    },
-    {
-      "video_id": "NufiHZfMwaw",
-      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
-      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "channel_title": "Latent Space",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-10T00:30:41Z",
-      "view_count": 4863,
-      "duration_minutes": 33,
-      "url": "https://www.youtube.com/watch?v=NufiHZfMwaw"
     },
     {
       "video_id": "Y2qs-BKoMb4",
@@ -140,20 +129,20 @@
       "channel_title": "Cognitive Revolution \"How AI Changes Everything\"",
       "source_type": "AI podcast",
       "published_at": "2026-10-07T17:00:26Z",
-      "view_count": 3963,
+      "view_count": 7463,
       "duration_minutes": 70,
       "url": "https://www.youtube.com/watch?v=Y2qs-BKoMb4"
     },
     {
-      "video_id": "lnd920WC8Yk",
-      "title": "How AI Models Learn",
-      "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
-      "channel_title": "No Priors: AI, Machine Learning, Tech, & Startups",
+      "video_id": "NufiHZfMwaw",
+      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
+      "channel_title": "Latent Space",
       "source_type": "AI podcast",
-      "published_at": "2026-10-05T12:23:53Z",
-      "view_count": 3102,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=lnd920WC8Yk"
+      "published_at": "2026-10-10T00:30:41Z",
+      "view_count": 7367,
+      "duration_minutes": 33,
+      "url": "https://www.youtube.com/watch?v=NufiHZfMwaw"
     },
     {
       "video_id": "g_K9pqbQJwU",
@@ -162,9 +151,20 @@
       "channel_title": "Cognitive Revolution \"How AI Changes Everything\"",
       "source_type": "AI podcast",
       "published_at": "2026-10-08T10:50:42Z",
-      "view_count": 1431,
+      "view_count": 3901,
       "duration_minutes": 87,
       "url": "https://www.youtube.com/watch?v=g_K9pqbQJwU"
+    },
+    {
+      "video_id": "lnd920WC8Yk",
+      "title": "How AI Models Learn",
+      "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+      "channel_title": "No Priors: AI, Machine Learning, Tech, & Startups",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-05T12:23:53Z",
+      "view_count": 3118,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=lnd920WC8Yk"
     },
     {
       "video_id": "5IykW1TtCfk",
@@ -173,9 +173,20 @@
       "channel_title": "No Priors: AI, Machine Learning, Tech, & Startups",
       "source_type": "AI podcast",
       "published_at": "2026-10-08T00:04:38Z",
-      "view_count": 1194,
+      "view_count": 1278,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=5IykW1TtCfk"
+    },
+    {
+      "video_id": "NkHw9B_FEj4",
+      "title": "Why does every AI agent look like a plushie? 🧸 #aiagents #ai",
+      "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
+      "channel_title": "Machine Gods",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-09T23:03:45Z",
+      "view_count": 1019,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=NkHw9B_FEj4"
     },
     {
       "video_id": "bBGz-1Mqorw",
@@ -184,7 +195,7 @@
       "channel_title": "Cognitive Revolution \"How AI Changes Everything\"",
       "source_type": "AI podcast",
       "published_at": "2026-10-06T18:49:40Z",
-      "view_count": 921,
+      "view_count": 930,
       "duration_minutes": 161,
       "url": "https://www.youtube.com/watch?v=bBGz-1Mqorw"
     },
@@ -195,20 +206,9 @@
       "channel_title": "Cognitive Revolution \"How AI Changes Everything\"",
       "source_type": "AI podcast",
       "published_at": "2026-10-07T18:53:16Z",
-      "view_count": 734,
+      "view_count": 737,
       "duration_minutes": 165,
       "url": "https://www.youtube.com/watch?v=lyAboyYjIXU"
-    },
-    {
-      "video_id": "NkHw9B_FEj4",
-      "title": "Why does every AI agent look like a plushie? 🧸 #aiagents #ai",
-      "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
-      "channel_title": "Machine Gods",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-09T23:03:45Z",
-      "view_count": 502,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=NkHw9B_FEj4"
     }
   ]
 }
