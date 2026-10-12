@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-10-11T16:20:41.822823Z",
+  "generated_at": "2026-10-12T19:51:12.844765Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,28 +18,28 @@
       "handle": "UCXl4i9dYBrFOabk0xGmbkRA",
       "source_type": "AI podcast",
       "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "Latent Space",
       "handle": "UCxBcwypKK-W3GHd_RZ9FZrQ",
       "source_type": "AI podcast",
       "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Cognitive Revolution",
       "handle": "UCjNRVMBVI30Sak_p6HRWhIA",
       "source_type": "AI podcast",
       "channel_id": "UCjNRVMBVI30Sak_p6HRWhIA",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "No Priors",
       "handle": "UCSI7h9hydQ40K5MJHnCrQvw",
       "source_type": "AI podcast",
       "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "The TWIML AI Podcast",
@@ -88,7 +88,7 @@
       "handle": "UCgx8lqX3QsHgH0bQq7-EHVg",
       "source_type": "AI podcast",
       "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "AI Agents Podcast",
@@ -98,7 +98,7 @@
       "recent_video_count": 0
     }
   ],
-  "candidate_count": 31,
+  "candidate_count": 34,
   "results": [
     {
       "video_id": "YHiqVRxGViM",
@@ -107,20 +107,20 @@
       "channel_title": "Latent Space",
       "source_type": "AI podcast",
       "published_at": "2026-10-08T00:31:15Z",
-      "view_count": 32005,
+      "view_count": 43251,
       "duration_minutes": 85,
       "url": "https://www.youtube.com/watch?v=YHiqVRxGViM"
     },
     {
-      "video_id": "9Aato-NfjoU",
-      "title": "Why Jev Is Changing How We Build With AI",
-      "channel_id": "UC7kjWIK1H8tfmFlzZO-wHMw",
-      "channel_title": "The TWIML AI Podcast with Sam Charrington",
+      "video_id": "g_K9pqbQJwU",
+      "title": "AI:AM: A Level We Shouldn't Pass? Notes from The Curve + Tokens vs. Salaries & Is SaaS Cooked?",
+      "channel_id": "UCjNRVMBVI30Sak_p6HRWhIA",
+      "channel_title": "Cognitive Revolution \"How AI Changes Everything\"",
       "source_type": "AI podcast",
-      "published_at": "2026-10-06T21:58:10Z",
-      "view_count": 7803,
-      "duration_minutes": 90,
-      "url": "https://www.youtube.com/watch?v=9Aato-NfjoU"
+      "published_at": "2026-10-08T10:50:42Z",
+      "view_count": 14209,
+      "duration_minutes": 87,
+      "url": "https://www.youtube.com/watch?v=g_K9pqbQJwU"
     },
     {
       "video_id": "Y2qs-BKoMb4",
@@ -129,7 +129,7 @@
       "channel_title": "Cognitive Revolution \"How AI Changes Everything\"",
       "source_type": "AI podcast",
       "published_at": "2026-10-07T17:00:26Z",
-      "view_count": 7463,
+      "view_count": 10907,
       "duration_minutes": 70,
       "url": "https://www.youtube.com/watch?v=Y2qs-BKoMb4"
     },
@@ -140,42 +140,31 @@
       "channel_title": "Latent Space",
       "source_type": "AI podcast",
       "published_at": "2026-10-10T00:30:41Z",
-      "view_count": 7367,
+      "view_count": 9272,
       "duration_minutes": 33,
       "url": "https://www.youtube.com/watch?v=NufiHZfMwaw"
     },
     {
-      "video_id": "g_K9pqbQJwU",
-      "title": "AI:AM: A Level We Shouldn't Pass? Notes from The Curve + Tokens vs. Salaries & Is SaaS Cooked?",
-      "channel_id": "UCjNRVMBVI30Sak_p6HRWhIA",
-      "channel_title": "Cognitive Revolution \"How AI Changes Everything\"",
+      "video_id": "9Aato-NfjoU",
+      "title": "Why Jev Is Changing How We Build With AI",
+      "channel_id": "UC7kjWIK1H8tfmFlzZO-wHMw",
+      "channel_title": "The TWIML AI Podcast with Sam Charrington",
       "source_type": "AI podcast",
-      "published_at": "2026-10-08T10:50:42Z",
-      "view_count": 3901,
-      "duration_minutes": 87,
-      "url": "https://www.youtube.com/watch?v=g_K9pqbQJwU"
+      "published_at": "2026-10-06T21:58:10Z",
+      "view_count": 8820,
+      "duration_minutes": 90,
+      "url": "https://www.youtube.com/watch?v=9Aato-NfjoU"
     },
     {
-      "video_id": "lnd920WC8Yk",
-      "title": "How AI Models Learn",
-      "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
-      "channel_title": "No Priors: AI, Machine Learning, Tech, & Startups",
+      "video_id": "GOxQgRXWb4A",
+      "title": "Kevin Roose Gave Meta's AI Agent Muse $100 to Trade on Kalshi",
+      "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
+      "channel_title": "Machine Gods",
       "source_type": "AI podcast",
-      "published_at": "2026-10-05T12:23:53Z",
-      "view_count": 3118,
+      "published_at": "2026-10-11T23:04:58Z",
+      "view_count": 2391,
       "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=lnd920WC8Yk"
-    },
-    {
-      "video_id": "5IykW1TtCfk",
-      "title": "The Bigger AI Opportunity",
-      "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
-      "channel_title": "No Priors: AI, Machine Learning, Tech, & Startups",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-08T00:04:38Z",
-      "view_count": 1278,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=5IykW1TtCfk"
+      "url": "https://www.youtube.com/watch?v=GOxQgRXWb4A"
     },
     {
       "video_id": "NkHw9B_FEj4",
@@ -184,9 +173,20 @@
       "channel_title": "Machine Gods",
       "source_type": "AI podcast",
       "published_at": "2026-10-09T23:03:45Z",
-      "view_count": 1019,
+      "view_count": 1375,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=NkHw9B_FEj4"
+    },
+    {
+      "video_id": "5IykW1TtCfk",
+      "title": "The Bigger AI Opportunity",
+      "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+      "channel_title": "No Priors: AI, Machine Learning, Tech, & Startups",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-08T00:04:38Z",
+      "view_count": 1309,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=5IykW1TtCfk"
     },
     {
       "video_id": "bBGz-1Mqorw",
@@ -195,7 +195,7 @@
       "channel_title": "Cognitive Revolution \"How AI Changes Everything\"",
       "source_type": "AI podcast",
       "published_at": "2026-10-06T18:49:40Z",
-      "view_count": 930,
+      "view_count": 943,
       "duration_minutes": 161,
       "url": "https://www.youtube.com/watch?v=bBGz-1Mqorw"
     },
@@ -206,7 +206,7 @@
       "channel_title": "Cognitive Revolution \"How AI Changes Everything\"",
       "source_type": "AI podcast",
       "published_at": "2026-10-07T18:53:16Z",
-      "view_count": 737,
+      "view_count": 751,
       "duration_minutes": 165,
       "url": "https://www.youtube.com/watch?v=lyAboyYjIXU"
     }

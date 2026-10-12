@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-10-11T16:20:41.822823Z",
+  "generated_at": "2026-10-12T19:51:12.844765Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,14 +11,14 @@
       "handle": "@TheDiaryOfACEO",
       "source_type": "Business podcast",
       "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "My First Million",
       "handle": "@MyFirstMillionPod",
       "source_type": "Business podcast",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "Acquired",
@@ -32,7 +32,7 @@
       "handle": "@allin",
       "source_type": "Business podcast",
       "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Guy Raz / How I Built This",
@@ -46,7 +46,7 @@
       "handle": "@founderspodcast1",
       "source_type": "Business podcast",
       "channel_id": "UCQ-rrUCsJLNjFdPtKq0YOfA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Lenny's Podcast",
@@ -60,7 +60,7 @@
       "handle": "@MastersofScale_",
       "source_type": "Business podcast",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Invest Like The Best",
@@ -74,7 +74,7 @@
       "handle": "@tkppodcast",
       "source_type": "Business podcast",
       "channel_id": "UCLtTf_uKt0Itd0NG7txrwXA",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "This Week in Startups",
@@ -88,7 +88,7 @@
       "handle": "@20VC",
       "source_type": "Business podcast",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 12
+      "recent_video_count": 11
     },
     {
       "name": "a16z",
@@ -102,7 +102,7 @@
       "handle": "@TheProfGPod",
       "source_type": "Business podcast",
       "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "recent_video_count": 13
+      "recent_video_count": 11
     },
     {
       "name": "Pivot with Kara Swisher and Scott Galloway",
@@ -147,19 +147,8 @@
       "recent_video_count": 1
     }
   ],
-  "candidate_count": 118,
+  "candidate_count": 115,
   "results": [
-    {
-      "video_id": "Q-DFC0AnbY4",
-      "title": "Dana White: This Generation Thinks You Can Build A Business From Home, It's Impossible!",
-      "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "channel_title": "The Diary Of A CEO",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-05T07:00:06Z",
-      "view_count": 2347003,
-      "duration_minutes": 88,
-      "url": "https://www.youtube.com/watch?v=Q-DFC0AnbY4"
-    },
     {
       "video_id": "qDzg-xvkeXw",
       "title": "AI Insider: \"They Are Hiding What Is Really Happening\" | Jeffrey Ladish",
@@ -167,9 +156,20 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-10-08T07:00:35Z",
-      "view_count": 1677030,
+      "view_count": 1916709,
       "duration_minutes": 124,
       "url": "https://www.youtube.com/watch?v=qDzg-xvkeXw"
+    },
+    {
+      "video_id": "IkhmdTqSvJw",
+      "title": "UFO Cover-Up Analyst: The Secret Alien Programs Nobody Is Talking About! | Eric Weinstein",
+      "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
+      "channel_title": "The Diary Of A CEO",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-12T07:00:32Z",
+      "view_count": 798029,
+      "duration_minutes": 113,
+      "url": "https://www.youtube.com/watch?v=IkhmdTqSvJw"
     },
     {
       "video_id": "TBLHdXABwAg",
@@ -178,7 +178,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-10T02:28:10Z",
-      "view_count": 353778,
+      "view_count": 455672,
       "duration_minutes": 93,
       "url": "https://www.youtube.com/watch?v=TBLHdXABwAg"
     },
@@ -189,7 +189,7 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-06T13:00:35Z",
-      "view_count": 225471,
+      "view_count": 233224,
       "duration_minutes": 56,
       "url": "https://www.youtube.com/watch?v=IXeBycWo9bI"
     },
@@ -200,64 +200,64 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-09T13:00:30Z",
-      "view_count": 141833,
+      "view_count": 153408,
       "duration_minutes": 43,
       "url": "https://www.youtube.com/watch?v=pAO3nrxxbCg"
     },
     {
-      "video_id": "CwLvNcAyets",
-      "title": "How creators with under 100K followers are making $1M a year",
+      "video_id": "DHXPdVrsHkk",
+      "title": "What Palmer Luckey would build if he started over",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
       "channel_title": "My First Million",
       "source_type": "Business podcast",
-      "published_at": "2026-10-04T23:05:05Z",
-      "view_count": 66831,
+      "published_at": "2026-10-11T00:47:11Z",
+      "view_count": 98220,
       "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=CwLvNcAyets"
+      "url": "https://www.youtube.com/watch?v=DHXPdVrsHkk"
     },
     {
-      "video_id": "sLpf4kWdi4I",
-      "title": "Why Young Americans Are Rejecting Capitalism | Office Hours",
-      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "channel_title": "The Prof G Pod – Scott Galloway",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-05T16:30:11Z",
-      "view_count": 60153,
-      "duration_minutes": 24,
-      "url": "https://www.youtube.com/watch?v=sLpf4kWdi4I"
-    },
-    {
-      "video_id": "uvP4IWau3N4",
-      "title": "“Why Does Business Feel So Hopeless?”",
+      "video_id": "r-9RpAv1P9A",
+      "title": "How I Price Every New Offer",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
       "channel_title": "Alex Hormozi",
       "source_type": "Business podcast",
-      "published_at": "2026-10-08T19:00:29Z",
-      "view_count": 56385,
-      "duration_minutes": 0,
-      "url": "https://www.youtube.com/watch?v=uvP4IWau3N4"
+      "published_at": "2026-10-11T19:00:29Z",
+      "view_count": 82264,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=r-9RpAv1P9A"
     },
     {
-      "video_id": "XUPMdaFYe1s",
-      "title": "David Friedberg: Rising Rates Could Trigger a Banking Shock Right Before the Midterms",
-      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "channel_title": "All-In Podcast",
+      "video_id": "hvDOy84v82k",
+      "title": "Homelessness Isn’t a Money Problem — With Anand Giridharadas",
+      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
+      "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
-      "published_at": "2026-10-05T19:44:56Z",
-      "view_count": 55411,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=XUPMdaFYe1s"
+      "published_at": "2026-10-08T20:16:52Z",
+      "view_count": 61312,
+      "duration_minutes": 46,
+      "url": "https://www.youtube.com/watch?v=hvDOy84v82k"
     },
     {
-      "video_id": "4zvicsf1bJQ",
-      "title": "3 businesses we think are about to blow up",
+      "video_id": "YxbEVUH_4w8",
+      "title": "The Random Show — AI Super Assistants, Dream Engineering, Wizards, Supplements, and More!",
+      "channel_id": "UCznv7Vf9nBdJYvBagFdAHWw",
+      "channel_title": "Tim Ferriss",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-10T03:40:10Z",
+      "view_count": 53715,
+      "duration_minutes": 107,
+      "url": "https://www.youtube.com/watch?v=YxbEVUH_4w8"
+    },
+    {
+      "video_id": "2_UGBF5BwGQ",
+      "title": "The soda brand that sold for over $2B",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
       "channel_title": "My First Million",
       "source_type": "Business podcast",
-      "published_at": "2026-10-05T13:00:35Z",
-      "view_count": 54653,
-      "duration_minutes": 47,
-      "url": "https://www.youtube.com/watch?v=4zvicsf1bJQ"
+      "published_at": "2026-10-08T23:28:42Z",
+      "view_count": 52802,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=2_UGBF5BwGQ"
     }
   ]
 }

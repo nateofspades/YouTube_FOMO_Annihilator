@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-10-11T16:20:41.822823Z",
+  "generated_at": "2026-10-12T19:51:12.844765Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -53,7 +53,7 @@
       "handle": "@20vc",
       "source_type": "Venture capital",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 12
+      "recent_video_count": 11
     },
     {
       "name": "Acquired",
@@ -67,14 +67,14 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "My First Million",
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "MicroConf",
@@ -88,7 +88,7 @@
       "handle": "@Saastr",
       "source_type": "Founder community",
       "channel_id": "UCwOILzAcxK5CM2M7oRBuWSg",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Slidebean",
@@ -102,7 +102,7 @@
       "handle": "@BessemerVenturePartners",
       "source_type": "Venture capital",
       "channel_id": "UCKuHAxZoh99t8uyPQhoDR3A",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Antler Global",
@@ -147,51 +147,18 @@
       "recent_video_count": 10
     }
   ],
-  "candidate_count": 72,
+  "candidate_count": 69,
   "results": [
     {
-      "video_id": "CwLvNcAyets",
-      "title": "How creators with under 100K followers are making $1M a year",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
+      "video_id": "S6l3aRsecuE",
+      "title": "Creating Muse: The Fastest-Growing AI Product Since ChatGPT | Alexandr Wang, Meta",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "channel_title": "David Senra",
       "source_type": "Independent creator",
-      "published_at": "2026-10-04T23:05:05Z",
-      "view_count": 66831,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=CwLvNcAyets"
-    },
-    {
-      "video_id": "4zvicsf1bJQ",
-      "title": "3 businesses we think are about to blow up",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-05T13:00:35Z",
-      "view_count": 54647,
-      "duration_minutes": 47,
-      "url": "https://www.youtube.com/watch?v=4zvicsf1bJQ"
-    },
-    {
-      "video_id": "IbGFwphI3xI",
-      "title": "Why Hollywood Keeps Making $125M Flops",
-      "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
-      "channel_title": "Slidebean",
-      "source_type": "Official company",
-      "published_at": "2026-10-06T12:15:34Z",
-      "view_count": 46863,
-      "duration_minutes": 28,
-      "url": "https://www.youtube.com/watch?v=IbGFwphI3xI"
-    },
-    {
-      "video_id": "2_UGBF5BwGQ",
-      "title": "The soda brand that sold for over $2B",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-08T23:28:42Z",
-      "view_count": 45671,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=2_UGBF5BwGQ"
+      "published_at": "2026-10-11T12:00:00Z",
+      "view_count": 156746,
+      "duration_minutes": 72,
+      "url": "https://www.youtube.com/watch?v=S6l3aRsecuE"
     },
     {
       "video_id": "DHXPdVrsHkk",
@@ -200,9 +167,31 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-11T00:47:11Z",
-      "view_count": 42576,
+      "view_count": 98220,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=DHXPdVrsHkk"
+    },
+    {
+      "video_id": "2_UGBF5BwGQ",
+      "title": "The soda brand that sold for over $2B",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-08T23:28:42Z",
+      "view_count": 52802,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=2_UGBF5BwGQ"
+    },
+    {
+      "video_id": "IbGFwphI3xI",
+      "title": "Why Hollywood Keeps Making $250M Flops",
+      "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
+      "channel_title": "Slidebean",
+      "source_type": "Official company",
+      "published_at": "2026-10-06T12:15:34Z",
+      "view_count": 49063,
+      "duration_minutes": 28,
+      "url": "https://www.youtube.com/watch?v=IbGFwphI3xI"
     },
     {
       "video_id": "AU29sCqlUJ8",
@@ -211,7 +200,7 @@
       "channel_title": "Antler Global",
       "source_type": "Venture capital",
       "published_at": "2026-10-07T14:00:30Z",
-      "view_count": 34006,
+      "view_count": 34027,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=AU29sCqlUJ8"
     },
@@ -222,7 +211,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-07T13:30:28Z",
-      "view_count": 31087,
+      "view_count": 33353,
       "duration_minutes": 63,
       "url": "https://www.youtube.com/watch?v=1mZ8Cu8F54Y"
     },
@@ -233,9 +222,20 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-07T12:00:29Z",
-      "view_count": 28104,
+      "view_count": 32408,
       "duration_minutes": 84,
       "url": "https://www.youtube.com/watch?v=QeolP6gwSb4"
+    },
+    {
+      "video_id": "3I6QYkccd3o",
+      "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)",
+      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
+      "channel_title": "Lenny's Podcast",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-11T12:30:34Z",
+      "view_count": 29950,
+      "duration_minutes": 62,
+      "url": "https://www.youtube.com/watch?v=3I6QYkccd3o"
     },
     {
       "video_id": "_RNFJpMxAIU",
@@ -244,20 +244,20 @@
       "channel_title": "Antler Global",
       "source_type": "Venture capital",
       "published_at": "2026-10-08T14:00:12Z",
-      "view_count": 27414,
+      "view_count": 27386,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=_RNFJpMxAIU"
     },
     {
-      "video_id": "aCvrzhwUxg0",
-      "title": "The Current State of Consumer AI",
-      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "channel_title": "a16z",
+      "video_id": "NAwiGfk_sCY",
+      "title": "Cognition vs Factory | Anthropic Under Threat | ElevenLabs Doubles Its Valuation to $22B",
+      "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
+      "channel_title": "20VC with Harry Stebbings",
       "source_type": "Venture capital",
-      "published_at": "2026-10-05T10:55:10Z",
-      "view_count": 25077,
-      "duration_minutes": 50,
-      "url": "https://www.youtube.com/watch?v=aCvrzhwUxg0"
+      "published_at": "2026-10-08T14:22:17Z",
+      "view_count": 26742,
+      "duration_minutes": 76,
+      "url": "https://www.youtube.com/watch?v=NAwiGfk_sCY"
     }
   ]
 }

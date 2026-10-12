@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-10-11T16:20:41.822823Z",
+  "generated_at": "2026-10-12T19:51:12.844765Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,21 +11,21 @@
       "handle": "@kurzgesagt",
       "source_type": "Independent creator",
       "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Veritasium",
       "handle": "@veritasium",
       "source_type": "Independent creator",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "PBS Space Time",
       "handle": "@pbsspacetime",
       "source_type": "Editorial/media",
       "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "SmarterEveryDay",
@@ -60,7 +60,7 @@
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Boston Dynamics",
@@ -81,7 +81,7 @@
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 12
+      "recent_video_count": 13
     },
     {
       "name": "Cleo Abram",
@@ -145,10 +145,10 @@
       "handle": "@BranchEducation",
       "source_type": "Independent creator",
       "channel_id": "UCdp4_l1vPmpN-gDbUwhaRUQ",
-      "recent_video_count": 1
+      "recent_video_count": 0
     }
   ],
-  "candidate_count": 43,
+  "candidate_count": 41,
   "results": [
     {
       "video_id": "TZd3xs5A3mE",
@@ -157,7 +157,7 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-07T12:01:07Z",
-      "view_count": 3575648,
+      "view_count": 3689401,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=TZd3xs5A3mE"
     },
@@ -168,20 +168,9 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-09T13:00:03Z",
-      "view_count": 2048874,
+      "view_count": 2627070,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=j9p3Sn8ROL4"
-    },
-    {
-      "video_id": "5_B1Mq02wcI",
-      "title": "The Hidden Engineering of Pressure Regulators",
-      "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
-      "channel_title": "Practical Engineering",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-06T13:00:17Z",
-      "view_count": 1442883,
-      "duration_minutes": 17,
-      "url": "https://www.youtube.com/watch?v=5_B1Mq02wcI"
     },
     {
       "video_id": "T511xU4RZqw",
@@ -190,20 +179,20 @@
       "channel_title": "Hacksmith Industries",
       "source_type": "Official company",
       "published_at": "2026-10-07T16:00:15Z",
-      "view_count": 1367086,
+      "view_count": 1691712,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=T511xU4RZqw"
     },
     {
-      "video_id": "245Ryi8d4cg",
-      "title": "Astronaut Pikachu gets a private tour of the ISS",
-      "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "channel_title": "European Space Agency, ESA",
-      "source_type": "Government",
-      "published_at": "2026-10-06T09:45:36Z",
-      "view_count": 1335736,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=245Ryi8d4cg"
+      "video_id": "5_B1Mq02wcI",
+      "title": "The Hidden Engineering of Pressure Regulators",
+      "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
+      "channel_title": "Practical Engineering",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-06T13:00:17Z",
+      "view_count": 1515609,
+      "duration_minutes": 17,
+      "url": "https://www.youtube.com/watch?v=5_B1Mq02wcI"
     },
     {
       "video_id": "kcQ7n9-hkRU",
@@ -212,9 +201,20 @@
       "channel_title": "Undecided with Matt Ferrell",
       "source_type": "Independent creator",
       "published_at": "2026-10-06T12:17:00Z",
-      "view_count": 1332537,
+      "view_count": 1410519,
       "duration_minutes": 16,
       "url": "https://www.youtube.com/watch?v=kcQ7n9-hkRU"
+    },
+    {
+      "video_id": "245Ryi8d4cg",
+      "title": "Astronaut Pikachu gets a private tour of the ISS",
+      "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
+      "channel_title": "European Space Agency, ESA",
+      "source_type": "Government",
+      "published_at": "2026-10-06T09:45:36Z",
+      "view_count": 1395083,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=245Ryi8d4cg"
     },
     {
       "video_id": "1LRvMRC_pfY",
@@ -223,20 +223,9 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-07T16:19:40Z",
-      "view_count": 1099252,
+      "view_count": 1229073,
       "duration_minutes": 68,
       "url": "https://www.youtube.com/watch?v=1LRvMRC_pfY"
-    },
-    {
-      "video_id": "qgTfVQaHW5A",
-      "title": "We Went PRO in BATTLEBOTS…Were We Ready?",
-      "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "channel_title": "Hacksmith Industries",
-      "source_type": "Official company",
-      "published_at": "2026-10-08T20:02:40Z",
-      "view_count": 710361,
-      "duration_minutes": 41,
-      "url": "https://www.youtube.com/watch?v=qgTfVQaHW5A"
     },
     {
       "video_id": "VLLxNuZ2r20",
@@ -245,9 +234,20 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-10T14:02:11Z",
-      "view_count": 629631,
+      "view_count": 812386,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=VLLxNuZ2r20"
+    },
+    {
+      "video_id": "qgTfVQaHW5A",
+      "title": "We Went PRO in BATTLEBOTS…Were We Ready?",
+      "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
+      "channel_title": "Hacksmith Industries",
+      "source_type": "Official company",
+      "published_at": "2026-10-08T20:02:40Z",
+      "view_count": 790922,
+      "duration_minutes": 41,
+      "url": "https://www.youtube.com/watch?v=qgTfVQaHW5A"
     },
     {
       "video_id": "w6229Ivy_Lo",
@@ -256,7 +256,7 @@
       "channel_title": "PBS Space Time",
       "source_type": "Editorial/media",
       "published_at": "2026-10-08T20:15:02Z",
-      "view_count": 498964,
+      "view_count": 571922,
       "duration_minutes": 16,
       "url": "https://www.youtube.com/watch?v=w6229Ivy_Lo"
     }
