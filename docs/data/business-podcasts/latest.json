@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-10-12T19:51:12.844765Z",
+  "generated_at": "2026-10-13T17:38:28.492259Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -32,7 +32,7 @@
       "handle": "@allin",
       "source_type": "Business podcast",
       "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "Guy Raz / How I Built This",
@@ -67,14 +67,14 @@
       "handle": "@ILTB_Podcast",
       "source_type": "Business podcast",
       "channel_id": "UCpQBb0fToph3jrDulwz1iUQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "The Knowledge Project Podcast",
       "handle": "@tkppodcast",
       "source_type": "Business podcast",
       "channel_id": "UCLtTf_uKt0Itd0NG7txrwXA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "This Week in Startups",
@@ -88,14 +88,14 @@
       "handle": "@20VC",
       "source_type": "Business podcast",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 11
+      "recent_video_count": 12
     },
     {
       "name": "a16z",
       "handle": "@a16z",
       "source_type": "Business podcast",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "The Prof G Pod – Scott Galloway",
@@ -109,7 +109,7 @@
       "handle": "@pivot",
       "source_type": "Business podcast",
       "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "recent_video_count": 8
+      "recent_video_count": 6
     },
     {
       "name": "Tim Ferriss",
@@ -130,7 +130,7 @@
       "handle": "@AlexHormozi",
       "source_type": "Business podcast",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "recent_video_count": 26
+      "recent_video_count": 25
     },
     {
       "name": "Startups for the Rest of Us",
@@ -147,7 +147,7 @@
       "recent_video_count": 1
     }
   ],
-  "candidate_count": 115,
+  "candidate_count": 113,
   "results": [
     {
       "video_id": "qDzg-xvkeXw",
@@ -156,7 +156,7 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-10-08T07:00:35Z",
-      "view_count": 1916709,
+      "view_count": 2044843,
       "duration_minutes": 124,
       "url": "https://www.youtube.com/watch?v=qDzg-xvkeXw"
     },
@@ -167,7 +167,7 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-10-12T07:00:32Z",
-      "view_count": 798029,
+      "view_count": 1649159,
       "duration_minutes": 113,
       "url": "https://www.youtube.com/watch?v=IkhmdTqSvJw"
     },
@@ -178,20 +178,20 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-10T02:28:10Z",
-      "view_count": 455672,
+      "view_count": 490928,
       "duration_minutes": 93,
       "url": "https://www.youtube.com/watch?v=TBLHdXABwAg"
     },
     {
-      "video_id": "IXeBycWo9bI",
-      "title": "Kara Swisher and Scott Galloway Unpack Elon Musk’s Messy Breakup",
-      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
+      "video_id": "yZR8QW4qQmM",
+      "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
+      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
+      "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
-      "published_at": "2026-10-06T13:00:35Z",
-      "view_count": 233224,
-      "duration_minutes": 56,
-      "url": "https://www.youtube.com/watch?v=IXeBycWo9bI"
+      "published_at": "2026-10-12T16:56:59Z",
+      "view_count": 171993,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=yZR8QW4qQmM"
     },
     {
       "video_id": "pAO3nrxxbCg",
@@ -200,7 +200,7 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-09T13:00:30Z",
-      "view_count": 153408,
+      "view_count": 159686,
       "duration_minutes": 43,
       "url": "https://www.youtube.com/watch?v=pAO3nrxxbCg"
     },
@@ -211,7 +211,7 @@
       "channel_title": "My First Million",
       "source_type": "Business podcast",
       "published_at": "2026-10-11T00:47:11Z",
-      "view_count": 98220,
+      "view_count": 130480,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=DHXPdVrsHkk"
     },
@@ -222,7 +222,7 @@
       "channel_title": "Alex Hormozi",
       "source_type": "Business podcast",
       "published_at": "2026-10-11T19:00:29Z",
-      "view_count": 82264,
+      "view_count": 109397,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=r-9RpAv1P9A"
     },
@@ -233,20 +233,20 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-08T20:16:52Z",
-      "view_count": 61312,
+      "view_count": 68296,
       "duration_minutes": 46,
       "url": "https://www.youtube.com/watch?v=hvDOy84v82k"
     },
     {
-      "video_id": "YxbEVUH_4w8",
-      "title": "The Random Show — AI Super Assistants, Dream Engineering, Wizards, Supplements, and More!",
-      "channel_id": "UCznv7Vf9nBdJYvBagFdAHWw",
-      "channel_title": "Tim Ferriss",
+      "video_id": "TLeh41_uhZ4",
+      "title": "Chamath: Software IP Just Became Worthless",
+      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
+      "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
-      "published_at": "2026-10-10T03:40:10Z",
-      "view_count": 53715,
-      "duration_minutes": 107,
-      "url": "https://www.youtube.com/watch?v=YxbEVUH_4w8"
+      "published_at": "2026-10-12T16:39:50Z",
+      "view_count": 61047,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=TLeh41_uhZ4"
     },
     {
       "video_id": "2_UGBF5BwGQ",
@@ -255,7 +255,7 @@
       "channel_title": "My First Million",
       "source_type": "Business podcast",
       "published_at": "2026-10-08T23:28:42Z",
-      "view_count": 52802,
+      "view_count": 60659,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=2_UGBF5BwGQ"
     }

@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-10-12T19:51:12.844765Z",
+  "generated_at": "2026-10-13T17:38:28.492259Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,14 +11,14 @@
       "handle": "@GitHub",
       "source_type": "Official company",
       "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Google for Developers",
       "handle": "@GoogleDevelopers",
       "source_type": "Official company",
       "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "Microsoft Developer",
@@ -32,56 +32,56 @@
       "handle": "@awsdevelopers",
       "source_type": "Official company",
       "channel_id": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Google Cloud Tech",
       "handle": "@googlecloudtech",
       "source_type": "Official company",
       "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "recent_video_count": 12
+      "recent_video_count": 13
     },
     {
       "name": "Cloudflare",
       "handle": "UCgv3xMy6kECn0boYP9d2o-g",
       "source_type": "Official company",
       "channel_id": "UCgv3xMy6kECn0boYP9d2o-g",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Docker",
       "handle": "dockerrun",
       "source_type": "Official company",
       "channel_id": "UC76AVf2JkrwjxNKMuPpscHQ",
-      "recent_video_count": 4
+      "recent_video_count": 1
     },
     {
       "name": "CNCF",
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 11
+      "recent_video_count": 10
     },
     {
       "name": "GitLab",
       "handle": "@GitLab",
       "source_type": "Official company",
       "channel_id": "UCnMGQ8QHMAnVIsI3xJrihhg",
-      "recent_video_count": 9
+      "recent_video_count": 4
     },
     {
       "name": "JetBrains",
       "handle": "@JetBrainsTV",
       "source_type": "Official company",
       "channel_id": "UCGp4UBwpTNegd_4nCpuBcow",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Fireship",
       "handle": "@Fireship",
       "source_type": "Independent creator",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "freeCodeCamp.org",
@@ -123,7 +123,7 @@
       "handle": "@TechWorldwithNana",
       "source_type": "Independent creator",
       "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Hussein Nasser",
@@ -144,11 +144,22 @@
       "handle": "@LaravelPHP",
       "source_type": "Official company",
       "channel_id": "UCfO2GiQwb-cwJTb1CuRSkwg",
-      "recent_video_count": 3
+      "recent_video_count": 2
     }
   ],
-  "candidate_count": 92,
+  "candidate_count": 78,
   "results": [
+    {
+      "video_id": "wajoP_5Cpw8",
+      "title": "Every app on Earth is now open source... whether it likes it or not",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "channel_title": "Fireship",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-12T19:15:23Z",
+      "view_count": 2024761,
+      "duration_minutes": 6,
+      "url": "https://www.youtube.com/watch?v=wajoP_5Cpw8"
+    },
     {
       "video_id": "WrCjAAl9okA",
       "title": "A $6.3 billion open-weight model just got embarrassed by the French...",
@@ -156,31 +167,9 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-10-07T20:24:27Z",
-      "view_count": 1414580,
+      "view_count": 1461852,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=WrCjAAl9okA"
-    },
-    {
-      "video_id": "anPsS6huQk0",
-      "title": "Introducing EmbeddingGemma 2: An open model for natively multimodal embeddings",
-      "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
-      "channel_title": "Google for Developers",
-      "source_type": "Official company",
-      "published_at": "2026-10-06T16:10:20Z",
-      "view_count": 190659,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=anPsS6huQk0"
-    },
-    {
-      "video_id": "nYA0yASgaZI",
-      "title": "Does the $200 Codex plan suck now?",
-      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
-      "channel_title": "Theo - t3․gg",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-07T20:40:02Z",
-      "view_count": 161284,
-      "duration_minutes": 34,
-      "url": "https://www.youtube.com/watch?v=nYA0yASgaZI"
     },
     {
       "video_id": "38_6C0dkKmU",
@@ -189,20 +178,20 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-09T02:20:47Z",
-      "view_count": 161129,
+      "view_count": 163628,
       "duration_minutes": 41,
       "url": "https://www.youtube.com/watch?v=38_6C0dkKmU"
     },
     {
-      "video_id": "EcpYM__4c8E",
-      "title": "You're Not Lazy. Your Learning Method Is Broken. Here's How To Fix It...",
-      "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
-      "channel_title": "TechWorld with Nana",
+      "video_id": "nYA0yASgaZI",
+      "title": "Does the $200 Codex plan suck now?",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
-      "published_at": "2026-10-06T13:34:18Z",
-      "view_count": 157572,
-      "duration_minutes": 20,
-      "url": "https://www.youtube.com/watch?v=EcpYM__4c8E"
+      "published_at": "2026-10-07T20:40:02Z",
+      "view_count": 162964,
+      "duration_minutes": 34,
+      "url": "https://www.youtube.com/watch?v=nYA0yASgaZI"
     },
     {
       "video_id": "ND_kRgU_WlY",
@@ -211,31 +200,9 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-10T10:58:42Z",
-      "view_count": 154152,
+      "view_count": 161425,
       "duration_minutes": 48,
       "url": "https://www.youtube.com/watch?v=ND_kRgU_WlY"
-    },
-    {
-      "video_id": "-gfgQfw2g_E",
-      "title": "Build & Train a GLM-5.3-Flash Model From Scratch with Python",
-      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
-      "channel_title": "freeCodeCamp.org",
-      "source_type": "Research institution",
-      "published_at": "2026-10-06T16:55:56Z",
-      "view_count": 152537,
-      "duration_minutes": 44,
-      "url": "https://www.youtube.com/watch?v=-gfgQfw2g_E"
-    },
-    {
-      "video_id": "pJljViiUEPw",
-      "title": "I love Ultrafast (it's unusable)",
-      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
-      "channel_title": "Theo - t3․gg",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-06T12:40:33Z",
-      "view_count": 141845,
-      "duration_minutes": 28,
-      "url": "https://www.youtube.com/watch?v=pJljViiUEPw"
     },
     {
       "video_id": "YY-egxTQirA",
@@ -244,7 +211,7 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-10-09T17:00:19Z",
-      "view_count": 114985,
+      "view_count": 122428,
       "duration_minutes": 43,
       "url": "https://www.youtube.com/watch?v=YY-egxTQirA"
     },
@@ -255,9 +222,42 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-12T02:39:38Z",
-      "view_count": 100933,
+      "view_count": 122261,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=vRS2leJLAI0"
+    },
+    {
+      "video_id": "DbWL6Zs2j_g",
+      "title": "Meta just caught up with Anthropic",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "channel_title": "Theo - t3․gg",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-13T11:01:13Z",
+      "view_count": 62585,
+      "duration_minutes": 38,
+      "url": "https://www.youtube.com/watch?v=DbWL6Zs2j_g"
+    },
+    {
+      "video_id": "P-UIf7V7gV0",
+      "title": "TanStack Router Course – Loaders, Auth & Type-Safe Routes",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "channel_title": "freeCodeCamp.org",
+      "source_type": "Research institution",
+      "published_at": "2026-10-08T11:00:27Z",
+      "view_count": 62185,
+      "duration_minutes": 92,
+      "url": "https://www.youtube.com/watch?v=P-UIf7V7gV0"
+    },
+    {
+      "video_id": "aVRjFZM23ak",
+      "title": "How to Test Your Code (Even When AI Writes It)",
+      "channel_id": "UCZgt6AzoyjslHTC9dz0UoTw",
+      "channel_title": "ByteByteGo",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-08T15:30:09Z",
+      "view_count": 59297,
+      "duration_minutes": 4,
+      "url": "https://www.youtube.com/watch?v=aVRjFZM23ak"
     }
   ]
 }

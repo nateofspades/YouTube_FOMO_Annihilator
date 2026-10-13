@@ -1,7 +1,7 @@
 {
   "slug": "ai",
   "title": "AI news",
-  "generated_at": "2026-10-12T19:51:12.844765Z",
+  "generated_at": "2026-10-13T17:38:28.492259Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,21 +11,21 @@
       "handle": "@aiexplained-official",
       "source_type": "AI-focused channel",
       "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Matt Wolfe",
       "handle": "@mreflow",
       "source_type": "AI-focused channel",
       "channel_id": "UChpleBmo18P08aKCIgti38g",
-      "recent_video_count": 2
+      "recent_video_count": 4
     },
     {
       "name": "TheAIGRID",
       "handle": "@TheAiGrid",
       "source_type": "AI-focused channel",
       "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "WorldofAI",
@@ -60,14 +60,14 @@
       "handle": "@TwoMinutePapers",
       "source_type": "AI-focused channel",
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Google DeepMind",
       "handle": "@googledeepmind",
       "source_type": "AI-focused channel",
       "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
-      "recent_video_count": 0
+      "recent_video_count": 4
     },
     {
       "name": "OpenAI",
@@ -88,10 +88,10 @@
       "handle": "@HuggingFace",
       "source_type": "AI-focused channel",
       "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "recent_video_count": 3
+      "recent_video_count": 5
     }
   ],
-  "candidate_count": 56,
+  "candidate_count": 67,
   "results": [
     {
       "video_id": "IsL4dVezs18",
@@ -100,7 +100,7 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-07T21:55:41Z",
-      "view_count": 630906,
+      "view_count": 638781,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=IsL4dVezs18"
     },
@@ -111,7 +111,7 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-06T21:33:36Z",
-      "view_count": 381257,
+      "view_count": 382846,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=FB6oCmrIj-Y"
     },
@@ -122,9 +122,20 @@
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-11T16:53:17Z",
-      "view_count": 238572,
+      "view_count": 282108,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc"
+    },
+    {
+      "video_id": "4iKUaUmeoWk",
+      "title": "Claude Opus 6 LEAKED, Gemini 4 Carbon Leaks, HUGE OpenAI Update, Claude 24/7 Agent, & More! AI NEWS",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "channel_title": "WorldofAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-12T07:25:21Z",
+      "view_count": 159513,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=4iKUaUmeoWk"
     },
     {
       "video_id": "Wkaw03p3BrM",
@@ -133,7 +144,7 @@
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-07T13:29:33Z",
-      "view_count": 142567,
+      "view_count": 144057,
       "duration_minutes": 33,
       "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM"
     },
@@ -144,20 +155,9 @@
       "channel_title": "WorldofAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-10T07:34:33Z",
-      "view_count": 125173,
+      "view_count": 126738,
       "duration_minutes": 32,
       "url": "https://www.youtube.com/watch?v=USpkPjv-lxs"
-    },
-    {
-      "video_id": "4iKUaUmeoWk",
-      "title": "Claude Opus 6 LEAKED, Gemini 4 Carbon Leaks, HUGE OpenAI Update, Claude 24/7 Agent, & More! AI NEWS",
-      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
-      "channel_title": "WorldofAI",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-12T07:25:21Z",
-      "view_count": 117326,
-      "duration_minutes": 25,
-      "url": "https://www.youtube.com/watch?v=4iKUaUmeoWk"
     },
     {
       "video_id": "NUizyuGj-kE",
@@ -166,7 +166,7 @@
       "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-09T15:00:01Z",
-      "view_count": 113819,
+      "view_count": 120394,
       "duration_minutes": 35,
       "url": "https://www.youtube.com/watch?v=NUizyuGj-kE"
     },
@@ -177,7 +177,7 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-09T19:13:03Z",
-      "view_count": 113183,
+      "view_count": 118548,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=p5KxBTUncoE"
     },
@@ -188,7 +188,7 @@
       "channel_title": "WorldofAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-11T07:45:11Z",
-      "view_count": 99258,
+      "view_count": 106767,
       "duration_minutes": 23,
       "url": "https://www.youtube.com/watch?v=0EwN9bb157M"
     },
@@ -199,7 +199,7 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-07T21:34:02Z",
-      "view_count": 93057,
+      "view_count": 94748,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=LiNhqbetrbU"
     }
