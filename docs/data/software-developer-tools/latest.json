@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-10-13T17:38:28.492259Z",
+  "generated_at": "2026-10-13T19:14:01.624901Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,21 +18,21 @@
       "handle": "@GoogleDevelopers",
       "source_type": "Official company",
       "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "Microsoft Developer",
       "handle": "@MicrosoftDeveloper",
       "source_type": "Official company",
       "channel_id": "UCsMica-v34Irf9KVTh6xx-g",
-      "recent_video_count": 9
+      "recent_video_count": 7
     },
     {
       "name": "AWS Developers",
       "handle": "@awsdevelopers",
       "source_type": "Official company",
       "channel_id": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Google Cloud Tech",
@@ -60,7 +60,7 @@
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "GitLab",
@@ -147,7 +147,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 78,
+  "candidate_count": 75,
   "results": [
     {
       "video_id": "wajoP_5Cpw8",
@@ -156,7 +156,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-10-12T19:15:23Z",
-      "view_count": 2024761,
+      "view_count": 2192539,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=wajoP_5Cpw8"
     },
@@ -167,7 +167,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-10-07T20:24:27Z",
-      "view_count": 1461852,
+      "view_count": 1465964,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=WrCjAAl9okA"
     },
@@ -178,7 +178,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-09T02:20:47Z",
-      "view_count": 163628,
+      "view_count": 163833,
       "duration_minutes": 41,
       "url": "https://www.youtube.com/watch?v=38_6C0dkKmU"
     },
@@ -200,7 +200,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-10T10:58:42Z",
-      "view_count": 161425,
+      "view_count": 162170,
       "duration_minutes": 48,
       "url": "https://www.youtube.com/watch?v=ND_kRgU_WlY"
     },
@@ -211,7 +211,7 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-10-09T17:00:19Z",
-      "view_count": 122428,
+      "view_count": 123363,
       "duration_minutes": 43,
       "url": "https://www.youtube.com/watch?v=YY-egxTQirA"
     },
@@ -222,7 +222,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-12T02:39:38Z",
-      "view_count": 122261,
+      "view_count": 123167,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=vRS2leJLAI0"
     },
@@ -233,7 +233,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-13T11:01:13Z",
-      "view_count": 62585,
+      "view_count": 87139,
       "duration_minutes": 38,
       "url": "https://www.youtube.com/watch?v=DbWL6Zs2j_g"
     },
@@ -244,7 +244,7 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-10-08T11:00:27Z",
-      "view_count": 62185,
+      "view_count": 62513,
       "duration_minutes": 92,
       "url": "https://www.youtube.com/watch?v=P-UIf7V7gV0"
     },
@@ -255,7 +255,7 @@
       "channel_title": "ByteByteGo",
       "source_type": "Independent creator",
       "published_at": "2026-10-08T15:30:09Z",
-      "view_count": 59297,
+      "view_count": 59829,
       "duration_minutes": 4,
       "url": "https://www.youtube.com/watch?v=aVRjFZM23ak"
     }

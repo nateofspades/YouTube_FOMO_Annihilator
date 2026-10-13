@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-10-13T17:38:28.492259Z",
+  "generated_at": "2026-10-13T19:14:01.624901Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@TheDiaryOfACEO",
       "source_type": "Business podcast",
       "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "My First Million",
@@ -130,7 +130,7 @@
       "handle": "@AlexHormozi",
       "source_type": "Business podcast",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "recent_video_count": 25
+      "recent_video_count": 26
     },
     {
       "name": "Startups for the Rest of Us",
@@ -144,10 +144,10 @@
       "handle": "@ycombinator",
       "source_type": "Business podcast",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 1
+      "recent_video_count": 2
     }
   ],
-  "candidate_count": 113,
+  "candidate_count": 114,
   "results": [
     {
       "video_id": "qDzg-xvkeXw",
@@ -156,7 +156,7 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-10-08T07:00:35Z",
-      "view_count": 2044843,
+      "view_count": 2058888,
       "duration_minutes": 124,
       "url": "https://www.youtube.com/watch?v=qDzg-xvkeXw"
     },
@@ -167,7 +167,7 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-10-12T07:00:32Z",
-      "view_count": 1649159,
+      "view_count": 1721504,
       "duration_minutes": 113,
       "url": "https://www.youtube.com/watch?v=IkhmdTqSvJw"
     },
@@ -178,7 +178,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-10T02:28:10Z",
-      "view_count": 490928,
+      "view_count": 495278,
       "duration_minutes": 93,
       "url": "https://www.youtube.com/watch?v=TBLHdXABwAg"
     },
@@ -189,7 +189,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-12T16:56:59Z",
-      "view_count": 171993,
+      "view_count": 183713,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=yZR8QW4qQmM"
     },
@@ -200,7 +200,7 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-09T13:00:30Z",
-      "view_count": 159686,
+      "view_count": 160741,
       "duration_minutes": 43,
       "url": "https://www.youtube.com/watch?v=pAO3nrxxbCg"
     },
@@ -211,7 +211,7 @@
       "channel_title": "My First Million",
       "source_type": "Business podcast",
       "published_at": "2026-10-11T00:47:11Z",
-      "view_count": 130480,
+      "view_count": 134680,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=DHXPdVrsHkk"
     },
@@ -222,7 +222,7 @@
       "channel_title": "Alex Hormozi",
       "source_type": "Business podcast",
       "published_at": "2026-10-11T19:00:29Z",
-      "view_count": 109397,
+      "view_count": 111577,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=r-9RpAv1P9A"
     },
@@ -233,7 +233,7 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-08T20:16:52Z",
-      "view_count": 68296,
+      "view_count": 69220,
       "duration_minutes": 46,
       "url": "https://www.youtube.com/watch?v=hvDOy84v82k"
     },
@@ -244,7 +244,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-12T16:39:50Z",
-      "view_count": 61047,
+      "view_count": 67996,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=TLeh41_uhZ4"
     },
@@ -255,7 +255,7 @@
       "channel_title": "My First Million",
       "source_type": "Business podcast",
       "published_at": "2026-10-08T23:28:42Z",
-      "view_count": 60659,
+      "view_count": 61862,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=2_UGBF5BwGQ"
     }

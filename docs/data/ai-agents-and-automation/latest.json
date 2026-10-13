@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-10-13T17:38:28.492259Z",
+  "generated_at": "2026-10-13T19:14:01.624901Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -53,7 +53,7 @@
       "handle": "@krishnaik06",
       "source_type": "AI agent and automation",
       "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "AI Code King",
@@ -123,7 +123,7 @@
       "handle": "@WeightsBiases",
       "source_type": "AI agent and automation",
       "channel_id": "UCBp3w4DCEC64FZr4k9ROxig",
-      "recent_video_count": 42
+      "recent_video_count": 43
     },
     {
       "name": "Hugging Face",
@@ -133,7 +133,7 @@
       "recent_video_count": 5
     }
   ],
-  "candidate_count": 123,
+  "candidate_count": 125,
   "results": [
     {
       "video_id": "hTAWHgQI4xg",
@@ -142,7 +142,7 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-12T11:00:38Z",
-      "view_count": 71098,
+      "view_count": 74641,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=hTAWHgQI4xg"
     },
@@ -153,7 +153,7 @@
       "channel_title": "Tech With Tim",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-09T15:58:42Z",
-      "view_count": 60486,
+      "view_count": 61012,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=mU5Hgbpff_s"
     },
@@ -164,7 +164,7 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-11T11:00:03Z",
-      "view_count": 52502,
+      "view_count": 53676,
       "duration_minutes": 4,
       "url": "https://www.youtube.com/watch?v=zRMAvMSSSII"
     },
@@ -175,7 +175,7 @@
       "channel_title": "Cole Medin",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-09T14:52:28Z",
-      "view_count": 18681,
+      "view_count": 18772,
       "duration_minutes": 13,
       "url": "https://www.youtube.com/watch?v=cWjS56edaUA"
     },
@@ -186,7 +186,7 @@
       "channel_title": "How I AI",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-12T12:00:24Z",
-      "view_count": 10098,
+      "view_count": 10599,
       "duration_minutes": 38,
       "url": "https://www.youtube.com/watch?v=4TOLm1g-gCE"
     },
@@ -197,7 +197,7 @@
       "channel_title": "Hugging Face",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-13T03:37:35Z",
-      "view_count": 7068,
+      "view_count": 7651,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=EuN8WCWQf7g"
     },
@@ -208,7 +208,7 @@
       "channel_title": "Krish Naik",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-10T09:30:36Z",
-      "view_count": 6914,
+      "view_count": 6991,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=Di3HIeC9ylU"
     },
@@ -241,7 +241,7 @@
       "channel_title": "CoreWeave",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-09T19:00:36Z",
-      "view_count": 369,
+      "view_count": 370,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=dmpmORvkI5g"
     }

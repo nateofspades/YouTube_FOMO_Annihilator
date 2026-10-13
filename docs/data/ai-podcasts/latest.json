@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-10-13T17:38:28.492259Z",
+  "generated_at": "2026-10-13T19:14:01.624901Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -25,14 +25,14 @@
       "handle": "UCxBcwypKK-W3GHd_RZ9FZrQ",
       "source_type": "AI podcast",
       "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Cognitive Revolution",
       "handle": "UCjNRVMBVI30Sak_p6HRWhIA",
       "source_type": "AI podcast",
       "channel_id": "UCjNRVMBVI30Sak_p6HRWhIA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "No Priors",
@@ -107,7 +107,7 @@
       "channel_title": "Latent Space",
       "source_type": "AI podcast",
       "published_at": "2026-10-08T00:31:15Z",
-      "view_count": 53115,
+      "view_count": 53751,
       "duration_minutes": 85,
       "url": "https://www.youtube.com/watch?v=YHiqVRxGViM"
     },
@@ -118,7 +118,7 @@
       "channel_title": "Cognitive Revolution \"How AI Changes Everything\"",
       "source_type": "AI podcast",
       "published_at": "2026-10-08T10:50:42Z",
-      "view_count": 16385,
+      "view_count": 16759,
       "duration_minutes": 87,
       "url": "https://www.youtube.com/watch?v=g_K9pqbQJwU"
     },
@@ -129,7 +129,7 @@
       "channel_title": "Cognitive Revolution \"How AI Changes Everything\"",
       "source_type": "AI podcast",
       "published_at": "2026-10-07T17:00:26Z",
-      "view_count": 14085,
+      "view_count": 14314,
       "duration_minutes": 70,
       "url": "https://www.youtube.com/watch?v=Y2qs-BKoMb4"
     },
@@ -140,7 +140,7 @@
       "channel_title": "Latent Space",
       "source_type": "AI podcast",
       "published_at": "2026-10-10T00:30:41Z",
-      "view_count": 10018,
+      "view_count": 10188,
       "duration_minutes": 33,
       "url": "https://www.youtube.com/watch?v=NufiHZfMwaw"
     },
@@ -151,7 +151,7 @@
       "channel_title": "Machine Gods",
       "source_type": "AI podcast",
       "published_at": "2026-10-11T23:04:58Z",
-      "view_count": 4363,
+      "view_count": 4869,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=GOxQgRXWb4A"
     },
@@ -162,7 +162,7 @@
       "channel_title": "Machine Gods",
       "source_type": "AI podcast",
       "published_at": "2026-10-09T23:03:45Z",
-      "view_count": 1522,
+      "view_count": 1539,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=NkHw9B_FEj4"
     },
@@ -173,20 +173,9 @@
       "channel_title": "No Priors: AI, Machine Learning, Tech, & Startups",
       "source_type": "AI podcast",
       "published_at": "2026-10-08T00:04:38Z",
-      "view_count": 1331,
+      "view_count": 1332,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=5IykW1TtCfk"
-    },
-    {
-      "video_id": "bBGz-1Mqorw",
-      "title": "AI’s Memory Wall + Swyx on AI Engineering",
-      "channel_id": "UCjNRVMBVI30Sak_p6HRWhIA",
-      "channel_title": "Cognitive Revolution \"How AI Changes Everything\"",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-06T18:49:40Z",
-      "view_count": 955,
-      "duration_minutes": 161,
-      "url": "https://www.youtube.com/watch?v=bBGz-1Mqorw"
     },
     {
       "video_id": "lyAboyYjIXU",
@@ -206,9 +195,20 @@
       "channel_title": "Cognitive Revolution \"How AI Changes Everything\"",
       "source_type": "AI podcast",
       "published_at": "2026-10-12T18:56:38Z",
-      "view_count": 668,
+      "view_count": 701,
       "duration_minutes": 159,
       "url": "https://www.youtube.com/watch?v=UiA21EJtlAM"
+    },
+    {
+      "video_id": "1gwiZ0EfhM4",
+      "title": "Last Week in AI #259 - Dots, Sonnet, Self-Safety, Rogue AI",
+      "channel_id": "UCKARTq-t5SPMzwtft8FWwnA",
+      "channel_title": "Last Week in AI",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-13T08:09:05Z",
+      "view_count": 311,
+      "duration_minutes": 84,
+      "url": "https://www.youtube.com/watch?v=1gwiZ0EfhM4"
     }
   ]
 }
