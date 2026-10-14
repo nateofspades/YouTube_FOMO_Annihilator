@@ -69,6 +69,13 @@ def resolve_channel(handle: str, api_key: str) -> dict:
 
 
 def recent_video_ids(uploads_playlist: str, cutoff: datetime, api_key: str) -> list[str]:
+    """Return recent public videos, ignoring unavailable playlist entries.
+
+    Upload playlists can include private, deleted, or otherwise unavailable
+    entries.  Those entries may omit ``contentDetails.videoPublishedAt`` (and
+    sometimes ``videoId``), so they must not abort collection for every
+    category.
+    """
     video_ids: list[str] = []
     page_token = None
     while True:
@@ -77,11 +84,28 @@ def recent_video_ids(uploads_playlist: str, cutoff: datetime, api_key: str) -> l
             params["pageToken"] = page_token
         payload = youtube_get("playlistItems", params, api_key)
         items = payload.get("items", [])
+        reached_older_video = False
         for item in items:
-            published_at = parse_published_at(item["contentDetails"]["videoPublishedAt"])
+            content_details = item.get("contentDetails", {})
+            video_id = content_details.get("videoId")
+            # snippet.publishedAt is the documented fallback when a playlist
+            # item has no videoPublishedAt, including some unavailable items.
+            published_at_raw = content_details.get("videoPublishedAt") or item.get("snippet", {}).get("publishedAt")
+            if not video_id or not published_at_raw:
+                print("Skipping unavailable playlist item with missing video metadata.")
+                continue
+            try:
+                published_at = parse_published_at(published_at_raw)
+            except (TypeError, ValueError):
+                print("Skipping playlist item with an invalid publication timestamp.")
+                continue
             if published_at >= cutoff:
-                video_ids.append(item["contentDetails"]["videoId"])
-        if not items or parse_published_at(items[-1]["contentDetails"]["videoPublishedAt"]) < cutoff:
+                video_ids.append(video_id)
+            else:
+                reached_older_video = True
+        # Uploads playlists are reverse chronological. Once a usable entry is
+        # older than the window, every following page is older as well.
+        if not items or reached_older_video:
             break
         page_token = payload.get("nextPageToken")
         if not page_token:

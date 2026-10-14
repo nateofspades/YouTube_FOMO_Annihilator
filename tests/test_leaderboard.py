@@ -1,6 +1,7 @@
 import unittest
 from datetime import datetime, timezone
 from pathlib import Path
+from unittest.mock import patch
 
 from app.leaderboard import (
     filter_and_rank_videos,
@@ -8,10 +9,28 @@ from app.leaderboard import (
     parse_duration_minutes,
     parse_published_at,
 )
-from scripts.update_leaderboard import has_complete_snapshot, load_categories, rank_category_videos
+from scripts.update_leaderboard import has_complete_snapshot, load_categories, rank_category_videos, recent_video_ids
 
 
 class LeaderboardTests(unittest.TestCase):
+    def test_recent_video_ids_skips_unavailable_items_and_uses_snippet_fallback(self):
+        cutoff = datetime(2026, 10, 7, tzinfo=timezone.utc)
+        playlist_page = {
+            "items": [
+                {"contentDetails": {"videoId": "recent", "videoPublishedAt": "2026-10-13T12:00:00Z"}},
+                {"contentDetails": {}},
+                {"contentDetails": {"videoId": "fallback"}, "snippet": {"publishedAt": "2026-10-12T12:00:00Z"}},
+                {"contentDetails": {"videoId": "old", "videoPublishedAt": "2026-10-06T12:00:00Z"}},
+            ],
+            "nextPageToken": "should-not-be-requested",
+        }
+
+        with patch("scripts.update_leaderboard.youtube_get", return_value=playlist_page) as youtube_get:
+            video_ids = recent_video_ids("uploads", cutoff, "test-key")
+
+        self.assertEqual(video_ids, ["recent", "fallback"])
+        youtube_get.assert_called_once()
+
     def test_complete_snapshot_requires_every_category_for_the_local_date(self):
         from tempfile import TemporaryDirectory
 
