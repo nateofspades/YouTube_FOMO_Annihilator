@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-10-13T19:14:01.624901Z",
+  "generated_at": "2026-10-14T18:49:37.044479Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,21 +11,21 @@
       "handle": "@allaboutai",
       "source_type": "AI agent and automation",
       "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Alex Finn",
       "handle": "@AlexFinnOfficial",
       "source_type": "AI agent and automation",
       "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Matthew Berman",
       "handle": "@matthew_berman",
       "source_type": "AI agent and automation",
       "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "recent_video_count": 10
+      "recent_video_count": 11
     },
     {
       "name": "Cole Medin",
@@ -39,21 +39,21 @@
       "handle": "@Futurepedia_io",
       "source_type": "AI agent and automation",
       "channel_id": "UC_RovKmk0OCbuZjA8f08opw",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Nate Herk",
       "handle": "@NateHerk",
       "source_type": "AI agent and automation",
       "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "recent_video_count": 11
+      "recent_video_count": 13
     },
     {
       "name": "Krish Naik",
       "handle": "@krishnaik06",
       "source_type": "AI agent and automation",
       "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "AI Code King",
@@ -81,7 +81,7 @@
       "handle": "@Fireship",
       "source_type": "AI agent and automation",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Tech With Tim",
@@ -109,21 +109,21 @@
       "handle": "@howiaipodcast",
       "source_type": "AI agent and automation",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "IBM Technology",
       "handle": "@IBMTechnology",
       "source_type": "AI agent and automation",
       "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
-      "recent_video_count": 7
+      "recent_video_count": 9
     },
     {
       "name": "Weights & Biases",
       "handle": "@WeightsBiases",
       "source_type": "AI agent and automation",
       "channel_id": "UCBp3w4DCEC64FZr4k9ROxig",
-      "recent_video_count": 43
+      "recent_video_count": 40
     },
     {
       "name": "Hugging Face",
@@ -133,7 +133,7 @@
       "recent_video_count": 5
     }
   ],
-  "candidate_count": 125,
+  "candidate_count": 129,
   "results": [
     {
       "video_id": "hTAWHgQI4xg",
@@ -142,7 +142,7 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-12T11:00:38Z",
-      "view_count": 74641,
+      "view_count": 102398,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=hTAWHgQI4xg"
     },
@@ -153,7 +153,7 @@
       "channel_title": "Tech With Tim",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-09T15:58:42Z",
-      "view_count": 61012,
+      "view_count": 64839,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=mU5Hgbpff_s"
     },
@@ -164,7 +164,7 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-11T11:00:03Z",
-      "view_count": 53676,
+      "view_count": 62373,
       "duration_minutes": 4,
       "url": "https://www.youtube.com/watch?v=zRMAvMSSSII"
     },
@@ -175,7 +175,7 @@
       "channel_title": "Cole Medin",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-09T14:52:28Z",
-      "view_count": 18772,
+      "view_count": 19587,
       "duration_minutes": 13,
       "url": "https://www.youtube.com/watch?v=cWjS56edaUA"
     },
@@ -186,7 +186,7 @@
       "channel_title": "How I AI",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-12T12:00:24Z",
-      "view_count": 10599,
+      "view_count": 13591,
       "duration_minutes": 38,
       "url": "https://www.youtube.com/watch?v=4TOLm1g-gCE"
     },
@@ -197,7 +197,7 @@
       "channel_title": "Hugging Face",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-13T03:37:35Z",
-      "view_count": 7651,
+      "view_count": 10035,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=EuN8WCWQf7g"
     },
@@ -208,7 +208,7 @@
       "channel_title": "Krish Naik",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-10T09:30:36Z",
-      "view_count": 6991,
+      "view_count": 7220,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=Di3HIeC9ylU"
     },
@@ -219,20 +219,9 @@
       "channel_title": "CoreWeave",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-08T17:00:10Z",
-      "view_count": 597,
+      "view_count": 598,
       "duration_minutes": 23,
       "url": "https://www.youtube.com/watch?v=T3K5H77ad18"
-    },
-    {
-      "video_id": "QzG7-2-b24g",
-      "title": "Scaling in the Agentic Era with NVIDIA Vera Rubin NVL72",
-      "channel_id": "UCBp3w4DCEC64FZr4k9ROxig",
-      "channel_title": "CoreWeave",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-07T18:30:07Z",
-      "view_count": 413,
-      "duration_minutes": 25,
-      "url": "https://www.youtube.com/watch?v=QzG7-2-b24g"
     },
     {
       "video_id": "dmpmORvkI5g",
@@ -241,9 +230,20 @@
       "channel_title": "CoreWeave",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-09T19:00:36Z",
-      "view_count": 370,
+      "view_count": 377,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=dmpmORvkI5g"
+    },
+    {
+      "video_id": "ObzZcszkdSs",
+      "title": "Post-Training at the Frontier: How You.com, NVIDIA, and CoreWeave Improved Nemotron’s Agentic Search",
+      "channel_id": "UCBp3w4DCEC64FZr4k9ROxig",
+      "channel_title": "CoreWeave",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-09T13:00:17Z",
+      "view_count": 375,
+      "duration_minutes": 24,
+      "url": "https://www.youtube.com/watch?v=ObzZcszkdSs"
     }
   ]
 }

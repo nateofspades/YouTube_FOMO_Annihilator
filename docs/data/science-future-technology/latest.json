@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-10-13T19:14:01.624901Z",
+  "generated_at": "2026-10-14T18:49:37.044479Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -60,35 +60,35 @@
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Boston Dynamics",
       "handle": "@BostonDynamics",
       "source_type": "Official company",
       "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "NASA",
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 7
+      "recent_video_count": 5
     },
     {
       "name": "European Space Agency",
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 12
+      "recent_video_count": 6
     },
     {
       "name": "Cleo Abram",
       "handle": "@CleoAbram",
       "source_type": "Editorial/media",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "recent_video_count": 6
+      "recent_video_count": 4
     },
     {
       "name": "Undecided",
@@ -148,19 +148,8 @@
       "recent_video_count": 0
     }
   ],
-  "candidate_count": 40,
+  "candidate_count": 30,
   "results": [
-    {
-      "video_id": "TZd3xs5A3mE",
-      "title": "This Discovery Just Won the Nobel Prize in Physics",
-      "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "channel_title": "Cleo Abram",
-      "source_type": "Editorial/media",
-      "published_at": "2026-10-07T12:01:07Z",
-      "view_count": 3786152,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=TZd3xs5A3mE"
-    },
     {
       "video_id": "NiCgcUTL9_Q",
       "title": "The Absurd Engineering Behind the Internet",
@@ -168,7 +157,7 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-12T17:11:45Z",
-      "view_count": 3229025,
+      "view_count": 4935310,
       "duration_minutes": 35,
       "url": "https://www.youtube.com/watch?v=NiCgcUTL9_Q"
     },
@@ -179,31 +168,9 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-09T13:00:03Z",
-      "view_count": 2799694,
+      "view_count": 2918708,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=j9p3Sn8ROL4"
-    },
-    {
-      "video_id": "T511xU4RZqw",
-      "title": "please PLEASE DO NOT try this at home 🔥🔥🔥 #hacksmith #makeitreal #lightsaber",
-      "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "channel_title": "Hacksmith Industries",
-      "source_type": "Official company",
-      "published_at": "2026-10-07T16:00:15Z",
-      "view_count": 1995969,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=T511xU4RZqw"
-    },
-    {
-      "video_id": "1LRvMRC_pfY",
-      "title": "The Biggest Launch Since ChatGPT (Muse)",
-      "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "channel_title": "Cleo Abram",
-      "source_type": "Editorial/media",
-      "published_at": "2026-10-07T16:19:40Z",
-      "view_count": 1305303,
-      "duration_minutes": 68,
-      "url": "https://www.youtube.com/watch?v=1LRvMRC_pfY"
     },
     {
       "video_id": "VLLxNuZ2r20",
@@ -212,7 +179,7 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-10T14:02:11Z",
-      "view_count": 949822,
+      "view_count": 1072302,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=VLLxNuZ2r20"
     },
@@ -223,9 +190,20 @@
       "channel_title": "Hacksmith Industries",
       "source_type": "Official company",
       "published_at": "2026-10-08T20:02:40Z",
-      "view_count": 848574,
+      "view_count": 895515,
       "duration_minutes": 41,
       "url": "https://www.youtube.com/watch?v=qgTfVQaHW5A"
+    },
+    {
+      "video_id": "GNatcGIV18A",
+      "title": "Sharks Are WAY OLDER Than You Think",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-13T14:23:31Z",
+      "view_count": 734952,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=GNatcGIV18A"
     },
     {
       "video_id": "w6229Ivy_Lo",
@@ -234,7 +212,7 @@
       "channel_title": "PBS Space Time",
       "source_type": "Editorial/media",
       "published_at": "2026-10-08T20:15:02Z",
-      "view_count": 641189,
+      "view_count": 670779,
       "duration_minutes": 16,
       "url": "https://www.youtube.com/watch?v=w6229Ivy_Lo"
     },
@@ -245,7 +223,7 @@
       "channel_title": "Two Bit da Vinci",
       "source_type": "Independent creator",
       "published_at": "2026-10-08T11:37:03Z",
-      "view_count": 524743,
+      "view_count": 541452,
       "duration_minutes": 21,
       "url": "https://www.youtube.com/watch?v=xt4OzTxDvSo"
     },
@@ -256,9 +234,31 @@
       "channel_title": "NASA",
       "source_type": "Government",
       "published_at": "2026-10-08T16:52:21Z",
-      "view_count": 500078,
+      "view_count": 502683,
       "duration_minutes": 139,
       "url": "https://www.youtube.com/watch?v=x6p9Ri0DlNE"
+    },
+    {
+      "video_id": "kriIXJkoyBs",
+      "title": "The Hidden Problem With the World's Most Efficient Solar Panel",
+      "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
+      "channel_title": "Undecided with Matt Ferrell",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-13T12:16:55Z",
+      "view_count": 239035,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=kriIXJkoyBs"
+    },
+    {
+      "video_id": "pLmLi-pJ604",
+      "title": "How long until we find a theory of everything | Don Lincoln",
+      "channel_id": "UCD5B6VoXv41fJ-IW8Wrhz9A",
+      "channel_title": "Fermilab",
+      "source_type": "Research institution",
+      "published_at": "2026-10-09T15:34:25Z",
+      "view_count": 225974,
+      "duration_minutes": 13,
+      "url": "https://www.youtube.com/watch?v=pLmLi-pJ604"
     }
   ]
 }

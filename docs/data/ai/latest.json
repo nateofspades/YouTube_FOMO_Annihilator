@@ -1,7 +1,7 @@
 {
   "slug": "ai",
   "title": "AI news",
-  "generated_at": "2026-10-13T19:14:01.624901Z",
+  "generated_at": "2026-10-14T18:49:37.044479Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,35 +18,35 @@
       "handle": "@mreflow",
       "source_type": "AI-focused channel",
       "channel_id": "UChpleBmo18P08aKCIgti38g",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "TheAIGRID",
       "handle": "@TheAiGrid",
       "source_type": "AI-focused channel",
       "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "WorldofAI",
       "handle": "@intheworldofai",
       "source_type": "AI-focused channel",
       "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "All About AI",
       "handle": "@AllAboutAI",
       "source_type": "AI-focused channel",
       "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "The AI Advantage",
       "handle": "@aiadvantage",
       "source_type": "AI-focused channel",
       "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ",
-      "recent_video_count": 8
+      "recent_video_count": 10
     },
     {
       "name": "Aitrepreneur",
@@ -60,7 +60,7 @@
       "handle": "@TwoMinutePapers",
       "source_type": "AI-focused channel",
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Google DeepMind",
@@ -74,7 +74,7 @@
       "handle": "@openai",
       "source_type": "AI-focused channel",
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "recent_video_count": 28
+      "recent_video_count": 29
     },
     {
       "name": "Anthropic",
@@ -91,7 +91,7 @@
       "recent_video_count": 5
     }
   ],
-  "candidate_count": 70,
+  "candidate_count": 72,
   "results": [
     {
       "video_id": "IsL4dVezs18",
@@ -100,20 +100,9 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-07T21:55:41Z",
-      "view_count": 639954,
+      "view_count": 647655,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=IsL4dVezs18"
-    },
-    {
-      "video_id": "FB6oCmrIj-Y",
-      "title": "Introducing the Decisions API",
-      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "channel_title": "OpenAI",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-06T21:33:36Z",
-      "view_count": 383065,
-      "duration_minutes": 6,
-      "url": "https://www.youtube.com/watch?v=FB6oCmrIj-Y"
     },
     {
       "video_id": "4fLVq6HJsKc",
@@ -122,9 +111,31 @@
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-11T16:53:17Z",
-      "view_count": 284809,
+      "view_count": 301121,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc"
+    },
+    {
+      "video_id": "9PICEmtfpWU",
+      "title": "Teaching a humanoid robot to play cornhole with Gemini 4 Argon",
+      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "channel_title": "Google DeepMind",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-13T15:58:20Z",
+      "view_count": 216708,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=9PICEmtfpWU"
+    },
+    {
+      "video_id": "eBszYxzE2dk",
+      "title": "Google Just Caught Up (Gemini-4 Argon)",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "channel_title": "Matt Wolfe",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-13T16:47:07Z",
+      "view_count": 186392,
+      "duration_minutes": 21,
+      "url": "https://www.youtube.com/watch?v=eBszYxzE2dk"
     },
     {
       "video_id": "4iKUaUmeoWk",
@@ -133,20 +144,20 @@
       "channel_title": "WorldofAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-12T07:25:21Z",
-      "view_count": 162512,
+      "view_count": 177195,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=4iKUaUmeoWk"
     },
     {
-      "video_id": "Wkaw03p3BrM",
-      "title": "DeepMind's New AI Just Cracked The Code Of Life",
+      "video_id": "z_sXLlLVUls",
+      "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
-      "published_at": "2026-10-07T13:29:33Z",
-      "view_count": 144257,
-      "duration_minutes": 33,
-      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM"
+      "published_at": "2026-10-13T08:56:12Z",
+      "view_count": 171082,
+      "duration_minutes": 9,
+      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls"
     },
     {
       "video_id": "USpkPjv-lxs",
@@ -155,7 +166,7 @@
       "channel_title": "WorldofAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-10T07:34:33Z",
-      "view_count": 126863,
+      "view_count": 127701,
       "duration_minutes": 32,
       "url": "https://www.youtube.com/watch?v=USpkPjv-lxs"
     },
@@ -166,7 +177,7 @@
       "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-09T15:00:01Z",
-      "view_count": 121216,
+      "view_count": 125283,
       "duration_minutes": 35,
       "url": "https://www.youtube.com/watch?v=NUizyuGj-kE"
     },
@@ -177,31 +188,20 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-09T19:13:03Z",
-      "view_count": 119186,
+      "view_count": 123206,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=p5KxBTUncoE"
     },
     {
-      "video_id": "0EwN9bb157M",
-      "title": "China AI ACHIEVED RSI? GLM 5.5, NEW Fable 5.5 Checkpoint, Qwen4, Kimi K3.1, M3.1 Pro & More! AI NEWS",
-      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
-      "channel_title": "WorldofAI",
+      "video_id": "C4Sq3Rot8FU",
+      "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
+      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "channel_title": "AI Explained",
       "source_type": "AI-focused channel",
-      "published_at": "2026-10-11T07:45:11Z",
-      "view_count": 107395,
-      "duration_minutes": 23,
-      "url": "https://www.youtube.com/watch?v=0EwN9bb157M"
-    },
-    {
-      "video_id": "z_sXLlLVUls",
-      "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "channel_title": "Two Minute Papers",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-13T08:56:12Z",
-      "view_count": 105103,
-      "duration_minutes": 9,
-      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls"
+      "published_at": "2026-10-12T22:52:31Z",
+      "view_count": 122617,
+      "duration_minutes": 31,
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU"
     }
   ]
 }

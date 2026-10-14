@@ -1,0 +1,263 @@
+{
+  "slug": "business-podcasts",
+  "title": "Business podcasts",
+  "generated_at": "2026-10-14T18:49:37.044479Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "The Diary Of A CEO",
+      "handle": "@TheDiaryOfACEO",
+      "source_type": "Business podcast",
+      "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
+      "recent_video_count": 6
+    },
+    {
+      "name": "My First Million",
+      "handle": "@MyFirstMillionPod",
+      "source_type": "Business podcast",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "recent_video_count": 10
+    },
+    {
+      "name": "Acquired",
+      "handle": "@AcquiredFM",
+      "source_type": "Business podcast",
+      "channel_id": "UCyFqFYfTW2VoIQKylJ04Rtw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "All-In Podcast",
+      "handle": "@allin",
+      "source_type": "Business podcast",
+      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
+      "recent_video_count": 9
+    },
+    {
+      "name": "Guy Raz / How I Built This",
+      "handle": "@guy_raz",
+      "source_type": "Business podcast",
+      "channel_id": "UCNSfrxNEmCruNtjIzxCBHjg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Founders Podcast",
+      "handle": "@founderspodcast1",
+      "source_type": "Business podcast",
+      "channel_id": "UCQ-rrUCsJLNjFdPtKq0YOfA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Lenny's Podcast",
+      "handle": "@LennysPodcast",
+      "source_type": "Business podcast",
+      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
+      "recent_video_count": 6
+    },
+    {
+      "name": "Masters of Scale",
+      "handle": "@MastersofScale_",
+      "source_type": "Business podcast",
+      "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
+      "recent_video_count": 6
+    },
+    {
+      "name": "Invest Like The Best",
+      "handle": "@ILTB_Podcast",
+      "source_type": "Business podcast",
+      "channel_id": "UCpQBb0fToph3jrDulwz1iUQ",
+      "recent_video_count": 5
+    },
+    {
+      "name": "The Knowledge Project Podcast",
+      "handle": "@tkppodcast",
+      "source_type": "Business podcast",
+      "channel_id": "UCLtTf_uKt0Itd0NG7txrwXA",
+      "recent_video_count": 3
+    },
+    {
+      "name": "This Week in Startups",
+      "handle": "@startups",
+      "source_type": "Business podcast",
+      "channel_id": "UCkkhmBWfS7pILYIk0izkc3A",
+      "recent_video_count": 3
+    },
+    {
+      "name": "20VC with Harry Stebbings",
+      "handle": "@20VC",
+      "source_type": "Business podcast",
+      "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
+      "recent_video_count": 13
+    },
+    {
+      "name": "a16z",
+      "handle": "@a16z",
+      "source_type": "Business podcast",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "recent_video_count": 6
+    },
+    {
+      "name": "The Prof G Pod – Scott Galloway",
+      "handle": "@TheProfGPod",
+      "source_type": "Business podcast",
+      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
+      "recent_video_count": 12
+    },
+    {
+      "name": "Pivot with Kara Swisher and Scott Galloway",
+      "handle": "@pivot",
+      "source_type": "Business podcast",
+      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
+      "recent_video_count": 5
+    },
+    {
+      "name": "Tim Ferriss",
+      "handle": "@timferriss",
+      "source_type": "Business podcast",
+      "channel_id": "UCznv7Vf9nBdJYvBagFdAHWw",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Young and Profiting",
+      "handle": "@youngandprofiting",
+      "source_type": "Business podcast",
+      "channel_id": "UCtz8s6nPLvrVQ4YhOJz6DSg",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Alex Hormozi / The Game",
+      "handle": "@AlexHormozi",
+      "source_type": "Business podcast",
+      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
+      "recent_video_count": 23
+    },
+    {
+      "name": "Startups for the Rest of Us",
+      "handle": "@startupspod",
+      "source_type": "Business podcast",
+      "channel_id": "UCBxlPnyLV9dpca8s_6o59XA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Y Combinator",
+      "handle": "@ycombinator",
+      "source_type": "Business podcast",
+      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "recent_video_count": 3
+    }
+  ],
+  "candidate_count": 118,
+  "results": [
+    {
+      "video_id": "IkhmdTqSvJw",
+      "title": "UFO Cover-Up Analyst: The Secret Alien Programs Nobody Is Talking About! | Eric Weinstein",
+      "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
+      "channel_title": "The Diary Of A CEO",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-12T07:00:32Z",
+      "view_count": 2374159,
+      "duration_minutes": 113,
+      "url": "https://www.youtube.com/watch?v=IkhmdTqSvJw"
+    },
+    {
+      "video_id": "qDzg-xvkeXw",
+      "title": "AI Insider: \"They Are Hiding What Is Really Happening\" | Jeffrey Ladish",
+      "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
+      "channel_title": "The Diary Of A CEO",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-08T07:00:35Z",
+      "view_count": 2173314,
+      "duration_minutes": 124,
+      "url": "https://www.youtube.com/watch?v=qDzg-xvkeXw"
+    },
+    {
+      "video_id": "TBLHdXABwAg",
+      "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math Backlash, France Riots",
+      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
+      "channel_title": "All-In Podcast",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-10T02:28:10Z",
+      "view_count": 523806,
+      "duration_minutes": 93,
+      "url": "https://www.youtube.com/watch?v=TBLHdXABwAg"
+    },
+    {
+      "video_id": "yZR8QW4qQmM",
+      "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
+      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
+      "channel_title": "All-In Podcast",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-12T16:56:59Z",
+      "view_count": 248187,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=yZR8QW4qQmM"
+    },
+    {
+      "video_id": "DHXPdVrsHkk",
+      "title": "What Palmer Luckey would build if he started over",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-11T00:47:11Z",
+      "view_count": 170634,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=DHXPdVrsHkk"
+    },
+    {
+      "video_id": "pAO3nrxxbCg",
+      "title": "This is What Happens When Kara Swisher is VERY Late to Pivot",
+      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
+      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-09T13:00:30Z",
+      "view_count": 166381,
+      "duration_minutes": 43,
+      "url": "https://www.youtube.com/watch?v=pAO3nrxxbCg"
+    },
+    {
+      "video_id": "r-9RpAv1P9A",
+      "title": "How I Price Every New Offer",
+      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
+      "channel_title": "Alex Hormozi",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-11T19:00:29Z",
+      "view_count": 129101,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=r-9RpAv1P9A"
+    },
+    {
+      "video_id": "TLeh41_uhZ4",
+      "title": "Chamath: Software IP Just Became Worthless",
+      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
+      "channel_title": "All-In Podcast",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-12T16:39:50Z",
+      "view_count": 120748,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=TLeh41_uhZ4"
+    },
+    {
+      "video_id": "NZGzUEJOpmk",
+      "title": "“Should I Start An AI Business?”",
+      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
+      "channel_title": "Alex Hormozi",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-13T16:00:40Z",
+      "view_count": 109098,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=NZGzUEJOpmk"
+    },
+    {
+      "video_id": "2_UGBF5BwGQ",
+      "title": "The soda brand that sold for over $2B",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-08T23:28:42Z",
+      "view_count": 73226,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=2_UGBF5BwGQ"
+    }
+  ]
+}
