@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-10-14T18:49:37.044479Z",
+  "generated_at": "2026-10-15T15:06:13.797915Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,14 +18,14 @@
       "handle": "@AlexFinnOfficial",
       "source_type": "AI agent and automation",
       "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Matthew Berman",
       "handle": "@matthew_berman",
       "source_type": "AI agent and automation",
       "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "recent_video_count": 11
+      "recent_video_count": 9
     },
     {
       "name": "Cole Medin",
@@ -53,7 +53,7 @@
       "handle": "@krishnaik06",
       "source_type": "AI agent and automation",
       "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "AI Code King",
@@ -81,7 +81,7 @@
       "handle": "@Fireship",
       "source_type": "AI agent and automation",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Tech With Tim",
@@ -95,7 +95,7 @@
       "handle": "@NetworkChuck",
       "source_type": "AI agent and automation",
       "channel_id": "UC9x0AN7BWHpCDHSm9NiJFJQ",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Greg Isenberg",
@@ -109,7 +109,7 @@
       "handle": "@howiaipodcast",
       "source_type": "AI agent and automation",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "IBM Technology",
@@ -123,17 +123,17 @@
       "handle": "@WeightsBiases",
       "source_type": "AI agent and automation",
       "channel_id": "UCBp3w4DCEC64FZr4k9ROxig",
-      "recent_video_count": 40
+      "recent_video_count": 35
     },
     {
       "name": "Hugging Face",
       "handle": "@huggingface",
       "source_type": "AI agent and automation",
       "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "recent_video_count": 5
+      "recent_video_count": 6
     }
   ],
-  "candidate_count": 129,
+  "candidate_count": 120,
   "results": [
     {
       "video_id": "hTAWHgQI4xg",
@@ -142,7 +142,7 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-12T11:00:38Z",
-      "view_count": 102398,
+      "view_count": 116874,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=hTAWHgQI4xg"
     },
@@ -153,7 +153,7 @@
       "channel_title": "Tech With Tim",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-09T15:58:42Z",
-      "view_count": 64839,
+      "view_count": 67204,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=mU5Hgbpff_s"
     },
@@ -164,7 +164,7 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-11T11:00:03Z",
-      "view_count": 62373,
+      "view_count": 66546,
       "duration_minutes": 4,
       "url": "https://www.youtube.com/watch?v=zRMAvMSSSII"
     },
@@ -175,7 +175,7 @@
       "channel_title": "Cole Medin",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-09T14:52:28Z",
-      "view_count": 19587,
+      "view_count": 20066,
       "duration_minutes": 13,
       "url": "https://www.youtube.com/watch?v=cWjS56edaUA"
     },
@@ -186,7 +186,7 @@
       "channel_title": "How I AI",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-12T12:00:24Z",
-      "view_count": 13591,
+      "view_count": 14701,
       "duration_minutes": 38,
       "url": "https://www.youtube.com/watch?v=4TOLm1g-gCE"
     },
@@ -197,9 +197,20 @@
       "channel_title": "Hugging Face",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-13T03:37:35Z",
-      "view_count": 10035,
+      "view_count": 11776,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=EuN8WCWQf7g"
+    },
+    {
+      "video_id": "BwXremQ-i6I",
+      "title": "Context Engineering for AI Agents: 4 Failure Modes to Avoid",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "channel_title": "IBM Technology",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-15T11:00:06Z",
+      "view_count": 11431,
+      "duration_minutes": 10,
+      "url": "https://www.youtube.com/watch?v=BwXremQ-i6I"
     },
     {
       "video_id": "Di3HIeC9ylU",
@@ -208,42 +219,31 @@
       "channel_title": "Krish Naik",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-10T09:30:36Z",
-      "view_count": 7220,
+      "view_count": 7418,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=Di3HIeC9ylU"
     },
     {
-      "video_id": "T3K5H77ad18",
-      "title": "NVIDIA Vera CPU: The Foundation for Agentic AI",
-      "channel_id": "UCBp3w4DCEC64FZr4k9ROxig",
-      "channel_title": "CoreWeave",
+      "video_id": "jouKaJ4qlAg",
+      "title": "Agent-Native + Claude Code: Finally! Apps Your AI Agent Can Actually Work In (Open Source)",
+      "channel_id": "UC0m81bQuthaQZmFbXEY9QSw",
+      "channel_title": "AICodeKing",
       "source_type": "AI agent and automation",
-      "published_at": "2026-10-08T17:00:10Z",
-      "view_count": 598,
-      "duration_minutes": 23,
-      "url": "https://www.youtube.com/watch?v=T3K5H77ad18"
+      "published_at": "2026-10-15T09:15:02Z",
+      "view_count": 3078,
+      "duration_minutes": 14,
+      "url": "https://www.youtube.com/watch?v=jouKaJ4qlAg"
     },
     {
-      "video_id": "dmpmORvkI5g",
-      "title": "How MasterClass builds multi-agent AI that learners can trust",
-      "channel_id": "UCBp3w4DCEC64FZr4k9ROxig",
-      "channel_title": "CoreWeave",
+      "video_id": "HvWOS9lsyjM",
+      "title": "Meta's Muse: best AI agent, worst designer",
+      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
+      "channel_title": "How I AI",
       "source_type": "AI agent and automation",
-      "published_at": "2026-10-09T19:00:36Z",
-      "view_count": 377,
-      "duration_minutes": 25,
-      "url": "https://www.youtube.com/watch?v=dmpmORvkI5g"
-    },
-    {
-      "video_id": "ObzZcszkdSs",
-      "title": "Post-Training at the Frontier: How You.com, NVIDIA, and CoreWeave Improved Nemotron’s Agentic Search",
-      "channel_id": "UCBp3w4DCEC64FZr4k9ROxig",
-      "channel_title": "CoreWeave",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-09T13:00:17Z",
-      "view_count": 375,
-      "duration_minutes": 24,
-      "url": "https://www.youtube.com/watch?v=ObzZcszkdSs"
+      "published_at": "2026-10-14T16:36:13Z",
+      "view_count": 1226,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=HvWOS9lsyjM"
     }
   ]
 }

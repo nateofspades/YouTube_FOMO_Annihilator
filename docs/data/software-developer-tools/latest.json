@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-10-14T18:49:37.044479Z",
+  "generated_at": "2026-10-15T15:06:13.797915Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,35 +11,35 @@
       "handle": "@GitHub",
       "source_type": "Official company",
       "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Google for Developers",
       "handle": "@GoogleDevelopers",
       "source_type": "Official company",
       "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
-      "recent_video_count": 9
+      "recent_video_count": 7
     },
     {
       "name": "Microsoft Developer",
       "handle": "@MicrosoftDeveloper",
       "source_type": "Official company",
       "channel_id": "UCsMica-v34Irf9KVTh6xx-g",
-      "recent_video_count": 7
+      "recent_video_count": 9
     },
     {
       "name": "AWS Developers",
       "handle": "@awsdevelopers",
       "source_type": "Official company",
       "channel_id": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Google Cloud Tech",
       "handle": "@googlecloudtech",
       "source_type": "Official company",
       "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "recent_video_count": 11
+      "recent_video_count": 10
     },
     {
       "name": "Cloudflare",
@@ -74,21 +74,21 @@
       "handle": "@JetBrainsTV",
       "source_type": "Official company",
       "channel_id": "UCGp4UBwpTNegd_4nCpuBcow",
-      "recent_video_count": 7
+      "recent_video_count": 18
     },
     {
       "name": "Fireship",
       "handle": "@Fireship",
       "source_type": "Independent creator",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "freeCodeCamp.org",
       "handle": "@freecodecamp",
       "source_type": "Research institution",
       "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Traversy Media",
@@ -102,14 +102,14 @@
       "handle": "@WebDevSimplified",
       "source_type": "Independent creator",
       "channel_id": "UCFbNIlppjAuEX4znoulh0Cw",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Theo",
       "handle": "@t3dotgg",
       "source_type": "Independent creator",
       "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "ThePrimeagen",
@@ -130,7 +130,7 @@
       "handle": "@hnasr",
       "source_type": "Independent creator",
       "channel_id": "UC_ML5xP23TOWKUcc-oAE_Eg",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "ByteByteGo",
@@ -144,10 +144,10 @@
       "handle": "@LaravelPHP",
       "source_type": "Official company",
       "channel_id": "UCfO2GiQwb-cwJTb1CuRSkwg",
-      "recent_video_count": 1
+      "recent_video_count": 2
     }
   ],
-  "candidate_count": 72,
+  "candidate_count": 84,
   "results": [
     {
       "video_id": "wajoP_5Cpw8",
@@ -156,20 +156,53 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-10-12T19:15:23Z",
-      "view_count": 2886483,
+      "view_count": 3377676,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=wajoP_5Cpw8"
     },
     {
-      "video_id": "WrCjAAl9okA",
-      "title": "A $6.3 billion open-weight model just got embarrassed by the French...",
+      "video_id": "QZVzuq28eFw",
+      "title": "OpenAI’s lead engineer was secretly a spy...",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
       "channel_title": "Fireship",
       "source_type": "Independent creator",
-      "published_at": "2026-10-07T20:24:27Z",
-      "view_count": 1501689,
-      "duration_minutes": 6,
-      "url": "https://www.youtube.com/watch?v=WrCjAAl9okA"
+      "published_at": "2026-10-14T17:48:10Z",
+      "view_count": 1210522,
+      "duration_minutes": 5,
+      "url": "https://www.youtube.com/watch?v=QZVzuq28eFw"
+    },
+    {
+      "video_id": "gRhM1h10T3U",
+      "title": "Gemini 4 Argon: 10 incredible AI demos (1M token output in action)",
+      "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
+      "channel_title": "Google Cloud Tech",
+      "source_type": "Official company",
+      "published_at": "2026-10-13T22:02:36Z",
+      "view_count": 222724,
+      "duration_minutes": 12,
+      "url": "https://www.youtube.com/watch?v=gRhM1h10T3U"
+    },
+    {
+      "video_id": "soTfFFIQQ8U",
+      "title": "Design Software Systems Like a Senior Engineer – Complete Course",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "channel_title": "freeCodeCamp.org",
+      "source_type": "Research institution",
+      "published_at": "2026-10-13T15:08:21Z",
+      "view_count": 213874,
+      "duration_minutes": 197,
+      "url": "https://www.youtube.com/watch?v=soTfFFIQQ8U"
+    },
+    {
+      "video_id": "NE006pkiAnk",
+      "title": "So I've been testing Gemini 4...",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "channel_title": "Theo - t3․gg",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-14T15:45:44Z",
+      "view_count": 183749,
+      "duration_minutes": 39,
+      "url": "https://www.youtube.com/watch?v=NE006pkiAnk"
     },
     {
       "video_id": "ND_kRgU_WlY",
@@ -178,7 +211,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-10T10:58:42Z",
-      "view_count": 168226,
+      "view_count": 171354,
       "duration_minutes": 48,
       "url": "https://www.youtube.com/watch?v=ND_kRgU_WlY"
     },
@@ -189,31 +222,9 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-09T02:20:47Z",
-      "view_count": 165197,
+      "view_count": 166061,
       "duration_minutes": 41,
       "url": "https://www.youtube.com/watch?v=38_6C0dkKmU"
-    },
-    {
-      "video_id": "nYA0yASgaZI",
-      "title": "Does the $200 Codex plan suck now?",
-      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
-      "channel_title": "Theo - t3․gg",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-07T20:40:02Z",
-      "view_count": 164330,
-      "duration_minutes": 34,
-      "url": "https://www.youtube.com/watch?v=nYA0yASgaZI"
-    },
-    {
-      "video_id": "soTfFFIQQ8U",
-      "title": "Design Software Systems Like a Senior Engineer – Complete Course",
-      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
-      "channel_title": "freeCodeCamp.org",
-      "source_type": "Research institution",
-      "published_at": "2026-10-13T15:08:21Z",
-      "view_count": 162443,
-      "duration_minutes": 197,
-      "url": "https://www.youtube.com/watch?v=soTfFFIQQ8U"
     },
     {
       "video_id": "DbWL6Zs2j_g",
@@ -222,31 +233,20 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-13T11:01:13Z",
-      "view_count": 154091,
+      "view_count": 161995,
       "duration_minutes": 38,
       "url": "https://www.youtube.com/watch?v=DbWL6Zs2j_g"
     },
     {
-      "video_id": "vRS2leJLAI0",
-      "title": "I thought AI was gonna get cheaper?",
-      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
-      "channel_title": "Theo - t3․gg",
+      "video_id": "J37YeB63LVI",
+      "title": "I Will Never Use Prettier or ESLint Again",
+      "channel_id": "UCFbNIlppjAuEX4znoulh0Cw",
+      "channel_title": "Web Dev Simplified",
       "source_type": "Independent creator",
-      "published_at": "2026-10-12T02:39:38Z",
-      "view_count": 129887,
-      "duration_minutes": 18,
-      "url": "https://www.youtube.com/watch?v=vRS2leJLAI0"
-    },
-    {
-      "video_id": "gRhM1h10T3U",
-      "title": "Gemini 4 Argon: 10 incredible AI demos (1M token output in action)",
-      "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "channel_title": "Google Cloud Tech",
-      "source_type": "Official company",
-      "published_at": "2026-10-13T22:02:36Z",
-      "view_count": 129668,
-      "duration_minutes": 12,
-      "url": "https://www.youtube.com/watch?v=gRhM1h10T3U"
+      "published_at": "2026-10-14T22:32:33Z",
+      "view_count": 150357,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=J37YeB63LVI"
     },
     {
       "video_id": "YY-egxTQirA",
@@ -255,7 +255,7 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-10-09T17:00:19Z",
-      "view_count": 128896,
+      "view_count": 132604,
       "duration_minutes": 43,
       "url": "https://www.youtube.com/watch?v=YY-egxTQirA"
     }

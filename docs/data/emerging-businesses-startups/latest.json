@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-10-14T18:49:37.044479Z",
+  "generated_at": "2026-10-15T15:06:13.797915Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,14 +11,14 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "TechCrunch",
       "handle": "@TechCrunch",
       "source_type": "Editorial/media",
       "channel_id": "UCCjyq_K1Xwfg8Lndy7lKMpA",
-      "recent_video_count": 19
+      "recent_video_count": 23
     },
     {
       "name": "a16z",
@@ -46,14 +46,14 @@
       "handle": "@LennysPodcast",
       "source_type": "Independent creator",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "20VC",
       "handle": "@20vc",
       "source_type": "Venture capital",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 13
+      "recent_video_count": 14
     },
     {
       "name": "Acquired",
@@ -67,14 +67,14 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "My First Million",
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "MicroConf",
@@ -147,7 +147,7 @@
       "recent_video_count": 10
     }
   ],
-  "candidate_count": 102,
+  "candidate_count": 105,
   "results": [
     {
       "video_id": "S6l3aRsecuE",
@@ -156,7 +156,7 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-11T12:00:00Z",
-      "view_count": 271971,
+      "view_count": 304218,
       "duration_minutes": 72,
       "url": "https://www.youtube.com/watch?v=S6l3aRsecuE"
     },
@@ -167,20 +167,9 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-11T00:47:11Z",
-      "view_count": 170634,
+      "view_count": 188978,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=DHXPdVrsHkk"
-    },
-    {
-      "video_id": "2_UGBF5BwGQ",
-      "title": "The soda brand that sold for over $2B",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-08T23:28:42Z",
-      "view_count": 73226,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=2_UGBF5BwGQ"
     },
     {
       "video_id": "VxC-PqE9x0U",
@@ -189,9 +178,31 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-13T19:00:28Z",
-      "view_count": 65124,
+      "view_count": 123295,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=VxC-PqE9x0U"
+    },
+    {
+      "video_id": "2_UGBF5BwGQ",
+      "title": "The soda brand that sold for over $2B",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-08T23:28:42Z",
+      "view_count": 82913,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=2_UGBF5BwGQ"
+    },
+    {
+      "video_id": "wOZjH3_XMCw",
+      "title": "Before they even had a website, Hampton generated $800k in revenue.",
+      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
+      "channel_title": "Antler Global",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-13T14:15:23Z",
+      "view_count": 56847,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=wOZjH3_XMCw"
     },
     {
       "video_id": "3I6QYkccd3o",
@@ -200,7 +211,7 @@
       "channel_title": "Lenny's Podcast",
       "source_type": "Independent creator",
       "published_at": "2026-10-11T12:30:34Z",
-      "view_count": 48371,
+      "view_count": 53354,
       "duration_minutes": 62,
       "url": "https://www.youtube.com/watch?v=3I6QYkccd3o"
     },
@@ -211,42 +222,9 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-12T22:26:10Z",
-      "view_count": 39031,
+      "view_count": 43277,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=ZVRtC20JVBA"
-    },
-    {
-      "video_id": "NAwiGfk_sCY",
-      "title": "Cognition vs Factory | Anthropic Under Threat | ElevenLabs Doubles Its Valuation to $22B",
-      "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "channel_title": "20VC with Harry Stebbings",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-08T14:22:17Z",
-      "view_count": 28614,
-      "duration_minutes": 76,
-      "url": "https://www.youtube.com/watch?v=NAwiGfk_sCY"
-    },
-    {
-      "video_id": "_RNFJpMxAIU",
-      "title": "Why 'helpful' AI is actually the biggest risk in robotics.",
-      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "channel_title": "Antler Global",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-08T14:00:12Z",
-      "view_count": 27405,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=_RNFJpMxAIU"
-    },
-    {
-      "video_id": "3Q1mdn5ZGvM",
-      "title": "Recursive Self-Improvement and the Future of AI",
-      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "channel_title": "a16z",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-12T14:30:07Z",
-      "view_count": 26207,
-      "duration_minutes": 32,
-      "url": "https://www.youtube.com/watch?v=3Q1mdn5ZGvM"
     },
     {
       "video_id": "L4SWQebqhek",
@@ -255,9 +233,31 @@
       "channel_title": "Sequoia Capital",
       "source_type": "Venture capital",
       "published_at": "2026-10-13T12:00:32Z",
-      "view_count": 25848,
+      "view_count": 34869,
       "duration_minutes": 68,
       "url": "https://www.youtube.com/watch?v=L4SWQebqhek"
+    },
+    {
+      "video_id": "3Q1mdn5ZGvM",
+      "title": "Recursive Self-Improvement and the Future of AI",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-12T14:30:07Z",
+      "view_count": 29591,
+      "duration_minutes": 32,
+      "url": "https://www.youtube.com/watch?v=3Q1mdn5ZGvM"
+    },
+    {
+      "video_id": "xD5-AWX6ZBo",
+      "title": "3 times life put me in my place",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-12T12:39:43Z",
+      "view_count": 27181,
+      "duration_minutes": 22,
+      "url": "https://www.youtube.com/watch?v=xD5-AWX6ZBo"
     }
   ]
 }

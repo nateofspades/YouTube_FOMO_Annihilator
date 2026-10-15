@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-10-14T18:49:37.044479Z",
+  "generated_at": "2026-10-15T15:06:13.797915Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,21 +11,21 @@
       "handle": "@kurzgesagt",
       "source_type": "Independent creator",
       "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Veritasium",
       "handle": "@veritasium",
       "source_type": "Independent creator",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "PBS Space Time",
       "handle": "@pbsspacetime",
       "source_type": "Editorial/media",
       "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "SmarterEveryDay",
@@ -95,7 +95,7 @@
       "handle": "@UndecidedTechnology",
       "source_type": "Independent creator",
       "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Everything Electric",
@@ -138,7 +138,7 @@
       "handle": "@TwoBitDaVinci",
       "source_type": "Independent creator",
       "channel_id": "UCEgYhf84VjXDz-W7a9-rdCQ",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Branch Education",
@@ -148,7 +148,7 @@
       "recent_video_count": 0
     }
   ],
-  "candidate_count": 30,
+  "candidate_count": 27,
   "results": [
     {
       "video_id": "NiCgcUTL9_Q",
@@ -157,7 +157,7 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-12T17:11:45Z",
-      "view_count": 4935310,
+      "view_count": 5969765,
       "duration_minutes": 35,
       "url": "https://www.youtube.com/watch?v=NiCgcUTL9_Q"
     },
@@ -168,7 +168,7 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-09T13:00:03Z",
-      "view_count": 2918708,
+      "view_count": 3055546,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=j9p3Sn8ROL4"
     },
@@ -179,7 +179,7 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-10T14:02:11Z",
-      "view_count": 1072302,
+      "view_count": 1179430,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=VLLxNuZ2r20"
     },
@@ -190,7 +190,7 @@
       "channel_title": "Hacksmith Industries",
       "source_type": "Official company",
       "published_at": "2026-10-08T20:02:40Z",
-      "view_count": 895515,
+      "view_count": 915342,
       "duration_minutes": 41,
       "url": "https://www.youtube.com/watch?v=qgTfVQaHW5A"
     },
@@ -201,7 +201,7 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-13T14:23:31Z",
-      "view_count": 734952,
+      "view_count": 901123,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=GNatcGIV18A"
     },
@@ -212,20 +212,9 @@
       "channel_title": "PBS Space Time",
       "source_type": "Editorial/media",
       "published_at": "2026-10-08T20:15:02Z",
-      "view_count": 670779,
+      "view_count": 697742,
       "duration_minutes": 16,
       "url": "https://www.youtube.com/watch?v=w6229Ivy_Lo"
-    },
-    {
-      "video_id": "xt4OzTxDvSo",
-      "title": "The Company that FINALLY Figured out the Stirling Engine",
-      "channel_id": "UCEgYhf84VjXDz-W7a9-rdCQ",
-      "channel_title": "Two Bit da Vinci",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-08T11:37:03Z",
-      "view_count": 541452,
-      "duration_minutes": 21,
-      "url": "https://www.youtube.com/watch?v=xt4OzTxDvSo"
     },
     {
       "video_id": "x6p9Ri0DlNE",
@@ -234,9 +223,20 @@
       "channel_title": "NASA",
       "source_type": "Government",
       "published_at": "2026-10-08T16:52:21Z",
-      "view_count": 502683,
+      "view_count": 504479,
       "duration_minutes": 139,
       "url": "https://www.youtube.com/watch?v=x6p9Ri0DlNE"
+    },
+    {
+      "video_id": "dP_i7hRvGpE",
+      "title": "Machine, Assemble, Repair: How We Build Atlas | Boston Dynamics",
+      "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
+      "channel_title": "Boston Dynamics",
+      "source_type": "Official company",
+      "published_at": "2026-10-14T14:00:18Z",
+      "view_count": 373556,
+      "duration_minutes": 6,
+      "url": "https://www.youtube.com/watch?v=dP_i7hRvGpE"
     },
     {
       "video_id": "kriIXJkoyBs",
@@ -245,7 +245,7 @@
       "channel_title": "Undecided with Matt Ferrell",
       "source_type": "Independent creator",
       "published_at": "2026-10-13T12:16:55Z",
-      "view_count": 239035,
+      "view_count": 266168,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=kriIXJkoyBs"
     },
@@ -256,7 +256,7 @@
       "channel_title": "Fermilab",
       "source_type": "Research institution",
       "published_at": "2026-10-09T15:34:25Z",
-      "view_count": 225974,
+      "view_count": 234250,
       "duration_minutes": 13,
       "url": "https://www.youtube.com/watch?v=pLmLi-pJ604"
     }

@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-10-14T18:49:37.044479Z",
+  "generated_at": "2026-10-15T15:06:13.797915Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,14 +11,14 @@
       "handle": "@TheDiaryOfACEO",
       "source_type": "Business podcast",
       "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "My First Million",
       "handle": "@MyFirstMillionPod",
       "source_type": "Business podcast",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "Acquired",
@@ -53,28 +53,28 @@
       "handle": "@LennysPodcast",
       "source_type": "Business podcast",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Masters of Scale",
       "handle": "@MastersofScale_",
       "source_type": "Business podcast",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Invest Like The Best",
       "handle": "@ILTB_Podcast",
       "source_type": "Business podcast",
       "channel_id": "UCpQBb0fToph3jrDulwz1iUQ",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "The Knowledge Project Podcast",
       "handle": "@tkppodcast",
       "source_type": "Business podcast",
       "channel_id": "UCLtTf_uKt0Itd0NG7txrwXA",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "This Week in Startups",
@@ -88,7 +88,7 @@
       "handle": "@20VC",
       "source_type": "Business podcast",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 13
+      "recent_video_count": 14
     },
     {
       "name": "a16z",
@@ -102,7 +102,7 @@
       "handle": "@TheProfGPod",
       "source_type": "Business podcast",
       "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "recent_video_count": 12
+      "recent_video_count": 10
     },
     {
       "name": "Pivot with Kara Swisher and Scott Galloway",
@@ -116,7 +116,7 @@
       "handle": "@timferriss",
       "source_type": "Business podcast",
       "channel_id": "UCznv7Vf9nBdJYvBagFdAHWw",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Young and Profiting",
@@ -130,7 +130,7 @@
       "handle": "@AlexHormozi",
       "source_type": "Business podcast",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "recent_video_count": 23
+      "recent_video_count": 21
     },
     {
       "name": "Startups for the Rest of Us",
@@ -144,10 +144,10 @@
       "handle": "@ycombinator",
       "source_type": "Business podcast",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 3
+      "recent_video_count": 2
     }
   ],
-  "candidate_count": 118,
+  "candidate_count": 113,
   "results": [
     {
       "video_id": "IkhmdTqSvJw",
@@ -156,20 +156,9 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-10-12T07:00:32Z",
-      "view_count": 2374159,
+      "view_count": 2795334,
       "duration_minutes": 113,
       "url": "https://www.youtube.com/watch?v=IkhmdTqSvJw"
-    },
-    {
-      "video_id": "qDzg-xvkeXw",
-      "title": "AI Insider: \"They Are Hiding What Is Really Happening\" | Jeffrey Ladish",
-      "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "channel_title": "The Diary Of A CEO",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-08T07:00:35Z",
-      "view_count": 2173314,
-      "duration_minutes": 124,
-      "url": "https://www.youtube.com/watch?v=qDzg-xvkeXw"
     },
     {
       "video_id": "TBLHdXABwAg",
@@ -178,9 +167,20 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-10T02:28:10Z",
-      "view_count": 523806,
+      "view_count": 540153,
       "duration_minutes": 93,
       "url": "https://www.youtube.com/watch?v=TBLHdXABwAg"
+    },
+    {
+      "video_id": "yePLuwL3FbM",
+      "title": "No.1 Neuroscientist Reveals How To Unlock Superhuman Focus & Perfect Memory! - Dr. Sahar Yousef",
+      "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
+      "channel_title": "The Diary Of A CEO",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-15T07:00:38Z",
+      "view_count": 321009,
+      "duration_minutes": 136,
+      "url": "https://www.youtube.com/watch?v=yePLuwL3FbM"
     },
     {
       "video_id": "yZR8QW4qQmM",
@@ -189,7 +189,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-12T16:56:59Z",
-      "view_count": 248187,
+      "view_count": 277115,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=yZR8QW4qQmM"
     },
@@ -200,7 +200,7 @@
       "channel_title": "My First Million",
       "source_type": "Business podcast",
       "published_at": "2026-10-11T00:47:11Z",
-      "view_count": 170634,
+      "view_count": 189059,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=DHXPdVrsHkk"
     },
@@ -211,20 +211,9 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-09T13:00:30Z",
-      "view_count": 166381,
+      "view_count": 169320,
       "duration_minutes": 43,
       "url": "https://www.youtube.com/watch?v=pAO3nrxxbCg"
-    },
-    {
-      "video_id": "r-9RpAv1P9A",
-      "title": "How I Price Every New Offer",
-      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "channel_title": "Alex Hormozi",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-11T19:00:29Z",
-      "view_count": 129101,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=r-9RpAv1P9A"
     },
     {
       "video_id": "TLeh41_uhZ4",
@@ -233,9 +222,20 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-12T16:39:50Z",
-      "view_count": 120748,
+      "view_count": 164835,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=TLeh41_uhZ4"
+    },
+    {
+      "video_id": "r-9RpAv1P9A",
+      "title": "How I Price Every New Offer",
+      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
+      "channel_title": "Alex Hormozi",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-11T19:00:29Z",
+      "view_count": 142489,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=r-9RpAv1P9A"
     },
     {
       "video_id": "NZGzUEJOpmk",
@@ -244,7 +244,7 @@
       "channel_title": "Alex Hormozi",
       "source_type": "Business podcast",
       "published_at": "2026-10-13T16:00:40Z",
-      "view_count": 109098,
+      "view_count": 128776,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=NZGzUEJOpmk"
     },
@@ -255,7 +255,7 @@
       "channel_title": "My First Million",
       "source_type": "Business podcast",
       "published_at": "2026-10-08T23:28:42Z",
-      "view_count": 73226,
+      "view_count": 82913,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=2_UGBF5BwGQ"
     }

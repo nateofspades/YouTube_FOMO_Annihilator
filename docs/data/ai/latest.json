@@ -1,7 +1,7 @@
 {
   "slug": "ai",
   "title": "AI news",
-  "generated_at": "2026-10-14T18:49:37.044479Z",
+  "generated_at": "2026-10-15T15:06:13.797915Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -25,7 +25,7 @@
       "handle": "@TheAiGrid",
       "source_type": "AI-focused channel",
       "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "WorldofAI",
@@ -74,7 +74,7 @@
       "handle": "@openai",
       "source_type": "AI-focused channel",
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "recent_video_count": 29
+      "recent_video_count": 20
     },
     {
       "name": "Anthropic",
@@ -88,22 +88,11 @@
       "handle": "@HuggingFace",
       "source_type": "AI-focused channel",
       "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "recent_video_count": 5
+      "recent_video_count": 6
     }
   ],
-  "candidate_count": 72,
+  "candidate_count": 63,
   "results": [
-    {
-      "video_id": "IsL4dVezs18",
-      "title": "Introducing GPT-6 in ChatGPT with Intelligent UI",
-      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "channel_title": "OpenAI",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-07T21:55:41Z",
-      "view_count": 647655,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=IsL4dVezs18"
-    },
     {
       "video_id": "4fLVq6HJsKc",
       "title": "DeepSeek Solved AI’s Memory Problem",
@@ -111,7 +100,7 @@
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-11T16:53:17Z",
-      "view_count": 301121,
+      "view_count": 309035,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc"
     },
@@ -122,9 +111,20 @@
       "channel_title": "Google DeepMind",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-13T15:58:20Z",
-      "view_count": 216708,
+      "view_count": 278171,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=9PICEmtfpWU"
+    },
+    {
+      "video_id": "z_sXLlLVUls",
+      "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "channel_title": "Two Minute Papers",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-13T08:56:12Z",
+      "view_count": 240504,
+      "duration_minutes": 9,
+      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls"
     },
     {
       "video_id": "eBszYxzE2dk",
@@ -133,7 +133,7 @@
       "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-13T16:47:07Z",
-      "view_count": 186392,
+      "view_count": 226647,
       "duration_minutes": 21,
       "url": "https://www.youtube.com/watch?v=eBszYxzE2dk"
     },
@@ -144,31 +144,20 @@
       "channel_title": "WorldofAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-12T07:25:21Z",
-      "view_count": 177195,
+      "view_count": 182958,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=4iKUaUmeoWk"
     },
     {
-      "video_id": "z_sXLlLVUls",
-      "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "channel_title": "Two Minute Papers",
+      "video_id": "C4Sq3Rot8FU",
+      "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
+      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "channel_title": "AI Explained",
       "source_type": "AI-focused channel",
-      "published_at": "2026-10-13T08:56:12Z",
-      "view_count": 171082,
-      "duration_minutes": 9,
-      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls"
-    },
-    {
-      "video_id": "USpkPjv-lxs",
-      "title": "HUGE Gemini 4 Carbon LEAKS, Claude Fable 6, GPT-7 Bel, Google CRACKED RSI?! & More! AI NEWS",
-      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
-      "channel_title": "WorldofAI",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-10T07:34:33Z",
-      "view_count": 127701,
-      "duration_minutes": 32,
-      "url": "https://www.youtube.com/watch?v=USpkPjv-lxs"
+      "published_at": "2026-10-12T22:52:31Z",
+      "view_count": 132443,
+      "duration_minutes": 31,
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU"
     },
     {
       "video_id": "NUizyuGj-kE",
@@ -177,7 +166,7 @@
       "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-09T15:00:01Z",
-      "view_count": 125283,
+      "view_count": 127623,
       "duration_minutes": 35,
       "url": "https://www.youtube.com/watch?v=NUizyuGj-kE"
     },
@@ -188,20 +177,31 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-09T19:13:03Z",
-      "view_count": 123206,
+      "view_count": 126319,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=p5KxBTUncoE"
     },
     {
-      "video_id": "C4Sq3Rot8FU",
-      "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
-      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
-      "channel_title": "AI Explained",
+      "video_id": "JocjKnl4lBs",
+      "title": "Gemini 4 Argon Is Out, Fable 5.5 This Week? GPT-6.1 Astra, Nano Banana 3 & AI Self-Creating! AI NEWS",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "channel_title": "WorldofAI",
       "source_type": "AI-focused channel",
-      "published_at": "2026-10-12T22:52:31Z",
-      "view_count": 122617,
-      "duration_minutes": 31,
-      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU"
+      "published_at": "2026-10-13T19:09:25Z",
+      "view_count": 93663,
+      "duration_minutes": 20,
+      "url": "https://www.youtube.com/watch?v=JocjKnl4lBs"
+    },
+    {
+      "video_id": "Z9fvMJ9NSSI",
+      "title": "Anthropic Has Officially Lost Its Mind...",
+      "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
+      "channel_title": "TheAIGRID",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-09T23:05:38Z",
+      "view_count": 81288,
+      "duration_minutes": 26,
+      "url": "https://www.youtube.com/watch?v=Z9fvMJ9NSSI"
     }
   ]
 }
