@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-10-15T15:06:13.797915Z",
+  "generated_at": "2026-10-16T14:54:29.706114Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -46,14 +46,14 @@
       "handle": "@NateHerk",
       "source_type": "AI agent and automation",
       "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "recent_video_count": 13
+      "recent_video_count": 12
     },
     {
       "name": "Krish Naik",
       "handle": "@krishnaik06",
       "source_type": "AI agent and automation",
       "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "AI Code King",
@@ -81,7 +81,7 @@
       "handle": "@Fireship",
       "source_type": "AI agent and automation",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Tech With Tim",
@@ -109,21 +109,21 @@
       "handle": "@howiaipodcast",
       "source_type": "AI agent and automation",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 10
+      "recent_video_count": 11
     },
     {
       "name": "IBM Technology",
       "handle": "@IBMTechnology",
       "source_type": "AI agent and automation",
       "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "Weights & Biases",
       "handle": "@WeightsBiases",
       "source_type": "AI agent and automation",
       "channel_id": "UCBp3w4DCEC64FZr4k9ROxig",
-      "recent_video_count": 35
+      "recent_video_count": 23
     },
     {
       "name": "Hugging Face",
@@ -133,7 +133,7 @@
       "recent_video_count": 6
     }
   ],
-  "candidate_count": 120,
+  "candidate_count": 109,
   "results": [
     {
       "video_id": "hTAWHgQI4xg",
@@ -142,9 +142,20 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-12T11:00:38Z",
-      "view_count": 116874,
+      "view_count": 127742,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=hTAWHgQI4xg"
+    },
+    {
+      "video_id": "BwXremQ-i6I",
+      "title": "Context Engineering for AI Agents: 4 Failure Modes to Avoid",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "channel_title": "IBM Technology",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-15T11:00:06Z",
+      "view_count": 95227,
+      "duration_minutes": 10,
+      "url": "https://www.youtube.com/watch?v=BwXremQ-i6I"
     },
     {
       "video_id": "mU5Hgbpff_s",
@@ -153,7 +164,7 @@
       "channel_title": "Tech With Tim",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-09T15:58:42Z",
-      "view_count": 67204,
+      "view_count": 69371,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=mU5Hgbpff_s"
     },
@@ -164,20 +175,31 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-11T11:00:03Z",
-      "view_count": 66546,
+      "view_count": 69114,
       "duration_minutes": 4,
       "url": "https://www.youtube.com/watch?v=zRMAvMSSSII"
     },
     {
-      "video_id": "cWjS56edaUA",
-      "title": "Agentic Apps: How Big Companies Are Actually Deploying AI Agents",
-      "channel_id": "UCMwVTLZIRRUyyVrkjDpn4pA",
-      "channel_title": "Cole Medin",
+      "video_id": "KZiF2J83zaY",
+      "title": "AI Agents Just Became Multiplayer. Here's How to Build Them.",
+      "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+      "channel_title": "Nate Herk | AI Automation",
       "source_type": "AI agent and automation",
-      "published_at": "2026-10-09T14:52:28Z",
-      "view_count": 20066,
-      "duration_minutes": 13,
-      "url": "https://www.youtube.com/watch?v=cWjS56edaUA"
+      "published_at": "2026-10-15T15:16:33Z",
+      "view_count": 66194,
+      "duration_minutes": 22,
+      "url": "https://www.youtube.com/watch?v=KZiF2J83zaY"
+    },
+    {
+      "video_id": "saxdE-U_YS8",
+      "title": "AI Agents Just Became Multiplayer. Here's How to Build Them.",
+      "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+      "channel_title": "Nate Herk | AI Automation",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-15T16:33:38Z",
+      "view_count": 22096,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=saxdE-U_YS8"
     },
     {
       "video_id": "4TOLm1g-gCE",
@@ -186,7 +208,7 @@
       "channel_title": "How I AI",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-12T12:00:24Z",
-      "view_count": 14701,
+      "view_count": 15748,
       "duration_minutes": 38,
       "url": "https://www.youtube.com/watch?v=4TOLm1g-gCE"
     },
@@ -197,31 +219,9 @@
       "channel_title": "Hugging Face",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-13T03:37:35Z",
-      "view_count": 11776,
+      "view_count": 14466,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=EuN8WCWQf7g"
-    },
-    {
-      "video_id": "BwXremQ-i6I",
-      "title": "Context Engineering for AI Agents: 4 Failure Modes to Avoid",
-      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
-      "channel_title": "IBM Technology",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-15T11:00:06Z",
-      "view_count": 11431,
-      "duration_minutes": 10,
-      "url": "https://www.youtube.com/watch?v=BwXremQ-i6I"
-    },
-    {
-      "video_id": "Di3HIeC9ylU",
-      "title": "AI Engineering Roadmap #aiengineering #generativeai #agenticai",
-      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
-      "channel_title": "Krish Naik",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-10T09:30:36Z",
-      "view_count": 7418,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=Di3HIeC9ylU"
     },
     {
       "video_id": "jouKaJ4qlAg",
@@ -230,20 +230,20 @@
       "channel_title": "AICodeKing",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-15T09:15:02Z",
-      "view_count": 3078,
+      "view_count": 10000,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=jouKaJ4qlAg"
     },
     {
-      "video_id": "HvWOS9lsyjM",
-      "title": "Meta's Muse: best AI agent, worst designer",
-      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "channel_title": "How I AI",
+      "video_id": "Di3HIeC9ylU",
+      "title": "AI Engineering Roadmap #aiengineering #generativeai #agenticai",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "channel_title": "Krish Naik",
       "source_type": "AI agent and automation",
-      "published_at": "2026-10-14T16:36:13Z",
-      "view_count": 1226,
+      "published_at": "2026-10-10T09:30:36Z",
+      "view_count": 7549,
       "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=HvWOS9lsyjM"
+      "url": "https://www.youtube.com/watch?v=Di3HIeC9ylU"
     }
   ]
 }
