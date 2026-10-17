@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-10-16T14:54:29.706114Z",
+  "generated_at": "2026-10-17T13:47:07.119060Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,14 +11,14 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "TechCrunch",
       "handle": "@TechCrunch",
       "source_type": "Editorial/media",
       "channel_id": "UCCjyq_K1Xwfg8Lndy7lKMpA",
-      "recent_video_count": 38
+      "recent_video_count": 59
     },
     {
       "name": "a16z",
@@ -46,14 +46,14 @@
       "handle": "@LennysPodcast",
       "source_type": "Independent creator",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 6
+      "recent_video_count": 4
     },
     {
       "name": "20VC",
       "handle": "@20vc",
       "source_type": "Venture capital",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 12
+      "recent_video_count": 13
     },
     {
       "name": "Acquired",
@@ -67,14 +67,14 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "My First Million",
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "MicroConf",
@@ -88,14 +88,14 @@
       "handle": "@Saastr",
       "source_type": "Founder community",
       "channel_id": "UCwOILzAcxK5CM2M7oRBuWSg",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Slidebean",
       "handle": "@Slidebean",
       "source_type": "Official company",
       "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Bessemer Venture Partners",
@@ -147,7 +147,7 @@
       "recent_video_count": 10
     }
   ],
-  "candidate_count": 122,
+  "candidate_count": 145,
   "results": [
     {
       "video_id": "S6l3aRsecuE",
@@ -156,20 +156,9 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-11T12:00:00Z",
-      "view_count": 333325,
+      "view_count": 356619,
       "duration_minutes": 72,
       "url": "https://www.youtube.com/watch?v=S6l3aRsecuE"
-    },
-    {
-      "video_id": "DHXPdVrsHkk",
-      "title": "What Palmer Luckey would build if he started over",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-11T00:47:11Z",
-      "view_count": 203775,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=DHXPdVrsHkk"
     },
     {
       "video_id": "VxC-PqE9x0U",
@@ -178,9 +167,20 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-13T19:00:28Z",
-      "view_count": 169333,
+      "view_count": 241854,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=VxC-PqE9x0U"
+    },
+    {
+      "video_id": "DHXPdVrsHkk",
+      "title": "What Palmer Luckey would build if he started over",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-11T00:47:11Z",
+      "view_count": 218073,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=DHXPdVrsHkk"
     },
     {
       "video_id": "wOZjH3_XMCw",
@@ -189,7 +189,7 @@
       "channel_title": "Antler Global",
       "source_type": "Venture capital",
       "published_at": "2026-10-13T14:15:23Z",
-      "view_count": 120704,
+      "view_count": 120476,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=wOZjH3_XMCw"
     },
@@ -200,9 +200,20 @@
       "channel_title": "Lenny's Podcast",
       "source_type": "Independent creator",
       "published_at": "2026-10-11T12:30:34Z",
-      "view_count": 57801,
+      "view_count": 60896,
       "duration_minutes": 62,
       "url": "https://www.youtube.com/watch?v=3I6QYkccd3o"
+    },
+    {
+      "video_id": "zVS06J8r5lI",
+      "title": "Lessons from Mark Zuckerberg and Elon Musk and Napoleon",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "channel_title": "David Senra",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-16T15:45:21Z",
+      "view_count": 53827,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=zVS06J8r5lI"
     },
     {
       "video_id": "ZVRtC20JVBA",
@@ -211,7 +222,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-12T22:26:10Z",
-      "view_count": 46796,
+      "view_count": 48656,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=ZVRtC20JVBA"
     },
@@ -222,7 +233,7 @@
       "channel_title": "Antler Global",
       "source_type": "Venture capital",
       "published_at": "2026-10-14T08:00:05Z",
-      "view_count": 43639,
+      "view_count": 43849,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=bzc_8uOjx_g"
     },
@@ -233,31 +244,20 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-14T11:49:45Z",
-      "view_count": 35992,
+      "view_count": 38029,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=hDfY-pJC0oc"
     },
     {
-      "video_id": "8XbD08-ikfo",
-      "title": "Jeff Bezos' advice to Ari Emanuel",
-      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "channel_title": "David Senra",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-09T16:45:21Z",
-      "view_count": 32375,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=8XbD08-ikfo"
-    },
-    {
-      "video_id": "3Q1mdn5ZGvM",
-      "title": "Recursive Self-Improvement and the Future of AI",
-      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "channel_title": "a16z",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-12T14:30:07Z",
-      "view_count": 32163,
-      "duration_minutes": 32,
-      "url": "https://www.youtube.com/watch?v=3Q1mdn5ZGvM"
+      "video_id": "t_GK06_3UY8",
+      "title": "The Most Profitable Part of Your TV",
+      "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
+      "channel_title": "Slidebean",
+      "source_type": "Official company",
+      "published_at": "2026-10-16T14:30:26Z",
+      "view_count": 36551,
+      "duration_minutes": 24,
+      "url": "https://www.youtube.com/watch?v=t_GK06_3UY8"
     }
   ]
 }

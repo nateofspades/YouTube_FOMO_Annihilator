@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-10-16T14:54:29.706114Z",
+  "generated_at": "2026-10-17T13:47:07.119060Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,14 +11,14 @@
       "handle": "@TheDiaryOfACEO",
       "source_type": "Business podcast",
       "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "My First Million",
       "handle": "@MyFirstMillionPod",
       "source_type": "Business podcast",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "Acquired",
@@ -53,21 +53,21 @@
       "handle": "@LennysPodcast",
       "source_type": "Business podcast",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 6
+      "recent_video_count": 4
     },
     {
       "name": "Masters of Scale",
       "handle": "@MastersofScale_",
       "source_type": "Business podcast",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Invest Like The Best",
       "handle": "@ILTB_Podcast",
       "source_type": "Business podcast",
       "channel_id": "UCpQBb0fToph3jrDulwz1iUQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "The Knowledge Project Podcast",
@@ -88,7 +88,7 @@
       "handle": "@20VC",
       "source_type": "Business podcast",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 12
+      "recent_video_count": 13
     },
     {
       "name": "a16z",
@@ -116,21 +116,21 @@
       "handle": "@timferriss",
       "source_type": "Business podcast",
       "channel_id": "UCznv7Vf9nBdJYvBagFdAHWw",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Young and Profiting",
       "handle": "@youngandprofiting",
       "source_type": "Business podcast",
       "channel_id": "UCtz8s6nPLvrVQ4YhOJz6DSg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Alex Hormozi / The Game",
       "handle": "@AlexHormozi",
       "source_type": "Business podcast",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "recent_video_count": 22
+      "recent_video_count": 28
     },
     {
       "name": "Startups for the Rest of Us",
@@ -144,10 +144,10 @@
       "handle": "@ycombinator",
       "source_type": "Business podcast",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     }
   ],
-  "candidate_count": 111,
+  "candidate_count": 119,
   "results": [
     {
       "video_id": "IkhmdTqSvJw",
@@ -156,7 +156,7 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-10-12T07:00:32Z",
-      "view_count": 3067436,
+      "view_count": 3276083,
       "duration_minutes": 113,
       "url": "https://www.youtube.com/watch?v=IkhmdTqSvJw"
     },
@@ -167,31 +167,9 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-10-15T07:00:38Z",
-      "view_count": 1030070,
+      "view_count": 1388866,
       "duration_minutes": 136,
       "url": "https://www.youtube.com/watch?v=yePLuwL3FbM"
-    },
-    {
-      "video_id": "TBLHdXABwAg",
-      "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math Backlash, France Riots",
-      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "channel_title": "All-In Podcast",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-10T02:28:10Z",
-      "view_count": 553274,
-      "duration_minutes": 93,
-      "url": "https://www.youtube.com/watch?v=TBLHdXABwAg"
-    },
-    {
-      "video_id": "yZR8QW4qQmM",
-      "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
-      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "channel_title": "All-In Podcast",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-12T16:56:59Z",
-      "view_count": 297470,
-      "duration_minutes": 25,
-      "url": "https://www.youtube.com/watch?v=yZR8QW4qQmM"
     },
     {
       "video_id": "hFTaGNz3wCQ",
@@ -200,9 +178,20 @@
       "channel_title": "Alex Hormozi",
       "source_type": "Business podcast",
       "published_at": "2026-10-15T16:16:26Z",
-      "view_count": 270440,
+      "view_count": 391732,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=hFTaGNz3wCQ"
+    },
+    {
+      "video_id": "yZR8QW4qQmM",
+      "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
+      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
+      "channel_title": "All-In Podcast",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-12T16:56:59Z",
+      "view_count": 314206,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=yZR8QW4qQmM"
     },
     {
       "video_id": "TLeh41_uhZ4",
@@ -211,9 +200,20 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-12T16:39:50Z",
-      "view_count": 224551,
+      "view_count": 263077,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=TLeh41_uhZ4"
+    },
+    {
+      "video_id": "_b3LfMflIGs",
+      "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
+      "channel_title": "All-In Podcast",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-17T01:59:19Z",
+      "view_count": 230560,
+      "duration_minutes": 94,
+      "url": "https://www.youtube.com/watch?v=_b3LfMflIGs"
     },
     {
       "video_id": "DHXPdVrsHkk",
@@ -222,20 +222,31 @@
       "channel_title": "My First Million",
       "source_type": "Business podcast",
       "published_at": "2026-10-11T00:47:11Z",
-      "view_count": 203775,
+      "view_count": 218073,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=DHXPdVrsHkk"
     },
     {
-      "video_id": "NZGzUEJOpmk",
-      "title": "“Should I Start An AI Business?”",
+      "video_id": "aZSpKw6vvQw",
+      "title": "Stop F*cking Up Your Business",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
       "channel_title": "Alex Hormozi",
       "source_type": "Business podcast",
-      "published_at": "2026-10-13T16:00:40Z",
-      "view_count": 150538,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=NZGzUEJOpmk"
+      "published_at": "2026-10-16T16:14:19Z",
+      "view_count": 183606,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=aZSpKw6vvQw"
+    },
+    {
+      "video_id": "_s50xcJh7jY",
+      "title": "Katie Zacharia, Gone But Never Forgotten",
+      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
+      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-16T13:00:01Z",
+      "view_count": 181932,
+      "duration_minutes": 65,
+      "url": "https://www.youtube.com/watch?v=_s50xcJh7jY"
     },
     {
       "video_id": "2tAywoHiIpo",
@@ -244,20 +255,9 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-15T02:41:18Z",
-      "view_count": 100778,
+      "view_count": 137815,
       "duration_minutes": 42,
       "url": "https://www.youtube.com/watch?v=2tAywoHiIpo"
-    },
-    {
-      "video_id": "Yp9KOqfnty0",
-      "title": "The $400k Skill AI Can’t Replace | Deep Dive",
-      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "channel_title": "The Prof G Pod – Scott Galloway",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-14T11:00:26Z",
-      "view_count": 89106,
-      "duration_minutes": 16,
-      "url": "https://www.youtube.com/watch?v=Yp9KOqfnty0"
     }
   ]
 }

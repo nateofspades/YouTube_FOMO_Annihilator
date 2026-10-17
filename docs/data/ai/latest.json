@@ -1,7 +1,7 @@
 {
   "slug": "ai",
   "title": "AI news",
-  "generated_at": "2026-10-16T14:54:29.706114Z",
+  "generated_at": "2026-10-17T13:47:07.119060Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -25,7 +25,7 @@
       "handle": "@TheAiGrid",
       "source_type": "AI-focused channel",
       "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "WorldofAI",
@@ -46,7 +46,7 @@
       "handle": "@aiadvantage",
       "source_type": "AI-focused channel",
       "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "Aitrepreneur",
@@ -91,7 +91,7 @@
       "recent_video_count": 6
     }
   ],
-  "candidate_count": 55,
+  "candidate_count": 53,
   "results": [
     {
       "video_id": "9PICEmtfpWU",
@@ -100,9 +100,20 @@
       "channel_title": "Google DeepMind",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-13T15:58:20Z",
-      "view_count": 327165,
+      "view_count": 556037,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=9PICEmtfpWU"
+    },
+    {
+      "video_id": "LVEfFyijQ2c",
+      "title": "Applying Gemini 4 for large-scale codebase maintenance in Chromium",
+      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "channel_title": "Google DeepMind",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-13T16:38:17Z",
+      "view_count": 356993,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=LVEfFyijQ2c"
     },
     {
       "video_id": "4fLVq6HJsKc",
@@ -111,7 +122,7 @@
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-11T16:53:17Z",
-      "view_count": 315931,
+      "view_count": 319821,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc"
     },
@@ -122,7 +133,7 @@
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-13T08:56:12Z",
-      "view_count": 292665,
+      "view_count": 313993,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=z_sXLlLVUls"
     },
@@ -133,7 +144,7 @@
       "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-13T16:47:07Z",
-      "view_count": 246460,
+      "view_count": 254662,
       "duration_minutes": 21,
       "url": "https://www.youtube.com/watch?v=eBszYxzE2dk"
     },
@@ -144,42 +155,20 @@
       "channel_title": "WorldofAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-12T07:25:21Z",
-      "view_count": 187858,
+      "view_count": 191185,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=4iKUaUmeoWk"
     },
     {
-      "video_id": "C4Sq3Rot8FU",
-      "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
-      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
-      "channel_title": "AI Explained",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-12T22:52:31Z",
-      "view_count": 139082,
-      "duration_minutes": 31,
-      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU"
-    },
-    {
-      "video_id": "NUizyuGj-kE",
-      "title": "AI News: Haiku-5.5, Visual ChatGPT, Grok's New Trick, and more!",
+      "video_id": "WXWFmwfo1JA",
+      "title": "This Tesla Actually Flies (NOT AI)",
       "channel_id": "UChpleBmo18P08aKCIgti38g",
       "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
-      "published_at": "2026-10-09T15:00:01Z",
-      "view_count": 129854,
-      "duration_minutes": 35,
-      "url": "https://www.youtube.com/watch?v=NUizyuGj-kE"
-    },
-    {
-      "video_id": "p5KxBTUncoE",
-      "title": "Set up your dot in the ChatGPT mobile app",
-      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "channel_title": "OpenAI",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-09T19:13:03Z",
-      "view_count": 129819,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=p5KxBTUncoE"
+      "published_at": "2026-10-16T04:30:35Z",
+      "view_count": 160926,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=WXWFmwfo1JA"
     },
     {
       "video_id": "GyO8Ao7yKJc",
@@ -188,20 +177,31 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-15T18:24:44Z",
-      "view_count": 119375,
+      "view_count": 153618,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=GyO8Ao7yKJc"
     },
     {
-      "video_id": "bk1xyTwzsY8",
-      "title": "FABLE 5.5 THIS WEEK? OpenAI Employee ARRESTED?! HUGE Claude Code Update, & Anthropic IPO! AI NEWS",
-      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
-      "channel_title": "WorldofAI",
+      "video_id": "C4Sq3Rot8FU",
+      "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
+      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "channel_title": "AI Explained",
       "source_type": "AI-focused channel",
-      "published_at": "2026-10-15T06:15:30Z",
-      "view_count": 94572,
-      "duration_minutes": 29,
-      "url": "https://www.youtube.com/watch?v=bk1xyTwzsY8"
+      "published_at": "2026-10-12T22:52:31Z",
+      "view_count": 142703,
+      "duration_minutes": 31,
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU"
+    },
+    {
+      "video_id": "ftkic7Tdpcg",
+      "title": "Using Gemini 4 Argon to protect against Cyber attackers",
+      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "channel_title": "Google DeepMind",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-13T16:38:14Z",
+      "view_count": 136642,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=ftkic7Tdpcg"
     }
   ]
 }

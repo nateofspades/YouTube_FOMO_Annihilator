@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-10-16T14:54:29.706114Z",
+  "generated_at": "2026-10-17T13:47:07.119060Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -53,7 +53,7 @@
       "handle": "@MarkRober",
       "source_type": "Independent creator",
       "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Hacksmith Industries",
@@ -74,7 +74,7 @@
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "European Space Agency",
@@ -88,7 +88,7 @@
       "handle": "@CleoAbram",
       "source_type": "Editorial/media",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Undecided",
@@ -117,7 +117,7 @@
       "handle": "@fermilab",
       "source_type": "Research institution",
       "channel_id": "UCD5B6VoXv41fJ-IW8Wrhz9A",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Applied Science",
@@ -145,10 +145,10 @@
       "handle": "@BranchEducation",
       "source_type": "Independent creator",
       "channel_id": "UCdp4_l1vPmpN-gDbUwhaRUQ",
-      "recent_video_count": 0
+      "recent_video_count": 1
     }
   ],
-  "candidate_count": 26,
+  "candidate_count": 25,
   "results": [
     {
       "video_id": "NiCgcUTL9_Q",
@@ -157,9 +157,20 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-12T17:11:45Z",
-      "view_count": 7199040,
+      "view_count": 8327582,
       "duration_minutes": 35,
       "url": "https://www.youtube.com/watch?v=NiCgcUTL9_Q"
+    },
+    {
+      "video_id": "sSvbLk-6eIA",
+      "title": "This Tesla Just Flew. HOW??",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-16T16:05:51Z",
+      "view_count": 2300600,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=sSvbLk-6eIA"
     },
     {
       "video_id": "VLLxNuZ2r20",
@@ -168,7 +179,7 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-10T14:02:11Z",
-      "view_count": 1370964,
+      "view_count": 1533472,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=VLLxNuZ2r20"
     },
@@ -179,7 +190,7 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-13T14:23:31Z",
-      "view_count": 1061511,
+      "view_count": 1206677,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=GNatcGIV18A"
     },
@@ -190,9 +201,20 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-15T13:00:26Z",
-      "view_count": 542449,
+      "view_count": 770229,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=6U6Z6pb6ewI"
+    },
+    {
+      "video_id": "0USB9ARf-9c",
+      "title": "Is There Only ONE Electron In the Universe?",
+      "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
+      "channel_title": "PBS Space Time",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-15T19:15:32Z",
+      "view_count": 617457,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=0USB9ARf-9c"
     },
     {
       "video_id": "dP_i7hRvGpE",
@@ -201,7 +223,7 @@
       "channel_title": "Boston Dynamics",
       "source_type": "Official company",
       "published_at": "2026-10-14T14:00:18Z",
-      "view_count": 503103,
+      "view_count": 547003,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=dP_i7hRvGpE"
     },
@@ -212,20 +234,9 @@
       "channel_title": "NASA",
       "source_type": "Government",
       "published_at": "2026-10-14T15:05:17Z",
-      "view_count": 352160,
+      "view_count": 506817,
       "duration_minutes": 20,
       "url": "https://www.youtube.com/watch?v=5b3n-u_0QAI"
-    },
-    {
-      "video_id": "kriIXJkoyBs",
-      "title": "The Hidden Problem With the World's Most Efficient Solar Panel",
-      "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
-      "channel_title": "Undecided with Matt Ferrell",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-13T12:16:55Z",
-      "view_count": 285821,
-      "duration_minutes": 19,
-      "url": "https://www.youtube.com/watch?v=kriIXJkoyBs"
     },
     {
       "video_id": "NZ0MA24EII4",
@@ -234,31 +245,20 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-12T14:08:53Z",
-      "view_count": 273349,
+      "view_count": 443858,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=NZ0MA24EII4"
     },
     {
-      "video_id": "pLmLi-pJ604",
-      "title": "How long until we find a theory of everything | Don Lincoln",
-      "channel_id": "UCD5B6VoXv41fJ-IW8Wrhz9A",
-      "channel_title": "Fermilab",
-      "source_type": "Research institution",
-      "published_at": "2026-10-09T15:34:25Z",
-      "view_count": 241547,
-      "duration_minutes": 13,
-      "url": "https://www.youtube.com/watch?v=pLmLi-pJ604"
-    },
-    {
-      "video_id": "0USB9ARf-9c",
-      "title": "Is There Only ONE Electron In the Universe?",
-      "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
-      "channel_title": "PBS Space Time",
-      "source_type": "Editorial/media",
-      "published_at": "2026-10-15T19:15:32Z",
-      "view_count": 241442,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=0USB9ARf-9c"
+      "video_id": "kriIXJkoyBs",
+      "title": "The Hidden Problem With the World's Most Efficient Solar Panel",
+      "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
+      "channel_title": "Undecided with Matt Ferrell",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-13T12:16:55Z",
+      "view_count": 295850,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=kriIXJkoyBs"
     }
   ]
 }

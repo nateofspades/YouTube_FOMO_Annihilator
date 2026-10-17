@@ -1,0 +1,264 @@
+{
+  "slug": "science-future-technology",
+  "title": "Science and future technology",
+  "generated_at": "2026-10-17T13:47:07.119060Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "Kurzgesagt",
+      "handle": "@kurzgesagt",
+      "source_type": "Independent creator",
+      "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Veritasium",
+      "handle": "@veritasium",
+      "source_type": "Independent creator",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "recent_video_count": 2
+    },
+    {
+      "name": "PBS Space Time",
+      "handle": "@pbsspacetime",
+      "source_type": "Editorial/media",
+      "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
+      "recent_video_count": 1
+    },
+    {
+      "name": "SmarterEveryDay",
+      "handle": "@smartereveryday",
+      "source_type": "Independent creator",
+      "channel_id": "UC6107grRI4m0o2-emgoDnAA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Real Engineering",
+      "handle": "@RealEngineering",
+      "source_type": "Independent creator",
+      "channel_id": "UCR1IuLEqb6UEA_zQ81kwXfg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Practical Engineering",
+      "handle": "@PracticalEngineeringChannel",
+      "source_type": "Independent creator",
+      "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Mark Rober",
+      "handle": "@MarkRober",
+      "source_type": "Independent creator",
+      "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Hacksmith Industries",
+      "handle": "@hacksmith",
+      "source_type": "Official company",
+      "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Boston Dynamics",
+      "handle": "@BostonDynamics",
+      "source_type": "Official company",
+      "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
+      "recent_video_count": 1
+    },
+    {
+      "name": "NASA",
+      "handle": "@NASA",
+      "source_type": "Government",
+      "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "recent_video_count": 5
+    },
+    {
+      "name": "European Space Agency",
+      "handle": "@EuropeanSpaceAgency",
+      "source_type": "Government",
+      "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
+      "recent_video_count": 5
+    },
+    {
+      "name": "Cleo Abram",
+      "handle": "@CleoAbram",
+      "source_type": "Editorial/media",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "recent_video_count": 5
+    },
+    {
+      "name": "Undecided",
+      "handle": "@UndecidedTechnology",
+      "source_type": "Independent creator",
+      "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Everything Electric",
+      "handle": "@fullychargedshow",
+      "source_type": "Editorial/media",
+      "channel_id": "UCzz4CoEgSgWNs9ZAvRMhW2A",
+      "recent_video_count": 1
+    },
+    {
+      "name": "IBM Research",
+      "handle": "ibmresearch",
+      "source_type": "Research institution",
+      "channel_id": null,
+      "recent_video_count": 0,
+      "status": "unavailable"
+    },
+    {
+      "name": "Fermilab",
+      "handle": "@fermilab",
+      "source_type": "Research institution",
+      "channel_id": "UCD5B6VoXv41fJ-IW8Wrhz9A",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Applied Science",
+      "handle": "@AppliedScience",
+      "source_type": "Independent creator",
+      "channel_id": "UCivA7_KLKWo43tFcCkFvydw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Periodic Videos",
+      "handle": "@periodicvideos",
+      "source_type": "Editorial/media",
+      "channel_id": "UCtESv1e7ntJaLJYKIO1FoYw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Two Bit da Vinci",
+      "handle": "@TwoBitDaVinci",
+      "source_type": "Independent creator",
+      "channel_id": "UCEgYhf84VjXDz-W7a9-rdCQ",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Branch Education",
+      "handle": "@BranchEducation",
+      "source_type": "Independent creator",
+      "channel_id": "UCdp4_l1vPmpN-gDbUwhaRUQ",
+      "recent_video_count": 1
+    }
+  ],
+  "candidate_count": 25,
+  "results": [
+    {
+      "video_id": "NiCgcUTL9_Q",
+      "title": "The Absurd Engineering Behind the Internet",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channel_title": "Veritasium",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-12T17:11:45Z",
+      "view_count": 8327582,
+      "duration_minutes": 35,
+      "url": "https://www.youtube.com/watch?v=NiCgcUTL9_Q"
+    },
+    {
+      "video_id": "sSvbLk-6eIA",
+      "title": "This Tesla Just Flew. HOW??",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-16T16:05:51Z",
+      "view_count": 2300600,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=sSvbLk-6eIA"
+    },
+    {
+      "video_id": "VLLxNuZ2r20",
+      "title": "The Real Story of the New Cat Species",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-10T14:02:11Z",
+      "view_count": 1533472,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=VLLxNuZ2r20"
+    },
+    {
+      "video_id": "GNatcGIV18A",
+      "title": "Sharks Are WAY OLDER Than You Think",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-13T14:23:31Z",
+      "view_count": 1206677,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=GNatcGIV18A"
+    },
+    {
+      "video_id": "6U6Z6pb6ewI",
+      "title": "When you lose weight where does it go?",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channel_title": "Veritasium",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-15T13:00:26Z",
+      "view_count": 770229,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=6U6Z6pb6ewI"
+    },
+    {
+      "video_id": "0USB9ARf-9c",
+      "title": "Is There Only ONE Electron In the Universe?",
+      "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
+      "channel_title": "PBS Space Time",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-15T19:15:32Z",
+      "view_count": 617457,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=0USB9ARf-9c"
+    },
+    {
+      "video_id": "dP_i7hRvGpE",
+      "title": "Machine, Assemble, Repair: How We Build Atlas | Boston Dynamics",
+      "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
+      "channel_title": "Boston Dynamics",
+      "source_type": "Official company",
+      "published_at": "2026-10-14T14:00:18Z",
+      "view_count": 547003,
+      "duration_minutes": 6,
+      "url": "https://www.youtube.com/watch?v=dP_i7hRvGpE"
+    },
+    {
+      "video_id": "5b3n-u_0QAI",
+      "title": "Planetary Defenders: This Is Not an Exercise",
+      "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "channel_title": "NASA",
+      "source_type": "Government",
+      "published_at": "2026-10-14T15:05:17Z",
+      "view_count": 506817,
+      "duration_minutes": 20,
+      "url": "https://www.youtube.com/watch?v=5b3n-u_0QAI"
+    },
+    {
+      "video_id": "NZ0MA24EII4",
+      "title": "What Really Happened To The Ozone Layer?",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-12T14:08:53Z",
+      "view_count": 443858,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=NZ0MA24EII4"
+    },
+    {
+      "video_id": "kriIXJkoyBs",
+      "title": "The Hidden Problem With the World's Most Efficient Solar Panel",
+      "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
+      "channel_title": "Undecided with Matt Ferrell",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-13T12:16:55Z",
+      "view_count": 295850,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=kriIXJkoyBs"
+    }
+  ]
+}
