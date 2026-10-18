@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-10-17T13:47:07.119060Z",
+  "generated_at": "2026-10-18T14:02:57.669811Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -60,7 +60,7 @@
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 21
+      "recent_video_count": 22
     },
     {
       "name": "GitLab",
@@ -147,7 +147,7 @@
       "recent_video_count": 3
     }
   ],
-  "candidate_count": 98,
+  "candidate_count": 99,
   "results": [
     {
       "video_id": "wajoP_5Cpw8",
@@ -156,7 +156,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-10-12T19:15:23Z",
-      "view_count": 5395314,
+      "view_count": 5909166,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=wajoP_5Cpw8"
     },
@@ -167,7 +167,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-10-14T17:48:10Z",
-      "view_count": 1528038,
+      "view_count": 1595979,
       "duration_minutes": 5,
       "url": "https://www.youtube.com/watch?v=QZVzuq28eFw"
     },
@@ -178,20 +178,9 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-10-15T17:35:15Z",
-      "view_count": 968330,
+      "view_count": 1022305,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=l3L_lETiSzc"
-    },
-    {
-      "video_id": "gRhM1h10T3U",
-      "title": "Gemini 4 Argon: 10 incredible AI demos (1M token output in action)",
-      "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "channel_title": "Google Cloud Tech",
-      "source_type": "Official company",
-      "published_at": "2026-10-13T22:02:36Z",
-      "view_count": 286112,
-      "duration_minutes": 12,
-      "url": "https://www.youtube.com/watch?v=gRhM1h10T3U"
     },
     {
       "video_id": "soTfFFIQQ8U",
@@ -200,9 +189,20 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-10-13T15:08:21Z",
-      "view_count": 285793,
+      "view_count": 313448,
       "duration_minutes": 197,
       "url": "https://www.youtube.com/watch?v=soTfFFIQQ8U"
+    },
+    {
+      "video_id": "gRhM1h10T3U",
+      "title": "Gemini 4 Argon: 10 incredible AI demos (1M token output in action)",
+      "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
+      "channel_title": "Google Cloud Tech",
+      "source_type": "Official company",
+      "published_at": "2026-10-13T22:02:36Z",
+      "view_count": 298068,
+      "duration_minutes": 12,
+      "url": "https://www.youtube.com/watch?v=gRhM1h10T3U"
     },
     {
       "video_id": "J37YeB63LVI",
@@ -211,7 +211,7 @@
       "channel_title": "Web Dev Simplified",
       "source_type": "Independent creator",
       "published_at": "2026-10-14T22:32:33Z",
-      "view_count": 266388,
+      "view_count": 279048,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=J37YeB63LVI"
     },
@@ -222,7 +222,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-14T15:45:44Z",
-      "view_count": 242249,
+      "view_count": 250623,
       "duration_minutes": 39,
       "url": "https://www.youtube.com/watch?v=NE006pkiAnk"
     },
@@ -233,7 +233,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-16T04:38:27Z",
-      "view_count": 174673,
+      "view_count": 198482,
       "duration_minutes": 48,
       "url": "https://www.youtube.com/watch?v=hiI0Vk4NgeY"
     },
@@ -244,7 +244,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-13T11:01:13Z",
-      "view_count": 168721,
+      "view_count": 170885,
       "duration_minutes": 38,
       "url": "https://www.youtube.com/watch?v=DbWL6Zs2j_g"
     },
@@ -255,7 +255,7 @@
       "channel_title": "Google for Developers",
       "source_type": "Official company",
       "published_at": "2026-10-13T19:00:11Z",
-      "view_count": 138986,
+      "view_count": 144865,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=OYp5j2RihPE"
     }

@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-10-17T13:47:07.119060Z",
+  "generated_at": "2026-10-18T14:02:57.669811Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@allaboutai",
       "source_type": "AI agent and automation",
       "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Alex Finn",
@@ -46,14 +46,14 @@
       "handle": "@NateHerk",
       "source_type": "AI agent and automation",
       "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "recent_video_count": 14
+      "recent_video_count": 13
     },
     {
       "name": "Krish Naik",
       "handle": "@krishnaik06",
       "source_type": "AI agent and automation",
       "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "AI Code King",
@@ -88,7 +88,7 @@
       "handle": "@TechWithTim",
       "source_type": "AI agent and automation",
       "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
-      "recent_video_count": 10
+      "recent_video_count": 11
     },
     {
       "name": "NetworkChuck",
@@ -143,7 +143,7 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-15T11:00:06Z",
-      "view_count": 140926,
+      "view_count": 170238,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=BwXremQ-i6I"
     },
@@ -154,7 +154,7 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-12T11:00:38Z",
-      "view_count": 133466,
+      "view_count": 140664,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=hTAWHgQI4xg"
     },
@@ -165,20 +165,9 @@
       "channel_title": "Nate Herk | AI Automation",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-15T15:16:33Z",
-      "view_count": 76705,
+      "view_count": 82475,
       "duration_minutes": 22,
       "url": "https://www.youtube.com/watch?v=KZiF2J83zaY"
-    },
-    {
-      "video_id": "zRMAvMSSSII",
-      "title": "Human in the Loop Is Not a Governance Strategy for Agentic AI",
-      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
-      "channel_title": "IBM Technology",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-11T11:00:03Z",
-      "view_count": 70375,
-      "duration_minutes": 4,
-      "url": "https://www.youtube.com/watch?v=zRMAvMSSSII"
     },
     {
       "video_id": "saxdE-U_YS8",
@@ -187,7 +176,7 @@
       "channel_title": "Nate Herk | AI Automation",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-15T16:33:38Z",
-      "view_count": 29444,
+      "view_count": 33361,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=saxdE-U_YS8"
     },
@@ -198,9 +187,20 @@
       "channel_title": "Tech With Tim",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-16T14:05:48Z",
-      "view_count": 17844,
+      "view_count": 22836,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=c2QukPONnfE"
+    },
+    {
+      "video_id": "NmN6jn6IiMA",
+      "title": "Clay's AI Agent Builds Your Outbound From One Prompt",
+      "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+      "channel_title": "Nate Herk | AI Automation",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-17T11:45:06Z",
+      "view_count": 18298,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=NmN6jn6IiMA"
     },
     {
       "video_id": "4TOLm1g-gCE",
@@ -209,7 +209,7 @@
       "channel_title": "How I AI",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-12T12:00:24Z",
-      "view_count": 16376,
+      "view_count": 16890,
       "duration_minutes": 38,
       "url": "https://www.youtube.com/watch?v=4TOLm1g-gCE"
     },
@@ -220,7 +220,7 @@
       "channel_title": "Hugging Face",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-13T03:37:35Z",
-      "view_count": 15228,
+      "view_count": 15984,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=EuN8WCWQf7g"
     },
@@ -231,7 +231,7 @@
       "channel_title": "AICodeKing",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-15T09:15:02Z",
-      "view_count": 10519,
+      "view_count": 10800,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=jouKaJ4qlAg"
     },
@@ -242,7 +242,7 @@
       "channel_title": "How I AI",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-15T14:30:27Z",
-      "view_count": 3215,
+      "view_count": 3839,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=jFSpr7mKdNQ"
     }

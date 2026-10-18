@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-10-17T13:47:07.119060Z",
+  "generated_at": "2026-10-18T14:02:57.669811Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "TechCrunch",
@@ -67,7 +67,7 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "My First Million",
@@ -150,37 +150,15 @@
   "candidate_count": 145,
   "results": [
     {
-      "video_id": "S6l3aRsecuE",
-      "title": "Building Muse, Working with Mark Zuckerberg & The Future of AI | Alexandr Wang, Meta",
-      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "channel_title": "David Senra",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-11T12:00:00Z",
-      "view_count": 356619,
-      "duration_minutes": 72,
-      "url": "https://www.youtube.com/watch?v=S6l3aRsecuE"
-    },
-    {
       "video_id": "VxC-PqE9x0U",
       "title": "Mark Zuckerberg's ruthless prioritization",
       "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-13T19:00:28Z",
-      "view_count": 241854,
+      "view_count": 303785,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=VxC-PqE9x0U"
-    },
-    {
-      "video_id": "DHXPdVrsHkk",
-      "title": "What Palmer Luckey would build if he started over",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-11T00:47:11Z",
-      "view_count": 218073,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=DHXPdVrsHkk"
     },
     {
       "video_id": "wOZjH3_XMCw",
@@ -189,20 +167,9 @@
       "channel_title": "Antler Global",
       "source_type": "Venture capital",
       "published_at": "2026-10-13T14:15:23Z",
-      "view_count": 120476,
+      "view_count": 120403,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=wOZjH3_XMCw"
-    },
-    {
-      "video_id": "3I6QYkccd3o",
-      "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (VP Google Labs)",
-      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "channel_title": "Lenny's Podcast",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-11T12:30:34Z",
-      "view_count": 60896,
-      "duration_minutes": 62,
-      "url": "https://www.youtube.com/watch?v=3I6QYkccd3o"
     },
     {
       "video_id": "zVS06J8r5lI",
@@ -211,9 +178,20 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-16T15:45:21Z",
-      "view_count": 53827,
+      "view_count": 92430,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=zVS06J8r5lI"
+    },
+    {
+      "video_id": "t_GK06_3UY8",
+      "title": "The Most Profitable Part of Your TV",
+      "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
+      "channel_title": "Slidebean",
+      "source_type": "Official company",
+      "published_at": "2026-10-16T14:30:26Z",
+      "view_count": 66113,
+      "duration_minutes": 24,
+      "url": "https://www.youtube.com/watch?v=t_GK06_3UY8"
     },
     {
       "video_id": "ZVRtC20JVBA",
@@ -222,7 +200,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-12T22:26:10Z",
-      "view_count": 48656,
+      "view_count": 49856,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=ZVRtC20JVBA"
     },
@@ -233,9 +211,20 @@
       "channel_title": "Antler Global",
       "source_type": "Venture capital",
       "published_at": "2026-10-14T08:00:05Z",
-      "view_count": 43849,
+      "view_count": 43839,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=bzc_8uOjx_g"
+    },
+    {
+      "video_id": "Js7Wf3Lj96A",
+      "title": "Lessons from History’s Greatest Leaders & Conquerors | Ben Wilson",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "channel_title": "David Senra",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-14T12:00:35Z",
+      "view_count": 40053,
+      "duration_minutes": 71,
+      "url": "https://www.youtube.com/watch?v=Js7Wf3Lj96A"
     },
     {
       "video_id": "hDfY-pJC0oc",
@@ -244,20 +233,31 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-14T11:49:45Z",
-      "view_count": 38029,
+      "view_count": 39332,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=hDfY-pJC0oc"
     },
     {
-      "video_id": "t_GK06_3UY8",
-      "title": "The Most Profitable Part of Your TV",
-      "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
-      "channel_title": "Slidebean",
-      "source_type": "Official company",
-      "published_at": "2026-10-16T14:30:26Z",
-      "view_count": 36551,
-      "duration_minutes": 24,
-      "url": "https://www.youtube.com/watch?v=t_GK06_3UY8"
+      "video_id": "3Q1mdn5ZGvM",
+      "title": "Recursive Self-Improvement and the Future of AI",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-12T14:30:07Z",
+      "view_count": 36109,
+      "duration_minutes": 32,
+      "url": "https://www.youtube.com/watch?v=3Q1mdn5ZGvM"
+    },
+    {
+      "video_id": "BKuK0M6oDTI",
+      "title": "Can Open Models Keep Up With OpenAI and Anthropic? | Nathan Lambert",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-14T14:30:08Z",
+      "view_count": 30617,
+      "duration_minutes": 59,
+      "url": "https://www.youtube.com/watch?v=BKuK0M6oDTI"
     }
   ]
 }

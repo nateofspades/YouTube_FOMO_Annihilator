@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-10-17T13:47:07.119060Z",
+  "generated_at": "2026-10-18T14:02:57.669811Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -60,7 +60,7 @@
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Boston Dynamics",
@@ -81,14 +81,14 @@
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Cleo Abram",
       "handle": "@CleoAbram",
       "source_type": "Editorial/media",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Undecided",
@@ -148,7 +148,7 @@
       "recent_video_count": 1
     }
   ],
-  "candidate_count": 25,
+  "candidate_count": 22,
   "results": [
     {
       "video_id": "NiCgcUTL9_Q",
@@ -157,7 +157,7 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-12T17:11:45Z",
-      "view_count": 8327582,
+      "view_count": 9402694,
       "duration_minutes": 35,
       "url": "https://www.youtube.com/watch?v=NiCgcUTL9_Q"
     },
@@ -168,20 +168,9 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-16T16:05:51Z",
-      "view_count": 2300600,
+      "view_count": 2988592,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=sSvbLk-6eIA"
-    },
-    {
-      "video_id": "VLLxNuZ2r20",
-      "title": "The Real Story of the New Cat Species",
-      "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "channel_title": "Cleo Abram",
-      "source_type": "Editorial/media",
-      "published_at": "2026-10-10T14:02:11Z",
-      "view_count": 1533472,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=VLLxNuZ2r20"
     },
     {
       "video_id": "GNatcGIV18A",
@@ -190,20 +179,9 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-13T14:23:31Z",
-      "view_count": 1206677,
+      "view_count": 1295825,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=GNatcGIV18A"
-    },
-    {
-      "video_id": "6U6Z6pb6ewI",
-      "title": "When you lose weight where does it go?",
-      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "channel_title": "Veritasium",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-15T13:00:26Z",
-      "view_count": 770229,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=6U6Z6pb6ewI"
     },
     {
       "video_id": "0USB9ARf-9c",
@@ -212,9 +190,42 @@
       "channel_title": "PBS Space Time",
       "source_type": "Editorial/media",
       "published_at": "2026-10-15T19:15:32Z",
-      "view_count": 617457,
+      "view_count": 956987,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=0USB9ARf-9c"
+    },
+    {
+      "video_id": "6U6Z6pb6ewI",
+      "title": "When you lose weight where does it go?",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channel_title": "Veritasium",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-15T13:00:26Z",
+      "view_count": 908969,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=6U6Z6pb6ewI"
+    },
+    {
+      "video_id": "YkEwyFpxWFc",
+      "title": "The Most Likely Place to Find Aliens",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-17T13:36:22Z",
+      "view_count": 793058,
+      "duration_minutes": 39,
+      "url": "https://www.youtube.com/watch?v=YkEwyFpxWFc"
+    },
+    {
+      "video_id": "NZ0MA24EII4",
+      "title": "What Really Happened To The Ozone Layer?",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-12T14:08:53Z",
+      "view_count": 750422,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=NZ0MA24EII4"
     },
     {
       "video_id": "dP_i7hRvGpE",
@@ -223,7 +234,7 @@
       "channel_title": "Boston Dynamics",
       "source_type": "Official company",
       "published_at": "2026-10-14T14:00:18Z",
-      "view_count": 547003,
+      "view_count": 568669,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=dP_i7hRvGpE"
     },
@@ -234,20 +245,9 @@
       "channel_title": "NASA",
       "source_type": "Government",
       "published_at": "2026-10-14T15:05:17Z",
-      "view_count": 506817,
+      "view_count": 560164,
       "duration_minutes": 20,
       "url": "https://www.youtube.com/watch?v=5b3n-u_0QAI"
-    },
-    {
-      "video_id": "NZ0MA24EII4",
-      "title": "What Really Happened To The Ozone Layer?",
-      "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "channel_title": "Cleo Abram",
-      "source_type": "Editorial/media",
-      "published_at": "2026-10-12T14:08:53Z",
-      "view_count": 443858,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=NZ0MA24EII4"
     },
     {
       "video_id": "kriIXJkoyBs",
@@ -256,7 +256,7 @@
       "channel_title": "Undecided with Matt Ferrell",
       "source_type": "Independent creator",
       "published_at": "2026-10-13T12:16:55Z",
-      "view_count": 295850,
+      "view_count": 303444,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=kriIXJkoyBs"
     }

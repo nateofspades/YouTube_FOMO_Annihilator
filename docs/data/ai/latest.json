@@ -1,7 +1,7 @@
 {
   "slug": "ai",
   "title": "AI news",
-  "generated_at": "2026-10-17T13:47:07.119060Z",
+  "generated_at": "2026-10-18T14:02:57.669811Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -39,7 +39,7 @@
       "handle": "@AllAboutAI",
       "source_type": "AI-focused channel",
       "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "The AI Advantage",
@@ -74,7 +74,7 @@
       "handle": "@openai",
       "source_type": "AI-focused channel",
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "recent_video_count": 14
+      "recent_video_count": 13
     },
     {
       "name": "Anthropic",
@@ -100,7 +100,7 @@
       "channel_title": "Google DeepMind",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-13T15:58:20Z",
-      "view_count": 556037,
+      "view_count": 773700,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=9PICEmtfpWU"
     },
@@ -111,20 +111,9 @@
       "channel_title": "Google DeepMind",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-13T16:38:17Z",
-      "view_count": 356993,
+      "view_count": 575277,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=LVEfFyijQ2c"
-    },
-    {
-      "video_id": "4fLVq6HJsKc",
-      "title": "DeepSeek Solved AI’s Memory Problem",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "channel_title": "Two Minute Papers",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-11T16:53:17Z",
-      "view_count": 319821,
-      "duration_minutes": 6,
-      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc"
     },
     {
       "video_id": "z_sXLlLVUls",
@@ -133,9 +122,20 @@
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-13T08:56:12Z",
-      "view_count": 313993,
+      "view_count": 328914,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=z_sXLlLVUls"
+    },
+    {
+      "video_id": "4fLVq6HJsKc",
+      "title": "DeepSeek Solved AI’s Memory Problem",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "channel_title": "Two Minute Papers",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-11T16:53:17Z",
+      "view_count": 322915,
+      "duration_minutes": 6,
+      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc"
     },
     {
       "video_id": "eBszYxzE2dk",
@@ -144,53 +144,9 @@
       "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-13T16:47:07Z",
-      "view_count": 254662,
+      "view_count": 259128,
       "duration_minutes": 21,
       "url": "https://www.youtube.com/watch?v=eBszYxzE2dk"
-    },
-    {
-      "video_id": "4iKUaUmeoWk",
-      "title": "Claude Opus 6 LEAKED, Gemini 4 Carbon Leaks, HUGE OpenAI Update, Claude 24/7 Agent, & More! AI NEWS",
-      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
-      "channel_title": "WorldofAI",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-12T07:25:21Z",
-      "view_count": 191185,
-      "duration_minutes": 25,
-      "url": "https://www.youtube.com/watch?v=4iKUaUmeoWk"
-    },
-    {
-      "video_id": "WXWFmwfo1JA",
-      "title": "This Tesla Actually Flies (NOT AI)",
-      "channel_id": "UChpleBmo18P08aKCIgti38g",
-      "channel_title": "Matt Wolfe",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-16T04:30:35Z",
-      "view_count": 160926,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=WXWFmwfo1JA"
-    },
-    {
-      "video_id": "GyO8Ao7yKJc",
-      "title": "GPT-Live-1.1 has new voices and better accents.",
-      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "channel_title": "OpenAI",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-15T18:24:44Z",
-      "view_count": 153618,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=GyO8Ao7yKJc"
-    },
-    {
-      "video_id": "C4Sq3Rot8FU",
-      "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
-      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
-      "channel_title": "AI Explained",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-12T22:52:31Z",
-      "view_count": 142703,
-      "duration_minutes": 31,
-      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU"
     },
     {
       "video_id": "ftkic7Tdpcg",
@@ -199,9 +155,53 @@
       "channel_title": "Google DeepMind",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-13T16:38:14Z",
-      "view_count": 136642,
+      "view_count": 233928,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=ftkic7Tdpcg"
+    },
+    {
+      "video_id": "4iKUaUmeoWk",
+      "title": "Claude Opus 6 LEAKED, Gemini 4 Carbon Leaks, HUGE OpenAI Update, Claude 24/7 Agent, & More! AI NEWS",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "channel_title": "WorldofAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-12T07:25:21Z",
+      "view_count": 194381,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=4iKUaUmeoWk"
+    },
+    {
+      "video_id": "GyO8Ao7yKJc",
+      "title": "GPT-Live-1.1 has new voices and better accents.",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "channel_title": "OpenAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-15T18:24:44Z",
+      "view_count": 169859,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=GyO8Ao7yKJc"
+    },
+    {
+      "video_id": "WXWFmwfo1JA",
+      "title": "This Tesla Actually Flies (NOT AI)",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "channel_title": "Matt Wolfe",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-16T04:30:35Z",
+      "view_count": 167709,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=WXWFmwfo1JA"
+    },
+    {
+      "video_id": "C4Sq3Rot8FU",
+      "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
+      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "channel_title": "AI Explained",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-12T22:52:31Z",
+      "view_count": 145293,
+      "duration_minutes": 31,
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU"
     }
   ]
 }

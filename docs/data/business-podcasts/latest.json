@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-10-17T13:47:07.119060Z",
+  "generated_at": "2026-10-18T14:02:57.669811Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@TheDiaryOfACEO",
       "source_type": "Business podcast",
       "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "recent_video_count": 6
+      "recent_video_count": 8
     },
     {
       "name": "My First Million",
@@ -32,7 +32,7 @@
       "handle": "@allin",
       "source_type": "Business podcast",
       "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "recent_video_count": 7
+      "recent_video_count": 9
     },
     {
       "name": "Guy Raz / How I Built This",
@@ -60,7 +60,7 @@
       "handle": "@MastersofScale_",
       "source_type": "Business podcast",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Invest Like The Best",
@@ -74,7 +74,7 @@
       "handle": "@tkppodcast",
       "source_type": "Business podcast",
       "channel_id": "UCLtTf_uKt0Itd0NG7txrwXA",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "This Week in Startups",
@@ -116,21 +116,21 @@
       "handle": "@timferriss",
       "source_type": "Business podcast",
       "channel_id": "UCznv7Vf9nBdJYvBagFdAHWw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Young and Profiting",
       "handle": "@youngandprofiting",
       "source_type": "Business podcast",
       "channel_id": "UCtz8s6nPLvrVQ4YhOJz6DSg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Alex Hormozi / The Game",
       "handle": "@AlexHormozi",
       "source_type": "Business podcast",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "recent_video_count": 28
+      "recent_video_count": 36
     },
     {
       "name": "Startups for the Rest of Us",
@@ -144,10 +144,10 @@
       "handle": "@ycombinator",
       "source_type": "Business podcast",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     }
   ],
-  "candidate_count": 119,
+  "candidate_count": 132,
   "results": [
     {
       "video_id": "IkhmdTqSvJw",
@@ -156,7 +156,7 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-10-12T07:00:32Z",
-      "view_count": 3276083,
+      "view_count": 3442200,
       "duration_minutes": 113,
       "url": "https://www.youtube.com/watch?v=IkhmdTqSvJw"
     },
@@ -167,9 +167,31 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-10-15T07:00:38Z",
-      "view_count": 1388866,
+      "view_count": 1700732,
       "duration_minutes": 136,
       "url": "https://www.youtube.com/watch?v=yePLuwL3FbM"
+    },
+    {
+      "video_id": "_b3LfMflIGs",
+      "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
+      "channel_title": "All-In Podcast",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-17T01:59:19Z",
+      "view_count": 562995,
+      "duration_minutes": 94,
+      "url": "https://www.youtube.com/watch?v=_b3LfMflIGs"
+    },
+    {
+      "video_id": "lZuEi-lRd4Y",
+      "title": "\"East Asia Is Gone\" — Peter Zeihan on the Oil Shock No One Is Ready For",
+      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
+      "channel_title": "The Prof G Pod – Scott Galloway",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-17T12:00:23Z",
+      "view_count": 559100,
+      "duration_minutes": 9,
+      "url": "https://www.youtube.com/watch?v=lZuEi-lRd4Y"
     },
     {
       "video_id": "hFTaGNz3wCQ",
@@ -178,7 +200,7 @@
       "channel_title": "Alex Hormozi",
       "source_type": "Business podcast",
       "published_at": "2026-10-15T16:16:26Z",
-      "view_count": 391732,
+      "view_count": 466141,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=hFTaGNz3wCQ"
     },
@@ -189,7 +211,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-12T16:56:59Z",
-      "view_count": 314206,
+      "view_count": 326124,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=yZR8QW4qQmM"
     },
@@ -200,31 +222,9 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-12T16:39:50Z",
-      "view_count": 263077,
+      "view_count": 289476,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=TLeh41_uhZ4"
-    },
-    {
-      "video_id": "_b3LfMflIGs",
-      "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
-      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "channel_title": "All-In Podcast",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-17T01:59:19Z",
-      "view_count": 230560,
-      "duration_minutes": 94,
-      "url": "https://www.youtube.com/watch?v=_b3LfMflIGs"
-    },
-    {
-      "video_id": "DHXPdVrsHkk",
-      "title": "What Palmer Luckey would build if he started over",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-11T00:47:11Z",
-      "view_count": 218073,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=DHXPdVrsHkk"
     },
     {
       "video_id": "aZSpKw6vvQw",
@@ -233,7 +233,7 @@
       "channel_title": "Alex Hormozi",
       "source_type": "Business podcast",
       "published_at": "2026-10-16T16:14:19Z",
-      "view_count": 183606,
+      "view_count": 247801,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=aZSpKw6vvQw"
     },
@@ -244,20 +244,20 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-16T13:00:01Z",
-      "view_count": 181932,
+      "view_count": 244200,
       "duration_minutes": 65,
       "url": "https://www.youtube.com/watch?v=_s50xcJh7jY"
     },
     {
-      "video_id": "2tAywoHiIpo",
-      "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder’s Documentary",
-      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "channel_title": "All-In Podcast",
+      "video_id": "0dTLRlnJf9I",
+      "title": "Could We Lose the Persian Gulf This Week? Scott Galloway and Peter Zeihan",
+      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
+      "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
-      "published_at": "2026-10-15T02:41:18Z",
-      "view_count": 137815,
-      "duration_minutes": 42,
-      "url": "https://www.youtube.com/watch?v=2tAywoHiIpo"
+      "published_at": "2026-10-16T23:00:30Z",
+      "view_count": 184424,
+      "duration_minutes": 10,
+      "url": "https://www.youtube.com/watch?v=0dTLRlnJf9I"
     }
   ]
 }
