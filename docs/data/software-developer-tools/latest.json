@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-10-18T14:02:57.669811Z",
+  "generated_at": "2026-10-19T17:00:07.346917Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@GitHub",
       "source_type": "Official company",
       "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "Google for Developers",
@@ -53,28 +53,28 @@
       "handle": "dockerrun",
       "source_type": "Official company",
       "channel_id": "UC76AVf2JkrwjxNKMuPpscHQ",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "CNCF",
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 22
+      "recent_video_count": 24
     },
     {
       "name": "GitLab",
       "handle": "@GitLab",
       "source_type": "Official company",
       "channel_id": "UCnMGQ8QHMAnVIsI3xJrihhg",
-      "recent_video_count": 4
+      "recent_video_count": 2
     },
     {
       "name": "JetBrains",
       "handle": "@JetBrainsTV",
       "source_type": "Official company",
       "channel_id": "UCGp4UBwpTNegd_4nCpuBcow",
-      "recent_video_count": 24
+      "recent_video_count": 34
     },
     {
       "name": "Fireship",
@@ -95,7 +95,7 @@
       "handle": "@TraversyMedia",
       "source_type": "Independent creator",
       "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Web Dev Simplified",
@@ -123,7 +123,7 @@
       "handle": "@TechWorldwithNana",
       "source_type": "Independent creator",
       "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Hussein Nasser",
@@ -147,7 +147,7 @@
       "recent_video_count": 3
     }
   ],
-  "candidate_count": 99,
+  "candidate_count": 111,
   "results": [
     {
       "video_id": "wajoP_5Cpw8",
@@ -156,7 +156,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-10-12T19:15:23Z",
-      "view_count": 5909166,
+      "view_count": 6203838,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=wajoP_5Cpw8"
     },
@@ -167,7 +167,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-10-14T17:48:10Z",
-      "view_count": 1595979,
+      "view_count": 1648904,
       "duration_minutes": 5,
       "url": "https://www.youtube.com/watch?v=QZVzuq28eFw"
     },
@@ -178,7 +178,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-10-15T17:35:15Z",
-      "view_count": 1022305,
+      "view_count": 1087069,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=l3L_lETiSzc"
     },
@@ -189,7 +189,7 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-10-13T15:08:21Z",
-      "view_count": 313448,
+      "view_count": 351006,
       "duration_minutes": 197,
       "url": "https://www.youtube.com/watch?v=soTfFFIQQ8U"
     },
@@ -200,7 +200,7 @@
       "channel_title": "Google Cloud Tech",
       "source_type": "Official company",
       "published_at": "2026-10-13T22:02:36Z",
-      "view_count": 298068,
+      "view_count": 306140,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=gRhM1h10T3U"
     },
@@ -211,7 +211,7 @@
       "channel_title": "Web Dev Simplified",
       "source_type": "Independent creator",
       "published_at": "2026-10-14T22:32:33Z",
-      "view_count": 279048,
+      "view_count": 288338,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=J37YeB63LVI"
     },
@@ -222,7 +222,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-14T15:45:44Z",
-      "view_count": 250623,
+      "view_count": 258271,
       "duration_minutes": 39,
       "url": "https://www.youtube.com/watch?v=NE006pkiAnk"
     },
@@ -233,7 +233,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-16T04:38:27Z",
-      "view_count": 198482,
+      "view_count": 213574,
       "duration_minutes": 48,
       "url": "https://www.youtube.com/watch?v=hiI0Vk4NgeY"
     },
@@ -244,7 +244,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-13T11:01:13Z",
-      "view_count": 170885,
+      "view_count": 172887,
       "duration_minutes": 38,
       "url": "https://www.youtube.com/watch?v=DbWL6Zs2j_g"
     },
@@ -255,7 +255,7 @@
       "channel_title": "Google for Developers",
       "source_type": "Official company",
       "published_at": "2026-10-13T19:00:11Z",
-      "view_count": 144865,
+      "view_count": 149734,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=OYp5j2RihPE"
     }

@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-10-18T14:02:57.669811Z",
+  "generated_at": "2026-10-19T17:00:07.346917Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -25,7 +25,7 @@
       "handle": "UCxBcwypKK-W3GHd_RZ9FZrQ",
       "source_type": "AI podcast",
       "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Cognitive Revolution",
@@ -98,7 +98,7 @@
       "recent_video_count": 0
     }
   ],
-  "candidate_count": 105,
+  "candidate_count": 104,
   "results": [
     {
       "video_id": "zlD-CkLVKtU",
@@ -107,9 +107,20 @@
       "channel_title": "Latent Space",
       "source_type": "AI podcast",
       "published_at": "2026-10-13T17:31:32Z",
-      "view_count": 21620,
+      "view_count": 26334,
       "duration_minutes": 28,
       "url": "https://www.youtube.com/watch?v=zlD-CkLVKtU"
+    },
+    {
+      "video_id": "9rH1ChuVAe0",
+      "title": "Jensen Huang on China's AI labs | Lex Fridman in Taiwan",
+      "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
+      "channel_title": "Lex Clips",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-18T04:00:19Z",
+      "view_count": 20654,
+      "duration_minutes": 5,
+      "url": "https://www.youtube.com/watch?v=9rH1ChuVAe0"
     },
     {
       "video_id": "BHiYomkfoGQ",
@@ -118,7 +129,7 @@
       "channel_title": "Latent Space",
       "source_type": "AI podcast",
       "published_at": "2026-10-13T17:42:33Z",
-      "view_count": 15772,
+      "view_count": 20611,
       "duration_minutes": 81,
       "url": "https://www.youtube.com/watch?v=BHiYomkfoGQ"
     },
@@ -129,20 +140,9 @@
       "channel_title": "No Priors: AI, Machine Learning, Tech, & Startups",
       "source_type": "AI podcast",
       "published_at": "2026-10-15T10:00:05Z",
-      "view_count": 14612,
+      "view_count": 15779,
       "duration_minutes": 39,
       "url": "https://www.youtube.com/watch?v=AwuTTOJGEi0"
-    },
-    {
-      "video_id": "9rH1ChuVAe0",
-      "title": "Jensen Huang on China's AI labs | Lex Fridman in Taiwan",
-      "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "channel_title": "Lex Clips",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-18T04:00:19Z",
-      "view_count": 13465,
-      "duration_minutes": 5,
-      "url": "https://www.youtube.com/watch?v=9rH1ChuVAe0"
     },
     {
       "video_id": "pSopii-RTJg",
@@ -151,20 +151,9 @@
       "channel_title": "Lex Clips",
       "source_type": "AI podcast",
       "published_at": "2026-10-17T04:00:21Z",
-      "view_count": 11636,
+      "view_count": 12327,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=pSopii-RTJg"
-    },
-    {
-      "video_id": "ZOH8Q401vt0",
-      "title": "High Taste Testers: OpenAI Shipped Everything. What Actually Works?",
-      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "channel_title": "Latent Space",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-16T23:45:02Z",
-      "view_count": 6738,
-      "duration_minutes": 75,
-      "url": "https://www.youtube.com/watch?v=ZOH8Q401vt0"
     },
     {
       "video_id": "SBlVJyoT3IM",
@@ -173,9 +162,20 @@
       "channel_title": "Cognitive Revolution \"How AI Changes Everything\"",
       "source_type": "AI podcast",
       "published_at": "2026-10-14T07:50:15Z",
-      "view_count": 4676,
+      "view_count": 8824,
       "duration_minutes": 138,
       "url": "https://www.youtube.com/watch?v=SBlVJyoT3IM"
+    },
+    {
+      "video_id": "ZOH8Q401vt0",
+      "title": "High Taste Testers: OpenAI Shipped Everything. What Actually Works?",
+      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
+      "channel_title": "Latent Space",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-16T23:45:02Z",
+      "view_count": 8100,
+      "duration_minutes": 75,
+      "url": "https://www.youtube.com/watch?v=ZOH8Q401vt0"
     },
     {
       "video_id": "Sj9SfzUXTjM",
@@ -184,7 +184,7 @@
       "channel_title": "Machine Gods",
       "source_type": "AI podcast",
       "published_at": "2026-10-15T00:03:29Z",
-      "view_count": 3708,
+      "view_count": 3901,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=Sj9SfzUXTjM"
     },
@@ -195,7 +195,7 @@
       "channel_title": "Machine Gods",
       "source_type": "AI podcast",
       "published_at": "2026-10-17T00:02:53Z",
-      "view_count": 1862,
+      "view_count": 2219,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=JDBCaIbwulY"
     },
@@ -206,7 +206,7 @@
       "channel_title": "The Artificial Intelligence Show Podcast",
       "source_type": "AI podcast",
       "published_at": "2026-10-15T09:00:16Z",
-      "view_count": 1612,
+      "view_count": 1764,
       "duration_minutes": 48,
       "url": "https://www.youtube.com/watch?v=XH1u09pL0Hk"
     }

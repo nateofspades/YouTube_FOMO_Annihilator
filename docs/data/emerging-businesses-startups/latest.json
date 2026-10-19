@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-10-18T14:02:57.669811Z",
+  "generated_at": "2026-10-19T17:00:07.346917Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -25,7 +25,7 @@
       "handle": "@a16z",
       "source_type": "Venture capital",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Sequoia Capital",
@@ -60,7 +60,7 @@
       "handle": "@AcquiredFM",
       "source_type": "Independent creator",
       "channel_id": "UCyFqFYfTW2VoIQKylJ04Rtw",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Masters of Scale",
@@ -74,7 +74,7 @@
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 10
+      "recent_video_count": 12
     },
     {
       "name": "MicroConf",
@@ -88,7 +88,7 @@
       "handle": "@Saastr",
       "source_type": "Founder community",
       "channel_id": "UCwOILzAcxK5CM2M7oRBuWSg",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Slidebean",
@@ -144,10 +144,10 @@
       "handle": "@DavidSenra",
       "source_type": "Independent creator",
       "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "recent_video_count": 10
+      "recent_video_count": 11
     }
   ],
-  "candidate_count": 145,
+  "candidate_count": 149,
   "results": [
     {
       "video_id": "VxC-PqE9x0U",
@@ -156,20 +156,9 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-13T19:00:28Z",
-      "view_count": 303785,
+      "view_count": 393330,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=VxC-PqE9x0U"
-    },
-    {
-      "video_id": "wOZjH3_XMCw",
-      "title": "Before they even had a website, Hampton generated $800k in revenue.",
-      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "channel_title": "Antler Global",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-13T14:15:23Z",
-      "view_count": 120403,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=wOZjH3_XMCw"
     },
     {
       "video_id": "zVS06J8r5lI",
@@ -178,9 +167,31 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-16T15:45:21Z",
-      "view_count": 92430,
+      "view_count": 128169,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=zVS06J8r5lI"
+    },
+    {
+      "video_id": "wOZjH3_XMCw",
+      "title": "Before they even had a website, Hampton generated $800k in revenue.",
+      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
+      "channel_title": "Antler Global",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-13T14:15:23Z",
+      "view_count": 120352,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=wOZjH3_XMCw"
+    },
+    {
+      "video_id": "pTuzmOblTGY",
+      "title": "Howard Marks: The S&P 500 isn’t a good bet right now",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-17T22:43:10Z",
+      "view_count": 96508,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=pTuzmOblTGY"
     },
     {
       "video_id": "t_GK06_3UY8",
@@ -189,7 +200,7 @@
       "channel_title": "Slidebean",
       "source_type": "Official company",
       "published_at": "2026-10-16T14:30:26Z",
-      "view_count": 66113,
+      "view_count": 92608,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=t_GK06_3UY8"
     },
@@ -200,20 +211,9 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-12T22:26:10Z",
-      "view_count": 49856,
+      "view_count": 51587,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=ZVRtC20JVBA"
-    },
-    {
-      "video_id": "bzc_8uOjx_g",
-      "title": "Hampton turns down half its applicants—and millions in easy cash.",
-      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "channel_title": "Antler Global",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-14T08:00:05Z",
-      "view_count": 43839,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=bzc_8uOjx_g"
     },
     {
       "video_id": "Js7Wf3Lj96A",
@@ -222,9 +222,31 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-14T12:00:35Z",
-      "view_count": 40053,
+      "view_count": 45708,
       "duration_minutes": 71,
       "url": "https://www.youtube.com/watch?v=Js7Wf3Lj96A"
+    },
+    {
+      "video_id": "bzc_8uOjx_g",
+      "title": "Hampton turns down half its applicants—and millions in easy cash.",
+      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
+      "channel_title": "Antler Global",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-14T08:00:05Z",
+      "view_count": 43826,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=bzc_8uOjx_g"
+    },
+    {
+      "video_id": "0ab30SMpLFo",
+      "title": "One Family Controls 70% of All Motels",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-18T22:58:02Z",
+      "view_count": 41453,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=0ab30SMpLFo"
     },
     {
       "video_id": "hDfY-pJC0oc",
@@ -233,31 +255,9 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-14T11:49:45Z",
-      "view_count": 39332,
+      "view_count": 40672,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=hDfY-pJC0oc"
-    },
-    {
-      "video_id": "3Q1mdn5ZGvM",
-      "title": "Recursive Self-Improvement and the Future of AI",
-      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "channel_title": "a16z",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-12T14:30:07Z",
-      "view_count": 36109,
-      "duration_minutes": 32,
-      "url": "https://www.youtube.com/watch?v=3Q1mdn5ZGvM"
-    },
-    {
-      "video_id": "BKuK0M6oDTI",
-      "title": "Can Open Models Keep Up With OpenAI and Anthropic? | Nathan Lambert",
-      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "channel_title": "a16z",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-14T14:30:08Z",
-      "view_count": 30617,
-      "duration_minutes": 59,
-      "url": "https://www.youtube.com/watch?v=BKuK0M6oDTI"
     }
   ]
 }

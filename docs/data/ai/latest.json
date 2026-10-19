@@ -1,7 +1,7 @@
 {
   "slug": "ai",
   "title": "AI news",
-  "generated_at": "2026-10-18T14:02:57.669811Z",
+  "generated_at": "2026-10-19T17:00:07.346917Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,14 +18,14 @@
       "handle": "@mreflow",
       "source_type": "AI-focused channel",
       "channel_id": "UChpleBmo18P08aKCIgti38g",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "TheAIGRID",
       "handle": "@TheAiGrid",
       "source_type": "AI-focused channel",
       "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "WorldofAI",
@@ -46,14 +46,14 @@
       "handle": "@aiadvantage",
       "source_type": "AI-focused channel",
       "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Aitrepreneur",
       "handle": "@aitrepreneur",
       "source_type": "AI-focused channel",
       "channel_id": "UCEAbqW0HFB_UxZoUDO0kJBw",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Two Minute Papers",
@@ -74,7 +74,7 @@
       "handle": "@openai",
       "source_type": "AI-focused channel",
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "recent_video_count": 13
+      "recent_video_count": 17
     },
     {
       "name": "Anthropic",
@@ -88,10 +88,10 @@
       "handle": "@HuggingFace",
       "source_type": "AI-focused channel",
       "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "recent_video_count": 6
+      "recent_video_count": 7
     }
   ],
-  "candidate_count": 53,
+  "candidate_count": 56,
   "results": [
     {
       "video_id": "9PICEmtfpWU",
@@ -100,7 +100,7 @@
       "channel_title": "Google DeepMind",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-13T15:58:20Z",
-      "view_count": 773700,
+      "view_count": 1064390,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=9PICEmtfpWU"
     },
@@ -111,7 +111,7 @@
       "channel_title": "Google DeepMind",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-13T16:38:17Z",
-      "view_count": 575277,
+      "view_count": 831107,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=LVEfFyijQ2c"
     },
@@ -122,31 +122,9 @@
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-13T08:56:12Z",
-      "view_count": 328914,
+      "view_count": 343750,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=z_sXLlLVUls"
-    },
-    {
-      "video_id": "4fLVq6HJsKc",
-      "title": "DeepSeek Solved AI’s Memory Problem",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "channel_title": "Two Minute Papers",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-11T16:53:17Z",
-      "view_count": 322915,
-      "duration_minutes": 6,
-      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc"
-    },
-    {
-      "video_id": "eBszYxzE2dk",
-      "title": "Google Just Caught Up (Gemini-4 Argon)",
-      "channel_id": "UChpleBmo18P08aKCIgti38g",
-      "channel_title": "Matt Wolfe",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-13T16:47:07Z",
-      "view_count": 259128,
-      "duration_minutes": 21,
-      "url": "https://www.youtube.com/watch?v=eBszYxzE2dk"
     },
     {
       "video_id": "ftkic7Tdpcg",
@@ -155,20 +133,20 @@
       "channel_title": "Google DeepMind",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-13T16:38:14Z",
-      "view_count": 233928,
+      "view_count": 332830,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=ftkic7Tdpcg"
     },
     {
-      "video_id": "4iKUaUmeoWk",
-      "title": "Claude Opus 6 LEAKED, Gemini 4 Carbon Leaks, HUGE OpenAI Update, Claude 24/7 Agent, & More! AI NEWS",
-      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
-      "channel_title": "WorldofAI",
+      "video_id": "eBszYxzE2dk",
+      "title": "Google Just Caught Up (Gemini-4 Argon)",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
-      "published_at": "2026-10-12T07:25:21Z",
-      "view_count": 194381,
-      "duration_minutes": 25,
-      "url": "https://www.youtube.com/watch?v=4iKUaUmeoWk"
+      "published_at": "2026-10-13T16:47:07Z",
+      "view_count": 262906,
+      "duration_minutes": 21,
+      "url": "https://www.youtube.com/watch?v=eBszYxzE2dk"
     },
     {
       "video_id": "GyO8Ao7yKJc",
@@ -177,7 +155,7 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-15T18:24:44Z",
-      "view_count": 169859,
+      "view_count": 179462,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=GyO8Ao7yKJc"
     },
@@ -188,9 +166,20 @@
       "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-16T04:30:35Z",
-      "view_count": 167709,
+      "view_count": 170867,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=WXWFmwfo1JA"
+    },
+    {
+      "video_id": "KGcuuhqmPhI",
+      "title": "AI News: 6 New Models & A Nano Banana Killer",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "channel_title": "Matt Wolfe",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-16T16:20:28Z",
+      "view_count": 155825,
+      "duration_minutes": 31,
+      "url": "https://www.youtube.com/watch?v=KGcuuhqmPhI"
     },
     {
       "video_id": "C4Sq3Rot8FU",
@@ -199,9 +188,20 @@
       "channel_title": "AI Explained",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-12T22:52:31Z",
-      "view_count": 145293,
+      "view_count": 147764,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU"
+    },
+    {
+      "video_id": "GBOZIRK1ujw",
+      "title": "Put your dot on call",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "channel_title": "OpenAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-16T21:43:48Z",
+      "view_count": 141591,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=GBOZIRK1ujw"
     }
   ]
 }

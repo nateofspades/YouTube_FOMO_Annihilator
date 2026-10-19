@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-10-18T14:02:57.669811Z",
+  "generated_at": "2026-10-19T17:00:07.346917Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,21 +18,21 @@
       "handle": "@MyFirstMillionPod",
       "source_type": "Business podcast",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 10
+      "recent_video_count": 12
     },
     {
       "name": "Acquired",
       "handle": "@AcquiredFM",
       "source_type": "Business podcast",
       "channel_id": "UCyFqFYfTW2VoIQKylJ04Rtw",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "All-In Podcast",
       "handle": "@allin",
       "source_type": "Business podcast",
       "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "Guy Raz / How I Built This",
@@ -81,7 +81,7 @@
       "handle": "@startups",
       "source_type": "Business podcast",
       "channel_id": "UCkkhmBWfS7pILYIk0izkc3A",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "20VC with Harry Stebbings",
@@ -95,14 +95,14 @@
       "handle": "@a16z",
       "source_type": "Business podcast",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "The Prof G Pod – Scott Galloway",
       "handle": "@TheProfGPod",
       "source_type": "Business podcast",
       "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "recent_video_count": 10
+      "recent_video_count": 12
     },
     {
       "name": "Pivot with Kara Swisher and Scott Galloway",
@@ -130,7 +130,7 @@
       "handle": "@AlexHormozi",
       "source_type": "Business podcast",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "recent_video_count": 36
+      "recent_video_count": 39
     },
     {
       "name": "Startups for the Rest of Us",
@@ -147,19 +147,8 @@
       "recent_video_count": 4
     }
   ],
-  "candidate_count": 132,
+  "candidate_count": 141,
   "results": [
-    {
-      "video_id": "IkhmdTqSvJw",
-      "title": "UFO Cover-Up Analyst: The Secret Alien Programs Nobody Is Talking About! | Eric Weinstein",
-      "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "channel_title": "The Diary Of A CEO",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-12T07:00:32Z",
-      "view_count": 3442200,
-      "duration_minutes": 113,
-      "url": "https://www.youtube.com/watch?v=IkhmdTqSvJw"
-    },
     {
       "video_id": "yePLuwL3FbM",
       "title": "No.1 Neuroscientist Reveals How To Unlock Superhuman Focus & Perfect Memory! - Dr. Sahar Yousef",
@@ -167,20 +156,9 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-10-15T07:00:38Z",
-      "view_count": 1700732,
+      "view_count": 2033126,
       "duration_minutes": 136,
       "url": "https://www.youtube.com/watch?v=yePLuwL3FbM"
-    },
-    {
-      "video_id": "_b3LfMflIGs",
-      "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
-      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "channel_title": "All-In Podcast",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-17T01:59:19Z",
-      "view_count": 562995,
-      "duration_minutes": 94,
-      "url": "https://www.youtube.com/watch?v=_b3LfMflIGs"
     },
     {
       "video_id": "lZuEi-lRd4Y",
@@ -189,9 +167,20 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-17T12:00:23Z",
-      "view_count": 559100,
+      "view_count": 863851,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=lZuEi-lRd4Y"
+    },
+    {
+      "video_id": "_b3LfMflIGs",
+      "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
+      "channel_title": "All-In Podcast",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-17T01:59:19Z",
+      "view_count": 735690,
+      "duration_minutes": 94,
+      "url": "https://www.youtube.com/watch?v=_b3LfMflIGs"
     },
     {
       "video_id": "hFTaGNz3wCQ",
@@ -200,31 +189,9 @@
       "channel_title": "Alex Hormozi",
       "source_type": "Business podcast",
       "published_at": "2026-10-15T16:16:26Z",
-      "view_count": 466141,
+      "view_count": 540721,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=hFTaGNz3wCQ"
-    },
-    {
-      "video_id": "yZR8QW4qQmM",
-      "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
-      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "channel_title": "All-In Podcast",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-12T16:56:59Z",
-      "view_count": 326124,
-      "duration_minutes": 25,
-      "url": "https://www.youtube.com/watch?v=yZR8QW4qQmM"
-    },
-    {
-      "video_id": "TLeh41_uhZ4",
-      "title": "Chamath: Software IP Just Became Worthless",
-      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "channel_title": "All-In Podcast",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-12T16:39:50Z",
-      "view_count": 289476,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=TLeh41_uhZ4"
     },
     {
       "video_id": "aZSpKw6vvQw",
@@ -233,7 +200,7 @@
       "channel_title": "Alex Hormozi",
       "source_type": "Business podcast",
       "published_at": "2026-10-16T16:14:19Z",
-      "view_count": 247801,
+      "view_count": 275370,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=aZSpKw6vvQw"
     },
@@ -244,18 +211,51 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-16T13:00:01Z",
-      "view_count": 244200,
+      "view_count": 267617,
       "duration_minutes": 65,
       "url": "https://www.youtube.com/watch?v=_s50xcJh7jY"
     },
     {
+      "video_id": "i7-t8e42WkM",
+      "title": "Chamath Explains the AI Boom’s Achilles Heel",
+      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
+      "channel_title": "All-In Podcast",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-17T15:30:12Z",
+      "view_count": 240002,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=i7-t8e42WkM"
+    },
+    {
+      "video_id": "2tAywoHiIpo",
+      "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder’s Documentary",
+      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
+      "channel_title": "All-In Podcast",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-15T02:41:18Z",
+      "view_count": 226299,
+      "duration_minutes": 42,
+      "url": "https://www.youtube.com/watch?v=2tAywoHiIpo"
+    },
+    {
+      "video_id": "jt5ol63Qaxw",
+      "title": "\"There's Only One Place to Put Your Money\" — Peter Zeihan on America's Edge",
+      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
+      "channel_title": "The Prof G Pod – Scott Galloway",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-18T12:00:14Z",
+      "view_count": 226164,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=jt5ol63Qaxw"
+    },
+    {
       "video_id": "0dTLRlnJf9I",
-      "title": "Could We Lose the Persian Gulf This Week? Scott Galloway and Peter Zeihan",
+      "title": "Could We Lose the Persian Gulf? Scott Galloway and Peter Zeihan",
       "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-16T23:00:30Z",
-      "view_count": 184424,
+      "view_count": 217827,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=0dTLRlnJf9I"
     }

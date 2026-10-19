@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-10-18T14:02:57.669811Z",
+  "generated_at": "2026-10-19T17:00:07.346917Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -25,35 +25,35 @@
       "handle": "@matthew_berman",
       "source_type": "AI agent and automation",
       "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "Cole Medin",
       "handle": "@ColeMedin",
       "source_type": "AI agent and automation",
       "channel_id": "UCMwVTLZIRRUyyVrkjDpn4pA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Futurepedia",
       "handle": "@Futurepedia_io",
       "source_type": "AI agent and automation",
       "channel_id": "UC_RovKmk0OCbuZjA8f08opw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Nate Herk",
       "handle": "@NateHerk",
       "source_type": "AI agent and automation",
       "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "recent_video_count": 13
+      "recent_video_count": 14
     },
     {
       "name": "Krish Naik",
       "handle": "@krishnaik06",
       "source_type": "AI agent and automation",
       "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "AI Code King",
@@ -95,7 +95,7 @@
       "handle": "@NetworkChuck",
       "source_type": "AI agent and automation",
       "channel_id": "UC9x0AN7BWHpCDHSm9NiJFJQ",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Greg Isenberg",
@@ -109,7 +109,7 @@
       "handle": "@howiaipodcast",
       "source_type": "AI agent and automation",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 11
+      "recent_video_count": 10
     },
     {
       "name": "IBM Technology",
@@ -131,10 +131,10 @@
       "handle": "@huggingface",
       "source_type": "AI agent and automation",
       "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "recent_video_count": 6
+      "recent_video_count": 7
     }
   ],
-  "candidate_count": 86,
+  "candidate_count": 84,
   "results": [
     {
       "video_id": "BwXremQ-i6I",
@@ -143,20 +143,9 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-15T11:00:06Z",
-      "view_count": 170238,
+      "view_count": 196870,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=BwXremQ-i6I"
-    },
-    {
-      "video_id": "hTAWHgQI4xg",
-      "title": "5 Concepts to Know for Coding with AI Agents",
-      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
-      "channel_title": "IBM Technology",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-12T11:00:38Z",
-      "view_count": 140664,
-      "duration_minutes": 10,
-      "url": "https://www.youtube.com/watch?v=hTAWHgQI4xg"
     },
     {
       "video_id": "KZiF2J83zaY",
@@ -165,7 +154,7 @@
       "channel_title": "Nate Herk | AI Automation",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-15T15:16:33Z",
-      "view_count": 82475,
+      "view_count": 87008,
       "duration_minutes": 22,
       "url": "https://www.youtube.com/watch?v=KZiF2J83zaY"
     },
@@ -176,7 +165,7 @@
       "channel_title": "Nate Herk | AI Automation",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-15T16:33:38Z",
-      "view_count": 33361,
+      "view_count": 34985,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=saxdE-U_YS8"
     },
@@ -187,7 +176,7 @@
       "channel_title": "Tech With Tim",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-16T14:05:48Z",
-      "view_count": 22836,
+      "view_count": 25541,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=c2QukPONnfE"
     },
@@ -198,20 +187,20 @@
       "channel_title": "Nate Herk | AI Automation",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-17T11:45:06Z",
-      "view_count": 18298,
+      "view_count": 22423,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=NmN6jn6IiMA"
     },
     {
-      "video_id": "4TOLm1g-gCE",
-      "title": "Meta Muse: the AI agent people actually love",
-      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "channel_title": "How I AI",
+      "video_id": "DQBqh6gcx7U",
+      "title": "What Is Loop Engineering? Building Better AI Agents",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
-      "published_at": "2026-10-12T12:00:24Z",
-      "view_count": 16890,
-      "duration_minutes": 38,
-      "url": "https://www.youtube.com/watch?v=4TOLm1g-gCE"
+      "published_at": "2026-10-19T11:00:06Z",
+      "view_count": 19716,
+      "duration_minutes": 11,
+      "url": "https://www.youtube.com/watch?v=DQBqh6gcx7U"
     },
     {
       "video_id": "EuN8WCWQf7g",
@@ -220,7 +209,7 @@
       "channel_title": "Hugging Face",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-13T03:37:35Z",
-      "view_count": 15984,
+      "view_count": 16436,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=EuN8WCWQf7g"
     },
@@ -231,7 +220,7 @@
       "channel_title": "AICodeKing",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-15T09:15:02Z",
-      "view_count": 10800,
+      "view_count": 10996,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=jouKaJ4qlAg"
     },
@@ -242,9 +231,20 @@
       "channel_title": "How I AI",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-15T14:30:27Z",
-      "view_count": 3839,
+      "view_count": 4262,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=jFSpr7mKdNQ"
+    },
+    {
+      "video_id": "HvWOS9lsyjM",
+      "title": "Meta's Muse: best AI agent, worst designer",
+      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
+      "channel_title": "How I AI",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-14T16:36:13Z",
+      "view_count": 1942,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=HvWOS9lsyjM"
     }
   ]
 }

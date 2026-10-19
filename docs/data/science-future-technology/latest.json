@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-10-18T14:02:57.669811Z",
+  "generated_at": "2026-10-19T17:00:07.346917Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -60,7 +60,7 @@
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Boston Dynamics",
@@ -81,7 +81,7 @@
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Cleo Abram",
@@ -157,7 +157,7 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-12T17:11:45Z",
-      "view_count": 9402694,
+      "view_count": 10562618,
       "duration_minutes": 35,
       "url": "https://www.youtube.com/watch?v=NiCgcUTL9_Q"
     },
@@ -168,7 +168,7 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-16T16:05:51Z",
-      "view_count": 2988592,
+      "view_count": 3264203,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=sSvbLk-6eIA"
     },
@@ -179,9 +179,20 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-13T14:23:31Z",
-      "view_count": 1295825,
+      "view_count": 1387630,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=GNatcGIV18A"
+    },
+    {
+      "video_id": "YkEwyFpxWFc",
+      "title": "The Most Likely Place to Find Aliens",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-17T13:36:22Z",
+      "view_count": 1290484,
+      "duration_minutes": 39,
+      "url": "https://www.youtube.com/watch?v=YkEwyFpxWFc"
     },
     {
       "video_id": "0USB9ARf-9c",
@@ -190,7 +201,7 @@
       "channel_title": "PBS Space Time",
       "source_type": "Editorial/media",
       "published_at": "2026-10-15T19:15:32Z",
-      "view_count": 956987,
+      "view_count": 1187932,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=0USB9ARf-9c"
     },
@@ -201,42 +212,9 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-15T13:00:26Z",
-      "view_count": 908969,
+      "view_count": 1005268,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=6U6Z6pb6ewI"
-    },
-    {
-      "video_id": "YkEwyFpxWFc",
-      "title": "The Most Likely Place to Find Aliens",
-      "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "channel_title": "Cleo Abram",
-      "source_type": "Editorial/media",
-      "published_at": "2026-10-17T13:36:22Z",
-      "view_count": 793058,
-      "duration_minutes": 39,
-      "url": "https://www.youtube.com/watch?v=YkEwyFpxWFc"
-    },
-    {
-      "video_id": "NZ0MA24EII4",
-      "title": "What Really Happened To The Ozone Layer?",
-      "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "channel_title": "Cleo Abram",
-      "source_type": "Editorial/media",
-      "published_at": "2026-10-12T14:08:53Z",
-      "view_count": 750422,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=NZ0MA24EII4"
-    },
-    {
-      "video_id": "dP_i7hRvGpE",
-      "title": "Machine, Assemble, Repair: How We Build Atlas | Boston Dynamics",
-      "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
-      "channel_title": "Boston Dynamics",
-      "source_type": "Official company",
-      "published_at": "2026-10-14T14:00:18Z",
-      "view_count": 568669,
-      "duration_minutes": 6,
-      "url": "https://www.youtube.com/watch?v=dP_i7hRvGpE"
     },
     {
       "video_id": "5b3n-u_0QAI",
@@ -245,9 +223,20 @@
       "channel_title": "NASA",
       "source_type": "Government",
       "published_at": "2026-10-14T15:05:17Z",
-      "view_count": 560164,
+      "view_count": 586948,
       "duration_minutes": 20,
       "url": "https://www.youtube.com/watch?v=5b3n-u_0QAI"
+    },
+    {
+      "video_id": "dP_i7hRvGpE",
+      "title": "Machine, Assemble, Repair: How We Build Atlas | Boston Dynamics",
+      "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
+      "channel_title": "Boston Dynamics",
+      "source_type": "Official company",
+      "published_at": "2026-10-14T14:00:18Z",
+      "view_count": 585619,
+      "duration_minutes": 6,
+      "url": "https://www.youtube.com/watch?v=dP_i7hRvGpE"
     },
     {
       "video_id": "kriIXJkoyBs",
@@ -256,9 +245,20 @@
       "channel_title": "Undecided with Matt Ferrell",
       "source_type": "Independent creator",
       "published_at": "2026-10-13T12:16:55Z",
-      "view_count": 303444,
+      "view_count": 309603,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=kriIXJkoyBs"
+    },
+    {
+      "video_id": "VUPxowV0fsk",
+      "title": "The Flattest Surface in the World",
+      "channel_id": "UCdp4_l1vPmpN-gDbUwhaRUQ",
+      "channel_title": "Branch Education",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-16T20:56:05Z",
+      "view_count": 293335,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=VUPxowV0fsk"
     }
   ]
 }
