@@ -1,0 +1,207 @@
+{
+  "slug": "ai",
+  "title": "AI news",
+  "generated_at": "2026-10-20T15:09:45.184030Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "AI Explained",
+      "handle": "@aiexplained-official",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Matt Wolfe",
+      "handle": "@mreflow",
+      "source_type": "AI-focused channel",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "recent_video_count": 7
+    },
+    {
+      "name": "TheAIGRID",
+      "handle": "@TheAiGrid",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
+      "recent_video_count": 3
+    },
+    {
+      "name": "WorldofAI",
+      "handle": "@intheworldofai",
+      "source_type": "AI-focused channel",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "recent_video_count": 7
+    },
+    {
+      "name": "All About AI",
+      "handle": "@AllAboutAI",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "The AI Advantage",
+      "handle": "@aiadvantage",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ",
+      "recent_video_count": 6
+    },
+    {
+      "name": "Aitrepreneur",
+      "handle": "@aitrepreneur",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCEAbqW0HFB_UxZoUDO0kJBw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Two Minute Papers",
+      "handle": "@TwoMinutePapers",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Google DeepMind",
+      "handle": "@googledeepmind",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "recent_video_count": 4
+    },
+    {
+      "name": "OpenAI",
+      "handle": "@openai",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "recent_video_count": 19
+    },
+    {
+      "name": "Anthropic",
+      "handle": "@anthropic-ai",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCrDwWp7EBBv4NwvScIpBDOA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Hugging Face",
+      "handle": "@HuggingFace",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
+      "recent_video_count": 5
+    }
+  ],
+  "candidate_count": 53,
+  "results": [
+    {
+      "video_id": "9PICEmtfpWU",
+      "title": "Teaching a humanoid robot to play cornhole with Gemini 4 Argon",
+      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "channel_title": "Google DeepMind",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-13T15:58:20Z",
+      "view_count": 1345638,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=9PICEmtfpWU"
+    },
+    {
+      "video_id": "LVEfFyijQ2c",
+      "title": "Applying Gemini 4 for large-scale codebase maintenance in Chromium",
+      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "channel_title": "Google DeepMind",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-13T16:38:17Z",
+      "view_count": 1062130,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=LVEfFyijQ2c"
+    },
+    {
+      "video_id": "ftkic7Tdpcg",
+      "title": "Using Gemini 4 Argon to protect against Cyber attackers",
+      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "channel_title": "Google DeepMind",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-13T16:38:14Z",
+      "view_count": 332923,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=ftkic7Tdpcg"
+    },
+    {
+      "video_id": "eBszYxzE2dk",
+      "title": "Google Just Caught Up (Gemini-4 Argon)",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "channel_title": "Matt Wolfe",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-13T16:47:07Z",
+      "view_count": 265384,
+      "duration_minutes": 21,
+      "url": "https://www.youtube.com/watch?v=eBszYxzE2dk"
+    },
+    {
+      "video_id": "GyO8Ao7yKJc",
+      "title": "GPT-Live-1.1 has new voices and better accents.",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "channel_title": "OpenAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-15T18:24:44Z",
+      "view_count": 182123,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=GyO8Ao7yKJc"
+    },
+    {
+      "video_id": "LWxX6vvHfrc",
+      "title": "Gemini 4 Argon Is Not What I Expected",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "channel_title": "Two Minute Papers",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-19T08:49:21Z",
+      "view_count": 176388,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc"
+    },
+    {
+      "video_id": "WXWFmwfo1JA",
+      "title": "This Tesla Actually Flies (NOT AI)",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "channel_title": "Matt Wolfe",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-16T04:30:35Z",
+      "view_count": 172199,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=WXWFmwfo1JA"
+    },
+    {
+      "video_id": "KGcuuhqmPhI",
+      "title": "AI News: 6 New Models & A Nano Banana Killer",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "channel_title": "Matt Wolfe",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-16T16:20:28Z",
+      "view_count": 164208,
+      "duration_minutes": 31,
+      "url": "https://www.youtube.com/watch?v=KGcuuhqmPhI"
+    },
+    {
+      "video_id": "GBOZIRK1ujw",
+      "title": "Put your dot on call",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "channel_title": "OpenAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-16T21:43:48Z",
+      "view_count": 147306,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=GBOZIRK1ujw"
+    },
+    {
+      "video_id": "2mE6bbjVazE",
+      "title": "Former OpenAI Researcher Makes a MASSIVE AI Discovery",
+      "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
+      "channel_title": "TheAIGRID",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-17T20:31:16Z",
+      "view_count": 133313,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=2mE6bbjVazE"
+    }
+  ]
+}

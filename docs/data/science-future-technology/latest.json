@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-10-19T17:00:07.346917Z",
+  "generated_at": "2026-10-20T15:09:45.184030Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,21 +11,21 @@
       "handle": "@kurzgesagt",
       "source_type": "Independent creator",
       "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Veritasium",
       "handle": "@veritasium",
       "source_type": "Independent creator",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "PBS Space Time",
       "handle": "@pbsspacetime",
       "source_type": "Editorial/media",
       "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "SmarterEveryDay",
@@ -46,7 +46,7 @@
       "handle": "@PracticalEngineeringChannel",
       "source_type": "Independent creator",
       "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Mark Rober",
@@ -60,7 +60,7 @@
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Boston Dynamics",
@@ -81,28 +81,28 @@
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Cleo Abram",
       "handle": "@CleoAbram",
       "source_type": "Editorial/media",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Undecided",
       "handle": "@UndecidedTechnology",
       "source_type": "Independent creator",
       "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Everything Electric",
       "handle": "@fullychargedshow",
       "source_type": "Editorial/media",
       "channel_id": "UCzz4CoEgSgWNs9ZAvRMhW2A",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "IBM Research",
@@ -148,19 +148,8 @@
       "recent_video_count": 1
     }
   ],
-  "candidate_count": 22,
+  "candidate_count": 23,
   "results": [
-    {
-      "video_id": "NiCgcUTL9_Q",
-      "title": "The Absurd Engineering Behind the Internet",
-      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "channel_title": "Veritasium",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-12T17:11:45Z",
-      "view_count": 10562618,
-      "duration_minutes": 35,
-      "url": "https://www.youtube.com/watch?v=NiCgcUTL9_Q"
-    },
     {
       "video_id": "sSvbLk-6eIA",
       "title": "This Tesla Just Flew. HOW??",
@@ -168,20 +157,9 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-16T16:05:51Z",
-      "view_count": 3264203,
+      "view_count": 3375805,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=sSvbLk-6eIA"
-    },
-    {
-      "video_id": "GNatcGIV18A",
-      "title": "Sharks Are WAY OLDER Than You Think",
-      "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "channel_title": "Cleo Abram",
-      "source_type": "Editorial/media",
-      "published_at": "2026-10-13T14:23:31Z",
-      "view_count": 1387630,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=GNatcGIV18A"
     },
     {
       "video_id": "YkEwyFpxWFc",
@@ -190,7 +168,7 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-17T13:36:22Z",
-      "view_count": 1290484,
+      "view_count": 1520003,
       "duration_minutes": 39,
       "url": "https://www.youtube.com/watch?v=YkEwyFpxWFc"
     },
@@ -201,7 +179,7 @@
       "channel_title": "PBS Space Time",
       "source_type": "Editorial/media",
       "published_at": "2026-10-15T19:15:32Z",
-      "view_count": 1187932,
+      "view_count": 1276694,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=0USB9ARf-9c"
     },
@@ -212,7 +190,7 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-15T13:00:26Z",
-      "view_count": 1005268,
+      "view_count": 1080336,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=6U6Z6pb6ewI"
     },
@@ -223,7 +201,7 @@
       "channel_title": "NASA",
       "source_type": "Government",
       "published_at": "2026-10-14T15:05:17Z",
-      "view_count": 586948,
+      "view_count": 603144,
       "duration_minutes": 20,
       "url": "https://www.youtube.com/watch?v=5b3n-u_0QAI"
     },
@@ -234,20 +212,9 @@
       "channel_title": "Boston Dynamics",
       "source_type": "Official company",
       "published_at": "2026-10-14T14:00:18Z",
-      "view_count": 585619,
+      "view_count": 593988,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=dP_i7hRvGpE"
-    },
-    {
-      "video_id": "kriIXJkoyBs",
-      "title": "The Hidden Problem With the World's Most Efficient Solar Panel",
-      "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
-      "channel_title": "Undecided with Matt Ferrell",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-13T12:16:55Z",
-      "view_count": 309603,
-      "duration_minutes": 19,
-      "url": "https://www.youtube.com/watch?v=kriIXJkoyBs"
     },
     {
       "video_id": "VUPxowV0fsk",
@@ -256,9 +223,42 @@
       "channel_title": "Branch Education",
       "source_type": "Independent creator",
       "published_at": "2026-10-16T20:56:05Z",
-      "view_count": 293335,
+      "view_count": 355999,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=VUPxowV0fsk"
+    },
+    {
+      "video_id": "-jPQmjMWy9I",
+      "title": "NASA's SpaceX 35th Commercial Resupply Services Rendezvous and Docking",
+      "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "channel_title": "NASA",
+      "source_type": "Government",
+      "published_at": "2026-10-15T14:49:15Z",
+      "view_count": 120626,
+      "duration_minutes": 102,
+      "url": "https://www.youtube.com/watch?v=-jPQmjMWy9I"
+    },
+    {
+      "video_id": "PXbVn-f_wuM",
+      "title": "You Will Only Like Half of This Video",
+      "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
+      "channel_title": "Kurzgesagt – In a Nutshell",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-20T14:00:11Z",
+      "view_count": 108483,
+      "duration_minutes": 4,
+      "url": "https://www.youtube.com/watch?v=PXbVn-f_wuM"
+    },
+    {
+      "video_id": "6E-cpiLGHJo",
+      "title": "We unlocked the 2050 tech tree early 💀 #tech #future #ad #cybopal",
+      "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
+      "channel_title": "Hacksmith Industries",
+      "source_type": "Official company",
+      "published_at": "2026-10-18T16:00:37Z",
+      "view_count": 92142,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=6E-cpiLGHJo"
     }
   ]
 }

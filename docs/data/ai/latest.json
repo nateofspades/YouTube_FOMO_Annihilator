@@ -1,7 +1,7 @@
 {
   "slug": "ai",
   "title": "AI news",
-  "generated_at": "2026-10-19T17:00:07.346917Z",
+  "generated_at": "2026-10-20T15:09:45.184030Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,21 +11,21 @@
       "handle": "@aiexplained-official",
       "source_type": "AI-focused channel",
       "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Matt Wolfe",
       "handle": "@mreflow",
       "source_type": "AI-focused channel",
       "channel_id": "UChpleBmo18P08aKCIgti38g",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "TheAIGRID",
       "handle": "@TheAiGrid",
       "source_type": "AI-focused channel",
       "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "WorldofAI",
@@ -39,7 +39,7 @@
       "handle": "@AllAboutAI",
       "source_type": "AI-focused channel",
       "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "The AI Advantage",
@@ -60,7 +60,7 @@
       "handle": "@TwoMinutePapers",
       "source_type": "AI-focused channel",
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Google DeepMind",
@@ -74,7 +74,7 @@
       "handle": "@openai",
       "source_type": "AI-focused channel",
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "recent_video_count": 17
+      "recent_video_count": 19
     },
     {
       "name": "Anthropic",
@@ -88,10 +88,10 @@
       "handle": "@HuggingFace",
       "source_type": "AI-focused channel",
       "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "recent_video_count": 7
+      "recent_video_count": 5
     }
   ],
-  "candidate_count": 56,
+  "candidate_count": 53,
   "results": [
     {
       "video_id": "9PICEmtfpWU",
@@ -100,7 +100,7 @@
       "channel_title": "Google DeepMind",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-13T15:58:20Z",
-      "view_count": 1064390,
+      "view_count": 1345638,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=9PICEmtfpWU"
     },
@@ -111,20 +111,9 @@
       "channel_title": "Google DeepMind",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-13T16:38:17Z",
-      "view_count": 831107,
+      "view_count": 1062130,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=LVEfFyijQ2c"
-    },
-    {
-      "video_id": "z_sXLlLVUls",
-      "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "channel_title": "Two Minute Papers",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-13T08:56:12Z",
-      "view_count": 343750,
-      "duration_minutes": 9,
-      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls"
     },
     {
       "video_id": "ftkic7Tdpcg",
@@ -133,7 +122,7 @@
       "channel_title": "Google DeepMind",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-13T16:38:14Z",
-      "view_count": 332830,
+      "view_count": 332923,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=ftkic7Tdpcg"
     },
@@ -144,7 +133,7 @@
       "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-13T16:47:07Z",
-      "view_count": 262906,
+      "view_count": 265384,
       "duration_minutes": 21,
       "url": "https://www.youtube.com/watch?v=eBszYxzE2dk"
     },
@@ -155,9 +144,20 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-15T18:24:44Z",
-      "view_count": 179462,
+      "view_count": 182123,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=GyO8Ao7yKJc"
+    },
+    {
+      "video_id": "LWxX6vvHfrc",
+      "title": "Gemini 4 Argon Is Not What I Expected",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "channel_title": "Two Minute Papers",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-19T08:49:21Z",
+      "view_count": 176388,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc"
     },
     {
       "video_id": "WXWFmwfo1JA",
@@ -166,7 +166,7 @@
       "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-16T04:30:35Z",
-      "view_count": 170867,
+      "view_count": 172199,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=WXWFmwfo1JA"
     },
@@ -177,20 +177,9 @@
       "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-16T16:20:28Z",
-      "view_count": 155825,
+      "view_count": 164208,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=KGcuuhqmPhI"
-    },
-    {
-      "video_id": "C4Sq3Rot8FU",
-      "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
-      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
-      "channel_title": "AI Explained",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-12T22:52:31Z",
-      "view_count": 147764,
-      "duration_minutes": 31,
-      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU"
     },
     {
       "video_id": "GBOZIRK1ujw",
@@ -199,9 +188,20 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-16T21:43:48Z",
-      "view_count": 141591,
+      "view_count": 147306,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=GBOZIRK1ujw"
+    },
+    {
+      "video_id": "2mE6bbjVazE",
+      "title": "Former OpenAI Researcher Makes a MASSIVE AI Discovery",
+      "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
+      "channel_title": "TheAIGRID",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-17T20:31:16Z",
+      "view_count": 133313,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=2mE6bbjVazE"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-10-19T17:00:07.346917Z",
+  "generated_at": "2026-10-20T15:09:45.184030Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,21 +18,21 @@
       "handle": "@TechCrunch",
       "source_type": "Editorial/media",
       "channel_id": "UCCjyq_K1Xwfg8Lndy7lKMpA",
-      "recent_video_count": 59
+      "recent_video_count": 63
     },
     {
       "name": "a16z",
       "handle": "@a16z",
       "source_type": "Venture capital",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "Sequoia Capital",
       "handle": "@sequoiacapital",
       "source_type": "Venture capital",
       "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
-      "recent_video_count": 4
+      "recent_video_count": 6
     },
     {
       "name": "This Week in Startups",
@@ -46,14 +46,14 @@
       "handle": "@LennysPodcast",
       "source_type": "Independent creator",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "20VC",
       "handle": "@20vc",
       "source_type": "Venture capital",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 13
+      "recent_video_count": 12
     },
     {
       "name": "Acquired",
@@ -67,14 +67,14 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "My First Million",
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 12
+      "recent_video_count": 11
     },
     {
       "name": "MicroConf",
@@ -88,14 +88,14 @@
       "handle": "@Saastr",
       "source_type": "Founder community",
       "channel_id": "UCwOILzAcxK5CM2M7oRBuWSg",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Slidebean",
       "handle": "@Slidebean",
       "source_type": "Official company",
       "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Bessemer Venture Partners",
@@ -130,7 +130,7 @@
       "handle": "UC6hlQ0x6kPbAGjYkoz53cvA",
       "source_type": "Official company",
       "channel_id": "UC6hlQ0x6kPbAGjYkoz53cvA",
-      "recent_video_count": 1
+      "recent_video_count": 10
     },
     {
       "name": "Startup Grind",
@@ -147,7 +147,7 @@
       "recent_video_count": 11
     }
   ],
-  "candidate_count": 149,
+  "candidate_count": 163,
   "results": [
     {
       "video_id": "VxC-PqE9x0U",
@@ -156,7 +156,7 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-13T19:00:28Z",
-      "view_count": 393330,
+      "view_count": 432775,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=VxC-PqE9x0U"
     },
@@ -167,20 +167,9 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-16T15:45:21Z",
-      "view_count": 128169,
+      "view_count": 172255,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=zVS06J8r5lI"
-    },
-    {
-      "video_id": "wOZjH3_XMCw",
-      "title": "Before they even had a website, Hampton generated $800k in revenue.",
-      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "channel_title": "Antler Global",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-13T14:15:23Z",
-      "view_count": 120352,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=wOZjH3_XMCw"
     },
     {
       "video_id": "pTuzmOblTGY",
@@ -189,31 +178,42 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-17T22:43:10Z",
-      "view_count": 96508,
+      "view_count": 139495,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=pTuzmOblTGY"
     },
     {
       "video_id": "t_GK06_3UY8",
-      "title": "The Most Profitable Part of Your TV",
+      "title": "yeah… this chip pays for the whole TV",
       "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
       "channel_title": "Slidebean",
       "source_type": "Official company",
       "published_at": "2026-10-16T14:30:26Z",
-      "view_count": 92608,
+      "view_count": 109996,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=t_GK06_3UY8"
     },
     {
-      "video_id": "ZVRtC20JVBA",
-      "title": "How an $8 wall print sells for $800",
+      "video_id": "0ab30SMpLFo",
+      "title": "One Family Controls 70% of All Motels",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
       "channel_title": "My First Million",
       "source_type": "Independent creator",
-      "published_at": "2026-10-12T22:26:10Z",
-      "view_count": 51587,
+      "published_at": "2026-10-18T22:58:02Z",
+      "view_count": 77190,
       "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=ZVRtC20JVBA"
+      "url": "https://www.youtube.com/watch?v=0ab30SMpLFo"
+    },
+    {
+      "video_id": "82JpLrZyteg",
+      "title": "Why Alexandr Wang has 200 direct reports",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "channel_title": "David Senra",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-19T16:00:34Z",
+      "view_count": 53315,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=82JpLrZyteg"
     },
     {
       "video_id": "Js7Wf3Lj96A",
@@ -222,9 +222,20 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-14T12:00:35Z",
-      "view_count": 45708,
+      "view_count": 49433,
       "duration_minutes": 71,
       "url": "https://www.youtube.com/watch?v=Js7Wf3Lj96A"
+    },
+    {
+      "video_id": "JHo-aiePjoM",
+      "title": "A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)",
+      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
+      "channel_title": "Lenny's Podcast",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-18T12:30:11Z",
+      "view_count": 47743,
+      "duration_minutes": 72,
+      "url": "https://www.youtube.com/watch?v=JHo-aiePjoM"
     },
     {
       "video_id": "bzc_8uOjx_g",
@@ -238,24 +249,13 @@
       "url": "https://www.youtube.com/watch?v=bzc_8uOjx_g"
     },
     {
-      "video_id": "0ab30SMpLFo",
-      "title": "One Family Controls 70% of All Motels",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-18T22:58:02Z",
-      "view_count": 41453,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=0ab30SMpLFo"
-    },
-    {
       "video_id": "hDfY-pJC0oc",
       "title": "The untapped business of hobbies for grown men",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-14T11:49:45Z",
-      "view_count": 40672,
+      "view_count": 42444,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=hDfY-pJC0oc"
     }

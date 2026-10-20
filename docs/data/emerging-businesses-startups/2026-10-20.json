@@ -1,0 +1,263 @@
+{
+  "slug": "emerging-businesses-startups",
+  "title": "Emerging businesses and startups",
+  "generated_at": "2026-10-20T15:09:45.184030Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "Y Combinator",
+      "handle": "@ycombinator",
+      "source_type": "Accelerator",
+      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "recent_video_count": 4
+    },
+    {
+      "name": "TechCrunch",
+      "handle": "@TechCrunch",
+      "source_type": "Editorial/media",
+      "channel_id": "UCCjyq_K1Xwfg8Lndy7lKMpA",
+      "recent_video_count": 63
+    },
+    {
+      "name": "a16z",
+      "handle": "@a16z",
+      "source_type": "Venture capital",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "recent_video_count": 8
+    },
+    {
+      "name": "Sequoia Capital",
+      "handle": "@sequoiacapital",
+      "source_type": "Venture capital",
+      "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
+      "recent_video_count": 6
+    },
+    {
+      "name": "This Week in Startups",
+      "handle": "@ThisWeekInStartups",
+      "source_type": "Editorial/media",
+      "channel_id": "UC1UbgWkb41KrhF824U6t6uQ",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Lenny’s Podcast",
+      "handle": "@LennysPodcast",
+      "source_type": "Independent creator",
+      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
+      "recent_video_count": 5
+    },
+    {
+      "name": "20VC",
+      "handle": "@20vc",
+      "source_type": "Venture capital",
+      "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
+      "recent_video_count": 12
+    },
+    {
+      "name": "Acquired",
+      "handle": "@AcquiredFM",
+      "source_type": "Independent creator",
+      "channel_id": "UCyFqFYfTW2VoIQKylJ04Rtw",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Masters of Scale",
+      "handle": "@mastersofscale_",
+      "source_type": "Editorial/media",
+      "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
+      "recent_video_count": 4
+    },
+    {
+      "name": "My First Million",
+      "handle": "@myfirstmillionpod",
+      "source_type": "Independent creator",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "recent_video_count": 11
+    },
+    {
+      "name": "MicroConf",
+      "handle": "@MicroConf",
+      "source_type": "Founder community",
+      "channel_id": "UCroeMSea_O-xfgDvgbJGVQA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "SaaStr",
+      "handle": "@Saastr",
+      "source_type": "Founder community",
+      "channel_id": "UCwOILzAcxK5CM2M7oRBuWSg",
+      "recent_video_count": 7
+    },
+    {
+      "name": "Slidebean",
+      "handle": "@Slidebean",
+      "source_type": "Official company",
+      "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Bessemer Venture Partners",
+      "handle": "@BessemerVenturePartners",
+      "source_type": "Venture capital",
+      "channel_id": "UCKuHAxZoh99t8uyPQhoDR3A",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Antler Global",
+      "handle": "@Antlerglobal",
+      "source_type": "Venture capital",
+      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
+      "recent_video_count": 7
+    },
+    {
+      "name": "Khosla Ventures",
+      "handle": "@KhoslaVentures1",
+      "source_type": "Venture capital",
+      "channel_id": "UCF92qR15QflJFGO7c_PeT-g",
+      "recent_video_count": 0
+    },
+    {
+      "name": "NFX",
+      "handle": "@nfxinsights",
+      "source_type": "Venture capital",
+      "channel_id": "UC2ZCl6UC4FYlvsUEtK4ZaOg",
+      "recent_video_count": 10
+    },
+    {
+      "name": "Product School",
+      "handle": "UC6hlQ0x6kPbAGjYkoz53cvA",
+      "source_type": "Official company",
+      "channel_id": "UC6hlQ0x6kPbAGjYkoz53cvA",
+      "recent_video_count": 10
+    },
+    {
+      "name": "Startup Grind",
+      "handle": "StartupGrind",
+      "source_type": "Founder community",
+      "channel_id": "UCwB3HiWejAkml1UZ0Qo2bFg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "David Senra / Founders",
+      "handle": "@DavidSenra",
+      "source_type": "Independent creator",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "recent_video_count": 11
+    }
+  ],
+  "candidate_count": 163,
+  "results": [
+    {
+      "video_id": "VxC-PqE9x0U",
+      "title": "Mark Zuckerberg's ruthless prioritization",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "channel_title": "David Senra",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-13T19:00:28Z",
+      "view_count": 432775,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=VxC-PqE9x0U"
+    },
+    {
+      "video_id": "zVS06J8r5lI",
+      "title": "Lessons from Mark Zuckerberg and Elon Musk and Napoleon",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "channel_title": "David Senra",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-16T15:45:21Z",
+      "view_count": 172255,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=zVS06J8r5lI"
+    },
+    {
+      "video_id": "pTuzmOblTGY",
+      "title": "Howard Marks: The S&P 500 isn’t a good bet right now",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-17T22:43:10Z",
+      "view_count": 139495,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=pTuzmOblTGY"
+    },
+    {
+      "video_id": "t_GK06_3UY8",
+      "title": "yeah… this chip pays for the whole TV",
+      "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
+      "channel_title": "Slidebean",
+      "source_type": "Official company",
+      "published_at": "2026-10-16T14:30:26Z",
+      "view_count": 109996,
+      "duration_minutes": 24,
+      "url": "https://www.youtube.com/watch?v=t_GK06_3UY8"
+    },
+    {
+      "video_id": "0ab30SMpLFo",
+      "title": "One Family Controls 70% of All Motels",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-18T22:58:02Z",
+      "view_count": 77190,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=0ab30SMpLFo"
+    },
+    {
+      "video_id": "82JpLrZyteg",
+      "title": "Why Alexandr Wang has 200 direct reports",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "channel_title": "David Senra",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-19T16:00:34Z",
+      "view_count": 53315,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=82JpLrZyteg"
+    },
+    {
+      "video_id": "Js7Wf3Lj96A",
+      "title": "Lessons from History’s Greatest Leaders & Conquerors | Ben Wilson",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "channel_title": "David Senra",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-14T12:00:35Z",
+      "view_count": 49433,
+      "duration_minutes": 71,
+      "url": "https://www.youtube.com/watch?v=Js7Wf3Lj96A"
+    },
+    {
+      "video_id": "JHo-aiePjoM",
+      "title": "A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)",
+      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
+      "channel_title": "Lenny's Podcast",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-18T12:30:11Z",
+      "view_count": 47743,
+      "duration_minutes": 72,
+      "url": "https://www.youtube.com/watch?v=JHo-aiePjoM"
+    },
+    {
+      "video_id": "bzc_8uOjx_g",
+      "title": "Hampton turns down half its applicants—and millions in easy cash.",
+      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
+      "channel_title": "Antler Global",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-14T08:00:05Z",
+      "view_count": 43826,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=bzc_8uOjx_g"
+    },
+    {
+      "video_id": "hDfY-pJC0oc",
+      "title": "The untapped business of hobbies for grown men",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-14T11:49:45Z",
+      "view_count": 42444,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=hDfY-pJC0oc"
+    }
+  ]
+}

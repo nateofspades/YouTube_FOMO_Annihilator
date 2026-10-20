@@ -1,0 +1,263 @@
+{
+  "slug": "software-developer-tools",
+  "title": "Software and developer tools",
+  "generated_at": "2026-10-20T15:09:45.184030Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "GitHub",
+      "handle": "@GitHub",
+      "source_type": "Official company",
+      "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "recent_video_count": 11
+    },
+    {
+      "name": "Google for Developers",
+      "handle": "@GoogleDevelopers",
+      "source_type": "Official company",
+      "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "recent_video_count": 7
+    },
+    {
+      "name": "Microsoft Developer",
+      "handle": "@MicrosoftDeveloper",
+      "source_type": "Official company",
+      "channel_id": "UCsMica-v34Irf9KVTh6xx-g",
+      "recent_video_count": 7
+    },
+    {
+      "name": "AWS Developers",
+      "handle": "@awsdevelopers",
+      "source_type": "Official company",
+      "channel_id": "UCT-nPlVzJI-ccQXlxjSvJmw",
+      "recent_video_count": 4
+    },
+    {
+      "name": "Google Cloud Tech",
+      "handle": "@googlecloudtech",
+      "source_type": "Official company",
+      "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
+      "recent_video_count": 5
+    },
+    {
+      "name": "Cloudflare",
+      "handle": "UCgv3xMy6kECn0boYP9d2o-g",
+      "source_type": "Official company",
+      "channel_id": "UCgv3xMy6kECn0boYP9d2o-g",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Docker",
+      "handle": "dockerrun",
+      "source_type": "Official company",
+      "channel_id": "UC76AVf2JkrwjxNKMuPpscHQ",
+      "recent_video_count": 4
+    },
+    {
+      "name": "CNCF",
+      "handle": "@cncf",
+      "source_type": "Research institution",
+      "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
+      "recent_video_count": 23
+    },
+    {
+      "name": "GitLab",
+      "handle": "@GitLab",
+      "source_type": "Official company",
+      "channel_id": "UCnMGQ8QHMAnVIsI3xJrihhg",
+      "recent_video_count": 2
+    },
+    {
+      "name": "JetBrains",
+      "handle": "@JetBrainsTV",
+      "source_type": "Official company",
+      "channel_id": "UCGp4UBwpTNegd_4nCpuBcow",
+      "recent_video_count": 34
+    },
+    {
+      "name": "Fireship",
+      "handle": "@Fireship",
+      "source_type": "Independent creator",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "recent_video_count": 2
+    },
+    {
+      "name": "freeCodeCamp.org",
+      "handle": "@freecodecamp",
+      "source_type": "Research institution",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Traversy Media",
+      "handle": "@TraversyMedia",
+      "source_type": "Independent creator",
+      "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Web Dev Simplified",
+      "handle": "@WebDevSimplified",
+      "source_type": "Independent creator",
+      "channel_id": "UCFbNIlppjAuEX4znoulh0Cw",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Theo",
+      "handle": "@t3dotgg",
+      "source_type": "Independent creator",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "recent_video_count": 3
+    },
+    {
+      "name": "ThePrimeagen",
+      "handle": "@ThePrimeagen",
+      "source_type": "Independent creator",
+      "channel_id": "UC8ENHE5xdFSwx71u3fDH5Xw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "TechWorld with Nana",
+      "handle": "@TechWorldwithNana",
+      "source_type": "Independent creator",
+      "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Hussein Nasser",
+      "handle": "@hnasr",
+      "source_type": "Independent creator",
+      "channel_id": "UC_ML5xP23TOWKUcc-oAE_Eg",
+      "recent_video_count": 1
+    },
+    {
+      "name": "ByteByteGo",
+      "handle": "@ByteByteGo",
+      "source_type": "Independent creator",
+      "channel_id": "UCZgt6AzoyjslHTC9dz0UoTw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Laravel",
+      "handle": "@LaravelPHP",
+      "source_type": "Official company",
+      "channel_id": "UCfO2GiQwb-cwJTb1CuRSkwg",
+      "recent_video_count": 3
+    }
+  ],
+  "candidate_count": 111,
+  "results": [
+    {
+      "video_id": "QZVzuq28eFw",
+      "title": "OpenAI’s lead engineer was secretly a spy...",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "channel_title": "Fireship",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-14T17:48:10Z",
+      "view_count": 1680202,
+      "duration_minutes": 5,
+      "url": "https://www.youtube.com/watch?v=QZVzuq28eFw"
+    },
+    {
+      "video_id": "l3L_lETiSzc",
+      "title": "The runtime wars are over... and Node won",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "channel_title": "Fireship",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-15T17:35:15Z",
+      "view_count": 1124960,
+      "duration_minutes": 6,
+      "url": "https://www.youtube.com/watch?v=l3L_lETiSzc"
+    },
+    {
+      "video_id": "gRhM1h10T3U",
+      "title": "Gemini 4 Argon: 10 incredible AI demos (1M token output in action)",
+      "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
+      "channel_title": "Google Cloud Tech",
+      "source_type": "Official company",
+      "published_at": "2026-10-13T22:02:36Z",
+      "view_count": 311192,
+      "duration_minutes": 12,
+      "url": "https://www.youtube.com/watch?v=gRhM1h10T3U"
+    },
+    {
+      "video_id": "J37YeB63LVI",
+      "title": "I Will Never Use Prettier or ESLint Again",
+      "channel_id": "UCFbNIlppjAuEX4znoulh0Cw",
+      "channel_title": "Web Dev Simplified",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-14T22:32:33Z",
+      "view_count": 293808,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=J37YeB63LVI"
+    },
+    {
+      "video_id": "NE006pkiAnk",
+      "title": "So I've been testing Gemini 4...",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "channel_title": "Theo - t3․gg",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-14T15:45:44Z",
+      "view_count": 262794,
+      "duration_minutes": 39,
+      "url": "https://www.youtube.com/watch?v=NE006pkiAnk"
+    },
+    {
+      "video_id": "hiI0Vk4NgeY",
+      "title": "Anthropic Rebuilt Git (yes really)",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "channel_title": "Theo - t3․gg",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-16T04:38:27Z",
+      "view_count": 219847,
+      "duration_minutes": 48,
+      "url": "https://www.youtube.com/watch?v=hiI0Vk4NgeY"
+    },
+    {
+      "video_id": "m-B3jIMMmUE",
+      "title": "Your prompts kinda suck",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "channel_title": "Theo - t3․gg",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-18T23:57:04Z",
+      "view_count": 197823,
+      "duration_minutes": 32,
+      "url": "https://www.youtube.com/watch?v=m-B3jIMMmUE"
+    },
+    {
+      "video_id": "QKNsHZatiWU",
+      "title": "Inside an AI Factory – Power, Cooling, and GPUs Explained",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "channel_title": "freeCodeCamp.org",
+      "source_type": "Research institution",
+      "published_at": "2026-10-16T11:53:48Z",
+      "view_count": 155458,
+      "duration_minutes": 468,
+      "url": "https://www.youtube.com/watch?v=QKNsHZatiWU"
+    },
+    {
+      "video_id": "OYp5j2RihPE",
+      "title": "Gemini 4 Argon and Google Antigravity: From 2D concept to 3D cathedral",
+      "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "channel_title": "Google for Developers",
+      "source_type": "Official company",
+      "published_at": "2026-10-13T19:00:11Z",
+      "view_count": 153300,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=OYp5j2RihPE"
+    },
+    {
+      "video_id": "Jh6mgf9M06M",
+      "title": "Gemini 4 Argon: What’s new and what’s next",
+      "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "channel_title": "Google for Developers",
+      "source_type": "Official company",
+      "published_at": "2026-10-14T17:01:36Z",
+      "view_count": 75567,
+      "duration_minutes": 30,
+      "url": "https://www.youtube.com/watch?v=Jh6mgf9M06M"
+    }
+  ]
+}

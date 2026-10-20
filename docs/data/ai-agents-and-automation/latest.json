@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-10-19T17:00:07.346917Z",
+  "generated_at": "2026-10-20T15:09:45.184030Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@allaboutai",
       "source_type": "AI agent and automation",
       "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Alex Finn",
@@ -25,7 +25,7 @@
       "handle": "@matthew_berman",
       "source_type": "AI agent and automation",
       "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "Cole Medin",
@@ -46,14 +46,14 @@
       "handle": "@NateHerk",
       "source_type": "AI agent and automation",
       "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "recent_video_count": 14
+      "recent_video_count": 12
     },
     {
       "name": "Krish Naik",
       "handle": "@krishnaik06",
       "source_type": "AI agent and automation",
       "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "AI Code King",
@@ -81,7 +81,7 @@
       "handle": "@Fireship",
       "source_type": "AI agent and automation",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Tech With Tim",
@@ -102,21 +102,21 @@
       "handle": "@GregIsenberg",
       "source_type": "AI agent and automation",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "How I AI",
       "handle": "@howiaipodcast",
       "source_type": "AI agent and automation",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "IBM Technology",
       "handle": "@IBMTechnology",
       "source_type": "AI agent and automation",
       "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "Weights & Biases",
@@ -131,10 +131,10 @@
       "handle": "@huggingface",
       "source_type": "AI agent and automation",
       "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "recent_video_count": 7
+      "recent_video_count": 5
     }
   ],
-  "candidate_count": 84,
+  "candidate_count": 77,
   "results": [
     {
       "video_id": "BwXremQ-i6I",
@@ -143,7 +143,7 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-15T11:00:06Z",
-      "view_count": 196870,
+      "view_count": 215218,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=BwXremQ-i6I"
     },
@@ -154,9 +154,20 @@
       "channel_title": "Nate Herk | AI Automation",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-15T15:16:33Z",
-      "view_count": 87008,
+      "view_count": 89645,
       "duration_minutes": 22,
       "url": "https://www.youtube.com/watch?v=KZiF2J83zaY"
+    },
+    {
+      "video_id": "DQBqh6gcx7U",
+      "title": "What Is Loop Engineering? Building Better AI Agents",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "channel_title": "IBM Technology",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-19T11:00:06Z",
+      "view_count": 62956,
+      "duration_minutes": 11,
+      "url": "https://www.youtube.com/watch?v=DQBqh6gcx7U"
     },
     {
       "video_id": "saxdE-U_YS8",
@@ -165,7 +176,7 @@
       "channel_title": "Nate Herk | AI Automation",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-15T16:33:38Z",
-      "view_count": 34985,
+      "view_count": 36482,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=saxdE-U_YS8"
     },
@@ -176,7 +187,7 @@
       "channel_title": "Tech With Tim",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-16T14:05:48Z",
-      "view_count": 25541,
+      "view_count": 26633,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=c2QukPONnfE"
     },
@@ -187,31 +198,9 @@
       "channel_title": "Nate Herk | AI Automation",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-17T11:45:06Z",
-      "view_count": 22423,
+      "view_count": 24614,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=NmN6jn6IiMA"
-    },
-    {
-      "video_id": "DQBqh6gcx7U",
-      "title": "What Is Loop Engineering? Building Better AI Agents",
-      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
-      "channel_title": "IBM Technology",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-19T11:00:06Z",
-      "view_count": 19716,
-      "duration_minutes": 11,
-      "url": "https://www.youtube.com/watch?v=DQBqh6gcx7U"
-    },
-    {
-      "video_id": "EuN8WCWQf7g",
-      "title": "How to Build Your Own AI Agent (Like PewDiePie)",
-      "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "channel_title": "Hugging Face",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-13T03:37:35Z",
-      "view_count": 16436,
-      "duration_minutes": 24,
-      "url": "https://www.youtube.com/watch?v=EuN8WCWQf7g"
     },
     {
       "video_id": "jouKaJ4qlAg",
@@ -220,7 +209,7 @@
       "channel_title": "AICodeKing",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-15T09:15:02Z",
-      "view_count": 10996,
+      "view_count": 11132,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=jouKaJ4qlAg"
     },
@@ -231,7 +220,7 @@
       "channel_title": "How I AI",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-15T14:30:27Z",
-      "view_count": 4262,
+      "view_count": 4542,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=jFSpr7mKdNQ"
     },
@@ -242,9 +231,20 @@
       "channel_title": "How I AI",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-14T16:36:13Z",
-      "view_count": 1942,
+      "view_count": 1978,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=HvWOS9lsyjM"
+    },
+    {
+      "video_id": "3-sSbJKb-fQ",
+      "title": "Pi Durable: AI agents that survive crashes",
+      "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
+      "channel_title": "Hugging Face",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-19T14:48:54Z",
+      "view_count": 1563,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=3-sSbJKb-fQ"
     }
   ]
 }
