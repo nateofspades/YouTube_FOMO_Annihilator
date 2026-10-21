@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-10-20T15:09:45.184030Z",
+  "generated_at": "2026-10-21T15:20:10.632717Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,28 +11,28 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "TechCrunch",
       "handle": "@TechCrunch",
       "source_type": "Editorial/media",
       "channel_id": "UCCjyq_K1Xwfg8Lndy7lKMpA",
-      "recent_video_count": 63
+      "recent_video_count": 62
     },
     {
       "name": "a16z",
       "handle": "@a16z",
       "source_type": "Venture capital",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 8
+      "recent_video_count": 6
     },
     {
       "name": "Sequoia Capital",
       "handle": "@sequoiacapital",
       "source_type": "Venture capital",
       "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "This Week in Startups",
@@ -46,7 +46,7 @@
       "handle": "@LennysPodcast",
       "source_type": "Independent creator",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "20VC",
@@ -67,14 +67,14 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "My First Million",
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 11
+      "recent_video_count": 10
     },
     {
       "name": "MicroConf",
@@ -88,14 +88,14 @@
       "handle": "@Saastr",
       "source_type": "Founder community",
       "channel_id": "UCwOILzAcxK5CM2M7oRBuWSg",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "Slidebean",
       "handle": "@Slidebean",
       "source_type": "Official company",
       "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Bessemer Venture Partners",
@@ -123,7 +123,7 @@
       "handle": "@nfxinsights",
       "source_type": "Venture capital",
       "channel_id": "UC2ZCl6UC4FYlvsUEtK4ZaOg",
-      "recent_video_count": 10
+      "recent_video_count": 0
     },
     {
       "name": "Product School",
@@ -144,22 +144,11 @@
       "handle": "@DavidSenra",
       "source_type": "Independent creator",
       "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "recent_video_count": 11
+      "recent_video_count": 12
     }
   ],
-  "candidate_count": 163,
+  "candidate_count": 150,
   "results": [
-    {
-      "video_id": "VxC-PqE9x0U",
-      "title": "Mark Zuckerberg's ruthless prioritization",
-      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "channel_title": "David Senra",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-13T19:00:28Z",
-      "view_count": 432775,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=VxC-PqE9x0U"
-    },
     {
       "video_id": "zVS06J8r5lI",
       "title": "Lessons from Mark Zuckerberg and Elon Musk and Napoleon",
@@ -167,7 +156,7 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-16T15:45:21Z",
-      "view_count": 172255,
+      "view_count": 211690,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=zVS06J8r5lI"
     },
@@ -178,7 +167,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-17T22:43:10Z",
-      "view_count": 139495,
+      "view_count": 180637,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=pTuzmOblTGY"
     },
@@ -189,7 +178,7 @@
       "channel_title": "Slidebean",
       "source_type": "Official company",
       "published_at": "2026-10-16T14:30:26Z",
-      "view_count": 109996,
+      "view_count": 146803,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=t_GK06_3UY8"
     },
@@ -200,7 +189,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-18T22:58:02Z",
-      "view_count": 77190,
+      "view_count": 80770,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=0ab30SMpLFo"
     },
@@ -211,53 +200,64 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-19T16:00:34Z",
-      "view_count": 53315,
+      "view_count": 68326,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=82JpLrZyteg"
     },
     {
-      "video_id": "Js7Wf3Lj96A",
-      "title": "Lessons from History’s Greatest Leaders & Conquerors | Ben Wilson",
-      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "channel_title": "David Senra",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-14T12:00:35Z",
-      "view_count": 49433,
-      "duration_minutes": 71,
-      "url": "https://www.youtube.com/watch?v=Js7Wf3Lj96A"
-    },
-    {
       "video_id": "JHo-aiePjoM",
-      "title": "A mind-expanding conversation on how models actually work | Emmanuel Ameisen (Anthropic)",
+      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
       "channel_title": "Lenny's Podcast",
       "source_type": "Independent creator",
       "published_at": "2026-10-18T12:30:11Z",
-      "view_count": 47743,
+      "view_count": 54505,
       "duration_minutes": 72,
       "url": "https://www.youtube.com/watch?v=JHo-aiePjoM"
     },
     {
-      "video_id": "bzc_8uOjx_g",
-      "title": "Hampton turns down half its applicants—and millions in easy cash.",
-      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "channel_title": "Antler Global",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-14T08:00:05Z",
-      "view_count": 43826,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=bzc_8uOjx_g"
+      "video_id": "u1cyLVmRMx8",
+      "title": "Managing $525B & Building the World’s Largest Multifamily Office | Kurt MacAlpine, Corient",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "channel_title": "David Senra",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-18T12:00:28Z",
+      "view_count": 37607,
+      "duration_minutes": 80,
+      "url": "https://www.youtube.com/watch?v=u1cyLVmRMx8"
     },
     {
-      "video_id": "hDfY-pJC0oc",
-      "title": "The untapped business of hobbies for grown men",
+      "video_id": "c7HzTX9CZic",
+      "title": "This guy beat the S&P 500 for 11 years doing (almost) nothing",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
       "channel_title": "My First Million",
       "source_type": "Independent creator",
-      "published_at": "2026-10-14T11:49:45Z",
-      "view_count": 42444,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=hDfY-pJC0oc"
+      "published_at": "2026-10-19T13:30:31Z",
+      "view_count": 36223,
+      "duration_minutes": 46,
+      "url": "https://www.youtube.com/watch?v=c7HzTX9CZic"
+    },
+    {
+      "video_id": "81j1sV32Wng",
+      "title": "SaaS Moats in the AI Era: Sell the Outcome, Not the Tool",
+      "channel_id": "UCroeMSea_O-xfgDvgbJGVQA",
+      "channel_title": "MicroConf",
+      "source_type": "Founder community",
+      "published_at": "2026-10-19T10:00:11Z",
+      "view_count": 35047,
+      "duration_minutes": 14,
+      "url": "https://www.youtube.com/watch?v=81j1sV32Wng"
+    },
+    {
+      "video_id": "DbfcX173pg8",
+      "title": "6 signs natural moneymakers have. Do you?",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-16T13:00:10Z",
+      "view_count": 32901,
+      "duration_minutes": 37,
+      "url": "https://www.youtube.com/watch?v=DbfcX173pg8"
     }
   ]
 }

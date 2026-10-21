@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-10-20T15:09:45.184030Z",
+  "generated_at": "2026-10-21T15:20:10.632717Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,14 +11,14 @@
       "handle": "@TheDiaryOfACEO",
       "source_type": "Business podcast",
       "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "recent_video_count": 7
+      "recent_video_count": 9
     },
     {
       "name": "My First Million",
       "handle": "@MyFirstMillionPod",
       "source_type": "Business podcast",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 11
+      "recent_video_count": 10
     },
     {
       "name": "Acquired",
@@ -32,7 +32,7 @@
       "handle": "@allin",
       "source_type": "Business podcast",
       "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "Guy Raz / How I Built This",
@@ -46,21 +46,21 @@
       "handle": "@founderspodcast1",
       "source_type": "Business podcast",
       "channel_id": "UCQ-rrUCsJLNjFdPtKq0YOfA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Lenny's Podcast",
       "handle": "@LennysPodcast",
       "source_type": "Business podcast",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Masters of Scale",
       "handle": "@MastersofScale_",
       "source_type": "Business podcast",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Invest Like The Best",
@@ -95,7 +95,7 @@
       "handle": "@a16z",
       "source_type": "Business podcast",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 8
+      "recent_video_count": 6
     },
     {
       "name": "The Prof G Pod – Scott Galloway",
@@ -109,7 +109,7 @@
       "handle": "@pivot",
       "source_type": "Business podcast",
       "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "Tim Ferriss",
@@ -130,7 +130,7 @@
       "handle": "@AlexHormozi",
       "source_type": "Business podcast",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "recent_video_count": 47
+      "recent_video_count": 59
     },
     {
       "name": "Startups for the Rest of Us",
@@ -144,10 +144,10 @@
       "handle": "@ycombinator",
       "source_type": "Business podcast",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     }
   ],
-  "candidate_count": 148,
+  "candidate_count": 159,
   "results": [
     {
       "video_id": "yePLuwL3FbM",
@@ -156,7 +156,7 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-10-15T07:00:38Z",
-      "view_count": 2238413,
+      "view_count": 2414261,
       "duration_minutes": 136,
       "url": "https://www.youtube.com/watch?v=yePLuwL3FbM"
     },
@@ -167,7 +167,7 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-17T12:00:23Z",
-      "view_count": 958489,
+      "view_count": 986320,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=lZuEi-lRd4Y"
     },
@@ -178,7 +178,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-17T01:59:19Z",
-      "view_count": 805284,
+      "view_count": 845919,
       "duration_minutes": 94,
       "url": "https://www.youtube.com/watch?v=_b3LfMflIGs"
     },
@@ -189,7 +189,7 @@
       "channel_title": "Alex Hormozi",
       "source_type": "Business podcast",
       "published_at": "2026-10-16T16:14:19Z",
-      "view_count": 304460,
+      "view_count": 334111,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=aZSpKw6vvQw"
     },
@@ -200,20 +200,9 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-17T15:30:12Z",
-      "view_count": 283229,
+      "view_count": 313167,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=i7-t8e42WkM"
-    },
-    {
-      "video_id": "_s50xcJh7jY",
-      "title": "Katie Zacharia, Gone But Never Forgotten",
-      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-16T13:00:01Z",
-      "view_count": 277047,
-      "duration_minutes": 65,
-      "url": "https://www.youtube.com/watch?v=_s50xcJh7jY"
     },
     {
       "video_id": "jt5ol63Qaxw",
@@ -222,7 +211,7 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-18T12:00:14Z",
-      "view_count": 269460,
+      "view_count": 302449,
       "duration_minutes": 7,
       "url": "https://www.youtube.com/watch?v=jt5ol63Qaxw"
     },
@@ -233,9 +222,20 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-15T02:41:18Z",
-      "view_count": 254613,
+      "view_count": 279332,
       "duration_minutes": 42,
       "url": "https://www.youtube.com/watch?v=2tAywoHiIpo"
+    },
+    {
+      "video_id": "_s50xcJh7jY",
+      "title": "Katie Zacharia, Gone But Never Forgotten",
+      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
+      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-16T13:00:01Z",
+      "view_count": 279091,
+      "duration_minutes": 65,
+      "url": "https://www.youtube.com/watch?v=_s50xcJh7jY"
     },
     {
       "video_id": "6eHU-0Qa8-g",
@@ -244,7 +244,7 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-16T16:33:46Z",
-      "view_count": 253442,
+      "view_count": 275736,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=6eHU-0Qa8-g"
     },
@@ -255,7 +255,7 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-16T23:00:30Z",
-      "view_count": 229168,
+      "view_count": 233717,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=0dTLRlnJf9I"
     }
