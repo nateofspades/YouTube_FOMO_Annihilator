@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-10-21T15:20:10.632717Z",
+  "generated_at": "2026-10-22T15:20:47.347346Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,7 +18,7 @@
       "handle": "@TechCrunch",
       "source_type": "Editorial/media",
       "channel_id": "UCCjyq_K1Xwfg8Lndy7lKMpA",
-      "recent_video_count": 62
+      "recent_video_count": 43
     },
     {
       "name": "a16z",
@@ -32,7 +32,7 @@
       "handle": "@sequoiacapital",
       "source_type": "Venture capital",
       "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "This Week in Startups",
@@ -46,14 +46,14 @@
       "handle": "@LennysPodcast",
       "source_type": "Independent creator",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 6
+      "recent_video_count": 8
     },
     {
       "name": "20VC",
       "handle": "@20vc",
       "source_type": "Venture capital",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 12
+      "recent_video_count": 11
     },
     {
       "name": "Acquired",
@@ -67,7 +67,7 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 3
+      "recent_video_count": 8
     },
     {
       "name": "My First Million",
@@ -88,14 +88,14 @@
       "handle": "@Saastr",
       "source_type": "Founder community",
       "channel_id": "UCwOILzAcxK5CM2M7oRBuWSg",
-      "recent_video_count": 8
+      "recent_video_count": 11
     },
     {
       "name": "Slidebean",
       "handle": "@Slidebean",
       "source_type": "Official company",
       "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
-      "recent_video_count": 4
+      "recent_video_count": 6
     },
     {
       "name": "Bessemer Venture Partners",
@@ -147,7 +147,7 @@
       "recent_video_count": 12
     }
   ],
-  "candidate_count": 150,
+  "candidate_count": 141,
   "results": [
     {
       "video_id": "zVS06J8r5lI",
@@ -156,7 +156,7 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-16T15:45:21Z",
-      "view_count": 211690,
+      "view_count": 231352,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=zVS06J8r5lI"
     },
@@ -167,7 +167,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-17T22:43:10Z",
-      "view_count": 180637,
+      "view_count": 213272,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=pTuzmOblTGY"
     },
@@ -178,9 +178,20 @@
       "channel_title": "Slidebean",
       "source_type": "Official company",
       "published_at": "2026-10-16T14:30:26Z",
-      "view_count": 146803,
+      "view_count": 192045,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=t_GK06_3UY8"
+    },
+    {
+      "video_id": "b89qg6pBp2E",
+      "title": "How this tiny golf game makes $500K a year",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-20T22:39:53Z",
+      "view_count": 130452,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=b89qg6pBp2E"
     },
     {
       "video_id": "0ab30SMpLFo",
@@ -189,7 +200,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-18T22:58:02Z",
-      "view_count": 80770,
+      "view_count": 81777,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=0ab30SMpLFo"
     },
@@ -200,9 +211,20 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-19T16:00:34Z",
-      "view_count": 68326,
+      "view_count": 76245,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=82JpLrZyteg"
+    },
+    {
+      "video_id": "aX6-BC2rBHI",
+      "title": "Why Zuckerberg bet $15B on Alexander Wang",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-22T00:11:40Z",
+      "view_count": 75641,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=aX6-BC2rBHI"
     },
     {
       "video_id": "JHo-aiePjoM",
@@ -211,29 +233,18 @@
       "channel_title": "Lenny's Podcast",
       "source_type": "Independent creator",
       "published_at": "2026-10-18T12:30:11Z",
-      "view_count": 54505,
+      "view_count": 59337,
       "duration_minutes": 72,
       "url": "https://www.youtube.com/watch?v=JHo-aiePjoM"
     },
     {
-      "video_id": "u1cyLVmRMx8",
-      "title": "Managing $525B & Building the World’s Largest Multifamily Office | Kurt MacAlpine, Corient",
-      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "channel_title": "David Senra",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-18T12:00:28Z",
-      "view_count": 37607,
-      "duration_minutes": 80,
-      "url": "https://www.youtube.com/watch?v=u1cyLVmRMx8"
-    },
-    {
       "video_id": "c7HzTX9CZic",
-      "title": "This guy beat the S&P 500 for 11 years doing (almost) nothing",
+      "title": "How he beat the S&P 500 for 11 years doing (almost) nothing",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-19T13:30:31Z",
-      "view_count": 36223,
+      "view_count": 44557,
       "duration_minutes": 46,
       "url": "https://www.youtube.com/watch?v=c7HzTX9CZic"
     },
@@ -244,20 +255,9 @@
       "channel_title": "MicroConf",
       "source_type": "Founder community",
       "published_at": "2026-10-19T10:00:11Z",
-      "view_count": 35047,
+      "view_count": 42719,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=81j1sV32Wng"
-    },
-    {
-      "video_id": "DbfcX173pg8",
-      "title": "6 signs natural moneymakers have. Do you?",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-16T13:00:10Z",
-      "view_count": 32901,
-      "duration_minutes": 37,
-      "url": "https://www.youtube.com/watch?v=DbfcX173pg8"
     }
   ]
 }

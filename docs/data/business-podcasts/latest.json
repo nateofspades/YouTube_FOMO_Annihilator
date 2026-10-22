@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-10-21T15:20:10.632717Z",
+  "generated_at": "2026-10-22T15:20:47.347346Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -53,21 +53,21 @@
       "handle": "@LennysPodcast",
       "source_type": "Business podcast",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 6
+      "recent_video_count": 8
     },
     {
       "name": "Masters of Scale",
       "handle": "@MastersofScale_",
       "source_type": "Business podcast",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 3
+      "recent_video_count": 8
     },
     {
       "name": "Invest Like The Best",
       "handle": "@ILTB_Podcast",
       "source_type": "Business podcast",
       "channel_id": "UCpQBb0fToph3jrDulwz1iUQ",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "The Knowledge Project Podcast",
@@ -88,7 +88,7 @@
       "handle": "@20VC",
       "source_type": "Business podcast",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 12
+      "recent_video_count": 11
     },
     {
       "name": "a16z",
@@ -102,35 +102,35 @@
       "handle": "@TheProfGPod",
       "source_type": "Business podcast",
       "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "recent_video_count": 15
+      "recent_video_count": 16
     },
     {
       "name": "Pivot with Kara Swisher and Scott Galloway",
       "handle": "@pivot",
       "source_type": "Business podcast",
       "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "Tim Ferriss",
       "handle": "@timferriss",
       "source_type": "Business podcast",
       "channel_id": "UCznv7Vf9nBdJYvBagFdAHWw",
-      "recent_video_count": 6
+      "recent_video_count": 4
     },
     {
       "name": "Young and Profiting",
       "handle": "@youngandprofiting",
       "source_type": "Business podcast",
       "channel_id": "UCtz8s6nPLvrVQ4YhOJz6DSg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Alex Hormozi / The Game",
       "handle": "@AlexHormozi",
       "source_type": "Business podcast",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "recent_video_count": 59
+      "recent_video_count": 74
     },
     {
       "name": "Startups for the Rest of Us",
@@ -147,19 +147,8 @@
       "recent_video_count": 3
     }
   ],
-  "candidate_count": 159,
+  "candidate_count": 180,
   "results": [
-    {
-      "video_id": "yePLuwL3FbM",
-      "title": "No.1 Neuroscientist Reveals How To Unlock Superhuman Focus & Perfect Memory! - Dr. Sahar Yousef",
-      "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "channel_title": "The Diary Of A CEO",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-15T07:00:38Z",
-      "view_count": 2414261,
-      "duration_minutes": 136,
-      "url": "https://www.youtube.com/watch?v=yePLuwL3FbM"
-    },
     {
       "video_id": "lZuEi-lRd4Y",
       "title": "\"East Asia Is Gone\" — Peter Zeihan on the Oil Shock No One Is Ready For",
@@ -167,7 +156,7 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-17T12:00:23Z",
-      "view_count": 986320,
+      "view_count": 1001292,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=lZuEi-lRd4Y"
     },
@@ -178,20 +167,9 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-17T01:59:19Z",
-      "view_count": 845919,
+      "view_count": 868910,
       "duration_minutes": 94,
       "url": "https://www.youtube.com/watch?v=_b3LfMflIGs"
-    },
-    {
-      "video_id": "aZSpKw6vvQw",
-      "title": "Stop F*cking Up Your Business",
-      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "channel_title": "Alex Hormozi",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-16T16:14:19Z",
-      "view_count": 334111,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=aZSpKw6vvQw"
     },
     {
       "video_id": "i7-t8e42WkM",
@@ -200,7 +178,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-17T15:30:12Z",
-      "view_count": 313167,
+      "view_count": 333546,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=i7-t8e42WkM"
     },
@@ -211,31 +189,9 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-18T12:00:14Z",
-      "view_count": 302449,
+      "view_count": 318383,
       "duration_minutes": 7,
       "url": "https://www.youtube.com/watch?v=jt5ol63Qaxw"
-    },
-    {
-      "video_id": "2tAywoHiIpo",
-      "title": "Billy Evans Speaks Out: Elizabeth Holmes' Trial, Prison & Nathan Fielder’s Documentary",
-      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "channel_title": "All-In Podcast",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-15T02:41:18Z",
-      "view_count": 279332,
-      "duration_minutes": 42,
-      "url": "https://www.youtube.com/watch?v=2tAywoHiIpo"
-    },
-    {
-      "video_id": "_s50xcJh7jY",
-      "title": "Katie Zacharia, Gone But Never Forgotten",
-      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-16T13:00:01Z",
-      "view_count": 279091,
-      "duration_minutes": 65,
-      "url": "https://www.youtube.com/watch?v=_s50xcJh7jY"
     },
     {
       "video_id": "6eHU-0Qa8-g",
@@ -244,9 +200,20 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-16T16:33:46Z",
-      "view_count": 275736,
+      "view_count": 289581,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=6eHU-0Qa8-g"
+    },
+    {
+      "video_id": "_s50xcJh7jY",
+      "title": "Katie Zacharia, Gone But Never Forgotten",
+      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
+      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-16T13:00:01Z",
+      "view_count": 280361,
+      "duration_minutes": 65,
+      "url": "https://www.youtube.com/watch?v=_s50xcJh7jY"
     },
     {
       "video_id": "0dTLRlnJf9I",
@@ -255,9 +222,42 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-16T23:00:30Z",
-      "view_count": 233717,
+      "view_count": 235865,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=0dTLRlnJf9I"
+    },
+    {
+      "video_id": "pTuzmOblTGY",
+      "title": "Howard Marks: The S&P 500 isn’t a good bet right now",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-17T22:43:10Z",
+      "view_count": 213272,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=pTuzmOblTGY"
+    },
+    {
+      "video_id": "dpnlQg2lWF4",
+      "title": "Peter Zeihan: Globalization Was Always Going to Fail — Trump Just Sped It Up",
+      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
+      "channel_title": "The Prof G Pod – Scott Galloway",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-19T22:30:35Z",
+      "view_count": 195517,
+      "duration_minutes": 8,
+      "url": "https://www.youtube.com/watch?v=dpnlQg2lWF4"
+    },
+    {
+      "video_id": "TRnM1ngRCaU",
+      "title": "Why Elon’s \"Flying\" Roadster Stunt Is Pure Distraction",
+      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
+      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-20T13:00:38Z",
+      "view_count": 177000,
+      "duration_minutes": 53,
+      "url": "https://www.youtube.com/watch?v=TRnM1ngRCaU"
     }
   ]
 }

@@ -1,0 +1,207 @@
+{
+  "slug": "ai",
+  "title": "AI news",
+  "generated_at": "2026-10-22T15:20:47.347346Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "AI Explained",
+      "handle": "@aiexplained-official",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Matt Wolfe",
+      "handle": "@mreflow",
+      "source_type": "AI-focused channel",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "recent_video_count": 7
+    },
+    {
+      "name": "TheAIGRID",
+      "handle": "@TheAiGrid",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
+      "recent_video_count": 4
+    },
+    {
+      "name": "WorldofAI",
+      "handle": "@intheworldofai",
+      "source_type": "AI-focused channel",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "recent_video_count": 6
+    },
+    {
+      "name": "All About AI",
+      "handle": "@AllAboutAI",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "The AI Advantage",
+      "handle": "@aiadvantage",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Aitrepreneur",
+      "handle": "@aitrepreneur",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCEAbqW0HFB_UxZoUDO0kJBw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Two Minute Papers",
+      "handle": "@TwoMinutePapers",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Google DeepMind",
+      "handle": "@googledeepmind",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "recent_video_count": 0
+    },
+    {
+      "name": "OpenAI",
+      "handle": "@openai",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "recent_video_count": 13
+    },
+    {
+      "name": "Anthropic",
+      "handle": "@anthropic-ai",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCrDwWp7EBBv4NwvScIpBDOA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Hugging Face",
+      "handle": "@HuggingFace",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
+      "recent_video_count": 7
+    }
+  ],
+  "candidate_count": 41,
+  "results": [
+    {
+      "video_id": "LWxX6vvHfrc",
+      "title": "Gemini 4 Argon Is Not What I Expected",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "channel_title": "Two Minute Papers",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-19T08:49:21Z",
+      "view_count": 211518,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc"
+    },
+    {
+      "video_id": "GyO8Ao7yKJc",
+      "title": "GPT-Live-1.1 has new voices and better accents.",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "channel_title": "OpenAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-15T18:24:44Z",
+      "view_count": 184887,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=GyO8Ao7yKJc"
+    },
+    {
+      "video_id": "KGcuuhqmPhI",
+      "title": "AI News: 6 New Models & A Nano Banana Killer",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "channel_title": "Matt Wolfe",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-16T16:20:28Z",
+      "view_count": 173958,
+      "duration_minutes": 31,
+      "url": "https://www.youtube.com/watch?v=KGcuuhqmPhI"
+    },
+    {
+      "video_id": "WXWFmwfo1JA",
+      "title": "This Tesla Actually Flies (NOT AI)",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "channel_title": "Matt Wolfe",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-16T04:30:35Z",
+      "view_count": 173432,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=WXWFmwfo1JA"
+    },
+    {
+      "video_id": "2BXktpaCEN4",
+      "title": "HUGE GPT-6.5 LEAK! NEW Claude Fable 5.5, Gemini 4 Carbon, MiniMax M3.1 Flash & Kimi K3.1! AI NEWS",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "channel_title": "WorldofAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-20T07:01:16Z",
+      "view_count": 158967,
+      "duration_minutes": 27,
+      "url": "https://www.youtube.com/watch?v=2BXktpaCEN4"
+    },
+    {
+      "video_id": "2mE6bbjVazE",
+      "title": "Former OpenAI Researcher Makes a MASSIVE AI Discovery",
+      "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
+      "channel_title": "TheAIGRID",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-17T20:31:16Z",
+      "view_count": 155267,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=2mE6bbjVazE"
+    },
+    {
+      "video_id": "GBOZIRK1ujw",
+      "title": "Put your dot on call",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "channel_title": "OpenAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-16T21:43:48Z",
+      "view_count": 152754,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=GBOZIRK1ujw"
+    },
+    {
+      "video_id": "mEulEkuxCnM",
+      "title": "UK: This is the new ChatGPT Voice, powered by GPT Live",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "channel_title": "OpenAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-19T05:30:13Z",
+      "view_count": 130409,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=mEulEkuxCnM"
+    },
+    {
+      "video_id": "umGZrkyTRtw",
+      "title": "AI Breakthroughs Everyone Missed",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "channel_title": "Matt Wolfe",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-21T17:45:26Z",
+      "view_count": 86326,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=umGZrkyTRtw"
+    },
+    {
+      "video_id": "24j6YmsTVng",
+      "title": "Anthropic's UBI PLAN?! NEW OpenAI Aurora Models, Fable 5.5 UPGRADE, & OpenCode HACK! AI NEWS",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "channel_title": "WorldofAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-19T06:33:58Z",
+      "view_count": 79713,
+      "duration_minutes": 21,
+      "url": "https://www.youtube.com/watch?v=24j6YmsTVng"
+    }
+  ]
+}

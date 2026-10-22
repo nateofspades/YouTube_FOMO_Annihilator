@@ -1,0 +1,214 @@
+{
+  "slug": "ai-podcasts",
+  "title": "AI podcasts",
+  "generated_at": "2026-10-22T15:20:47.347346Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "Lex Fridman",
+      "handle": "UCJIfeSCssxSC_Dhc5s7woww",
+      "source_type": "AI podcast",
+      "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
+      "recent_video_count": 13
+    },
+    {
+      "name": "Dwarkesh Patel",
+      "handle": "UCXl4i9dYBrFOabk0xGmbkRA",
+      "source_type": "AI podcast",
+      "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+      "recent_video_count": 7
+    },
+    {
+      "name": "Latent Space",
+      "handle": "UCxBcwypKK-W3GHd_RZ9FZrQ",
+      "source_type": "AI podcast",
+      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
+      "recent_video_count": 4
+    },
+    {
+      "name": "Cognitive Revolution",
+      "handle": "UCjNRVMBVI30Sak_p6HRWhIA",
+      "source_type": "AI podcast",
+      "channel_id": "UCjNRVMBVI30Sak_p6HRWhIA",
+      "recent_video_count": 3
+    },
+    {
+      "name": "No Priors",
+      "handle": "UCSI7h9hydQ40K5MJHnCrQvw",
+      "source_type": "AI podcast",
+      "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+      "recent_video_count": 5
+    },
+    {
+      "name": "The TWIML AI Podcast",
+      "handle": "UC7kjWIK1H8tfmFlzZO-wHMw",
+      "source_type": "AI podcast",
+      "channel_id": "UC7kjWIK1H8tfmFlzZO-wHMw",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Practical AI",
+      "handle": "UC9tpZnMLKv5vbZIGuIIPmNg",
+      "source_type": "AI podcast",
+      "channel_id": "UC9tpZnMLKv5vbZIGuIIPmNg",
+      "recent_video_count": 2
+    },
+    {
+      "name": "The AI Breakdown",
+      "handle": "UCmc5j3MNKe4JKMCW6ukvmiQ",
+      "source_type": "AI podcast",
+      "channel_id": "UCmc5j3MNKe4JKMCW6ukvmiQ",
+      "recent_video_count": 0
+    },
+    {
+      "name": "The Artificial Intelligence Show Podcast",
+      "handle": "UCdHpbfqjELZmhqY3k0ELGcQ",
+      "source_type": "AI podcast",
+      "channel_id": "UCdHpbfqjELZmhqY3k0ELGcQ",
+      "recent_video_count": 1
+    },
+    {
+      "name": "The Gradient",
+      "handle": "UCsRy8FnMGxtQl0y-iY7nTIg",
+      "source_type": "AI podcast",
+      "channel_id": "UCsRy8FnMGxtQl0y-iY7nTIg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Last Week in AI",
+      "handle": "UCKARTq-t5SPMzwtft8FWwnA",
+      "source_type": "AI podcast",
+      "channel_id": "UCKARTq-t5SPMzwtft8FWwnA",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Machine Gods",
+      "handle": "UCgx8lqX3QsHgH0bQq7-EHVg",
+      "source_type": "AI podcast",
+      "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
+      "recent_video_count": 5
+    },
+    {
+      "name": "AI Agents Podcast",
+      "handle": "UCIkU9Fe0OccRmqBMXRm1Q7A",
+      "source_type": "AI podcast",
+      "channel_id": "UCIkU9Fe0OccRmqBMXRm1Q7A",
+      "recent_video_count": 0
+    }
+  ],
+  "candidate_count": 43,
+  "results": [
+    {
+      "video_id": "9rH1ChuVAe0",
+      "title": "Jensen Huang on China's AI labs | Lex Fridman in Taiwan",
+      "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
+      "channel_title": "Lex Clips",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-18T04:00:19Z",
+      "view_count": 24362,
+      "duration_minutes": 5,
+      "url": "https://www.youtube.com/watch?v=9rH1ChuVAe0"
+    },
+    {
+      "video_id": "OKDai2_aZe4",
+      "title": "Can AI Replicate in Your Smart TV? | Bots Behaving Badly",
+      "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
+      "channel_title": "Machine Gods",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-21T11:00:19Z",
+      "view_count": 21404,
+      "duration_minutes": 52,
+      "url": "https://www.youtube.com/watch?v=OKDai2_aZe4"
+    },
+    {
+      "video_id": "pSopii-RTJg",
+      "title": "China's approach to AI and robotics | Lex Fridman and Jensen Huang in Taiwan",
+      "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
+      "channel_title": "Lex Clips",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-17T04:00:21Z",
+      "view_count": 12699,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=pSopii-RTJg"
+    },
+    {
+      "video_id": "F1GDX_G9Bhw",
+      "title": "AI:AM: Where's the Steering Wheel? My Agent Set the Password, Hidden Valence, Proofs Find Linux Bugs",
+      "channel_id": "UCjNRVMBVI30Sak_p6HRWhIA",
+      "channel_title": "Cognitive Revolution \"How AI Changes Everything\"",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-17T13:47:02Z",
+      "view_count": 9346,
+      "duration_minutes": 86,
+      "url": "https://www.youtube.com/watch?v=F1GDX_G9Bhw"
+    },
+    {
+      "video_id": "Vki6cklFqxo",
+      "title": "AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman & CJ Hess",
+      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
+      "channel_title": "Latent Space",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-21T04:52:14Z",
+      "view_count": 4957,
+      "duration_minutes": 44,
+      "url": "https://www.youtube.com/watch?v=Vki6cklFqxo"
+    },
+    {
+      "video_id": "nvyNQmOTKfY",
+      "title": "Ep. 247: OpenAI Safety Concerns, Anthropic’s AI Expectations Gap, MAICON 2026 Recap & Gemini 4 Argon",
+      "channel_id": "UCdHpbfqjELZmhqY3k0ELGcQ",
+      "channel_title": "The Artificial Intelligence Show Podcast",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-20T09:00:36Z",
+      "view_count": 2477,
+      "duration_minutes": 106,
+      "url": "https://www.youtube.com/watch?v=nvyNQmOTKfY"
+    },
+    {
+      "video_id": "bWDCOMHWVw4",
+      "title": "Anthropic's Claude AI Sent a Murder Tip to Philly Police",
+      "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
+      "channel_title": "Machine Gods",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-21T22:04:40Z",
+      "view_count": 1905,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=bWDCOMHWVw4"
+    },
+    {
+      "video_id": "zt6dSvcJZC8",
+      "title": "How OpenAI Secures Its Systems with AI",
+      "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+      "channel_title": "No Priors: AI, Machine Learning, Tech, & Startups",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-19T12:10:17Z",
+      "view_count": 1694,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=zt6dSvcJZC8"
+    },
+    {
+      "video_id": "ldpIOdGwCF0",
+      "title": "Frontier AI and the Fight Over How to Pace It | Zvi Mowshowitz",
+      "channel_id": "UCjNRVMBVI30Sak_p6HRWhIA",
+      "channel_title": "Cognitive Revolution \"How AI Changes Everything\"",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-21T20:45:23Z",
+      "view_count": 1006,
+      "duration_minutes": 161,
+      "url": "https://www.youtube.com/watch?v=ldpIOdGwCF0"
+    },
+    {
+      "video_id": "lWCPbC35iYY",
+      "title": "OpenAI President: Security Spend Should Exceed Software Spend",
+      "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+      "channel_title": "No Priors: AI, Machine Learning, Tech, & Startups",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-15T22:42:57Z",
+      "view_count": 945,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=lWCPbC35iYY"
+    }
+  ]
+}

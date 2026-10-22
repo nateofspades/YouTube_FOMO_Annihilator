@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-10-21T15:20:10.632717Z",
+  "generated_at": "2026-10-22T15:20:47.347346Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,14 +18,14 @@
       "handle": "@AlexFinnOfficial",
       "source_type": "AI agent and automation",
       "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Matthew Berman",
       "handle": "@matthew_berman",
       "source_type": "AI agent and automation",
       "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "recent_video_count": 5
+      "recent_video_count": 11
     },
     {
       "name": "Cole Medin",
@@ -46,7 +46,7 @@
       "handle": "@NateHerk",
       "source_type": "AI agent and automation",
       "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "recent_video_count": 12
+      "recent_video_count": 15
     },
     {
       "name": "Krish Naik",
@@ -88,7 +88,7 @@
       "handle": "@TechWithTim",
       "source_type": "AI agent and automation",
       "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
-      "recent_video_count": 11
+      "recent_video_count": 9
     },
     {
       "name": "NetworkChuck",
@@ -102,14 +102,14 @@
       "handle": "@GregIsenberg",
       "source_type": "AI agent and automation",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "How I AI",
       "handle": "@howiaipodcast",
       "source_type": "AI agent and automation",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 9
+      "recent_video_count": 12
     },
     {
       "name": "IBM Technology",
@@ -134,30 +134,8 @@
       "recent_video_count": 7
     }
   ],
-  "candidate_count": 81,
+  "candidate_count": 93,
   "results": [
-    {
-      "video_id": "BwXremQ-i6I",
-      "title": "Context Engineering for AI Agents: 4 Failure Modes to Avoid",
-      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
-      "channel_title": "IBM Technology",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-15T11:00:06Z",
-      "view_count": 234138,
-      "duration_minutes": 10,
-      "url": "https://www.youtube.com/watch?v=BwXremQ-i6I"
-    },
-    {
-      "video_id": "KZiF2J83zaY",
-      "title": "AI Agents Just Became Multiplayer. Here's How to Build Them.",
-      "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "channel_title": "Nate Herk | AI Automation",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-15T15:16:33Z",
-      "view_count": 92211,
-      "duration_minutes": 22,
-      "url": "https://www.youtube.com/watch?v=KZiF2J83zaY"
-    },
     {
       "video_id": "DQBqh6gcx7U",
       "title": "What Is Loop Engineering? Building Better AI Agents",
@@ -165,9 +143,53 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-19T11:00:06Z",
-      "view_count": 82225,
+      "view_count": 89607,
       "duration_minutes": 11,
       "url": "https://www.youtube.com/watch?v=DQBqh6gcx7U"
+    },
+    {
+      "video_id": "Zub-w_3xmXs",
+      "title": "Can We Reverse Engineer Anything With AI?",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "channel_title": "Krish Naik",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-20T07:00:07Z",
+      "view_count": 72185,
+      "duration_minutes": 13,
+      "url": "https://www.youtube.com/watch?v=Zub-w_3xmXs"
+    },
+    {
+      "video_id": "hgLI491ajG0",
+      "title": "I Tried 100+ AI Tools. These 7 Are the Best",
+      "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+      "channel_title": "Nate Herk | AI Automation",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-19T14:22:01Z",
+      "view_count": 67705,
+      "duration_minutes": 10,
+      "url": "https://www.youtube.com/watch?v=hgLI491ajG0"
+    },
+    {
+      "video_id": "0Otn8QGGtRw",
+      "title": "RIP Reverse Engineer Anything! This 8 KB Skill Outperforms REA (38% Faster)",
+      "channel_id": "UC0m81bQuthaQZmFbXEY9QSw",
+      "channel_title": "AICodeKing",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-17T09:16:41Z",
+      "view_count": 44240,
+      "duration_minutes": 10,
+      "url": "https://www.youtube.com/watch?v=0Otn8QGGtRw"
+    },
+    {
+      "video_id": "OLqP8jxJ0Wc",
+      "title": "My Jev Pi Durable Agent CURATES News: HYPE, FACT, or SIGNAL",
+      "channel_id": "UC_x36zCEGilGpB1m-V4gmjg",
+      "channel_title": "IndyDevDan",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-19T13:00:05Z",
+      "view_count": 43287,
+      "duration_minutes": 23,
+      "url": "https://www.youtube.com/watch?v=OLqP8jxJ0Wc"
     },
     {
       "video_id": "saxdE-U_YS8",
@@ -176,75 +198,53 @@
       "channel_title": "Nate Herk | AI Automation",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-15T16:33:38Z",
-      "view_count": 37925,
+      "view_count": 38835,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=saxdE-U_YS8"
     },
     {
-      "video_id": "c2QukPONnfE",
-      "title": "The Most Underrated Tool for AI Agents Right Now",
+      "video_id": "aypkvuGFq5Y",
+      "title": "Build a Multimodal AI App in Python (Beginner Project)",
       "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
       "channel_title": "Tech With Tim",
       "source_type": "AI agent and automation",
-      "published_at": "2026-10-16T14:05:48Z",
-      "view_count": 27353,
-      "duration_minutes": 15,
-      "url": "https://www.youtube.com/watch?v=c2QukPONnfE"
+      "published_at": "2026-10-18T14:00:36Z",
+      "view_count": 31251,
+      "duration_minutes": 35,
+      "url": "https://www.youtube.com/watch?v=aypkvuGFq5Y"
     },
     {
-      "video_id": "NmN6jn6IiMA",
-      "title": "Clay's AI Agent Builds Your Outbound From One Prompt",
-      "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "channel_title": "Nate Herk | AI Automation",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-17T11:45:06Z",
-      "view_count": 25739,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=NmN6jn6IiMA"
-    },
-    {
-      "video_id": "TVhhmhvCovg",
-      "title": "Let Your AI Agent Do ITS OWN Harness Engineering (Here's How)",
+      "video_id": "GQatuTWSRqY",
+      "title": "My AI Dark Factory Dream Is Dead (Here's What Actually Works)",
       "channel_id": "UCMwVTLZIRRUyyVrkjDpn4pA",
       "channel_title": "Cole Medin",
       "source_type": "AI agent and automation",
-      "published_at": "2026-10-20T16:06:59Z",
-      "view_count": 15944,
-      "duration_minutes": 16,
-      "url": "https://www.youtube.com/watch?v=TVhhmhvCovg"
+      "published_at": "2026-10-16T14:00:33Z",
+      "view_count": 31154,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=GQatuTWSRqY"
     },
     {
-      "video_id": "jouKaJ4qlAg",
-      "title": "Agent-Native + Claude Code: Finally! Apps Your AI Agent Can Actually Work In (Open Source)",
+      "video_id": "3rgd2Xx5ceg",
+      "title": "I Built a Real Data App with Claude Code (and It Cost $0)",
+      "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+      "channel_title": "Tech With Tim",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-21T14:00:31Z",
+      "view_count": 30245,
+      "duration_minutes": 14,
+      "url": "https://www.youtube.com/watch?v=3rgd2Xx5ceg"
+    },
+    {
+      "video_id": "8nh1dcH4uJU",
+      "title": "Claude Code 3.0 is CRAZY!",
       "channel_id": "UC0m81bQuthaQZmFbXEY9QSw",
       "channel_title": "AICodeKing",
       "source_type": "AI agent and automation",
-      "published_at": "2026-10-15T09:15:02Z",
-      "view_count": 11245,
-      "duration_minutes": 14,
-      "url": "https://www.youtube.com/watch?v=jouKaJ4qlAg"
-    },
-    {
-      "video_id": "jFSpr7mKdNQ",
-      "title": "Meta's Muse is the best AI agent I've tested",
-      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "channel_title": "How I AI",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-15T14:30:27Z",
-      "view_count": 4885,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=jFSpr7mKdNQ"
-    },
-    {
-      "video_id": "3-sSbJKb-fQ",
-      "title": "Pi Durable: AI agents that survive crashes",
-      "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "channel_title": "Hugging Face",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-19T14:48:54Z",
-      "view_count": 2078,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=3-sSbJKb-fQ"
+      "published_at": "2026-10-16T09:15:13Z",
+      "view_count": 29459,
+      "duration_minutes": 8,
+      "url": "https://www.youtube.com/watch?v=8nh1dcH4uJU"
     }
   ]
 }
