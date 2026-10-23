@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-10-22T15:20:47.347346Z",
+  "generated_at": "2026-10-23T15:10:22.646267Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,28 +11,28 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "TechCrunch",
       "handle": "@TechCrunch",
       "source_type": "Editorial/media",
       "channel_id": "UCCjyq_K1Xwfg8Lndy7lKMpA",
-      "recent_video_count": 43
+      "recent_video_count": 27
     },
     {
       "name": "a16z",
       "handle": "@a16z",
       "source_type": "Venture capital",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Sequoia Capital",
       "handle": "@sequoiacapital",
       "source_type": "Venture capital",
       "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "This Week in Startups",
@@ -67,7 +67,7 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 8
+      "recent_video_count": 18
     },
     {
       "name": "My First Million",
@@ -88,14 +88,14 @@
       "handle": "@Saastr",
       "source_type": "Founder community",
       "channel_id": "UCwOILzAcxK5CM2M7oRBuWSg",
-      "recent_video_count": 11
+      "recent_video_count": 12
     },
     {
       "name": "Slidebean",
       "handle": "@Slidebean",
       "source_type": "Official company",
       "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
-      "recent_video_count": 6
+      "recent_video_count": 4
     },
     {
       "name": "Bessemer Venture Partners",
@@ -109,7 +109,7 @@
       "handle": "@Antlerglobal",
       "source_type": "Venture capital",
       "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Khosla Ventures",
@@ -144,10 +144,10 @@
       "handle": "@DavidSenra",
       "source_type": "Independent creator",
       "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "recent_video_count": 12
+      "recent_video_count": 11
     }
   ],
-  "candidate_count": 141,
+  "candidate_count": 131,
   "results": [
     {
       "video_id": "zVS06J8r5lI",
@@ -156,7 +156,7 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-16T15:45:21Z",
-      "view_count": 231352,
+      "view_count": 245868,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=zVS06J8r5lI"
     },
@@ -167,20 +167,9 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-17T22:43:10Z",
-      "view_count": 213272,
+      "view_count": 234328,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=pTuzmOblTGY"
-    },
-    {
-      "video_id": "t_GK06_3UY8",
-      "title": "yeah… this chip pays for the whole TV",
-      "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
-      "channel_title": "Slidebean",
-      "source_type": "Official company",
-      "published_at": "2026-10-16T14:30:26Z",
-      "view_count": 192045,
-      "duration_minutes": 24,
-      "url": "https://www.youtube.com/watch?v=t_GK06_3UY8"
     },
     {
       "video_id": "b89qg6pBp2E",
@@ -189,9 +178,31 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-20T22:39:53Z",
-      "view_count": 130452,
+      "view_count": 154181,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=b89qg6pBp2E"
+    },
+    {
+      "video_id": "_Lux62iTbFE",
+      "title": "What Elon Musk would do if he lost everything",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-22T21:31:01Z",
+      "view_count": 113294,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=_Lux62iTbFE"
+    },
+    {
+      "video_id": "aX6-BC2rBHI",
+      "title": "Why Zuckerberg bet $15B on Alexander Wang",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-22T00:11:40Z",
+      "view_count": 112297,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=aX6-BC2rBHI"
     },
     {
       "video_id": "0ab30SMpLFo",
@@ -200,7 +211,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-18T22:58:02Z",
-      "view_count": 81777,
+      "view_count": 83530,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=0ab30SMpLFo"
     },
@@ -211,20 +222,9 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-19T16:00:34Z",
-      "view_count": 76245,
+      "view_count": 80072,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=82JpLrZyteg"
-    },
-    {
-      "video_id": "aX6-BC2rBHI",
-      "title": "Why Zuckerberg bet $15B on Alexander Wang",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-22T00:11:40Z",
-      "view_count": 75641,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=aX6-BC2rBHI"
     },
     {
       "video_id": "JHo-aiePjoM",
@@ -233,7 +233,7 @@
       "channel_title": "Lenny's Podcast",
       "source_type": "Independent creator",
       "published_at": "2026-10-18T12:30:11Z",
-      "view_count": 59337,
+      "view_count": 62712,
       "duration_minutes": 72,
       "url": "https://www.youtube.com/watch?v=JHo-aiePjoM"
     },
@@ -244,7 +244,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-19T13:30:31Z",
-      "view_count": 44557,
+      "view_count": 49870,
       "duration_minutes": 46,
       "url": "https://www.youtube.com/watch?v=c7HzTX9CZic"
     },
@@ -255,7 +255,7 @@
       "channel_title": "MicroConf",
       "source_type": "Founder community",
       "published_at": "2026-10-19T10:00:11Z",
-      "view_count": 42719,
+      "view_count": 47248,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=81j1sV32Wng"
     }

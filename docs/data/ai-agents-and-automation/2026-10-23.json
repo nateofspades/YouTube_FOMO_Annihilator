@@ -1,0 +1,250 @@
+{
+  "slug": "ai-agents-and-automation",
+  "title": "AI agents and automation",
+  "generated_at": "2026-10-23T15:10:22.646267Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "All About AI",
+      "handle": "@allaboutai",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Alex Finn",
+      "handle": "@AlexFinnOfficial",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Matthew Berman",
+      "handle": "@matthew_berman",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "recent_video_count": 10
+    },
+    {
+      "name": "Cole Medin",
+      "handle": "@ColeMedin",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCMwVTLZIRRUyyVrkjDpn4pA",
+      "recent_video_count": 4
+    },
+    {
+      "name": "Futurepedia",
+      "handle": "@Futurepedia_io",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC_RovKmk0OCbuZjA8f08opw",
+      "recent_video_count": 7
+    },
+    {
+      "name": "Nate Herk",
+      "handle": "@NateHerk",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+      "recent_video_count": 12
+    },
+    {
+      "name": "Krish Naik",
+      "handle": "@krishnaik06",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "recent_video_count": 2
+    },
+    {
+      "name": "AI Code King",
+      "handle": "@AICodeKing",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC0m81bQuthaQZmFbXEY9QSw",
+      "recent_video_count": 7
+    },
+    {
+      "name": "IndyDevDan",
+      "handle": "@IndyDevDan",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC_x36zCEGilGpB1m-V4gmjg",
+      "recent_video_count": 1
+    },
+    {
+      "name": "1littlecoder",
+      "handle": "@1littlecoder",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCpV_X0VrL8-jg3t6wYGS-1g",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Fireship",
+      "handle": "@Fireship",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Tech With Tim",
+      "handle": "@TechWithTim",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+      "recent_video_count": 8
+    },
+    {
+      "name": "NetworkChuck",
+      "handle": "@NetworkChuck",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC9x0AN7BWHpCDHSm9NiJFJQ",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Greg Isenberg",
+      "handle": "@GregIsenberg",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "recent_video_count": 2
+    },
+    {
+      "name": "How I AI",
+      "handle": "@howiaipodcast",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
+      "recent_video_count": 12
+    },
+    {
+      "name": "IBM Technology",
+      "handle": "@IBMTechnology",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "recent_video_count": 8
+    },
+    {
+      "name": "Weights & Biases",
+      "handle": "@WeightsBiases",
+      "source_type": "AI agent and automation",
+      "channel_id": null,
+      "recent_video_count": 0,
+      "status": "unavailable"
+    },
+    {
+      "name": "Hugging Face",
+      "handle": "@huggingface",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
+      "recent_video_count": 7
+    }
+  ],
+  "candidate_count": 88,
+  "results": [
+    {
+      "video_id": "DQBqh6gcx7U",
+      "title": "What Is Loop Engineering? Building Better AI Agents",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "channel_title": "IBM Technology",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-19T11:00:06Z",
+      "view_count": 94925,
+      "duration_minutes": 11,
+      "url": "https://www.youtube.com/watch?v=DQBqh6gcx7U"
+    },
+    {
+      "video_id": "Zub-w_3xmXs",
+      "title": "Can We Reverse Engineer Anything With AI?",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "channel_title": "Krish Naik",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-20T07:00:07Z",
+      "view_count": 82747,
+      "duration_minutes": 13,
+      "url": "https://www.youtube.com/watch?v=Zub-w_3xmXs"
+    },
+    {
+      "video_id": "hgLI491ajG0",
+      "title": "I Tried 100+ AI Tools. These 7 Are the Best",
+      "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+      "channel_title": "Nate Herk | AI Automation",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-19T14:22:01Z",
+      "view_count": 73086,
+      "duration_minutes": 10,
+      "url": "https://www.youtube.com/watch?v=hgLI491ajG0"
+    },
+    {
+      "video_id": "OLqP8jxJ0Wc",
+      "title": "My Jev Pi Durable Agent CURATES News: HYPE, FACT, or SIGNAL",
+      "channel_id": "UC_x36zCEGilGpB1m-V4gmjg",
+      "channel_title": "IndyDevDan",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-19T13:00:05Z",
+      "view_count": 45810,
+      "duration_minutes": 23,
+      "url": "https://www.youtube.com/watch?v=OLqP8jxJ0Wc"
+    },
+    {
+      "video_id": "3rgd2Xx5ceg",
+      "title": "I Built a Real Data App with Claude Code (and It Cost $0)",
+      "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+      "channel_title": "Tech With Tim",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-21T14:00:31Z",
+      "view_count": 45482,
+      "duration_minutes": 14,
+      "url": "https://www.youtube.com/watch?v=3rgd2Xx5ceg"
+    },
+    {
+      "video_id": "0Otn8QGGtRw",
+      "title": "RIP Reverse Engineer Anything! This 8 KB Skill Outperforms REA (38% Faster)",
+      "channel_id": "UC0m81bQuthaQZmFbXEY9QSw",
+      "channel_title": "AICodeKing",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-17T09:16:41Z",
+      "view_count": 45241,
+      "duration_minutes": 10,
+      "url": "https://www.youtube.com/watch?v=0Otn8QGGtRw"
+    },
+    {
+      "video_id": "aypkvuGFq5Y",
+      "title": "Build a Multimodal AI App in Python (Beginner Project)",
+      "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+      "channel_title": "Tech With Tim",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-18T14:00:36Z",
+      "view_count": 32508,
+      "duration_minutes": 35,
+      "url": "https://www.youtube.com/watch?v=aypkvuGFq5Y"
+    },
+    {
+      "video_id": "nRl-7Yhmbog",
+      "title": "The 9 Stages of AI Agent Adoption, Explained",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "channel_title": "Greg Isenberg",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-21T19:15:33Z",
+      "view_count": 31969,
+      "duration_minutes": 31,
+      "url": "https://www.youtube.com/watch?v=nRl-7Yhmbog"
+    },
+    {
+      "video_id": "cCFAIrbt_s8",
+      "title": "I built the fastest & lightest AI coding agent GUI - 12MB, 4X FASTER, Fully Opensource!",
+      "channel_id": "UC0m81bQuthaQZmFbXEY9QSw",
+      "channel_title": "AICodeKing",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-21T09:15:18Z",
+      "view_count": 30018,
+      "duration_minutes": 16,
+      "url": "https://www.youtube.com/watch?v=cCFAIrbt_s8"
+    },
+    {
+      "video_id": "NmN6jn6IiMA",
+      "title": "Clay's AI Agent Builds Your Outbound From One Prompt",
+      "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+      "channel_title": "Nate Herk | AI Automation",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-17T11:45:06Z",
+      "view_count": 26553,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=NmN6jn6IiMA"
+    }
+  ]
+}

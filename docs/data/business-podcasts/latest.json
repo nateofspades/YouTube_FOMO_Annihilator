@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-10-22T15:20:47.347346Z",
+  "generated_at": "2026-10-23T15:10:22.646267Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@TheDiaryOfACEO",
       "source_type": "Business podcast",
       "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "My First Million",
@@ -60,7 +60,7 @@
       "handle": "@MastersofScale_",
       "source_type": "Business podcast",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 8
+      "recent_video_count": 18
     },
     {
       "name": "Invest Like The Best",
@@ -95,7 +95,7 @@
       "handle": "@a16z",
       "source_type": "Business podcast",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "The Prof G Pod – Scott Galloway",
@@ -130,7 +130,7 @@
       "handle": "@AlexHormozi",
       "source_type": "Business podcast",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "recent_video_count": 74
+      "recent_video_count": 87
     },
     {
       "name": "Startups for the Rest of Us",
@@ -144,10 +144,10 @@
       "handle": "@ycombinator",
       "source_type": "Business podcast",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     }
   ],
-  "candidate_count": 180,
+  "candidate_count": 204,
   "results": [
     {
       "video_id": "lZuEi-lRd4Y",
@@ -156,7 +156,7 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-17T12:00:23Z",
-      "view_count": 1001292,
+      "view_count": 1012678,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=lZuEi-lRd4Y"
     },
@@ -167,7 +167,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-17T01:59:19Z",
-      "view_count": 868910,
+      "view_count": 887034,
       "duration_minutes": 94,
       "url": "https://www.youtube.com/watch?v=_b3LfMflIGs"
     },
@@ -178,7 +178,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-17T15:30:12Z",
-      "view_count": 333546,
+      "view_count": 342939,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=i7-t8e42WkM"
     },
@@ -189,7 +189,7 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-18T12:00:14Z",
-      "view_count": 318383,
+      "view_count": 328671,
       "duration_minutes": 7,
       "url": "https://www.youtube.com/watch?v=jt5ol63Qaxw"
     },
@@ -200,20 +200,9 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-16T16:33:46Z",
-      "view_count": 289581,
+      "view_count": 299035,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=6eHU-0Qa8-g"
-    },
-    {
-      "video_id": "_s50xcJh7jY",
-      "title": "Katie Zacharia, Gone But Never Forgotten",
-      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-16T13:00:01Z",
-      "view_count": 280361,
-      "duration_minutes": 65,
-      "url": "https://www.youtube.com/watch?v=_s50xcJh7jY"
     },
     {
       "video_id": "0dTLRlnJf9I",
@@ -222,7 +211,7 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-16T23:00:30Z",
-      "view_count": 235865,
+      "view_count": 237412,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=0dTLRlnJf9I"
     },
@@ -233,7 +222,7 @@
       "channel_title": "My First Million",
       "source_type": "Business podcast",
       "published_at": "2026-10-17T22:43:10Z",
-      "view_count": 213272,
+      "view_count": 234328,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=pTuzmOblTGY"
     },
@@ -244,7 +233,7 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-19T22:30:35Z",
-      "view_count": 195517,
+      "view_count": 206688,
       "duration_minutes": 8,
       "url": "https://www.youtube.com/watch?v=dpnlQg2lWF4"
     },
@@ -255,9 +244,20 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-20T13:00:38Z",
-      "view_count": 177000,
+      "view_count": 193760,
       "duration_minutes": 53,
       "url": "https://www.youtube.com/watch?v=TRnM1ngRCaU"
+    },
+    {
+      "video_id": "b89qg6pBp2E",
+      "title": "How this tiny golf game makes $500K a year",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-20T22:39:53Z",
+      "view_count": 154181,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=b89qg6pBp2E"
     }
   ]
 }

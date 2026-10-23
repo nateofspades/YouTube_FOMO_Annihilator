@@ -1,0 +1,207 @@
+{
+  "slug": "ai",
+  "title": "AI news",
+  "generated_at": "2026-10-23T15:10:22.646267Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "AI Explained",
+      "handle": "@aiexplained-official",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Matt Wolfe",
+      "handle": "@mreflow",
+      "source_type": "AI-focused channel",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "recent_video_count": 6
+    },
+    {
+      "name": "TheAIGRID",
+      "handle": "@TheAiGrid",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
+      "recent_video_count": 4
+    },
+    {
+      "name": "WorldofAI",
+      "handle": "@intheworldofai",
+      "source_type": "AI-focused channel",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "recent_video_count": 5
+    },
+    {
+      "name": "All About AI",
+      "handle": "@AllAboutAI",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "The AI Advantage",
+      "handle": "@aiadvantage",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Aitrepreneur",
+      "handle": "@aitrepreneur",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCEAbqW0HFB_UxZoUDO0kJBw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Two Minute Papers",
+      "handle": "@TwoMinutePapers",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Google DeepMind",
+      "handle": "@googledeepmind",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "recent_video_count": 0
+    },
+    {
+      "name": "OpenAI",
+      "handle": "@openai",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "recent_video_count": 13
+    },
+    {
+      "name": "Anthropic",
+      "handle": "@anthropic-ai",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCrDwWp7EBBv4NwvScIpBDOA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Hugging Face",
+      "handle": "@HuggingFace",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
+      "recent_video_count": 7
+    }
+  ],
+  "candidate_count": 39,
+  "results": [
+    {
+      "video_id": "LWxX6vvHfrc",
+      "title": "Gemini 4 Argon Is Not What I Expected",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "channel_title": "Two Minute Papers",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-19T08:49:21Z",
+      "view_count": 218962,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc"
+    },
+    {
+      "video_id": "KGcuuhqmPhI",
+      "title": "AI News: 6 New Models & A Nano Banana Killer",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "channel_title": "Matt Wolfe",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-16T16:20:28Z",
+      "view_count": 175689,
+      "duration_minutes": 31,
+      "url": "https://www.youtube.com/watch?v=KGcuuhqmPhI"
+    },
+    {
+      "video_id": "2BXktpaCEN4",
+      "title": "HUGE GPT-6.5 LEAK! NEW Claude Fable 5.5, Gemini 4 Carbon, MiniMax M3.1 Flash & Kimi K3.1! AI NEWS",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "channel_title": "WorldofAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-20T07:01:16Z",
+      "view_count": 162204,
+      "duration_minutes": 27,
+      "url": "https://www.youtube.com/watch?v=2BXktpaCEN4"
+    },
+    {
+      "video_id": "2mE6bbjVazE",
+      "title": "Former OpenAI Researcher Makes a MASSIVE AI Discovery",
+      "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
+      "channel_title": "TheAIGRID",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-17T20:31:16Z",
+      "view_count": 161519,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=2mE6bbjVazE"
+    },
+    {
+      "video_id": "GBOZIRK1ujw",
+      "title": "Put your dot on call",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "channel_title": "OpenAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-16T21:43:48Z",
+      "view_count": 154013,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=GBOZIRK1ujw"
+    },
+    {
+      "video_id": "dyrNQV0F3Zs",
+      "title": "Personal Body Guard Robot - What could go wrong?",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "channel_title": "Matt Wolfe",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-22T03:06:41Z",
+      "view_count": 133802,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=dyrNQV0F3Zs"
+    },
+    {
+      "video_id": "mEulEkuxCnM",
+      "title": "UK: This is the new ChatGPT Voice, powered by GPT Live",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "channel_title": "OpenAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-19T05:30:13Z",
+      "view_count": 132908,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=mEulEkuxCnM"
+    },
+    {
+      "video_id": "umGZrkyTRtw",
+      "title": "11 AI Breakthroughs You Didn’t Know Existed",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "channel_title": "Matt Wolfe",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-21T17:45:26Z",
+      "view_count": 117361,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=umGZrkyTRtw"
+    },
+    {
+      "video_id": "egh6GlvyD1g",
+      "title": "Gemini 4 Carbon Is INSANE! OPUS 5.5 LEVEL?! Claude Duet, Kimi K3.1, OpenAI Agents & More! AI NEWS",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "channel_title": "WorldofAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-22T06:04:04Z",
+      "view_count": 94578,
+      "duration_minutes": 18,
+      "url": "https://www.youtube.com/watch?v=egh6GlvyD1g"
+    },
+    {
+      "video_id": "24j6YmsTVng",
+      "title": "Anthropic's UBI PLAN?! NEW OpenAI Aurora Models, Fable 5.5 UPGRADE, & OpenCode HACK! AI NEWS",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "channel_title": "WorldofAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-19T06:33:58Z",
+      "view_count": 81054,
+      "duration_minutes": 21,
+      "url": "https://www.youtube.com/watch?v=24j6YmsTVng"
+    }
+  ]
+}
