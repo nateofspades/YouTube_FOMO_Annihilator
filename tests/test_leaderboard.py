@@ -76,6 +76,15 @@ class LeaderboardTests(unittest.TestCase):
             payload = collect_leaderboard("test-key", datetime(2026, 10, 14, tzinfo=timezone.utc), slug="test", title="Test", terms=("ai",), channels=[{"name": "Original channel", "handle": "@original", "source_type": "Independent creator"}], universe_version=1, playlist_sources=[{"name": "Named show", "playlist_id": "show", "source_type": "AI podcast"}])
         self.assertEqual(payload["results"][0]["source_type"], "Independent creator")
 
+    def test_daily_workflow_targets_four_am_new_york(self):
+        root = Path(__file__).resolve().parents[1]
+        workflow = (root / ".github/workflows/update-leaderboard.yml").read_text()
+        schedule = workflow.split("  schedule:", 1)[1].split("  workflow_dispatch:", 1)[0]
+        self.assertEqual(schedule.count("- cron:"), 1)
+        self.assertIn("- cron: '0 4 * * *'", schedule)
+        self.assertIn('timezone: "America/New_York"', schedule)
+        self.assertIn("SKIP_IF_CURRENT_DATE: ${{ github.event_name == 'schedule' }}", workflow)
+
     def test_complete_snapshot_requires_every_category_for_the_local_date(self):
         from tempfile import TemporaryDirectory
 

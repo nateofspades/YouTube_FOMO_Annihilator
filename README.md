@@ -60,7 +60,7 @@ The requested-source inventory in config/source-expansion.json records each requ
 
 ## Daily automation and publishing
 
-GitHub Actions attempts collection at 10:17, 14:17, and 18:17 UTC each day. Scheduled runs are idempotent: after all seven categories have that `America/New_York` date's top-10 snapshot, later attempts do not recollect. A manual `workflow_dispatch` run forces an immediate refresh of all seven categories.
+GitHub Actions targets 04:00 every day in `America/New_York`, starting October 25, 2026. The workflow uses GitHub's native schedule `timezone` support, so the target remains 4:00 a.m. local time in both EDT and EST (08:00 UTC during daylight time, 09:00 UTC during standard time). Scheduling is best-effort: GitHub can delay or drop a scheduled run, so an exact start or completion time is not guaranteed. Scheduled runs are idempotent: after all seven categories have that New York date's top-10 snapshot, another scheduled attempt does not recollect. A manual `workflow_dispatch` run forces an immediate refresh of all seven categories. The previous daytime UTC triggers have been removed.
 
 An independent Hermes watchdog runs at 22:30 UTC. It verifies that every category has a valid date-stamped JSON file with exactly 10 results. If anything is missing, it dispatches the GitHub workflow, waits for it to finish, and verifies the result again. If recovery fails, it opens one GitHub issue for that date. This removes reliance on GitHub's best-effort schedule alone, but fresh data still depends on the YouTube API, GitHub availability, and the watchdog service.
 

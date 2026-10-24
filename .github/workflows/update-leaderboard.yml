@@ -2,10 +2,11 @@ name: Update and publish leaderboard
 
 on:
   schedule:
-    # Redundant daytime UTC triggers reduce the chance that a delayed or
-    # skipped GitHub schedule leaves a New York calendar date unpublished.
+    # Target 04:00 Eastern local time, adjusting automatically for EDT/EST.
+    # GitHub schedules are best-effort and may start late.
     # Scheduled runs no-op after every category has that day's snapshot.
-    - cron: '17 10,14,18 * * *'
+    - cron: '0 4 * * *'
+      timezone: "America/New_York"
   workflow_dispatch:
 
 permissions:
