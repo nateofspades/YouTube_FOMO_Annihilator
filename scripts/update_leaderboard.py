@@ -68,13 +68,23 @@ def resolve_channel(handle: str, api_key: str) -> dict:
     return {"id": channel["id"], "uploads_playlist": channel["contentDetails"]["relatedPlaylists"]["uploads"]}
 
 
-def recent_video_ids(uploads_playlist: str, cutoff: datetime, api_key: str) -> list[str]:
+def resolve_playlist(playlist_id: str, api_key: str) -> dict:
+    """Resolve a specific show playlist without enumerating its owner's uploads."""
+    payload = youtube_get("playlists", {"part": "snippet", "id": playlist_id}, api_key)
+    items = payload.get("items", [])
+    if not items:
+        raise RuntimeError(f"No public YouTube playlist found for {playlist_id}")
+    return {"id": items[0]["snippet"]["channelId"], "uploads_playlist": playlist_id}
+
+
+def recent_video_ids(uploads_playlist: str, cutoff: datetime, api_key: str, *, stop_at_cutoff: bool = True) -> list[str]:
     """Return recent public videos, ignoring unavailable playlist entries.
 
     Upload playlists can include private, deleted, or otherwise unavailable
     entries.  Those entries may omit ``contentDetails.videoPublishedAt`` (and
     sometimes ``videoId``), so they must not abort collection for every
-    category.
+    category. Set ``stop_at_cutoff=False`` for show playlists, which are not
+    guaranteed to be ordered by the videos' publication dates.
     """
     video_ids: list[str] = []
     page_token = None
@@ -103,9 +113,9 @@ def recent_video_ids(uploads_playlist: str, cutoff: datetime, api_key: str) -> l
                 video_ids.append(video_id)
             else:
                 reached_older_video = True
-        # Uploads playlists are reverse chronological. Once a usable entry is
-        # older than the window, every following page is older as well.
-        if not items or reached_older_video:
+        # Only uploads playlists are assumed to be reverse chronological.
+        # Curated show playlists must be scanned through their final page.
+        if not items or (stop_at_cutoff and reached_older_video):
             break
         page_token = payload.get("nextPageToken")
         if not page_token:
@@ -149,21 +159,24 @@ def rank_category_videos(videos: list[dict], *, now: datetime, terms: tuple[str,
     return ranked
 
 
-def collect_leaderboard(api_key: str, now: datetime, *, slug: str, title: str, terms: tuple[str, ...], channels: list[dict], universe_version: int, title_terms: tuple[str, ...] | None = None) -> dict:
+def collect_leaderboard(api_key: str, now: datetime, *, slug: str, title: str, terms: tuple[str, ...], channels: list[dict], universe_version: int, title_terms: tuple[str, ...] | None = None, playlist_sources: list[dict] | None = None) -> dict:
     cutoff = now.replace(microsecond=0) - timedelta(days=WINDOW_DAYS)
     candidates: list[dict] = []
     sources: list[dict] = []
     source_types: dict[str, str] = {}
 
-    for source in channels:
+    for source in [*channels, *(playlist_sources or [])]:
         try:
-            resolved = resolve_channel(source["handle"], api_key)
+            resolved = resolve_playlist(source["playlist_id"], api_key) if source.get("playlist_id") else resolve_channel(source["handle"], api_key)
         except RuntimeError as exc:
             print(f"Skipping unavailable source {source['name']}: {exc}")
             sources.append({**source, "channel_id": None, "recent_video_count": 0, "status": "unavailable"})
             continue
-        ids = recent_video_ids(resolved["uploads_playlist"], cutoff, api_key)
-        source_types[resolved["id"]] = source["source_type"]
+        ids = recent_video_ids(resolved["uploads_playlist"], cutoff, api_key, stop_at_cutoff=not source.get("playlist_id"))
+        if source.get("playlist_id"):
+            source_types.setdefault(resolved["id"], source["source_type"])
+        else:
+            source_types[resolved["id"]] = source["source_type"]
         sources.append({**source, "channel_id": resolved["id"], "recent_video_count": len(ids)})
         candidates.extend(videos_by_id(ids, api_key))
 

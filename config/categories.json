@@ -3,40 +3,1645 @@
     {
       "slug": "emerging-businesses-startups",
       "title": "Emerging businesses and startups",
-      "terms": ["startup", "founder", "venture", "funding", "saas", "company", "business", "product", "growth", "marketplace"],
-      "channels": [["Y Combinator", "@ycombinator", "Accelerator"], ["TechCrunch", "@TechCrunch", "Editorial/media"], ["a16z", "@a16z", "Venture capital"], ["Sequoia Capital", "@sequoiacapital", "Venture capital"], ["This Week in Startups", "@ThisWeekInStartups", "Editorial/media"], ["Lenny’s Podcast", "@LennysPodcast", "Independent creator"], ["20VC", "@20vc", "Venture capital"], ["Acquired", "@AcquiredFM", "Independent creator"], ["Masters of Scale", "@mastersofscale_", "Editorial/media"], ["My First Million", "@myfirstmillionpod", "Independent creator"], ["MicroConf", "@MicroConf", "Founder community"], ["SaaStr", "@Saastr", "Founder community"], ["Slidebean", "@Slidebean", "Official company"], ["Bessemer Venture Partners", "@BessemerVenturePartners", "Venture capital"], ["Antler Global", "@Antlerglobal", "Venture capital"], ["Khosla Ventures", "@KhoslaVentures1", "Venture capital"], ["NFX", "@nfxinsights", "Venture capital"], ["Product School", "UC6hlQ0x6kPbAGjYkoz53cvA", "Official company"], ["Startup Grind", "StartupGrind", "Founder community"], ["David Senra / Founders", "@DavidSenra", "Independent creator"]]
+      "terms": [
+        "startup",
+        "founder",
+        "venture",
+        "funding",
+        "saas",
+        "company",
+        "business",
+        "product",
+        "growth",
+        "marketplace"
+      ],
+      "channels": [
+        [
+          "Y Combinator",
+          "@ycombinator",
+          "Accelerator"
+        ],
+        [
+          "TechCrunch",
+          "@TechCrunch",
+          "Editorial/media"
+        ],
+        [
+          "a16z",
+          "@a16z",
+          "Venture capital"
+        ],
+        [
+          "Sequoia Capital",
+          "@sequoiacapital",
+          "Venture capital"
+        ],
+        [
+          "This Week in Startups",
+          "@ThisWeekInStartups",
+          "Editorial/media"
+        ],
+        [
+          "Lenny’s Podcast",
+          "@LennysPodcast",
+          "Independent creator"
+        ],
+        [
+          "20VC",
+          "@20vc",
+          "Venture capital"
+        ],
+        [
+          "Acquired",
+          "@AcquiredFM",
+          "Independent creator"
+        ],
+        [
+          "Masters of Scale",
+          "@mastersofscale_",
+          "Editorial/media"
+        ],
+        [
+          "My First Million",
+          "@myfirstmillionpod",
+          "Independent creator"
+        ],
+        [
+          "MicroConf",
+          "@MicroConf",
+          "Founder community"
+        ],
+        [
+          "SaaStr",
+          "@Saastr",
+          "Founder community"
+        ],
+        [
+          "Slidebean",
+          "@Slidebean",
+          "Official company"
+        ],
+        [
+          "Bessemer Venture Partners",
+          "@BessemerVenturePartners",
+          "Venture capital"
+        ],
+        [
+          "Antler Global",
+          "@Antlerglobal",
+          "Venture capital"
+        ],
+        [
+          "Khosla Ventures",
+          "@KhoslaVentures1",
+          "Venture capital"
+        ],
+        [
+          "NFX",
+          "@nfxinsights",
+          "Venture capital"
+        ],
+        [
+          "Product School",
+          "UC6hlQ0x6kPbAGjYkoz53cvA",
+          "Official company"
+        ],
+        [
+          "Startup Grind",
+          "StartupGrind",
+          "Founder community"
+        ],
+        [
+          "David Senra / Founders",
+          "@DavidSenra",
+          "Independent creator"
+        ],
+        [
+          "Starter Story",
+          "UChhw6DlKKTQ9mYSpTfXUYqA",
+          "Additional curated source"
+        ],
+        [
+          "Greg Isenberg",
+          "UCPjNBjflYl0-HQtUvOx0Ibw",
+          "Additional curated source"
+        ],
+        [
+          "TBPN",
+          "UC-DRzaGnL_vtBUpCFH5M0tg",
+          "Additional curated source"
+        ],
+        [
+          "The Logan Bartlett Show",
+          "UCugS0jD5IAdoqzjaNYzns7w",
+          "Additional curated source"
+        ],
+        [
+          "Foundr",
+          "UChpWgrkJY_i7F6wwI_TOnrg",
+          "Additional curated source"
+        ],
+        [
+          "Entrepreneur",
+          "UCNFGSWVOdVWEe9XJNnfTdyQ",
+          "Additional curated source"
+        ],
+        [
+          "CNBC Make It",
+          "UCH5_L3ytGbBziX0CLuYdQ1Q",
+          "Additional curated source"
+        ],
+        [
+          "Bloomberg Technology",
+          "UCrM7B7SL_g1edFOnmj-SDKg",
+          "Additional curated source"
+        ],
+        [
+          "PitchBook",
+          "UC4rBao48na0v__j3Xvu0T-g",
+          "Additional curated source"
+        ],
+        [
+          "Crunchbase",
+          "UCnAZr1Krg51E_tUg-Hpunwg",
+          "Additional curated source"
+        ],
+        [
+          "CB Insights",
+          "UC96nq-gVV0vy96gfYXfEhmA",
+          "Additional curated source"
+        ],
+        [
+          "Techstars",
+          "UClebMzrpRNTWVfZXw2jfsSw",
+          "Additional curated source"
+        ],
+        [
+          "500 Global",
+          "UCsFOY-wGT9IOC4Okrq6UBfA",
+          "Additional curated source"
+        ],
+        [
+          "First Round Capital",
+          "UC_oji6l_-xwhmZqCxRGuAXw",
+          "Additional curated source"
+        ],
+        [
+          "Lightspeed Venture Partners",
+          "UCwBTFE_6Bsb_EtmXlW2aTlg",
+          "Additional curated source"
+        ],
+        [
+          "General Catalyst",
+          "UCRuWcJZWsga67HTE0fcCvbA",
+          "Additional curated source"
+        ],
+        [
+          "Accel",
+          "UCkgHtlqtoa73AUIueX5udaQ",
+          "Additional curated source"
+        ],
+        [
+          "Index Ventures",
+          "UCFMxDWNYefVV3XmCdCBCFjQ",
+          "Additional curated source"
+        ],
+        [
+          "Greylock",
+          "UCZ7x7yDBbEFCGztD8BYvRhA",
+          "Additional curated source"
+        ],
+        [
+          "Insight Partners",
+          "UC7xNlG4PokgWJe8hd2kS-Kg",
+          "Additional curated source"
+        ],
+        [
+          "Product Hunt",
+          "UCOtU18DT8csQVqHPT1wtYzw",
+          "Additional curated source"
+        ],
+        [
+          "Indie Hackers",
+          "UC36zt_eM_gZQXayw_pAdASg",
+          "Additional curated source"
+        ],
+        [
+          "Nathan Latka",
+          "UCJ4E393uI8mWRlSqgoeUKKw",
+          "Additional curated source"
+        ],
+        [
+          "Rob Walling",
+          "UCHoBKQDRkJcOY2BO47q5Ruw",
+          "Additional curated source"
+        ],
+        [
+          "TK Kader",
+          "UCUseoG3kofRLS6WoUaL_15w",
+          "Additional curated source"
+        ],
+        [
+          "Marc Lou",
+          "UC12JO2IPlEViR-o6SLXKx1A",
+          "Additional curated source"
+        ],
+        [
+          "Arvid Kahl",
+          "UCB6s-V1Ls4vc_mXEF-4Lz_Q",
+          "Additional curated source"
+        ],
+        [
+          "Dan Martell",
+          "UCA-mWX9CvCTVFWRMb9bKc9w",
+          "Additional curated source"
+        ],
+        [
+          "Codie Sanchez",
+          "UC5fI3kxC-ewZ6ZXEYgznM7g",
+          "Additional curated source"
+        ]
+      ]
     },
     {
       "slug": "science-future-technology",
       "title": "Science and future technology",
-      "terms": ["science", "technology", "robot", "robotics", "space", "energy", "quantum", "engineering", "physics", "materials", "battery", "chip", "aerospace", "climate"],
-      "channels": [["Kurzgesagt", "@kurzgesagt", "Independent creator"], ["Veritasium", "@veritasium", "Independent creator"], ["PBS Space Time", "@pbsspacetime", "Editorial/media"], ["SmarterEveryDay", "@smartereveryday", "Independent creator"], ["Real Engineering", "@RealEngineering", "Independent creator"], ["Practical Engineering", "@PracticalEngineeringChannel", "Independent creator"], ["Mark Rober", "@MarkRober", "Independent creator"], ["Hacksmith Industries", "@hacksmith", "Official company"], ["Boston Dynamics", "@BostonDynamics", "Official company"], ["NASA", "@NASA", "Government"], ["European Space Agency", "@EuropeanSpaceAgency", "Government"], ["Cleo Abram", "@CleoAbram", "Editorial/media"], ["Undecided", "@UndecidedTechnology", "Independent creator"], ["Everything Electric", "@fullychargedshow", "Editorial/media"], ["IBM Research", "ibmresearch", "Research institution"], ["Fermilab", "@fermilab", "Research institution"], ["Applied Science", "@AppliedScience", "Independent creator"], ["Periodic Videos", "@periodicvideos", "Editorial/media"], ["Two Bit da Vinci", "@TwoBitDaVinci", "Independent creator"], ["Branch Education", "@BranchEducation", "Independent creator"]]
+      "terms": [
+        "science",
+        "technology",
+        "robot",
+        "robotics",
+        "space",
+        "energy",
+        "quantum",
+        "engineering",
+        "physics",
+        "materials",
+        "battery",
+        "chip",
+        "aerospace",
+        "climate"
+      ],
+      "channels": [
+        [
+          "Kurzgesagt",
+          "@kurzgesagt",
+          "Independent creator"
+        ],
+        [
+          "Veritasium",
+          "@veritasium",
+          "Independent creator"
+        ],
+        [
+          "PBS Space Time",
+          "@pbsspacetime",
+          "Editorial/media"
+        ],
+        [
+          "SmarterEveryDay",
+          "@smartereveryday",
+          "Independent creator"
+        ],
+        [
+          "Real Engineering",
+          "@RealEngineering",
+          "Independent creator"
+        ],
+        [
+          "Practical Engineering",
+          "@PracticalEngineeringChannel",
+          "Independent creator"
+        ],
+        [
+          "Mark Rober",
+          "@MarkRober",
+          "Independent creator"
+        ],
+        [
+          "Hacksmith Industries",
+          "@hacksmith",
+          "Official company"
+        ],
+        [
+          "Boston Dynamics",
+          "@BostonDynamics",
+          "Official company"
+        ],
+        [
+          "NASA",
+          "@NASA",
+          "Government"
+        ],
+        [
+          "European Space Agency",
+          "@EuropeanSpaceAgency",
+          "Government"
+        ],
+        [
+          "Cleo Abram",
+          "@CleoAbram",
+          "Editorial/media"
+        ],
+        [
+          "Undecided",
+          "@UndecidedTechnology",
+          "Independent creator"
+        ],
+        [
+          "Everything Electric",
+          "@fullychargedshow",
+          "Editorial/media"
+        ],
+        [
+          "IBM Research",
+          "ibmresearch",
+          "Research institution"
+        ],
+        [
+          "Fermilab",
+          "@fermilab",
+          "Research institution"
+        ],
+        [
+          "Applied Science",
+          "@AppliedScience",
+          "Independent creator"
+        ],
+        [
+          "Periodic Videos",
+          "@periodicvideos",
+          "Editorial/media"
+        ],
+        [
+          "Two Bit da Vinci",
+          "@TwoBitDaVinci",
+          "Independent creator"
+        ],
+        [
+          "Branch Education",
+          "@BranchEducation",
+          "Independent creator"
+        ],
+        [
+          "Vsauce",
+          "UC6nSFpj9HTCZ5t-N3Rm3-HA",
+          "Additional curated source"
+        ],
+        [
+          "3Blue1Brown",
+          "UCYO_jab_esuFRV4b17AJtAw",
+          "Additional curated source"
+        ],
+        [
+          "SciShow",
+          "UCZYTClx2T1of7BRZ86-8fow",
+          "Additional curated source"
+        ],
+        [
+          "minutephysics",
+          "UCUHW94eEFW7hkUMVaZz4eDg",
+          "Additional curated source"
+        ],
+        [
+          "MinuteEarth",
+          "UCeiYXex_fwgYDonaTcSIk6w",
+          "Additional curated source"
+        ],
+        [
+          "NileRed",
+          "UCFhXFikryT4aFcLkLw2LBLA",
+          "Additional curated source"
+        ],
+        [
+          "The Action Lab",
+          "UC1VLQPn9cYSqx8plbk9RxxQ",
+          "Additional curated source"
+        ],
+        [
+          "Steve Mould",
+          "UCEIwxahdLz7bap-VDs9h35A",
+          "Additional curated source"
+        ],
+        [
+          "Technology Connections",
+          "UCy0tKL1T7wFoYcxCe0xjN6Q",
+          "Additional curated source"
+        ],
+        [
+          "Stuff Made Here",
+          "UCj1VqrHhDte54oLgPG4xpuQ",
+          "Additional curated source"
+        ],
+        [
+          "William Osman",
+          "UCfMJ2MchTSW2kWaT0kK94Yw",
+          "Additional curated source"
+        ],
+        [
+          "ElectroBOOM",
+          "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+          "Additional curated source"
+        ],
+        [
+          "GreatScott!",
+          "UC6mIxFTvXkWQVEHPsEdflzQ",
+          "Additional curated source"
+        ],
+        [
+          "Ben Eater",
+          "UCS0N5baNlQWJCUrhCEo8WlA",
+          "Additional curated source"
+        ],
+        [
+          "New Mind",
+          "UC5_Y-BKzq1uW_2rexWkUzlA",
+          "Additional curated source"
+        ],
+        [
+          "Asianometry",
+          "UC1LpsuAUaKoMzzJSEt5WImw",
+          "Additional curated source"
+        ],
+        [
+          "ColdFusion",
+          "UC4QZ_LsYcvcq7qOsOhpAX4A",
+          "Additional curated source"
+        ],
+        [
+          "Sabine Hossenfelder",
+          "UC1yNl2E66ZzKApQdRuTQ4tw",
+          "Additional curated source"
+        ],
+        [
+          "Anton Petrov",
+          "UCciQ8wFcVoIIMi-lfu8-cjQ",
+          "Additional curated source"
+        ],
+        [
+          "Dr Becky",
+          "UCYNbYGl89UUowy8oXkipC-Q",
+          "Additional curated source"
+        ],
+        [
+          "Astrum",
+          "UC-9b7aDP6ZN0coj9-xFnrtw",
+          "Additional curated source"
+        ],
+        [
+          "StarTalk",
+          "UCqoAEDirJPjEUFcF2FklnBA",
+          "Additional curated source"
+        ],
+        [
+          "Fraser Cain",
+          "UCogrSQkBJn1KF0N9I4oM7eQ",
+          "Additional curated source"
+        ],
+        [
+          "The Royal Institution",
+          "UCYeF244yNGuFefuFKqxIAXw",
+          "Additional curated source"
+        ],
+        [
+          "New Scientist",
+          "UCt5OA3LingpZBeEyPYmputQ",
+          "Additional curated source"
+        ],
+        [
+          "SpaceX",
+          "UCtI0Hodo5o5dUb67FeUjDeA",
+          "Additional curated source"
+        ],
+        [
+          "Everyday Astronaut",
+          "UC6uKrU_WqJ1R2HMTY3LIx5Q",
+          "Additional curated source"
+        ],
+        [
+          "Scott Manley",
+          "UCxzC4EngIsMrPmbm6Nxvb-A",
+          "Additional curated source"
+        ],
+        [
+          "Primal Space",
+          "UClZbmi9JzfnB2CEb0fG8iew",
+          "Additional curated source"
+        ],
+        [
+          "TED-Ed",
+          "UCsooa4yRKGN_zEE8iknghZA",
+          "Additional curated source"
+        ]
+      ]
     },
     {
       "slug": "software-developer-tools",
       "title": "Software and developer tools",
-      "terms": ["software", "developer", "programming", "code", "coding", "framework", "cloud", "api", "devops", "database", "kubernetes", "javascript", "python", "tool"],
-      "channels": [["GitHub", "@GitHub", "Official company"], ["Google for Developers", "@GoogleDevelopers", "Official company"], ["Microsoft Developer", "@MicrosoftDeveloper", "Official company"], ["AWS Developers", "@awsdevelopers", "Official company"], ["Google Cloud Tech", "@googlecloudtech", "Official company"], ["Cloudflare", "UCgv3xMy6kECn0boYP9d2o-g", "Official company"], ["Docker", "dockerrun", "Official company"], ["CNCF", "@cncf", "Research institution"], ["GitLab", "@GitLab", "Official company"], ["JetBrains", "@JetBrainsTV", "Official company"], ["Fireship", "@Fireship", "Independent creator"], ["freeCodeCamp.org", "@freecodecamp", "Research institution"], ["Traversy Media", "@TraversyMedia", "Independent creator"], ["Web Dev Simplified", "@WebDevSimplified", "Independent creator"], ["Theo", "@t3dotgg", "Independent creator"], ["ThePrimeagen", "@ThePrimeagen", "Independent creator"], ["TechWorld with Nana", "@TechWorldwithNana", "Independent creator"], ["Hussein Nasser", "@hnasr", "Independent creator"], ["ByteByteGo", "@ByteByteGo", "Independent creator"], ["Laravel", "@LaravelPHP", "Official company"]]
+      "terms": [
+        "software",
+        "developer",
+        "programming",
+        "code",
+        "coding",
+        "framework",
+        "cloud",
+        "api",
+        "devops",
+        "database",
+        "kubernetes",
+        "javascript",
+        "python",
+        "tool"
+      ],
+      "channels": [
+        [
+          "GitHub",
+          "@GitHub",
+          "Official company"
+        ],
+        [
+          "Google for Developers",
+          "@GoogleDevelopers",
+          "Official company"
+        ],
+        [
+          "Microsoft Developer",
+          "@MicrosoftDeveloper",
+          "Official company"
+        ],
+        [
+          "AWS Developers",
+          "@awsdevelopers",
+          "Official company"
+        ],
+        [
+          "Google Cloud Tech",
+          "@googlecloudtech",
+          "Official company"
+        ],
+        [
+          "Cloudflare",
+          "UCgv3xMy6kECn0boYP9d2o-g",
+          "Official company"
+        ],
+        [
+          "Docker",
+          "dockerrun",
+          "Official company"
+        ],
+        [
+          "CNCF",
+          "@cncf",
+          "Research institution"
+        ],
+        [
+          "GitLab",
+          "@GitLab",
+          "Official company"
+        ],
+        [
+          "JetBrains",
+          "@JetBrainsTV",
+          "Official company"
+        ],
+        [
+          "Fireship",
+          "@Fireship",
+          "Independent creator"
+        ],
+        [
+          "freeCodeCamp.org",
+          "@freecodecamp",
+          "Research institution"
+        ],
+        [
+          "Traversy Media",
+          "@TraversyMedia",
+          "Independent creator"
+        ],
+        [
+          "Web Dev Simplified",
+          "@WebDevSimplified",
+          "Independent creator"
+        ],
+        [
+          "Theo",
+          "@t3dotgg",
+          "Independent creator"
+        ],
+        [
+          "ThePrimeagen",
+          "@ThePrimeagen",
+          "Independent creator"
+        ],
+        [
+          "TechWorld with Nana",
+          "@TechWorldwithNana",
+          "Independent creator"
+        ],
+        [
+          "Hussein Nasser",
+          "@hnasr",
+          "Independent creator"
+        ],
+        [
+          "ByteByteGo",
+          "@ByteByteGo",
+          "Independent creator"
+        ],
+        [
+          "Laravel",
+          "@LaravelPHP",
+          "Official company"
+        ],
+        [
+          "Programming with Mosh",
+          "UCWv7vMbMWH4-V0ZXdmDpPBA",
+          "Additional curated source"
+        ],
+        [
+          "The Net Ninja",
+          "UCW5YeuERMmlnqo4oq8vwUpg",
+          "Additional curated source"
+        ],
+        [
+          "Academind",
+          "UCSJbGtTlrDami-tDGPUV9-w",
+          "Additional curated source"
+        ],
+        [
+          "Kevin Powell",
+          "UCJZv4d5rbIKd4QHMPkcABCw",
+          "Additional curated source"
+        ],
+        [
+          "The Coding Train",
+          "UCvjgXvBlbQiydffZU7m1_aw",
+          "Additional curated source"
+        ],
+        [
+          "NeetCode",
+          "UC_mYaQAE6-71rjSN6CeCA-g",
+          "Additional curated source"
+        ],
+        [
+          "CS Dojo",
+          "UCxX9wt5FWQUAAz4UrysqK9A",
+          "Additional curated source"
+        ],
+        [
+          "Amigoscode",
+          "UC2KfmYEM4KCuA1ZurravgYw",
+          "Additional curated source"
+        ],
+        [
+          "CodeAesthetic",
+          "UCaSCt8s_4nfkRglWCvNSDrg",
+          "Additional curated source"
+        ],
+        [
+          "Hyperplexed",
+          "UCmEzz-dPBVrsy4ZluSsYHDg",
+          "Additional curated source"
+        ],
+        [
+          "Jack Herrington",
+          "UC6vRUjYqDuoUsYsku86Lrsw",
+          "Additional curated source"
+        ],
+        [
+          "Josh tried coding",
+          "UCvGwM5woTl13I-qThI4YMCg",
+          "Additional curated source"
+        ],
+        [
+          "Sam Selikoff",
+          "UCgN4rDA3UNQ1OKQRXJd0nwg",
+          "Additional curated source"
+        ],
+        [
+          "Dave Gray",
+          "UCY38RvRIxYODO4penyxUwTg",
+          "Additional curated source"
+        ],
+        [
+          "Codevolution",
+          "UC80PWRj_ZU8Zu0HSMNVwKWw",
+          "Additional curated source"
+        ],
+        [
+          "JavaScript Mastery",
+          "UCmXmlB4-HJytD7wek0Uo97A",
+          "Additional curated source"
+        ],
+        [
+          "ArjanCodes",
+          "UCVhQ2NnY5Rskt6UjCUkJ_DA",
+          "Additional curated source"
+        ],
+        [
+          "Corey Schafer",
+          "UCCezIgC97PvUuR4_gbFUs5g",
+          "Additional curated source"
+        ],
+        [
+          "mCoding",
+          "UCaiL2GDNpLYH6Wokkk1VNcg",
+          "Additional curated source"
+        ],
+        [
+          "KodeKloud",
+          "UCSWj8mqQCcrcBlXPi4ThRDQ",
+          "Additional curated source"
+        ],
+        [
+          "Bret Fisher Docker and DevOps",
+          "UC0NErq0RhP51iXx64ZmyVfg",
+          "Additional curated source"
+        ],
+        [
+          "Christian Lempa",
+          "UCZNhwA1B5YqiY1nLzmM0ZRg",
+          "Additional curated source"
+        ],
+        [
+          "DevOps Directive",
+          "UC4MdpjzjPuop_qWNAvR23JA",
+          "Additional curated source"
+        ],
+        [
+          "Be A Better Dev",
+          "UCraiFqWi0qSIxXxXN4IHFBQ",
+          "Additional curated source"
+        ],
+        [
+          "Gaurav Sen",
+          "UCRPMAqdtSgd0Ipeef7iFsKw",
+          "Additional curated source"
+        ],
+        [
+          "CodeOpinion",
+          "UC3RKA4vunFAfrfxiJhPEplw",
+          "Additional curated source"
+        ],
+        [
+          "Computerphile",
+          "UC9-y-6csu5WGm29I7JiwpnA",
+          "Additional curated source"
+        ],
+        [
+          "Low Level Learning",
+          "UC6biysICWOJ-C3P4Tyeggzg",
+          "Additional curated source"
+        ],
+        [
+          "Syntax",
+          "UCyU5wkjgQYGRB0hIHMwm2Sg",
+          "Additional curated source"
+        ],
+        [
+          "Supabase",
+          "UCNTVzV1InxHV-YR0fSajqPQ",
+          "Additional curated source"
+        ]
+      ]
     },
     {
       "slug": "ai-agents-and-automation",
       "title": "AI agents and automation",
-      "terms": ["ai agent", "ai agents", "agentic ai", "agentic", "autonomous agent", "autonomous agents", "multi-agent", "multi agent", "ai automation", "workflow automation", "agent workflow", "agentic workflow", "mcp", "model context protocol", "computer use"],
-      "title_terms": ["ai agent", "ai agents", "agentic ai", "agentic", "autonomous agent", "autonomous agents", "multi-agent", "multi agent", "ai automation", "workflow automation", "agent workflow", "agentic workflow", "mcp", "model context protocol", "computer use"],
-      "channels": [["All About AI", "@allaboutai", "AI agent and automation"], ["Alex Finn", "@AlexFinnOfficial", "AI agent and automation"], ["Matthew Berman", "@matthew_berman", "AI agent and automation"], ["Cole Medin", "@ColeMedin", "AI agent and automation"], ["Futurepedia", "@Futurepedia_io", "AI agent and automation"], ["Nate Herk", "@NateHerk", "AI agent and automation"], ["Krish Naik", "@krishnaik06", "AI agent and automation"], ["AI Code King", "@AICodeKing", "AI agent and automation"], ["IndyDevDan", "@IndyDevDan", "AI agent and automation"], ["1littlecoder", "@1littlecoder", "AI agent and automation"], ["Fireship", "@Fireship", "AI agent and automation"], ["Tech With Tim", "@TechWithTim", "AI agent and automation"], ["NetworkChuck", "@NetworkChuck", "AI agent and automation"], ["Greg Isenberg", "@GregIsenberg", "AI agent and automation"], ["How I AI", "@howiaipodcast", "AI agent and automation"], ["IBM Technology", "@IBMTechnology", "AI agent and automation"], ["Weights & Biases", "@WeightsBiases", "AI agent and automation"], ["Hugging Face", "@huggingface", "AI agent and automation"]]
+      "terms": [
+        "ai agent",
+        "ai agents",
+        "agentic ai",
+        "agentic",
+        "autonomous agent",
+        "autonomous agents",
+        "multi-agent",
+        "multi agent",
+        "ai automation",
+        "workflow automation",
+        "agent workflow",
+        "agentic workflow",
+        "mcp",
+        "model context protocol",
+        "computer use"
+      ],
+      "title_terms": [
+        "ai agent",
+        "ai agents",
+        "agentic ai",
+        "agentic",
+        "autonomous agent",
+        "autonomous agents",
+        "multi-agent",
+        "multi agent",
+        "ai automation",
+        "workflow automation",
+        "agent workflow",
+        "agentic workflow",
+        "mcp",
+        "model context protocol",
+        "computer use"
+      ],
+      "channels": [
+        [
+          "All About AI",
+          "@allaboutai",
+          "AI agent and automation"
+        ],
+        [
+          "Alex Finn",
+          "@AlexFinnOfficial",
+          "AI agent and automation"
+        ],
+        [
+          "Matthew Berman",
+          "@matthew_berman",
+          "AI agent and automation"
+        ],
+        [
+          "Cole Medin",
+          "@ColeMedin",
+          "AI agent and automation"
+        ],
+        [
+          "Futurepedia",
+          "@Futurepedia_io",
+          "AI agent and automation"
+        ],
+        [
+          "Nate Herk",
+          "@NateHerk",
+          "AI agent and automation"
+        ],
+        [
+          "Krish Naik",
+          "@krishnaik06",
+          "AI agent and automation"
+        ],
+        [
+          "AI Code King",
+          "@AICodeKing",
+          "AI agent and automation"
+        ],
+        [
+          "IndyDevDan",
+          "@IndyDevDan",
+          "AI agent and automation"
+        ],
+        [
+          "1littlecoder",
+          "@1littlecoder",
+          "AI agent and automation"
+        ],
+        [
+          "Fireship",
+          "@Fireship",
+          "AI agent and automation"
+        ],
+        [
+          "Tech With Tim",
+          "@TechWithTim",
+          "AI agent and automation"
+        ],
+        [
+          "NetworkChuck",
+          "@NetworkChuck",
+          "AI agent and automation"
+        ],
+        [
+          "Greg Isenberg",
+          "@GregIsenberg",
+          "AI agent and automation"
+        ],
+        [
+          "How I AI",
+          "@howiaipodcast",
+          "AI agent and automation"
+        ],
+        [
+          "IBM Technology",
+          "@IBMTechnology",
+          "AI agent and automation"
+        ],
+        [
+          "Weights & Biases",
+          "@WeightsBiases",
+          "AI agent and automation"
+        ],
+        [
+          "Hugging Face",
+          "@huggingface",
+          "AI agent and automation"
+        ],
+        [
+          "Liam Ottley",
+          "UCui4jxDaMb53Gdh-AZUTPAg",
+          "AI agent and automation"
+        ],
+        [
+          "Nick Saraev",
+          "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+          "AI agent and automation"
+        ],
+        [
+          "Tina Huang",
+          "UC2UXDak6o7rBm23k3Vv5dww",
+          "AI agent and automation"
+        ],
+        [
+          "Dave Ebbelaar",
+          "UCn8ujwUInbJkBhffxqAPBVQ",
+          "AI agent and automation"
+        ],
+        [
+          "Riley Brown",
+          "UCMcoud_ZW7cfxeIugBflSBw",
+          "AI agent and automation"
+        ],
+        [
+          "Sam Witteveen",
+          "UC55ODQSvARtgSyc8ThfiepQ",
+          "AI agent and automation"
+        ],
+        [
+          "AI Jason",
+          "UCrXSVX9a1mj8l0CMLwKgMVw",
+          "AI agent and automation"
+        ],
+        [
+          "n8n",
+          "UCiHVTkJtWSdc9N3h0nUGWLg",
+          "AI agent and automation"
+        ],
+        [
+          "Make",
+          "UC8KWRrf8wqyowmWhXJ9DRjQ",
+          "AI agent and automation"
+        ],
+        [
+          "Zapier",
+          "UCEvsxF4Z12vwpwDUaU02yiA",
+          "AI agent and automation"
+        ],
+        [
+          "LangChain",
+          "UCC-lyoTfSrcJzA1ab3APAgw",
+          "AI agent and automation"
+        ],
+        [
+          "LlamaIndex",
+          "UCeRjipR4_SsCddq9VZ2AeKg",
+          "AI agent and automation"
+        ],
+        [
+          "CrewAI",
+          "UCTulKzR5sldNq2eAxxdaEuA",
+          "AI agent and automation"
+        ],
+        [
+          "Pydantic",
+          "UCVC1GrIK_002p3V1D94VO9A",
+          "AI agent and automation"
+        ],
+        [
+          "OpenAI",
+          "UCXZCJLdBC09xxGZ6gcdrc6A",
+          "AI agent and automation"
+        ],
+        [
+          "Anthropic",
+          "UCrDwWp7EBBv4NwvScIpBDOA",
+          "AI agent and automation"
+        ],
+        [
+          "Cursor",
+          "UC6YYHJzM6PhZ2Yey9BQiUaw",
+          "AI agent and automation"
+        ],
+        [
+          "Replit",
+          "UCgoJjdR6-7AMu9fDitb6nVw",
+          "AI agent and automation"
+        ],
+        [
+          "Supabase",
+          "UCNTVzV1InxHV-YR0fSajqPQ",
+          "AI agent and automation"
+        ],
+        [
+          "Vercel",
+          "UCLq8gNoee7oXM7MvTdjyQvA",
+          "AI agent and automation"
+        ],
+        [
+          "Lovable",
+          "UCds72zs2EzQRmhqbLLCmD4A",
+          "AI agent and automation"
+        ],
+        [
+          "Simon Willison",
+          "UCPzGwk1N5ea7sV3S2c2x1kg",
+          "AI agent and automation"
+        ],
+        [
+          "Matt Pocock",
+          "UCswG6FSbgZjbWtdf_hMLaow",
+          "AI agent and automation"
+        ],
+        [
+          "Brian Casel",
+          "UCSxPE9PHHxQUEt6ajGmQyMA",
+          "AI agent and automation"
+        ],
+        [
+          "Jack Roberts",
+          "UCxVxcTULO9cFU6SB9qVaisQ",
+          "AI agent and automation"
+        ],
+        [
+          "AI Foundations",
+          "UCWZwfV3ICOt3uEPpW6hYK4g",
+          "AI agent and automation"
+        ],
+        [
+          "Mervin Praison",
+          "UCWTyktbw5JYoSBduu8LsBgQ",
+          "AI agent and automation"
+        ],
+        [
+          "AI Engineer",
+          "UCLKPca3kwwd-B59HNr-_lvA",
+          "AI agent and automation"
+        ],
+        [
+          "Sabrina Ramonov",
+          "UCiGWNa6QK6CiKPvv5-YPv8g",
+          "AI agent and automation"
+        ],
+        [
+          "LowCode Agency",
+          "UCT5Nq5woayDZTBqeVkczetg",
+          "AI agent and automation"
+        ],
+        [
+          "VoloBuilds",
+          "UCBr1IoxBAF9RDPdTzb6459g",
+          "AI agent and automation"
+        ],
+        [
+          "Prompt Engineering",
+          "UCDq7SjbgRKty5TgGafW8Clg",
+          "AI agent and automation"
+        ]
+      ]
     },
     {
       "slug": "ai-podcasts",
       "title": "AI podcasts",
-      "terms": ["ai", "artificial intelligence", "machine learning", "llm", "large language model", "generative", "agentic", "openai", "anthropic", "chatgpt", "deepmind", "neural network"],
-      "title_terms": ["ai", "artificial intelligence", "machine learning", "llm", "large language model", "generative", "agentic", "openai", "anthropic", "chatgpt", "deepmind", "neural network"],
-      "channels": [["Lex Fridman", "UCJIfeSCssxSC_Dhc5s7woww", "AI podcast"], ["Dwarkesh Patel", "UCXl4i9dYBrFOabk0xGmbkRA", "AI podcast"], ["Latent Space", "UCxBcwypKK-W3GHd_RZ9FZrQ", "AI podcast"], ["Cognitive Revolution", "UCjNRVMBVI30Sak_p6HRWhIA", "AI podcast"], ["No Priors", "UCSI7h9hydQ40K5MJHnCrQvw", "AI podcast"], ["The TWIML AI Podcast", "UC7kjWIK1H8tfmFlzZO-wHMw", "AI podcast"], ["Practical AI", "UC9tpZnMLKv5vbZIGuIIPmNg", "AI podcast"], ["The AI Breakdown", "UCmc5j3MNKe4JKMCW6ukvmiQ", "AI podcast"], ["The Artificial Intelligence Show Podcast", "UCdHpbfqjELZmhqY3k0ELGcQ", "AI podcast"], ["The Gradient", "UCsRy8FnMGxtQl0y-iY7nTIg", "AI podcast"], ["Last Week in AI", "UCKARTq-t5SPMzwtft8FWwnA", "AI podcast"], ["Machine Gods", "UCgx8lqX3QsHgH0bQq7-EHVg", "AI podcast"], ["AI Agents Podcast", "UCIkU9Fe0OccRmqBMXRm1Q7A", "AI podcast"]]
+      "terms": [
+        "ai",
+        "artificial intelligence",
+        "machine learning",
+        "llm",
+        "large language model",
+        "generative",
+        "agentic",
+        "openai",
+        "anthropic",
+        "chatgpt",
+        "deepmind",
+        "neural network"
+      ],
+      "title_terms": [
+        "ai",
+        "artificial intelligence",
+        "machine learning",
+        "llm",
+        "large language model",
+        "generative",
+        "agentic",
+        "openai",
+        "anthropic",
+        "chatgpt",
+        "deepmind",
+        "neural network"
+      ],
+      "channels": [
+        [
+          "Lex Fridman",
+          "UCJIfeSCssxSC_Dhc5s7woww",
+          "AI podcast"
+        ],
+        [
+          "Dwarkesh Patel",
+          "UCXl4i9dYBrFOabk0xGmbkRA",
+          "AI podcast"
+        ],
+        [
+          "Latent Space",
+          "UCxBcwypKK-W3GHd_RZ9FZrQ",
+          "AI podcast"
+        ],
+        [
+          "Cognitive Revolution",
+          "UCjNRVMBVI30Sak_p6HRWhIA",
+          "AI podcast"
+        ],
+        [
+          "No Priors",
+          "UCSI7h9hydQ40K5MJHnCrQvw",
+          "AI podcast"
+        ],
+        [
+          "The TWIML AI Podcast",
+          "UC7kjWIK1H8tfmFlzZO-wHMw",
+          "AI podcast"
+        ],
+        [
+          "Practical AI",
+          "UC9tpZnMLKv5vbZIGuIIPmNg",
+          "AI podcast"
+        ],
+        [
+          "The AI Breakdown",
+          "UCmc5j3MNKe4JKMCW6ukvmiQ",
+          "AI podcast"
+        ],
+        [
+          "The Artificial Intelligence Show Podcast",
+          "UCdHpbfqjELZmhqY3k0ELGcQ",
+          "AI podcast"
+        ],
+        [
+          "The Gradient",
+          "UCsRy8FnMGxtQl0y-iY7nTIg",
+          "AI podcast"
+        ],
+        [
+          "Last Week in AI",
+          "UCKARTq-t5SPMzwtft8FWwnA",
+          "AI podcast"
+        ],
+        [
+          "Machine Gods",
+          "UCgx8lqX3QsHgH0bQq7-EHVg",
+          "AI podcast"
+        ],
+        [
+          "AI Agents Podcast",
+          "UCIkU9Fe0OccRmqBMXRm1Q7A",
+          "AI podcast"
+        ],
+        [
+          "The AI Daily Brief",
+          "UCKelCK4ZaO6HeEI1KQjqzWA",
+          "AI podcast"
+        ],
+        [
+          "Hard Fork",
+          "UCZcR2SVWaGWNlMqPxvQS3vw",
+          "AI podcast"
+        ],
+        [
+          "Machine Learning Street Talk",
+          "UCMLtBahI5DMrt0NPvDSoIRQ",
+          "AI podcast"
+        ],
+        [
+          "Eye on AI",
+          "UC-o9u9QL4zXzBwjvT1gmzNg",
+          "AI podcast"
+        ],
+        [
+          "AI For Humans",
+          "UCghJTNTO9kcDeUFXMuSDGLQ",
+          "AI podcast"
+        ],
+        [
+          "Everyday AI",
+          "UCujMOyMfjf4hvYn7aRe1JEQ",
+          "AI podcast"
+        ],
+        [
+          "MLOps Community",
+          "UCG6qpjVnBTTT8wLGBygANOQ",
+          "AI podcast"
+        ],
+        [
+          "Interconnects",
+          "UCMhPRKnK8S_ruoGSt3vm1sQ",
+          "AI podcast"
+        ],
+        [
+          "The Pragmatic Engineer",
+          "UCPbwhExawYrn9xxI21TFfyw",
+          "AI podcast"
+        ],
+        [
+          "Big Technology Podcast",
+          "UCaKiCexVhZ459j9sZ2e7XdQ",
+          "AI podcast"
+        ],
+        [
+          "Data Skeptic",
+          "UC60gRMJRjTuTskBnl-LkPAg",
+          "AI podcast"
+        ],
+        [
+          "Super Data Science",
+          "UCMbtqTGdSsxYYhhTpV4lSTQ",
+          "AI podcast"
+        ],
+        [
+          "How I AI",
+          "UCRYY7IEbkHLH_ScJCu9eWDQ",
+          "AI podcast"
+        ],
+        [
+          "Software Engineering Daily",
+          "UCBKM3HATRILZyG9jGNJKGXQ",
+          "AI podcast"
+        ],
+        [
+          "The Robot Brains Podcast",
+          "UCXNviQjBONXljxkJzNV-Xbw",
+          "AI podcast"
+        ],
+        [
+          "Talk Python To Me",
+          "UCKPSmMfDsXTKrCZApukcJ7A",
+          "AI podcast"
+        ],
+        [
+          "ChinaTalk",
+          "UCXOtILmQEo3pL_1bJfUOFWw",
+          "AI podcast"
+        ],
+        [
+          "BG2Pod",
+          "UC-yRDvpR99LUc5l7i7jLzew",
+          "AI podcast"
+        ],
+        [
+          "TBPN",
+          "UC-DRzaGnL_vtBUpCFH5M0tg",
+          "AI podcast"
+        ],
+        [
+          "Decoder with Nilay Patel",
+          "UCYRwJnCWfBqFHEHrgc18FFw",
+          "AI podcast"
+        ],
+        [
+          "The Vergecast",
+          "UCVHdvAX5-R8y5l9xp6nroBQ",
+          "AI podcast"
+        ],
+        [
+          "AXRP",
+          "UCIAzAR5dG7j_Kcvwjh7SQpg",
+          "AI podcast"
+        ],
+        [
+          "Cheeky Pint",
+          "UCXi7Hg2nSB40ujzM2CMtF-Q",
+          "AI podcast"
+        ]
+      ],
+      "playlist_sources": [
+        {
+          "name": "Gradient Dissent",
+          "playlist_id": "PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_",
+          "source_type": "AI podcast"
+        },
+        {
+          "name": "NVIDIA AI Podcast",
+          "playlist_id": "PLZHnYvH1qtOZ3tS6azbUnzVcGa1uTCEKe",
+          "source_type": "AI podcast"
+        },
+        {
+          "name": "The Data Exchange",
+          "playlist_id": "PLnTmH22EvTFTtWJRPTNzosDIDblnSg0PD",
+          "source_type": "AI podcast"
+        },
+        {
+          "name": "The Changelog",
+          "playlist_id": "PLCzseuA9sYrf9nHWFF1dQsk-X5cghL6UH",
+          "source_type": "AI podcast"
+        },
+        {
+          "name": "AI Engineering Podcast",
+          "playlist_id": "PLA0ARPgEjqaCXpTO01NaFCgLdWYISRvj5",
+          "source_type": "AI podcast"
+        },
+        {
+          "name": "The AI Native Dev",
+          "playlist_id": "PLISstAySqk7KNRW1vfsjTqJnm4lXXBgPe",
+          "source_type": "AI podcast"
+        },
+        {
+          "name": "The AI Fix",
+          "playlist_id": "PLRwg0TwaF9AJtkClzQTXGDwSsXEwFLe08",
+          "source_type": "AI podcast"
+        },
+        {
+          "name": "AI & I",
+          "playlist_id": "PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+          "source_type": "AI podcast"
+        },
+        {
+          "name": "Google DeepMind: The Podcast",
+          "playlist_id": "PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj",
+          "source_type": "AI podcast"
+        },
+        {
+          "name": "a16z Show",
+          "playlist_id": "PLM4u6XbiXf5rnUvH5NLdV_It2QLgbHBDZ",
+          "source_type": "AI podcast"
+        },
+        {
+          "name": "Training Data (Sequoia)",
+          "playlist_id": "PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+          "source_type": "AI podcast"
+        },
+        {
+          "name": "80,000 Hours Podcast",
+          "playlist_id": "PL-BRtcBm4Yj4aKn72p4PjyqHh0ZQFdI1A",
+          "source_type": "AI podcast"
+        }
+      ]
     },
     {
       "slug": "business-podcasts",
       "title": "Business podcasts",
-      "terms": ["business", "founder", "startup", "company", "entrepreneur", "venture", "investment", "investing", "marketing", "leadership", "management", "growth", "strategy", "finance", "economy"],
-      "channels": [["The Diary Of A CEO", "@TheDiaryOfACEO", "Business podcast"], ["My First Million", "@MyFirstMillionPod", "Business podcast"], ["Acquired", "@AcquiredFM", "Business podcast"], ["All-In Podcast", "@allin", "Business podcast"], ["Guy Raz / How I Built This", "@guy_raz", "Business podcast"], ["Founders Podcast", "@founderspodcast1", "Business podcast"], ["Lenny's Podcast", "@LennysPodcast", "Business podcast"], ["Masters of Scale", "@MastersofScale_", "Business podcast"], ["Invest Like The Best", "@ILTB_Podcast", "Business podcast"], ["The Knowledge Project Podcast", "@tkppodcast", "Business podcast"], ["This Week in Startups", "@startups", "Business podcast"], ["20VC with Harry Stebbings", "@20VC", "Business podcast"], ["a16z", "@a16z", "Business podcast"], ["The Prof G Pod – Scott Galloway", "@TheProfGPod", "Business podcast"], ["Pivot with Kara Swisher and Scott Galloway", "@pivot", "Business podcast"], ["Tim Ferriss", "@timferriss", "Business podcast"], ["Young and Profiting", "@youngandprofiting", "Business podcast"], ["Alex Hormozi / The Game", "@AlexHormozi", "Business podcast"], ["Startups for the Rest of Us", "@startupspod", "Business podcast"], ["Y Combinator", "@ycombinator", "Business podcast"]]
+      "terms": [
+        "business",
+        "founder",
+        "startup",
+        "company",
+        "entrepreneur",
+        "venture",
+        "investment",
+        "investing",
+        "marketing",
+        "leadership",
+        "management",
+        "growth",
+        "strategy",
+        "finance",
+        "economy"
+      ],
+      "channels": [
+        [
+          "The Diary Of A CEO",
+          "@TheDiaryOfACEO",
+          "Business podcast"
+        ],
+        [
+          "My First Million",
+          "@MyFirstMillionPod",
+          "Business podcast"
+        ],
+        [
+          "Acquired",
+          "@AcquiredFM",
+          "Business podcast"
+        ],
+        [
+          "All-In Podcast",
+          "@allin",
+          "Business podcast"
+        ],
+        [
+          "Guy Raz / How I Built This",
+          "@guy_raz",
+          "Business podcast"
+        ],
+        [
+          "Founders Podcast",
+          "@founderspodcast1",
+          "Business podcast"
+        ],
+        [
+          "Lenny's Podcast",
+          "@LennysPodcast",
+          "Business podcast"
+        ],
+        [
+          "Masters of Scale",
+          "@MastersofScale_",
+          "Business podcast"
+        ],
+        [
+          "Invest Like The Best",
+          "@ILTB_Podcast",
+          "Business podcast"
+        ],
+        [
+          "The Knowledge Project Podcast",
+          "@tkppodcast",
+          "Business podcast"
+        ],
+        [
+          "This Week in Startups",
+          "@startups",
+          "Business podcast"
+        ],
+        [
+          "20VC with Harry Stebbings",
+          "@20VC",
+          "Business podcast"
+        ],
+        [
+          "a16z",
+          "@a16z",
+          "Business podcast"
+        ],
+        [
+          "The Prof G Pod – Scott Galloway",
+          "@TheProfGPod",
+          "Business podcast"
+        ],
+        [
+          "Pivot with Kara Swisher and Scott Galloway",
+          "@pivot",
+          "Business podcast"
+        ],
+        [
+          "Tim Ferriss",
+          "@timferriss",
+          "Business podcast"
+        ],
+        [
+          "Young and Profiting",
+          "@youngandprofiting",
+          "Business podcast"
+        ],
+        [
+          "Alex Hormozi / The Game",
+          "@AlexHormozi",
+          "Business podcast"
+        ],
+        [
+          "Startups for the Rest of Us",
+          "@startupspod",
+          "Business podcast"
+        ],
+        [
+          "Y Combinator",
+          "@ycombinator",
+          "Business podcast"
+        ],
+        [
+          "The Logan Bartlett Show",
+          "UCugS0jD5IAdoqzjaNYzns7w",
+          "Business podcast"
+        ],
+        [
+          "PBD Podcast",
+          "UCGX7nGXpz-CmO_Arg-cgJ7A",
+          "Business podcast"
+        ],
+        [
+          "The Jordan Harbinger Show",
+          "UCGLcx_fFZ3GlLXO5anHSm9w",
+          "Business podcast"
+        ],
+        [
+          "The Iced Coffee Hour",
+          "UCMSYZVlQmyG8_2MkIKzg0kw",
+          "Business podcast"
+        ],
+        [
+          "The Money Mondays",
+          "UCJOnJXXGqrcqF9ccXcpbFPg",
+          "Business podcast"
+        ],
+        [
+          "Business Breakdowns",
+          "UCfnHKTFEryHWyqr4Xjsjb3w",
+          "Business podcast"
+        ],
+        [
+          "How I Invest with David Weisburd",
+          "UCncFI0XEvTu7k4er6BgVN9g",
+          "Business podcast"
+        ],
+        [
+          "Smart Passive Income",
+          "UCcVgQ0ziCT3cIYSfs6uaHQg",
+          "Business podcast"
+        ],
+        [
+          "Entrepreneurs on Fire",
+          "UCXfzpliAfdjParawJljHo2g",
+          "Business podcast"
+        ],
+        [
+          "The Pitch",
+          "UC4g1niWj3_eXiBPERvatsFA",
+          "Business podcast"
+        ],
+        [
+          "The Best One Yet",
+          "UCly3md3CbnTFJP83lVUEcjw",
+          "Business podcast"
+        ],
+        [
+          "Marketing Against the Grain",
+          "UCGtXqPiNV8YC0GMUzY-EUFg",
+          "Business podcast"
+        ],
+        [
+          "Marketing School",
+          "UCTJmkA2-u7Kyblm5_P6tKdA",
+          "Business podcast"
+        ]
+      ],
+      "playlist_sources": [
+        {
+          "name": "The Colin and Samir Show",
+          "playlist_id": "PLi4pMG9s7WOnS3hwOBlrB1HHVI4D_NamE",
+          "source_type": "Business podcast"
+        },
+        {
+          "name": "Modern Wisdom",
+          "playlist_id": "PLkL7BvJXiqSQu3i72hSrG4vUkDuaneHuB",
+          "source_type": "Business podcast"
+        },
+        {
+          "name": "The School of Greatness",
+          "playlist_id": "PLMG5w22POeeykqONbfGi00m4AqxhnzmWc",
+          "source_type": "Business podcast"
+        },
+        {
+          "name": "Impact Theory",
+          "playlist_id": "PL8qcvQ7Byc3N3CAcv4tVXeP5DoAG1zNek",
+          "source_type": "Business podcast"
+        },
+        {
+          "name": "Odd Lots",
+          "playlist_id": "PLe4PRejZgr0OJbRzA6nWybYiThLJd_ouz",
+          "source_type": "Business podcast"
+        },
+        {
+          "name": "The Compound and Friends",
+          "playlist_id": "PLZgCX3KJ3XGAq-6Ewy4ClI88EIYDxJsaS",
+          "source_type": "Business podcast"
+        },
+        {
+          "name": "Animal Spirits Podcast",
+          "playlist_id": "PLZgCX3KJ3XGCNSt9ynclginAZzAvgmzk3",
+          "source_type": "Business podcast"
+        },
+        {
+          "name": "Masters in Business",
+          "playlist_id": "PLe4PRejZgr0PzN7r8NikAnOqP70DHhoJ0",
+          "source_type": "Business podcast"
+        },
+        {
+          "name": "The Startup Ideas Podcast",
+          "playlist_id": "PLQHTakJAwGLMQxKVlKUVpC7aiYTZ2j2J9",
+          "source_type": "Business podcast"
+        },
+        {
+          "name": "The Futur Podcast",
+          "playlist_id": "PLzKJi2GjpkEE8hyFgMt0pIjnYkGB2YpDt",
+          "source_type": "Business podcast"
+        },
+        {
+          "name": "Goal Digger Podcast",
+          "playlist_id": "PLsMotrp9AeS-56sgt0kBQXm-4s_UgLUEY",
+          "source_type": "Business podcast"
+        },
+        {
+          "name": "The Foundr Podcast",
+          "playlist_id": "PLx2VRNuTQZgbxunK7mZD3FY1IhKxCbs5b",
+          "source_type": "Business podcast"
+        },
+        {
+          "name": "The SaaS Podcast",
+          "playlist_id": "PLgKRhGFL8PHP9P7fpWCG9jHp-abyK2GG4",
+          "source_type": "Business podcast"
+        },
+        {
+          "name": "The Startup Chat",
+          "playlist_id": "PLb1c0oEEXWIbdRXhp0AS46qd6jlxBFLEh",
+          "source_type": "Business podcast"
+        },
+        {
+          "name": "The Side Hustle Show",
+          "playlist_id": "PLj561ehA3vjbTzFM3ToFMzjgk2eStZF4X",
+          "source_type": "Business podcast"
+        },
+        {
+          "name": "HBR IdeaCast",
+          "playlist_id": "PLzAU8TPKsJub289QhDao56ioTr7044hBl",
+          "source_type": "Business podcast"
+        }
+      ]
     }
   ]
 }

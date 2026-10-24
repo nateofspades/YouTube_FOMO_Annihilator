@@ -31,6 +31,51 @@ class LeaderboardTests(unittest.TestCase):
         self.assertEqual(video_ids, ["recent", "fallback"])
         youtube_get.assert_called_once()
 
+    def test_recent_video_ids_scans_unordered_show_playlists_past_old_entries(self):
+        from inspect import signature
+
+        self.assertIn("stop_at_cutoff", signature(recent_video_ids).parameters)
+        pages = [
+            {"items": [{"contentDetails": {"videoId": "old", "videoPublishedAt": "2026-01-01T00:00:00Z"}}], "nextPageToken": "second"},
+            {"items": [{"contentDetails": {"videoId": "recent", "videoPublishedAt": "2026-10-13T12:00:00Z"}}]},
+        ]
+        with patch("scripts.update_leaderboard.youtube_get", side_effect=pages) as get:
+            ids = recent_video_ids("show-playlist", datetime(2026, 10, 7, tzinfo=timezone.utc), "test-key", stop_at_cutoff=False)
+        self.assertEqual(ids, ["recent"])
+        self.assertEqual(get.call_count, 2)
+        self.assertEqual(get.call_args_list[1].args[1]["pageToken"], "second")
+
+    def test_collect_show_playlist_does_not_enumerate_parent_channel_uploads(self):
+        from inspect import signature
+        from scripts.update_leaderboard import collect_leaderboard
+
+        self.assertIn("playlist_sources", signature(collect_leaderboard).parameters)
+        video = {
+            "id": "episode",
+            "snippet": {"title": "AI podcast episode", "publishedAt": "2026-10-13T12:00:00Z", "defaultAudioLanguage": "en", "channelId": "parent", "channelTitle": "Parent channel"},
+            "statistics": {"viewCount": "100"},
+        }
+        responses = {
+            "playlists": {"items": [{"snippet": {"channelId": "parent"}}]},
+            "playlistItems": {"items": [{"contentDetails": {"videoId": "episode", "videoPublishedAt": "2026-10-13T12:00:00Z"}}]},
+            "videos": {"items": [video]},
+        }
+        with patch("scripts.update_leaderboard.youtube_get", side_effect=lambda resource, params, key: responses[resource]) as get:
+            payload = collect_leaderboard("test-key", datetime(2026, 10, 14, tzinfo=timezone.utc), slug="test", title="Test", terms=("ai",), channels=[], universe_version=1, playlist_sources=[{"name": "Named show", "playlist_id": "official-show", "source_type": "AI podcast"}])
+        self.assertEqual([call.args[0] for call in get.call_args_list], ["playlists", "playlistItems", "videos"])
+        self.assertEqual(get.call_args_list[1].args[1]["playlistId"], "official-show")
+        self.assertEqual([row["video_id"] for row in payload["results"]], ["episode"])
+        self.assertEqual(payload["source_channels"][0]["playlist_id"], "official-show")
+        self.assertEqual(payload["source_channels"][0]["channel_id"], "parent")
+
+    def test_show_playlist_does_not_relabel_existing_channel_sources(self):
+        from scripts.update_leaderboard import collect_leaderboard
+
+        video = {"id": "upload", "snippet": {"title": "AI news", "publishedAt": "2026-10-13T12:00:00Z", "defaultAudioLanguage": "en", "channelId": "parent"}, "statistics": {"viewCount": "100"}}
+        with patch("scripts.update_leaderboard.resolve_channel", return_value={"id": "parent", "uploads_playlist": "uploads"}), patch("scripts.update_leaderboard.resolve_playlist", return_value={"id": "parent", "uploads_playlist": "show"}), patch("scripts.update_leaderboard.recent_video_ids", side_effect=[["upload"], []]), patch("scripts.update_leaderboard.videos_by_id", side_effect=[[video], []]):
+            payload = collect_leaderboard("test-key", datetime(2026, 10, 14, tzinfo=timezone.utc), slug="test", title="Test", terms=("ai",), channels=[{"name": "Original channel", "handle": "@original", "source_type": "Independent creator"}], universe_version=1, playlist_sources=[{"name": "Named show", "playlist_id": "show", "source_type": "AI podcast"}])
+        self.assertEqual(payload["results"][0]["source_type"], "Independent creator")
+
     def test_complete_snapshot_requires_every_category_for_the_local_date(self):
         from tempfile import TemporaryDirectory
 
@@ -216,11 +261,58 @@ class LeaderboardTests(unittest.TestCase):
                 "business-podcasts",
             ],
         )
-        self.assertEqual([len(category["channels"]) for category in categories], [20, 20, 20, 18, 13, 20])
+        self.assertEqual([len(category["channels"]) for category in categories], [49, 50, 50, 50, 36, 33])
+        self.assertEqual([len(category.get("playlist_sources", [])) for category in categories], [0, 0, 0, 0, 12, 16])
         self.assertEqual(categories[0]["channels"][0], {"name": "Y Combinator", "handle": "@ycombinator", "source_type": "Accelerator"})
         self.assertEqual(categories[3]["channels"][0], {"name": "All About AI", "handle": "@allaboutai", "source_type": "AI agent and automation"})
         self.assertEqual(categories[4]["channels"][0], {"name": "Lex Fridman", "handle": "UCJIfeSCssxSC_Dhc5s7woww", "source_type": "AI podcast"})
         self.assertEqual(categories[5]["channels"][0], {"name": "The Diary Of A CEO", "handle": "@TheDiaryOfACEO", "source_type": "Business podcast"})
+
+    def test_channel_expansion_adds_sources_without_replacing_originals(self):
+        import json
+
+        root = Path(__file__).resolve().parents[1]
+        ai_channels = json.loads((root / "config/channels.json").read_text())["channels"]
+        categories = {category["slug"]: category for category in load_categories()}
+        self.assertIn("AI Explained", [source["name"] for source in ai_channels])
+        self.assertIn("Wes Roth", [source["name"] for source in ai_channels])
+        expected_additions = {
+            "ai-agents-and-automation": "Liam Ottley",
+            "ai-podcasts": "Machine Learning Street Talk",
+            "business-podcasts": "The Logan Bartlett Show",
+            "emerging-businesses-startups": "Starter Story",
+            "science-future-technology": "Vsauce",
+            "software-developer-tools": "Programming with Mosh",
+        }
+        for slug, name in expected_additions.items():
+            with self.subTest(category=slug):
+                self.assertIn(name, [source["name"] for source in categories[slug]["channels"]])
+
+    def test_expansion_inventory_accounts_for_every_requested_source(self):
+        import json
+
+        root = Path(__file__).resolve().parents[1]
+        self.assertTrue((root / "config/source-expansion.json").is_file(), "Requested-source inventory is missing")
+        inventory = json.loads((root / "config/source-expansion.json").read_text())
+        ai = json.loads((root / "config/channels.json").read_text())["channels"]
+        configured = {"ai": {source["handle"] for source in ai}}
+        configured.update({category["slug"]: {source["handle"] for source in category["channels"]} for category in load_categories()})
+        configured_playlists = {category["slug"]: {source["playlist_id"] for source in category.get("playlist_sources", [])} for category in load_categories()}
+        self.assertEqual(inventory["mode"], "additive-only")
+        self.assertEqual(set(inventory["categories"]), set(configured))
+        self.assertEqual(sum(len(rows) for rows in inventory["categories"].values()), 226)
+        for slug, rows in inventory["categories"].items():
+            self.assertEqual(len(rows), len({row["requested_name"] for row in rows}))
+            for row in rows:
+                with self.subTest(category=slug, source=row["requested_name"]):
+                    self.assertIn(row["status"], {"added", "already_present", "pending"})
+                    if row["status"] == "added":
+                        if row.get("source_kind") == "playlist":
+                            self.assertIn(row["playlist_id"], configured_playlists[slug])
+                        else:
+                            self.assertIn(row["channel_id"], configured[slug])
+                    elif row["status"] == "pending":
+                        self.assertTrue(row["reason"])
 
     def test_parse_published_at_returns_utc_datetime(self):
         self.assertEqual(

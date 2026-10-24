@@ -1,17 +1,201 @@
 {
-  "universe_version": 1,
+  "universe_version": 2,
   "channels": [
-    {"name": "AI Explained", "handle": "@aiexplained-official"},
-    {"name": "Matt Wolfe", "handle": "@mreflow"},
-    {"name": "TheAIGRID", "handle": "@TheAiGrid"},
-    {"name": "WorldofAI", "handle": "@intheworldofai"},
-    {"name": "All About AI", "handle": "@AllAboutAI"},
-    {"name": "The AI Advantage", "handle": "@aiadvantage"},
-    {"name": "Aitrepreneur", "handle": "@aitrepreneur"},
-    {"name": "Two Minute Papers", "handle": "@TwoMinutePapers"},
-    {"name": "Google DeepMind", "handle": "@googledeepmind"},
-    {"name": "OpenAI", "handle": "@openai"},
-    {"name": "Anthropic", "handle": "@anthropic-ai"},
-    {"name": "Hugging Face", "handle": "@HuggingFace"}
+    {
+      "name": "AI Explained",
+      "handle": "@aiexplained-official"
+    },
+    {
+      "name": "Matt Wolfe",
+      "handle": "@mreflow"
+    },
+    {
+      "name": "TheAIGRID",
+      "handle": "@TheAiGrid"
+    },
+    {
+      "name": "WorldofAI",
+      "handle": "@intheworldofai"
+    },
+    {
+      "name": "All About AI",
+      "handle": "@AllAboutAI"
+    },
+    {
+      "name": "The AI Advantage",
+      "handle": "@aiadvantage"
+    },
+    {
+      "name": "Aitrepreneur",
+      "handle": "@aitrepreneur"
+    },
+    {
+      "name": "Two Minute Papers",
+      "handle": "@TwoMinutePapers"
+    },
+    {
+      "name": "Google DeepMind",
+      "handle": "@googledeepmind"
+    },
+    {
+      "name": "OpenAI",
+      "handle": "@openai"
+    },
+    {
+      "name": "Anthropic",
+      "handle": "@anthropic-ai"
+    },
+    {
+      "name": "Hugging Face",
+      "handle": "@HuggingFace"
+    },
+    {
+      "name": "Wes Roth",
+      "handle": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+    },
+    {
+      "name": "The AI Daily Brief",
+      "handle": "UCKelCK4ZaO6HeEI1KQjqzWA"
+    },
+    {
+      "name": "Nate B Jones",
+      "handle": "UC0C-17n9iuUQPylguM1d-lQ"
+    },
+    {
+      "name": "AI Search",
+      "handle": "UCIgnGlGkVRhd4qNFcEwLL4A"
+    },
+    {
+      "name": "Skill Leap AI",
+      "handle": "UCwSozl89jl2zUDzQ4jGJD3g"
+    },
+    {
+      "name": "Matthew Berman",
+      "handle": "UCawZsQWqfGSbCI5yjkdVkTA"
+    },
+    {
+      "name": "Fireship",
+      "handle": "UCsBjURrPoezykLs9EqgamOA"
+    },
+    {
+      "name": "IBM Technology",
+      "handle": "UCKWaEZ-_VweaEx1j62do_vQ"
+    },
+    {
+      "name": "Theo - t3.gg",
+      "handle": "UCbRP3c757lWg9M-U7TyEkXA"
+    },
+    {
+      "name": "AI For Humans",
+      "handle": "UCghJTNTO9kcDeUFXMuSDGLQ"
+    },
+    {
+      "name": "Hard Fork",
+      "handle": "UCZcR2SVWaGWNlMqPxvQS3vw"
+    },
+    {
+      "name": "TechLinked",
+      "handle": "UCeeFfhMcJa1kjtfZAGskOCA"
+    },
+    {
+      "name": "CNET",
+      "handle": "UCOmcA3f_RrH6b9NmcNa4tdg"
+    },
+    {
+      "name": "The Verge",
+      "handle": "UCddiUEpeqJcYeBxX1IVBKvQ"
+    },
+    {
+      "name": "Bloomberg Technology",
+      "handle": "UCrM7B7SL_g1edFOnmj-SDKg"
+    },
+    {
+      "name": "CNBC Television",
+      "handle": "UCrp_UI8XtuYfpiqluWLD7Lw"
+    },
+    {
+      "name": "TechCrunch",
+      "handle": "UCCjyq_K1Xwfg8Lndy7lKMpA"
+    },
+    {
+      "name": "MIT Technology Review",
+      "handle": "UCgy4Mf_tlZGqesYNqPNxjPw"
+    },
+    {
+      "name": "IEEE Spectrum",
+      "handle": "UCFQDtftsHGzSh1-TReNT4lA"
+    },
+    {
+      "name": "The Rundown AI",
+      "handle": "UC8LUzR34nNX8KH3Edd0un1g"
+    },
+    {
+      "name": "The AI Epiphany",
+      "handle": "UCj8shE7aIn4Yawwbo2FceCQ"
+    },
+    {
+      "name": "What's AI",
+      "handle": "UCUzGQrN-lyyc0BWTYoJM_Sg"
+    },
+    {
+      "name": "Dr Alan D. Thompson",
+      "handle": "UC00DrQVoCf9Liv4D0KV0rGw"
+    },
+    {
+      "name": "Yannic Kilcher",
+      "handle": "UCZHmQk67mSJgfCCTn7xBfew"
+    },
+    {
+      "name": "bycloud",
+      "handle": "UC6r0JH23PKZfogSwn2Q-oMw"
+    },
+    {
+      "name": "DeepLearning.AI",
+      "handle": "UCcIXc5mJsHVYTZR1maL5l9w"
+    },
+    {
+      "name": "NVIDIA",
+      "handle": "UCHuiy8bXnmK5nisYHUd1J5g"
+    },
+    {
+      "name": "Microsoft",
+      "handle": "UCFtEEv80fQVKkD4h1PF-Xqw"
+    },
+    {
+      "name": "Google",
+      "handle": "UCK8sQmJBp8GCxrOtXWBpyEA"
+    },
+    {
+      "name": "Meta AI",
+      "handle": "UC5qxlwEKM7-5YZudb24l0bg"
+    },
+    {
+      "name": "Mistral AI",
+      "handle": "UC5-pBdfdA3KUo-vq72l-umA"
+    },
+    {
+      "name": "Perplexity",
+      "handle": "UCYqxnCFtaC4-iC_bwt2bRLg"
+    },
+    {
+      "name": "Stability AI",
+      "handle": "UCpi_ULPErwrxGTDWZey5azQ"
+    },
+    {
+      "name": "Runway",
+      "handle": "UCUBqu_z5uP0AZhYtuyFZB3g"
+    },
+    {
+      "name": "AI Engineer",
+      "handle": "UCLKPca3kwwd-B59HNr-_lvA"
+    },
+    {
+      "name": "David Shapiro",
+      "handle": "UCvKRFNawVcuz4b9ihUTApCg"
+    },
+    {
+      "name": "The Artificial Intelligence Show",
+      "handle": "UCdHpbfqjELZmhqY3k0ELGcQ"
+    }
   ]
 }

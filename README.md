@@ -54,6 +54,10 @@ This project ranks qualifying videos from the selected YouTube channels; it does
 
 The list of channels used for the AI news category is in config/channels.json. The lists for the other six categories are in config/categories.json.
 
+Channel expansions are additive: existing entries are retained. New sources use verified stable channel IDs. Where a requested podcast is a show within a broader channel, `playlist_sources` restricts collection to its verified official show playlist rather than including the owner's unrelated uploads. Show playlists are scanned completely because their ordering need not follow video publication dates; the same 7-day eligibility window and ranking rules still apply.
+
+The requested-source inventory in config/source-expansion.json records each requested addition as added, already present, or pending verification. Pending sources are not collected and are not silently replaced with similarly named channels.
+
 ## Daily automation and publishing
 
 GitHub Actions attempts collection at 10:17, 14:17, and 18:17 UTC each day. Scheduled runs are idempotent: after all seven categories have that `America/New_York` date's top-10 snapshot, later attempts do not recollect. A manual `workflow_dispatch` run forces an immediate refresh of all seven categories.

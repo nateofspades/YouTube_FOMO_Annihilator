@@ -1,0 +1,1880 @@
+{
+  "baseline_commit": "fe5996b",
+  "mode": "additive-only",
+  "categories": {
+    "ai": [
+      {
+        "requested_name": "Wes Roth",
+        "evidence_url": "https://youtube.com/@WesRoth/videos",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); Wes Roth - YouTube.",
+        "channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+        "channel_title": "Wes Roth",
+        "status": "added"
+      },
+      {
+        "requested_name": "The AI Daily Brief",
+        "evidence_url": "https://www.youtube.com/@aidailybrief",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); The AI Daily Brief: Artificial Intelligence News - YouTube.",
+        "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+        "channel_title": "The AI Daily Brief: Artificial Intelligence News",
+        "status": "added"
+      },
+      {
+        "requested_name": "Nate B Jones",
+        "evidence_url": "https://youtube.com/@natebjones",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); AI News &amp; Strategy Daily | Nate B Jones - YouTube.",
+        "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
+        "channel_title": "AI News & Strategy Daily | Nate B Jones",
+        "status": "added"
+      },
+      {
+        "requested_name": "AI Search",
+        "evidence_url": "https://www.youtube.com/@theAIsearch",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); AI Search - YouTube.",
+        "channel_id": "UCIgnGlGkVRhd4qNFcEwLL4A",
+        "channel_title": "AI Search",
+        "status": "added"
+      },
+      {
+        "requested_name": "Skill Leap AI",
+        "evidence_url": "https://youtube.com/@SkillLeapAI",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); Skill Leap AI - YouTube.",
+        "channel_id": "UCwSozl89jl2zUDzQ4jGJD3g",
+        "channel_title": "Skill Leap AI",
+        "status": "added"
+      },
+      {
+        "requested_name": "Matthew Berman",
+        "evidence_url": "https://www.youtube.com/@matthew_berman",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); Matthew Berman - YouTube.",
+        "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+        "channel_title": "Matthew Berman",
+        "status": "added"
+      },
+      {
+        "requested_name": "Fireship",
+        "evidence_url": "https://www.youtube.com/@Fireship/about",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); Fireship - YouTube.",
+        "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+        "channel_title": "Fireship",
+        "status": "added"
+      },
+      {
+        "requested_name": "IBM Technology",
+        "evidence_url": "https://youtube.com/@IBMTechnology/videos",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); IBM Technology - YouTube.",
+        "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+        "channel_title": "IBM Technology",
+        "status": "added"
+      },
+      {
+        "requested_name": "Theo - t3.gg",
+        "evidence_url": "https://www.youtube.com/@t3dotgg",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); Theo - t3․gg - YouTube.",
+        "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+        "channel_title": "Theo - t3․gg",
+        "status": "added"
+      },
+      {
+        "requested_name": "AI For Humans",
+        "evidence_url": "https://www.youtube.com/@AIForHumansShow",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); AI For Humans - YouTube.",
+        "channel_id": "UCghJTNTO9kcDeUFXMuSDGLQ",
+        "channel_title": "AI For Humans",
+        "status": "added"
+      },
+      {
+        "requested_name": "Hard Fork",
+        "evidence_url": "https://www.youtube.com/hardfork",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); Hard Fork - YouTube. Dedicated Hard Fork channel exists; no parent channel or playlist substitution.",
+        "channel_id": "UCZcR2SVWaGWNlMqPxvQS3vw",
+        "channel_title": "Hard Fork",
+        "status": "added"
+      },
+      {
+        "requested_name": "TechLinked",
+        "evidence_url": "https://www.youtube.com/@TechLinked",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); TechLinked - YouTube.",
+        "channel_id": "UCeeFfhMcJa1kjtfZAGskOCA",
+        "channel_title": "TechLinked",
+        "status": "added"
+      },
+      {
+        "requested_name": "CNET",
+        "evidence_url": "https://www.youtube.com/cnet",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); CNET - YouTube.",
+        "channel_id": "UCOmcA3f_RrH6b9NmcNa4tdg",
+        "channel_title": "CNET",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Verge",
+        "evidence_url": "https://www.youtube.com/c/TheVerge/about",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); The Verge - YouTube.",
+        "channel_id": "UCddiUEpeqJcYeBxX1IVBKvQ",
+        "channel_title": "The Verge",
+        "status": "added"
+      },
+      {
+        "requested_name": "Bloomberg Technology",
+        "evidence_url": "https://youtube.com/channel/UCrM7B7SL_g1edFOnmj-SDKg",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); Bloomberg Tech - YouTube. Current channel title is Bloomberg Tech.",
+        "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
+        "channel_title": "Bloomberg Tech",
+        "status": "added"
+      },
+      {
+        "requested_name": "CNBC Television",
+        "evidence_url": "https://youtube.com/cnbctelevision",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); CNBC Television - YouTube. Dedicated CNBC Television channel; not the broader @CNBC channel.",
+        "channel_id": "UCrp_UI8XtuYfpiqluWLD7Lw",
+        "channel_title": "CNBC Television",
+        "status": "added"
+      },
+      {
+        "requested_name": "TechCrunch",
+        "evidence_url": "https://youtube.com/user/techcrunch?gl=GB&hl=en-GB",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); TechCrunch - YouTube.",
+        "channel_id": "UCCjyq_K1Xwfg8Lndy7lKMpA",
+        "channel_title": "TechCrunch",
+        "status": "added"
+      },
+      {
+        "requested_name": "MIT Technology Review",
+        "evidence_url": "https://www.youtube.com/@technologyreview",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); MIT Technology Review - YouTube.",
+        "channel_id": "UCgy4Mf_tlZGqesYNqPNxjPw",
+        "channel_title": "MIT Technology Review",
+        "status": "added"
+      },
+      {
+        "requested_name": "IEEE Spectrum",
+        "evidence_url": "https://youtube.com/spectrummag",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); IEEE Spectrum - YouTube.",
+        "channel_id": "UCFQDtftsHGzSh1-TReNT4lA",
+        "channel_title": "IEEE Spectrum",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Rundown AI",
+        "evidence_url": "https://www.youtube.com/@TheRundownAI",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); The Rundown AI - YouTube.",
+        "channel_id": "UC8LUzR34nNX8KH3Edd0un1g",
+        "channel_title": "The Rundown AI",
+        "status": "added"
+      },
+      {
+        "requested_name": "The AI Epiphany",
+        "evidence_url": "https://youtube.com/c/TheAiEpiphany",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); Aleksa Gordić - The AI Epiphany - YouTube.",
+        "channel_id": "UCj8shE7aIn4Yawwbo2FceCQ",
+        "channel_title": "Aleksa Gordić - The AI Epiphany",
+        "status": "added"
+      },
+      {
+        "requested_name": "What's AI",
+        "evidence_url": "https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); What&#39;s AI by Louis-François Bouchard - YouTube.",
+        "channel_id": "UCUzGQrN-lyyc0BWTYoJM_Sg",
+        "channel_title": "What's AI by Louis-François Bouchard",
+        "status": "added"
+      },
+      {
+        "requested_name": "Dr Alan D. Thompson",
+        "evidence_url": "https://www.youtube.com/@DrAlanDThompson",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); Dr Alan D. Thompson - YouTube.",
+        "channel_id": "UC00DrQVoCf9Liv4D0KV0rGw",
+        "channel_title": "Dr Alan D. Thompson",
+        "status": "added"
+      },
+      {
+        "requested_name": "Yannic Kilcher",
+        "evidence_url": "https://www.youtube.com/c/YannicKilcher",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); Yannic Kilcher - YouTube.",
+        "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+        "channel_title": "Yannic Kilcher",
+        "status": "added"
+      },
+      {
+        "requested_name": "bycloud",
+        "evidence_url": "https://www.youtube.com/@bycloud",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); ByCloud - YouTube.",
+        "channel_id": "UC6r0JH23PKZfogSwn2Q-oMw",
+        "channel_title": "ByCloud",
+        "status": "added"
+      },
+      {
+        "requested_name": "DeepLearning.AI",
+        "evidence_url": "https://www.youtube.com/@Deeplearningai",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); DeepLearningAI - YouTube.",
+        "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
+        "channel_title": "DeepLearningAI",
+        "status": "added"
+      },
+      {
+        "requested_name": "NVIDIA",
+        "evidence_url": "https://www.youtube.com/user/nvidia",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); NVIDIA - YouTube.",
+        "channel_id": "UCHuiy8bXnmK5nisYHUd1J5g",
+        "channel_title": "NVIDIA",
+        "status": "added"
+      },
+      {
+        "requested_name": "Microsoft",
+        "evidence_url": "https://youtube.com/microsoft?sub_confirmation=1",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); Microsoft - YouTube.",
+        "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
+        "channel_title": "Microsoft",
+        "status": "added"
+      },
+      {
+        "requested_name": "Google",
+        "evidence_url": "https://www.youtube.com/@Google",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); Google - YouTube.",
+        "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
+        "channel_title": "Google",
+        "status": "added"
+      },
+      {
+        "requested_name": "Meta AI",
+        "evidence_url": "https://www.youtube.com/@aiatmeta",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); AI at Meta - YouTube. AI-specific channel AI at Meta; not broader @meta. Discovered via official AI at Meta search results and verified directly.",
+        "channel_id": "UC5qxlwEKM7-5YZudb24l0bg",
+        "channel_title": "AI at Meta",
+        "status": "added"
+      },
+      {
+        "requested_name": "Mistral AI",
+        "evidence_url": "https://www.youtube.com/@MistralAIOfficial",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); Mistral - YouTube.",
+        "channel_id": "UC5-pBdfdA3KUo-vq72l-umA",
+        "channel_title": "Mistral",
+        "status": "added"
+      },
+      {
+        "requested_name": "xAI",
+        "evidence_url": "https://www.youtube.com/@xAI_Corp",
+        "notes": "No official xAI/Grok corporate YouTube identity established. Search candidate @xAI_Corp is an explainable-AI channel with generic description, not verified as Elon Musk’s xAI; intentionally excluded. Official x.ai homepage returned HTTP 403. Do not use this candidate or substitute unrelated channels.",
+        "status": "pending",
+        "reason": "unresolved"
+      },
+      {
+        "requested_name": "Perplexity",
+        "evidence_url": "https://www.youtube.com/@perplexity-ai",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); Perplexity - YouTube.",
+        "channel_id": "UCYqxnCFtaC4-iC_bwt2bRLg",
+        "channel_title": "Perplexity",
+        "status": "added"
+      },
+      {
+        "requested_name": "Stability AI",
+        "evidence_url": "https://www.youtube.com/@Stability_AI",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); Stability AI - YouTube. Official https://stability.ai links @Stability_AI; @StabilityAI is a different channel and was rejected.",
+        "channel_id": "UCpi_ULPErwrxGTDWZey5azQ",
+        "channel_title": "Stability AI",
+        "status": "added"
+      },
+      {
+        "requested_name": "Runway",
+        "evidence_url": "https://www.youtube.com/channel/UCUBqu_z5uP0AZhYtuyFZB3g",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); Runway - YouTube.",
+        "channel_id": "UCUBqu_z5uP0AZhYtuyFZB3g",
+        "channel_title": "Runway",
+        "status": "added"
+      },
+      {
+        "requested_name": "AI Engineer",
+        "evidence_url": "https://www.youtube.com/@aiDotEngineer",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); AI Engineer - YouTube.",
+        "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+        "channel_title": "AI Engineer",
+        "status": "added"
+      },
+      {
+        "requested_name": "David Shapiro",
+        "evidence_url": "https://www.youtube.com/@DaveShap",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); David Shapiro - YouTube.",
+        "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+        "channel_title": "David Shapiro",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Artificial Intelligence Show",
+        "evidence_url": "https://youtube.com/@aishowpod",
+        "notes": "Verified from live YouTube channel page metadata (externalId and vanityChannelUrl); The Artificial Intelligence Show Podcast - YouTube. Dedicated show channel, hosted by Paul Roetzer and Mike Kaput; no parent-channel substitution.",
+        "channel_id": "UCdHpbfqjELZmhqY3k0ELGcQ",
+        "channel_title": "The Artificial Intelligence Show Podcast",
+        "status": "added"
+      }
+    ],
+    "ai-agents-and-automation": [
+      {
+        "requested_name": "Liam Ottley",
+        "evidence_url": "https://www.youtube.com/@LiamOttley",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCui4jxDaMb53Gdh-AZUTPAg",
+        "channel_title": "Liam Ottley",
+        "status": "added"
+      },
+      {
+        "requested_name": "Nick Saraev",
+        "evidence_url": "https://www.youtube.com/@nicksaraev",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+        "channel_title": "Nick Saraev",
+        "status": "added"
+      },
+      {
+        "requested_name": "Tina Huang",
+        "evidence_url": "https://www.youtube.com/@TinaHuang1",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UC2UXDak6o7rBm23k3Vv5dww",
+        "channel_title": "Tina Huang",
+        "status": "added"
+      },
+      {
+        "requested_name": "Dave Ebbelaar",
+        "evidence_url": "https://www.youtube.com/@daveebbelaar",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCn8ujwUInbJkBhffxqAPBVQ",
+        "channel_title": "Dave Ebbelaar",
+        "status": "added"
+      },
+      {
+        "requested_name": "Riley Brown",
+        "evidence_url": "https://www.youtube.com/@rileybrownai",
+        "notes": "Current canonical @rileybrownai verified; search also exposed historical @Rileybroown spelling.",
+        "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
+        "channel_title": "Riley Brown",
+        "status": "added"
+      },
+      {
+        "requested_name": "Sam Witteveen",
+        "evidence_url": "https://www.youtube.com/@samwitteveenai",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UC55ODQSvARtgSyc8ThfiepQ",
+        "channel_title": "Sam Witteveen",
+        "status": "added"
+      },
+      {
+        "requested_name": "AI Jason",
+        "evidence_url": "https://www.youtube.com/@aijasonz",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
+        "channel_title": "AI Jason",
+        "status": "added"
+      },
+      {
+        "requested_name": "n8n",
+        "evidence_url": "https://www.youtube.com/@n8n-io",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCiHVTkJtWSdc9N3h0nUGWLg",
+        "channel_title": "n8n",
+        "status": "added"
+      },
+      {
+        "requested_name": "Make",
+        "evidence_url": "https://www.youtube.com/c/integromat",
+        "notes": "Official automation platform, formerly Integromat; resolved via legacy official /c/integromat. Not @MAKE, which is the unrelated maker magazine.",
+        "channel_id": "UC8KWRrf8wqyowmWhXJ9DRjQ",
+        "channel_title": "Make",
+        "status": "added"
+      },
+      {
+        "requested_name": "Zapier",
+        "evidence_url": "https://www.youtube.com/user/zapierapp",
+        "notes": "Official homepage links legacy /user/ZapierApp; page metadata resolves current @Zapier. @ZapierApp does not currently resolve.",
+        "channel_id": "UCEvsxF4Z12vwpwDUaU02yiA",
+        "channel_title": "Zapier",
+        "status": "added"
+      },
+      {
+        "requested_name": "LangChain",
+        "evidence_url": "https://www.youtube.com/@LangChain",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+        "channel_title": "LangChain",
+        "status": "added"
+      },
+      {
+        "requested_name": "LlamaIndex",
+        "evidence_url": "https://www.youtube.com/@LlamaIndex",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCeRjipR4_SsCddq9VZ2AeKg",
+        "channel_title": "LlamaIndex",
+        "status": "added"
+      },
+      {
+        "requested_name": "CrewAI",
+        "evidence_url": "https://www.youtube.com/@crewAIInc",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCTulKzR5sldNq2eAxxdaEuA",
+        "channel_title": "CrewAI",
+        "status": "added"
+      },
+      {
+        "requested_name": "Pydantic",
+        "evidence_url": "https://www.youtube.com/@Pydantic",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCVC1GrIK_002p3V1D94VO9A",
+        "channel_title": "Pydantic",
+        "status": "added"
+      },
+      {
+        "requested_name": "OpenAI",
+        "evidence_url": "https://www.youtube.com/@OpenAI",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+        "channel_title": "OpenAI",
+        "status": "added"
+      },
+      {
+        "requested_name": "Anthropic",
+        "evidence_url": "https://www.youtube.com/@anthropic-ai",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCrDwWp7EBBv4NwvScIpBDOA",
+        "channel_title": "Anthropic",
+        "status": "added"
+      },
+      {
+        "requested_name": "Cursor",
+        "evidence_url": "https://www.youtube.com/@cursor_ai",
+        "notes": "Official cursor.com links @cursor_ai; unrelated similarly named OfficialCursor channel rejected.",
+        "channel_id": "UC6YYHJzM6PhZ2Yey9BQiUaw",
+        "channel_title": "Cursor",
+        "status": "added"
+      },
+      {
+        "requested_name": "Replit",
+        "evidence_url": "https://www.youtube.com/@replit",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCgoJjdR6-7AMu9fDitb6nVw",
+        "channel_title": "Replit",
+        "status": "added"
+      },
+      {
+        "requested_name": "Supabase",
+        "evidence_url": "https://www.youtube.com/@supabase",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCNTVzV1InxHV-YR0fSajqPQ",
+        "channel_title": "Supabase",
+        "status": "added"
+      },
+      {
+        "requested_name": "Vercel",
+        "evidence_url": "https://www.youtube.com/@VercelHQ",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCLq8gNoee7oXM7MvTdjyQvA",
+        "channel_title": "Vercel",
+        "status": "added"
+      },
+      {
+        "requested_name": "Lovable",
+        "evidence_url": "https://www.youtube.com/@lovable",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCds72zs2EzQRmhqbLLCmD4A",
+        "channel_title": "Lovable",
+        "status": "added"
+      },
+      {
+        "requested_name": "Simon Willison",
+        "evidence_url": "https://www.youtube.com/@swillison",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCPzGwk1N5ea7sV3S2c2x1kg",
+        "channel_title": "Simon Willison",
+        "status": "added"
+      },
+      {
+        "requested_name": "Matt Pocock",
+        "evidence_url": "https://www.youtube.com/@mattpocockuk",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCswG6FSbgZjbWtdf_hMLaow",
+        "channel_title": "Matt Pocock",
+        "status": "added"
+      },
+      {
+        "requested_name": "Brian Casel",
+        "evidence_url": "https://www.youtube.com/@briancasel",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCSxPE9PHHxQUEt6ajGmQyMA",
+        "channel_title": "Brian Casel",
+        "status": "added"
+      },
+      {
+        "requested_name": "Jack Roberts",
+        "evidence_url": "https://www.youtube.com/@Itssssss_Jack",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCxVxcTULO9cFU6SB9qVaisQ",
+        "channel_title": "Jack Roberts",
+        "status": "added"
+      },
+      {
+        "requested_name": "AI Foundations",
+        "evidence_url": "https://www.youtube.com/@ai-foundations",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCWZwfV3ICOt3uEPpW6hYK4g",
+        "channel_title": "AI Foundations",
+        "status": "added"
+      },
+      {
+        "requested_name": "Mervin Praison",
+        "evidence_url": "https://www.youtube.com/@MervinPraison",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCWTyktbw5JYoSBduu8LsBgQ",
+        "channel_title": "Mervin Praison",
+        "status": "added"
+      },
+      {
+        "requested_name": "AI Engineer",
+        "evidence_url": "https://www.youtube.com/@aiDotEngineer",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+        "channel_title": "AI Engineer",
+        "status": "added"
+      },
+      {
+        "requested_name": "Sabrina Ramonov",
+        "evidence_url": "https://www.youtube.com/@sabrina_ramonov",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCiGWNa6QK6CiKPvv5-YPv8g",
+        "channel_title": "Sabrina Ramonov 🍄",
+        "status": "added"
+      },
+      {
+        "requested_name": "LowCode Agency",
+        "evidence_url": "https://www.youtube.com/@lowcodeagency",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCT5Nq5woayDZTBqeVkczetg",
+        "channel_title": "LowCode Agency",
+        "status": "added"
+      },
+      {
+        "requested_name": "VoloBuilds",
+        "evidence_url": "https://www.youtube.com/@VoloBuilds",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCBr1IoxBAF9RDPdTzb6459g",
+        "channel_title": "Volo Builds",
+        "status": "added"
+      },
+      {
+        "requested_name": "Prompt Engineering",
+        "evidence_url": "https://www.youtube.com/@engineerprompt",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+        "channel_title": "Prompt Engineering",
+        "status": "added"
+      }
+    ],
+    "ai-podcasts": [
+      {
+        "requested_name": "The AI Daily Brief",
+        "evidence_url": "https://www.youtube.com/@aidailybrief",
+        "notes": "Formerly The AI Breakdown. IMPORTANT: existing latest.json The AI Breakdown ID UCmc5j3MNKe4JKMCW6ukvmiQ resolves to unrelated @TheAibreakdown, not this official show; do not reuse that incorrect identity.",
+        "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+        "channel_title": "The AI Daily Brief: Artificial Intelligence News",
+        "status": "added"
+      },
+      {
+        "requested_name": "Hard Fork",
+        "evidence_url": "https://www.youtube.com/@hardfork",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCZcR2SVWaGWNlMqPxvQS3vw",
+        "channel_title": "Hard Fork",
+        "status": "added"
+      },
+      {
+        "requested_name": "Machine Learning Street Talk",
+        "evidence_url": "https://www.youtube.com/@MachineLearningStreetTalk",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+        "channel_title": "Machine Learning Street Talk",
+        "status": "added"
+      },
+      {
+        "requested_name": "Eye on AI",
+        "evidence_url": "https://www.youtube.com/@eyeonai3425",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UC-o9u9QL4zXzBwjvT1gmzNg",
+        "channel_title": "Eye on AI",
+        "status": "added"
+      },
+      {
+        "requested_name": "AI For Humans",
+        "evidence_url": "https://www.youtube.com/@AIForHumansShow",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCghJTNTO9kcDeUFXMuSDGLQ",
+        "channel_title": "AI For Humans",
+        "status": "added"
+      },
+      {
+        "requested_name": "Everyday AI",
+        "evidence_url": "https://www.youtube.com/@EverydayAI_",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCujMOyMfjf4hvYn7aRe1JEQ",
+        "channel_title": "Everyday AI",
+        "status": "added"
+      },
+      {
+        "requested_name": "Gradient Dissent",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_",
+        "notes": "Official Gradient Dissent playlist now owned by CoreWeave (@CoreWeaveYT); former @WeightsBiases channel handle returns 404. Do not substitute the entire CoreWeave channel. Verified playlist title: Gradient Dissent - Conversations on AI. Owner: CoreWeave (@CoreWeaveYT).",
+        "source_kind": "playlist",
+        "playlist_id": "PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_",
+        "channel_id": "UCBp3w4DCEC64FZr4k9ROxig",
+        "playlist_title": "Gradient Dissent - Conversations on AI",
+        "status": "added"
+      },
+      {
+        "requested_name": "MLOps Community",
+        "evidence_url": "https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ",
+        "notes": "Same legacy MLOps Community channel now renamed AAIF Live (@AAIFLive-x1r), verified by legacy channel ID and AAIF official merger announcement https://aaif.io/blog/mlops-community-joins-aaif .",
+        "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
+        "channel_title": "AAIF Live",
+        "status": "added"
+      },
+      {
+        "requested_name": "Interconnects",
+        "evidence_url": "https://www.youtube.com/@interconnects",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCMhPRKnK8S_ruoGSt3vm1sQ",
+        "channel_title": "Interconnects AI",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Pragmatic Engineer",
+        "evidence_url": "https://www.youtube.com/@pragmaticengineer",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCPbwhExawYrn9xxI21TFfyw",
+        "channel_title": "The Pragmatic Engineer",
+        "status": "added"
+      },
+      {
+        "requested_name": "Big Technology Podcast",
+        "evidence_url": "https://www.youtube.com/@BigTechnologyPodcast",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCaKiCexVhZ459j9sZ2e7XdQ",
+        "channel_title": "Big Technology",
+        "status": "added"
+      },
+      {
+        "requested_name": "NVIDIA AI Podcast",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOZ3tS6azbUnzVcGa1uTCEKe",
+        "notes": "Official named-show playlist; no dedicated show-channel substitution. Verified playlist title: NVIDIA AI Podcast. Owner: NVIDIA (@NVIDIA).",
+        "source_kind": "playlist",
+        "playlist_id": "PLZHnYvH1qtOZ3tS6azbUnzVcGa1uTCEKe",
+        "channel_id": "UCHuiy8bXnmK5nisYHUd1J5g",
+        "playlist_title": "NVIDIA AI Podcast",
+        "status": "added"
+      },
+      {
+        "requested_name": "Data Skeptic",
+        "evidence_url": "https://www.youtube.com/@Dataskeptic",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UC60gRMJRjTuTskBnl-LkPAg",
+        "channel_title": "Data Skeptic",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Data Exchange",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLnTmH22EvTFTtWJRPTNzosDIDblnSg0PD",
+        "notes": "Official named-show playlist; no dedicated show-channel substitution. Verified playlist title: Data Exchange Podcast. Owner: Gradient Flow (@GradientFlow).",
+        "source_kind": "playlist",
+        "playlist_id": "PLnTmH22EvTFTtWJRPTNzosDIDblnSg0PD",
+        "channel_id": "UCibEcNJENpWRshGjcfMndcw",
+        "playlist_title": "Data Exchange Podcast",
+        "status": "added"
+      },
+      {
+        "requested_name": "Super Data Science",
+        "evidence_url": "https://www.youtube.com/@SuperDataScienceWithJonKrohn",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCMbtqTGdSsxYYhhTpV4lSTQ",
+        "channel_title": "Super Data Science: ML & AI Podcast with Jon Krohn",
+        "status": "added"
+      },
+      {
+        "requested_name": "How I AI",
+        "evidence_url": "https://www.youtube.com/@howiaipodcast",
+        "notes": "Exact show channel; already present in ai-agents-and-automation latest.json with the same ID; cross-category reuse.",
+        "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
+        "channel_title": "How I AI",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Changelog",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLCzseuA9sYrf9nHWFF1dQsk-X5cghL6UH",
+        "notes": "Exact The Changelog podcast playlist on the broader Changelog network channel. Verified playlist title: The Changelog. Owner: Changelog (@Changelog).",
+        "source_kind": "playlist",
+        "playlist_id": "PLCzseuA9sYrf9nHWFF1dQsk-X5cghL6UH",
+        "channel_id": "UCZbtcRQHGpU_tt2yM4C7k0A",
+        "playlist_title": "The Changelog",
+        "status": "added"
+      },
+      {
+        "requested_name": "Software Engineering Daily",
+        "evidence_url": "https://www.youtube.com/@SoftwareDaily",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCBKM3HATRILZyG9jGNJKGXQ",
+        "channel_title": "Software Engineering Daily",
+        "status": "added"
+      },
+      {
+        "requested_name": "AI Engineering Podcast",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLA0ARPgEjqaCXpTO01NaFCgLdWYISRvj5",
+        "notes": "Tobias Macey official show playlist. Rejected same-named AI Engineering Podcast: 2026 playlist by Gaurav Sen (@gkcs), a different show. Verified playlist title: AI Engineering Podcast. Owner: Tobias Macey (@tobiasmacey3574).",
+        "source_kind": "playlist",
+        "playlist_id": "PLA0ARPgEjqaCXpTO01NaFCgLdWYISRvj5",
+        "channel_id": "UCAAjS3LwRquG6XPRHGiG2cg",
+        "playlist_title": "AI Engineering Podcast",
+        "status": "added"
+      },
+      {
+        "requested_name": "The AI Native Dev",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLISstAySqk7KNRW1vfsjTqJnm4lXXBgPe",
+        "notes": "Exact The AI Native Dev Podcast playlist on the broader AI Native Dev/Tessl channel; use playlist to avoid conferences/meetups. Verified playlist title: The AI Native Dev Podcast. Owner: AI Native Dev (@tessl-ai).",
+        "source_kind": "playlist",
+        "playlist_id": "PLISstAySqk7KNRW1vfsjTqJnm4lXXBgPe",
+        "channel_id": "UCg3pI4p6OKSFrDVZcwRIx8A",
+        "playlist_title": "The AI Native Dev Podcast",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Robot Brains Podcast",
+        "evidence_url": "https://www.youtube.com/@TheRobotBrainsPodcast",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCXNviQjBONXljxkJzNV-Xbw",
+        "channel_title": "The Robot Brains Podcast",
+        "status": "added"
+      },
+      {
+        "requested_name": "Talk Python To Me",
+        "evidence_url": "https://www.youtube.com/@talkpython",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCKPSmMfDsXTKrCZApukcJ7A",
+        "channel_title": "Talk Python",
+        "status": "added"
+      },
+      {
+        "requested_name": "ChinaTalk",
+        "evidence_url": "https://www.youtube.com/@ChinaTalkMedia",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCXOtILmQEo3pL_1bJfUOFWw",
+        "channel_title": "ChinaTalk",
+        "status": "added"
+      },
+      {
+        "requested_name": "BG2Pod",
+        "evidence_url": "https://www.youtube.com/@Bg2Pod",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UC-yRDvpR99LUc5l7i7jLzew",
+        "channel_title": "Bg2 Pod",
+        "status": "added"
+      },
+      {
+        "requested_name": "TBPN",
+        "evidence_url": "https://www.youtube.com/@TBPNLive",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
+        "channel_title": "TBPN",
+        "status": "added"
+      },
+      {
+        "requested_name": "Decoder with Nilay Patel",
+        "evidence_url": "https://www.youtube.com/@decoderpod",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
+        "channel_title": "Decoder with Nilay Patel",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Vergecast",
+        "evidence_url": "https://www.youtube.com/channel/UCVHdvAX5-R8y5l9xp6nroBQ",
+        "notes": "Exact named show channel verified. Description says full episodes now publish at @TheVerge; do not silently replace with the parent channel. This legacy show channel may not yield new episodes.",
+        "channel_id": "UCVHdvAX5-R8y5l9xp6nroBQ",
+        "channel_title": "The Vergecast",
+        "status": "added"
+      },
+      {
+        "requested_name": "The AI Fix",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLRwg0TwaF9AJtkClzQTXGDwSsXEwFLe08",
+        "notes": "Exact official The AI Fix podcast playlist, owned by Graham Cluley (@GrahamCluleyCom). Historical co-host Graham Cluley and Mark Stockley show; current official site describes Mark Stockley. Verified playlist title: The AI Fix - YouTube. Do not substitute all Graham Cluley uploads.",
+        "source_kind": "playlist",
+        "playlist_id": "PLRwg0TwaF9AJtkClzQTXGDwSsXEwFLe08",
+        "channel_id": "UCc5jsl5zRbbGbXO0AB4aW4w",
+        "playlist_title": "The AI Fix",
+        "status": "added"
+      },
+      {
+        "requested_name": "AI & I",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+        "notes": "Dan Shipper/Every show, not unrelated @AIandIYT. Official Every help page links @EveryInc. Exact historical AI & I playlist now titled The Every Podcast; preserve playlist boundary and note current rebranding. Verified playlist title: The Every Podcast. Owner: Every (@EveryInc).",
+        "source_kind": "playlist",
+        "playlist_id": "PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+        "channel_id": "UCjIMtrzxYc0lblGhmOgC_CA",
+        "playlist_title": "The Every Podcast",
+        "status": "added"
+      },
+      {
+        "requested_name": "Google DeepMind: The Podcast",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj",
+        "notes": "Official named-show playlist; no dedicated show-channel substitution. Verified playlist title: Google DeepMind: The Podcast. Owner: Google DeepMind (@googledeepmind).",
+        "source_kind": "playlist",
+        "playlist_id": "PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj",
+        "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+        "playlist_title": "Google DeepMind: The Podcast",
+        "status": "added"
+      },
+      {
+        "requested_name": "a16z Show",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLM4u6XbiXf5rnUvH5NLdV_It2QLgbHBDZ",
+        "notes": "Exact The a16z Show playlist on a16z. Owner @a16z is a broader parent channel, not a dedicated show channel; use playlist collection, not whole-parent-channel substitution. Verified playlist title: The a16z Show. Owner: a16z (@a16z).",
+        "source_kind": "playlist",
+        "playlist_id": "PLM4u6XbiXf5rnUvH5NLdV_It2QLgbHBDZ",
+        "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+        "playlist_title": "The a16z Show",
+        "status": "added"
+      },
+      {
+        "requested_name": "Training Data (Sequoia)",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+        "notes": "Official sequoiacap.com/series/training-data links this exact playlist; owner Sequoia Capital is not a dedicated show channel. Verified playlist title: Training Data. Owner: Sequoia Capital (@sequoiacapital).",
+        "source_kind": "playlist",
+        "playlist_id": "PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+        "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
+        "playlist_title": "Training Data",
+        "status": "added"
+      },
+      {
+        "requested_name": "80,000 Hours Podcast",
+        "evidence_url": "https://www.youtube.com/playlist?list=PL-BRtcBm4Yj4aKn72p4PjyqHh0ZQFdI1A",
+        "notes": "Exact official podcast playlist; owner 80,000 Hours also publishes other content. Verified playlist title: The 80,000 Hours Podcast. Owner: 80,000 Hours (@eightythousandhours).",
+        "source_kind": "playlist",
+        "playlist_id": "PL-BRtcBm4Yj4aKn72p4PjyqHh0ZQFdI1A",
+        "channel_id": "UCafjal1QYJ3rb0Y9xZk1Ezg",
+        "playlist_title": "The 80,000 Hours Podcast",
+        "status": "added"
+      },
+      {
+        "requested_name": "AXRP",
+        "evidence_url": "https://www.youtube.com/@axrpodcast",
+        "notes": "Channel title, canonical handle and externalId verified from YouTube channelMetadataRenderer.",
+        "channel_id": "UCIAzAR5dG7j_Kcvwjh7SQpg",
+        "channel_title": "AXRP",
+        "status": "added"
+      },
+      {
+        "requested_name": "AI in Business Podcast (Emerj)",
+        "evidence_url": "https://emerj.com/ai-in-business-podcast",
+        "notes": "Official audio podcast confirmed, but no exact official YouTube show channel or accessible official video playlist verified. Broader @EmerjAIResearch is only a video companion and is not substituted. Third-party music playlist PLTmVBEl0sM83R8sMN2aMxpNpzsLH4iT9x returned undefined on YouTube, so not accepted.",
+        "status": "pending",
+        "reason": "unresolved"
+      },
+      {
+        "requested_name": "Cheeky Pint",
+        "evidence_url": "https://www.youtube.com/@CheekyPint",
+        "notes": "Dedicated @CheekyPint channel verified; do not substitute Stripe parent channel.",
+        "channel_id": "UCXi7Hg2nSB40ujzM2CMtF-Q",
+        "channel_title": "Cheeky Pint",
+        "status": "added"
+      }
+    ],
+    "business-podcasts": [
+      {
+        "requested_name": "The Logan Bartlett Show",
+        "evidence_url": "https://www.youtube.com/@theloganbartlettshow",
+        "notes": "Live YouTube channelMetadataRenderer: The Logan Bartlett Show. Same channel requested in both categories; cross-category membership, not a new channel identity.",
+        "channel_id": "UCugS0jD5IAdoqzjaNYzns7w",
+        "channel_title": "The Logan Bartlett Show",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Colin and Samir Show",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLi4pMG9s7WOnS3hwOBlrB1HHVI4D_NamE",
+        "notes": "Official playlist 'The Colin and Samir Show' on Colin and Samir (@ColinandSamir; UCamLstJyCa-t5gfZegxsFMw). Parent is not substituted as a standalone show channel.",
+        "source_kind": "playlist",
+        "playlist_id": "PLi4pMG9s7WOnS3hwOBlrB1HHVI4D_NamE",
+        "channel_id": "UCamLstJyCa-t5gfZegxsFMw",
+        "playlist_title": "The Colin and Samir Show",
+        "status": "added"
+      },
+      {
+        "requested_name": "PBD Podcast",
+        "evidence_url": "https://www.youtube.com/PBDPodcast",
+        "notes": "Live YouTube channelMetadataRenderer: PBD Podcast. ",
+        "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
+        "channel_title": "PBD Podcast",
+        "status": "added"
+      },
+      {
+        "requested_name": "Modern Wisdom",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLkL7BvJXiqSQu3i72hSrG4vUkDuaneHuB",
+        "notes": "Official playlist 'Modern Wisdom' on Chris Williamson (@ChrisWillx; UCIaH-gZIVC432YRjNVvnyCA). Parent is not substituted as a standalone show channel.",
+        "source_kind": "playlist",
+        "playlist_id": "PLkL7BvJXiqSQu3i72hSrG4vUkDuaneHuB",
+        "channel_id": "UCIaH-gZIVC432YRjNVvnyCA",
+        "playlist_title": "Modern Wisdom",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Jordan Harbinger Show",
+        "evidence_url": "https://www.youtube.com/@JordanHarbingerShow",
+        "notes": "Live YouTube channelMetadataRenderer: The Jordan Harbinger Show. ",
+        "channel_id": "UCGLcx_fFZ3GlLXO5anHSm9w",
+        "channel_title": "The Jordan Harbinger Show",
+        "status": "added"
+      },
+      {
+        "requested_name": "The School of Greatness",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLMG5w22POeeykqONbfGi00m4AqxhnzmWc",
+        "notes": "Official playlist 'The School of Greatness' on Lewis Howes (@lewishowes; UCKsP3v2JeT2hWI_HzkxWiMA). Parent is not substituted as a standalone show channel.",
+        "source_kind": "playlist",
+        "playlist_id": "PLMG5w22POeeykqONbfGi00m4AqxhnzmWc",
+        "channel_id": "UCKsP3v2JeT2hWI_HzkxWiMA",
+        "playlist_title": "The School of Greatness",
+        "status": "added"
+      },
+      {
+        "requested_name": "Impact Theory",
+        "evidence_url": "https://www.youtube.com/playlist?list=PL8qcvQ7Byc3N3CAcv4tVXeP5DoAG1zNek",
+        "notes": "Official playlist 'Impact Theory Podcast' on Tom Bilyeu (@TomBilyeu; UCnYMOamNKLGVlJgRUbamveA). Parent is not substituted as a standalone show channel.",
+        "source_kind": "playlist",
+        "playlist_id": "PL8qcvQ7Byc3N3CAcv4tVXeP5DoAG1zNek",
+        "channel_id": "UCnYMOamNKLGVlJgRUbamveA",
+        "playlist_title": "Impact Theory Podcast",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Iced Coffee Hour",
+        "evidence_url": "https://www.youtube.com/@TheIcedCoffeeHour",
+        "notes": "Live YouTube channelMetadataRenderer: The Iced Coffee Hour. ",
+        "channel_id": "UCMSYZVlQmyG8_2MkIKzg0kw",
+        "channel_title": "The Iced Coffee Hour",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Money Mondays",
+        "evidence_url": "https://www.youtube.com/@themoneymondays",
+        "notes": "Live YouTube channelMetadataRenderer: The Money Mondays Podcast. Dan Fleyshman podcast, not the unrelated @moneymondays investing channel.",
+        "channel_id": "UCJOnJXXGqrcqF9ccXcpbFPg",
+        "channel_title": "The Money Mondays Podcast",
+        "status": "added"
+      },
+      {
+        "requested_name": "Business Breakdowns",
+        "evidence_url": "https://www.youtube.com/@joincolossus",
+        "notes": "Live YouTube channelMetadataRenderer: Business Breakdowns. ",
+        "channel_id": "UCfnHKTFEryHWyqr4Xjsjb3w",
+        "channel_title": "Business Breakdowns",
+        "status": "added"
+      },
+      {
+        "requested_name": "Odd Lots",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLe4PRejZgr0OJbRzA6nWybYiThLJd_ouz",
+        "notes": "Official playlist 'Odd Lots' on Bloomberg Podcasts (@BloombergPodcasts; UChF5O40UBqAc82I7-i5ig6A). Parent is not substituted as a standalone show channel.",
+        "source_kind": "playlist",
+        "playlist_id": "PLe4PRejZgr0OJbRzA6nWybYiThLJd_ouz",
+        "channel_id": "UChF5O40UBqAc82I7-i5ig6A",
+        "playlist_title": "Odd Lots",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Compound and Friends",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLZgCX3KJ3XGAq-6Ewy4ClI88EIYDxJsaS",
+        "notes": "Official playlist 'The Compound and Friends' on The Compound (@TheCompoundNews; UCBRpqrzuuqE8TZcWw75JSdw). Parent is not substituted as a standalone show channel.",
+        "source_kind": "playlist",
+        "playlist_id": "PLZgCX3KJ3XGAq-6Ewy4ClI88EIYDxJsaS",
+        "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+        "playlist_title": "The Compound and Friends",
+        "status": "added"
+      },
+      {
+        "requested_name": "Animal Spirits Podcast",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLZgCX3KJ3XGCNSt9ynclginAZzAvgmzk3",
+        "notes": "Official playlist 'Animal Spirits' on The Compound (@TheCompoundNews; UCBRpqrzuuqE8TZcWw75JSdw). Parent is not substituted as a standalone show channel.",
+        "source_kind": "playlist",
+        "playlist_id": "PLZgCX3KJ3XGCNSt9ynclginAZzAvgmzk3",
+        "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+        "playlist_title": "Animal Spirits",
+        "status": "added"
+      },
+      {
+        "requested_name": "Masters in Business",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLe4PRejZgr0PzN7r8NikAnOqP70DHhoJ0",
+        "notes": "Official playlist 'Masters in Business (Audio)' on Bloomberg Podcasts (@BloombergPodcasts; UChF5O40UBqAc82I7-i5ig6A). Parent is not substituted as a standalone show channel.",
+        "source_kind": "playlist",
+        "playlist_id": "PLe4PRejZgr0PzN7r8NikAnOqP70DHhoJ0",
+        "channel_id": "UChF5O40UBqAc82I7-i5ig6A",
+        "playlist_title": "Masters in Business (Audio)",
+        "status": "added"
+      },
+      {
+        "requested_name": "How I Invest with David Weisburd",
+        "evidence_url": "https://www.youtube.com/@david_weisburd",
+        "notes": "Live YouTube channelMetadataRenderer: How I Invest Podcast. ",
+        "channel_id": "UCncFI0XEvTu7k4er6BgVN9g",
+        "channel_title": "How I Invest Podcast",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Startup Ideas Podcast",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLQHTakJAwGLMQxKVlKUVpC7aiYTZ2j2J9",
+        "notes": "Official playlist 'The Startup Ideas Podcast Episodes' on Greg Isenberg (@GregIsenberg; UCPjNBjflYl0-HQtUvOx0Ibw). Parent is not substituted as a standalone show channel.",
+        "source_kind": "playlist",
+        "playlist_id": "PLQHTakJAwGLMQxKVlKUVpC7aiYTZ2j2J9",
+        "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+        "playlist_title": "The Startup Ideas Podcast Episodes",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Futur Podcast",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLzKJi2GjpkEE8hyFgMt0pIjnYkGB2YpDt",
+        "notes": "Official playlist 'The Futur Podcast with Chris Do' on The Futur (@thefutur; UC-b3c7kxa5vU-bnmaROgvog). Parent is not substituted as a standalone show channel.",
+        "source_kind": "playlist",
+        "playlist_id": "PLzKJi2GjpkEE8hyFgMt0pIjnYkGB2YpDt",
+        "channel_id": "UC-b3c7kxa5vU-bnmaROgvog",
+        "playlist_title": "The Futur Podcast with Chris Do",
+        "status": "added"
+      },
+      {
+        "requested_name": "Goal Digger Podcast",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLsMotrp9AeS-56sgt0kBQXm-4s_UgLUEY",
+        "notes": "Official playlist 'The Goal Digger Podcast' on Jenna Kutcher (@jenna.kutcher; UCHLhShbj0XD9xLq7wDSTj5A). Parent is not substituted as a standalone show channel.",
+        "source_kind": "playlist",
+        "playlist_id": "PLsMotrp9AeS-56sgt0kBQXm-4s_UgLUEY",
+        "channel_id": "UCHLhShbj0XD9xLq7wDSTj5A",
+        "playlist_title": "The Goal Digger Podcast",
+        "status": "added"
+      },
+      {
+        "requested_name": "Smart Passive Income",
+        "evidence_url": "https://www.youtube.com/@SmartPassiveIncomeTeam",
+        "notes": "Live YouTube channelMetadataRenderer: Smart Passive Income. ",
+        "channel_id": "UCcVgQ0ziCT3cIYSfs6uaHQg",
+        "channel_title": "Smart Passive Income",
+        "status": "added"
+      },
+      {
+        "requested_name": "Entrepreneurs on Fire",
+        "evidence_url": "https://www.youtube.com/c/johnleedumas",
+        "notes": "Live YouTube channelMetadataRenderer: Entrepreneurs On Fire with John Lee Dumas. ",
+        "channel_id": "UCXfzpliAfdjParawJljHo2g",
+        "channel_title": "Entrepreneurs On Fire with John Lee Dumas",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Foundr Podcast",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLx2VRNuTQZgbxunK7mZD3FY1IhKxCbs5b",
+        "notes": "Official playlist 'New Episodes' on Foundr  (@Foundr; UChpWgrkJY_i7F6wwI_TOnrg). Parent is not substituted as a standalone show channel. Same parent ID as requested Foundr in emerging-businesses-startups; adding the parent separately must not duplicate the show as another channel.",
+        "source_kind": "playlist",
+        "playlist_id": "PLx2VRNuTQZgbxunK7mZD3FY1IhKxCbs5b",
+        "channel_id": "UChpWgrkJY_i7F6wwI_TOnrg",
+        "playlist_title": "New Episodes",
+        "status": "added"
+      },
+      {
+        "requested_name": "The SaaS Podcast",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLgKRhGFL8PHP9P7fpWCG9jHp-abyK2GG4",
+        "notes": "Official playlist 'The SaaS Podcast - Real Lessons on Growing Profitable SaaS' on SaaS Club (@saasclub; UCZbyAKrrtV87PywXc9vydng). Parent is not substituted as a standalone show channel.",
+        "source_kind": "playlist",
+        "playlist_id": "PLgKRhGFL8PHP9P7fpWCG9jHp-abyK2GG4",
+        "channel_id": "UCZbyAKrrtV87PywXc9vydng",
+        "playlist_title": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Startup Chat",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLb1c0oEEXWIbdRXhp0AS46qd6jlxBFLEh",
+        "notes": "Official playlist 'The Startup Chat Podcast with Steli Efti and Hiten Shah' on Close (@closecrm; UCC7ZkCK3FxZiqMXqI3yvWHw). Parent is not substituted as a standalone show channel.",
+        "source_kind": "playlist",
+        "playlist_id": "PLb1c0oEEXWIbdRXhp0AS46qd6jlxBFLEh",
+        "channel_id": "UCC7ZkCK3FxZiqMXqI3yvWHw",
+        "playlist_title": "The Startup Chat Podcast with Steli Efti and Hiten Shah",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Pitch",
+        "evidence_url": "https://www.youtube.com/@thepitchshow",
+        "notes": "Live YouTube channelMetadataRenderer: The Pitch Show. Josh Muccio podcast channel, not the unrelated UK startup competition @Thepitchuk.",
+        "channel_id": "UC4g1niWj3_eXiBPERvatsFA",
+        "channel_title": "The Pitch Show",
+        "status": "added"
+      },
+      {
+        "requested_name": "This Is Product Management",
+        "evidence_url": "https://rephonic.com/podcasts/this-is-product-management",
+        "notes": "No confidently attributable official YouTube channel or official show playlist found after broad and targeted searches. Do not substitute third-party interviews or similarly named channels.",
+        "status": "pending",
+        "reason": "unresolved"
+      },
+      {
+        "requested_name": "The Best One Yet",
+        "evidence_url": "https://www.youtube.com/channel/UCly3md3CbnTFJP83lVUEcjw",
+        "notes": "Live YouTube channelMetadataRenderer: The Best One Yet. ",
+        "channel_id": "UCly3md3CbnTFJP83lVUEcjw",
+        "channel_title": "The Best One Yet",
+        "status": "added"
+      },
+      {
+        "requested_name": "Marketing Against the Grain",
+        "evidence_url": "https://www.youtube.com/@MATGpod",
+        "notes": "Live YouTube channelMetadataRenderer: Marketing Against the Grain. ",
+        "channel_id": "UCGtXqPiNV8YC0GMUzY-EUFg",
+        "channel_title": "Marketing Against the Grain",
+        "status": "added"
+      },
+      {
+        "requested_name": "Marketing School",
+        "evidence_url": "https://www.youtube.com/@marketingschoolpod",
+        "notes": "Live YouTube channelMetadataRenderer: Marketing School - Daily Marketing Tips. ",
+        "channel_id": "UCTJmkA2-u7Kyblm5_P6tKdA",
+        "channel_title": "Marketing School - Daily Marketing Tips",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Side Hustle Show",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLj561ehA3vjbTzFM3ToFMzjgk2eStZF4X",
+        "notes": "Official playlist 'The Side Hustle Show - Full Episodes' on Side Hustle Nation (@NickLoper; UCzOAAJUiSO2uyu1xyxw__2Q). Parent is not substituted as a standalone show channel.",
+        "source_kind": "playlist",
+        "playlist_id": "PLj561ehA3vjbTzFM3ToFMzjgk2eStZF4X",
+        "channel_id": "UCzOAAJUiSO2uyu1xyxw__2Q",
+        "playlist_title": "The Side Hustle Show - Full Episodes",
+        "status": "added"
+      },
+      {
+        "requested_name": "HBR IdeaCast",
+        "evidence_url": "https://www.youtube.com/playlist?list=PLzAU8TPKsJub289QhDao56ioTr7044hBl",
+        "notes": "Official playlist 'HBR IdeaCast' on Harvard Business Review (@harvardbusinessreview; UCWo4IA01TXzBeGJJKWHOG9g). Parent is not substituted as a standalone show channel.",
+        "source_kind": "playlist",
+        "playlist_id": "PLzAU8TPKsJub289QhDao56ioTr7044hBl",
+        "channel_id": "UCWo4IA01TXzBeGJJKWHOG9g",
+        "playlist_title": "HBR IdeaCast",
+        "status": "added"
+      }
+    ],
+    "emerging-businesses-startups": [
+      {
+        "requested_name": "Starter Story",
+        "evidence_url": "https://www.youtube.com/@starterstory",
+        "notes": "Live YouTube channelMetadataRenderer: Starter Story. ",
+        "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
+        "channel_title": "Starter Story",
+        "status": "added"
+      },
+      {
+        "requested_name": "Greg Isenberg",
+        "evidence_url": "https://www.youtube.com/@GregIsenberg",
+        "notes": "Live YouTube channelMetadataRenderer: Greg Isenberg. Already configured under ai-agents-and-automation; same channel ID. Also hosts The Startup Ideas Podcast; do not create a second channel for that show.",
+        "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+        "channel_title": "Greg Isenberg",
+        "status": "added"
+      },
+      {
+        "requested_name": "TBPN",
+        "evidence_url": "https://www.youtube.com/@TBPNLive",
+        "notes": "Live YouTube channelMetadataRenderer: TBPN. ",
+        "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
+        "channel_title": "TBPN",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Logan Bartlett Show",
+        "evidence_url": "https://www.youtube.com/@theloganbartlettshow",
+        "notes": "Live YouTube channelMetadataRenderer: The Logan Bartlett Show. Same channel requested in both categories; cross-category membership, not a new channel identity.",
+        "channel_id": "UCugS0jD5IAdoqzjaNYzns7w",
+        "channel_title": "The Logan Bartlett Show",
+        "status": "added"
+      },
+      {
+        "requested_name": "Foundr",
+        "evidence_url": "https://www.youtube.com/@Foundr",
+        "notes": "Live YouTube channelMetadataRenderer: Foundr. Same identity as Foundr / The Foundr Podcast host channel: UChpWgrkJY_i7F6wwI_TOnrg. Not a distinct renamed channel. No Foundr entry was present in the inspected config/categories.json; deduplicate by this ID if another pending change adds it.",
+        "channel_id": "UChpWgrkJY_i7F6wwI_TOnrg",
+        "channel_title": "Foundr ",
+        "status": "added"
+      },
+      {
+        "requested_name": "Entrepreneur",
+        "evidence_url": "https://www.youtube.com/channel/UCNFGSWVOdVWEe9XJNnfTdyQ",
+        "notes": "Live YouTube channelMetadataRenderer: Entrepreneur. ",
+        "channel_id": "UCNFGSWVOdVWEe9XJNnfTdyQ",
+        "channel_title": "Entrepreneur",
+        "status": "added"
+      },
+      {
+        "requested_name": "CNBC Make It",
+        "evidence_url": "https://www.youtube.com/@CNBCMakeIt",
+        "notes": "Live YouTube channelMetadataRenderer: CNBC Make It. ",
+        "channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
+        "channel_title": "CNBC Make It",
+        "status": "added"
+      },
+      {
+        "requested_name": "Bloomberg Technology",
+        "evidence_url": "https://youtube.com/channel/UCrM7B7SL_g1edFOnmj-SDKg",
+        "notes": "Live YouTube channelMetadataRenderer: Bloomberg Tech. Current channel title is Bloomberg Tech; stable official Bloomberg technology channel.",
+        "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
+        "channel_title": "Bloomberg Tech",
+        "status": "added"
+      },
+      {
+        "requested_name": "PitchBook",
+        "evidence_url": "https://www.youtube.com/user/PitchBook",
+        "notes": "Live YouTube channelMetadataRenderer: PitchBook. ",
+        "channel_id": "UC4rBao48na0v__j3Xvu0T-g",
+        "channel_title": "PitchBook",
+        "status": "added"
+      },
+      {
+        "requested_name": "Crunchbase",
+        "evidence_url": "https://www.youtube.com/@crunchbasehq",
+        "notes": "Live YouTube channelMetadataRenderer: Crunchbase. ",
+        "channel_id": "UCnAZr1Krg51E_tUg-Hpunwg",
+        "channel_title": "Crunchbase",
+        "status": "added"
+      },
+      {
+        "requested_name": "CB Insights",
+        "evidence_url": "https://www.youtube.com/channel/UC96nq-gVV0vy96gfYXfEhmA",
+        "notes": "Live YouTube channelMetadataRenderer: CB Insights. ",
+        "channel_id": "UC96nq-gVV0vy96gfYXfEhmA",
+        "channel_title": "CB Insights",
+        "status": "added"
+      },
+      {
+        "requested_name": "Techstars",
+        "evidence_url": "https://www.youtube.com/user/techstarstv",
+        "notes": "Live YouTube channelMetadataRenderer: Techstars. ",
+        "channel_id": "UClebMzrpRNTWVfZXw2jfsSw",
+        "channel_title": "Techstars",
+        "status": "added"
+      },
+      {
+        "requested_name": "500 Global",
+        "evidence_url": "https://www.youtube.com/c/500global",
+        "notes": "Live YouTube channelMetadataRenderer: 500 Global. ",
+        "channel_id": "UCsFOY-wGT9IOC4Okrq6UBfA",
+        "channel_title": "500 Global",
+        "status": "added"
+      },
+      {
+        "requested_name": "First Round Capital",
+        "evidence_url": "https://www.youtube.com/firstroundcapital",
+        "notes": "Live YouTube channelMetadataRenderer: First Round Capital. ",
+        "channel_id": "UC_oji6l_-xwhmZqCxRGuAXw",
+        "channel_title": "First Round Capital",
+        "status": "added"
+      },
+      {
+        "requested_name": "Lightspeed Venture Partners",
+        "evidence_url": "https://www.youtube.com/@lightspeedvp",
+        "notes": "Live YouTube channelMetadataRenderer: Lightspeed Venture Partners. ",
+        "channel_id": "UCwBTFE_6Bsb_EtmXlW2aTlg",
+        "channel_title": "Lightspeed Venture Partners",
+        "status": "added"
+      },
+      {
+        "requested_name": "General Catalyst",
+        "evidence_url": "https://www.youtube.com/channel/UCRuWcJZWsga67HTE0fcCvbA",
+        "notes": "Live YouTube channelMetadataRenderer: General Catalyst. ",
+        "channel_id": "UCRuWcJZWsga67HTE0fcCvbA",
+        "channel_title": "General Catalyst",
+        "status": "added"
+      },
+      {
+        "requested_name": "Accel",
+        "evidence_url": "https://www.youtube.com/@AccelVC",
+        "notes": "Live YouTube channelMetadataRenderer: Accel. ",
+        "channel_id": "UCkgHtlqtoa73AUIueX5udaQ",
+        "channel_title": "Accel",
+        "status": "added"
+      },
+      {
+        "requested_name": "Index Ventures",
+        "evidence_url": "https://www.youtube.com/@indexventures",
+        "notes": "Live YouTube channelMetadataRenderer: Index Ventures. ",
+        "channel_id": "UCFMxDWNYefVV3XmCdCBCFjQ",
+        "channel_title": "Index Ventures",
+        "status": "added"
+      },
+      {
+        "requested_name": "Greylock",
+        "evidence_url": "https://www.youtube.com/channel/UCZ7x7yDBbEFCGztD8BYvRhA",
+        "notes": "Live YouTube channelMetadataRenderer: Greylock. ",
+        "channel_id": "UCZ7x7yDBbEFCGztD8BYvRhA",
+        "channel_title": "Greylock",
+        "status": "added"
+      },
+      {
+        "requested_name": "Insight Partners",
+        "evidence_url": "https://www.youtube.com/user/InsightPartners",
+        "notes": "Live YouTube channelMetadataRenderer: Insight Partners. ",
+        "channel_id": "UC7xNlG4PokgWJe8hd2kS-Kg",
+        "channel_title": "Insight Partners",
+        "status": "added"
+      },
+      {
+        "requested_name": "Menlo Ventures",
+        "evidence_url": "https://menlovc.com",
+        "notes": "No confidently attributable official YouTube channel or official show playlist found after broad and targeted searches. Do not substitute third-party interviews or similarly named channels.",
+        "status": "pending",
+        "reason": "unresolved"
+      },
+      {
+        "requested_name": "Product Hunt",
+        "evidence_url": "http://producthunt.com/about",
+        "notes": "Official Product Hunt About page links directly to UCOtU18DT8csQVqHPT1wtYzw. Parent independently verified live channel metadata: Product Hunt, canonical @product_hunt.",
+        "channel_id": "UCOtU18DT8csQVqHPT1wtYzw",
+        "channel_title": "Product Hunt",
+        "status": "added"
+      },
+      {
+        "requested_name": "Indie Hackers",
+        "evidence_url": "https://www.youtube.com/@indiehackers9840",
+        "notes": "Live YouTube channelMetadataRenderer: Indie Hackers. Channel publishes Indie Hackers Podcast and Indie Hackers Office Hours; featured interview with Daniel Vassallo.",
+        "channel_id": "UC36zt_eM_gZQXayw_pAdASg",
+        "channel_title": "Indie Hackers",
+        "status": "added"
+      },
+      {
+        "requested_name": "Nathan Latka",
+        "evidence_url": "https://www.youtube.com/@NathanLatkawatch",
+        "notes": "Live YouTube channelMetadataRenderer: Top Founders with Nathan Latka. ",
+        "channel_id": "UCJ4E393uI8mWRlSqgoeUKKw",
+        "channel_title": "Top Founders with Nathan Latka",
+        "status": "added"
+      },
+      {
+        "requested_name": "Rob Walling",
+        "evidence_url": "https://www.youtube.com/@RobWalling/videos",
+        "notes": "Live YouTube channelMetadataRenderer: Rob Walling. ",
+        "channel_id": "UCHoBKQDRkJcOY2BO47q5Ruw",
+        "channel_title": "Rob Walling",
+        "status": "added"
+      },
+      {
+        "requested_name": "TK Kader",
+        "evidence_url": "https://www.youtube.com/@TKKader",
+        "notes": "Live YouTube channelMetadataRenderer: TK Kader. ",
+        "channel_id": "UCUseoG3kofRLS6WoUaL_15w",
+        "channel_title": "TK Kader",
+        "status": "added"
+      },
+      {
+        "requested_name": "Marc Lou",
+        "evidence_url": "https://www.youtube.com/@marc-lou",
+        "notes": "Live YouTube channelMetadataRenderer: Marc Lou. ",
+        "channel_id": "UC12JO2IPlEViR-o6SLXKx1A",
+        "channel_title": "Marc Lou",
+        "status": "added"
+      },
+      {
+        "requested_name": "Arvid Kahl",
+        "evidence_url": "https://www.youtube.com/@TheBootstrappedFounder",
+        "notes": "Live YouTube channelMetadataRenderer: Arvid Kahl — The Bootstrapped Founder. ",
+        "channel_id": "UCB6s-V1Ls4vc_mXEF-4Lz_Q",
+        "channel_title": "Arvid Kahl — The Bootstrapped Founder",
+        "status": "added"
+      },
+      {
+        "requested_name": "Dan Martell",
+        "evidence_url": "https://youtube.com/@danmartell/videos",
+        "notes": "Live YouTube channelMetadataRenderer: Dan Martell. ",
+        "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+        "channel_title": "Dan Martell",
+        "status": "added"
+      },
+      {
+        "requested_name": "Codie Sanchez",
+        "evidence_url": "https://www.youtube.com/@CodieSanchezCT/about",
+        "notes": "Live YouTube channelMetadataRenderer: Codie Sanchez. ",
+        "channel_id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
+        "channel_title": "Codie Sanchez",
+        "status": "added"
+      }
+    ],
+    "science-future-technology": [
+      {
+        "requested_name": "Vsauce",
+        "evidence_url": "https://www.youtube.com/@Vsauce",
+        "notes": "YouTube channelMetadataRenderer: title=Vsauce; canonical vanity URL=http://www.youtube.com/@Vsauce",
+        "channel_id": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
+        "channel_title": "Vsauce",
+        "status": "added"
+      },
+      {
+        "requested_name": "3Blue1Brown",
+        "evidence_url": "https://www.youtube.com/@3blue1brown",
+        "notes": "YouTube channelMetadataRenderer: title=3Blue1Brown; canonical vanity URL=http://www.youtube.com/@3blue1brown",
+        "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+        "channel_title": "3Blue1Brown",
+        "status": "added"
+      },
+      {
+        "requested_name": "SciShow",
+        "evidence_url": "https://www.youtube.com/@SciShow",
+        "notes": "YouTube channelMetadataRenderer: title=SciShow; canonical vanity URL=http://www.youtube.com/@SciShow",
+        "channel_id": "UCZYTClx2T1of7BRZ86-8fow",
+        "channel_title": "SciShow",
+        "status": "added"
+      },
+      {
+        "requested_name": "minutephysics",
+        "evidence_url": "https://www.youtube.com/@minutephysics",
+        "notes": "YouTube channelMetadataRenderer: title=minutephysics; canonical vanity URL=http://www.youtube.com/@MinutePhysics",
+        "channel_id": "UCUHW94eEFW7hkUMVaZz4eDg",
+        "channel_title": "minutephysics",
+        "status": "added"
+      },
+      {
+        "requested_name": "MinuteEarth",
+        "evidence_url": "https://www.youtube.com/@MinuteEarth",
+        "notes": "YouTube channelMetadataRenderer: title=MinuteEarth; canonical vanity URL=http://www.youtube.com/@MinuteEarth",
+        "channel_id": "UCeiYXex_fwgYDonaTcSIk6w",
+        "channel_title": "MinuteEarth",
+        "status": "added"
+      },
+      {
+        "requested_name": "NileRed",
+        "evidence_url": "https://www.youtube.com/@NileRed",
+        "notes": "YouTube channelMetadataRenderer: title=NileRed; canonical vanity URL=http://www.youtube.com/@NileRed",
+        "channel_id": "UCFhXFikryT4aFcLkLw2LBLA",
+        "channel_title": "NileRed",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Action Lab",
+        "evidence_url": "https://www.youtube.com/@TheActionLab",
+        "notes": "YouTube channelMetadataRenderer: title=The Action Lab; canonical vanity URL=http://www.youtube.com/@TheActionLab",
+        "channel_id": "UC1VLQPn9cYSqx8plbk9RxxQ",
+        "channel_title": "The Action Lab",
+        "status": "added"
+      },
+      {
+        "requested_name": "Steve Mould",
+        "evidence_url": "https://www.youtube.com/@SteveMould",
+        "notes": "YouTube channelMetadataRenderer: title=Steve Mould; canonical vanity URL=http://www.youtube.com/@SteveMould",
+        "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
+        "channel_title": "Steve Mould",
+        "status": "added"
+      },
+      {
+        "requested_name": "Technology Connections",
+        "evidence_url": "https://www.youtube.com/@TechnologyConnections",
+        "notes": "YouTube channelMetadataRenderer: title=Technology Connections; canonical vanity URL=http://www.youtube.com/@TechnologyConnections",
+        "channel_id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
+        "channel_title": "Technology Connections",
+        "status": "added"
+      },
+      {
+        "requested_name": "Stuff Made Here",
+        "evidence_url": "https://www.youtube.com/@StuffMadeHere",
+        "notes": "YouTube channelMetadataRenderer: title=Stuff Made Here; canonical vanity URL=http://www.youtube.com/@StuffMadeHere",
+        "channel_id": "UCj1VqrHhDte54oLgPG4xpuQ",
+        "channel_title": "Stuff Made Here",
+        "status": "added"
+      },
+      {
+        "requested_name": "William Osman",
+        "evidence_url": "https://www.youtube.com/@williamosman",
+        "notes": "YouTube channelMetadataRenderer: title=William Osman; canonical vanity URL=http://www.youtube.com/@williamosman",
+        "channel_id": "UCfMJ2MchTSW2kWaT0kK94Yw",
+        "channel_title": "William Osman",
+        "status": "added"
+      },
+      {
+        "requested_name": "ElectroBOOM",
+        "evidence_url": "https://www.youtube.com/@ElectroBOOM",
+        "notes": "YouTube channelMetadataRenderer: title=ElectroBOOM; canonical vanity URL=http://www.youtube.com/@ElectroBOOM",
+        "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+        "channel_title": "ElectroBOOM",
+        "status": "added"
+      },
+      {
+        "requested_name": "GreatScott!",
+        "evidence_url": "https://www.youtube.com/@greatscottlab",
+        "notes": "YouTube channelMetadataRenderer: title=GreatScott!; canonical vanity URL=http://www.youtube.com/@greatscottlab",
+        "channel_id": "UC6mIxFTvXkWQVEHPsEdflzQ",
+        "channel_title": "GreatScott!",
+        "status": "added"
+      },
+      {
+        "requested_name": "Ben Eater",
+        "evidence_url": "https://www.youtube.com/@BenEater",
+        "notes": "YouTube channelMetadataRenderer: title=Ben Eater; canonical vanity URL=http://www.youtube.com/@BenEater",
+        "channel_id": "UCS0N5baNlQWJCUrhCEo8WlA",
+        "channel_title": "Ben Eater",
+        "status": "added"
+      },
+      {
+        "requested_name": "New Mind",
+        "evidence_url": "https://www.youtube.com/@NewMind",
+        "notes": "YouTube channelMetadataRenderer: title=New Mind; canonical vanity URL=http://www.youtube.com/@NewMind",
+        "channel_id": "UC5_Y-BKzq1uW_2rexWkUzlA",
+        "channel_title": "New Mind",
+        "status": "added"
+      },
+      {
+        "requested_name": "Asianometry",
+        "evidence_url": "https://www.youtube.com/@Asianometry",
+        "notes": "YouTube channelMetadataRenderer: title=Asianometry; canonical vanity URL=http://www.youtube.com/@Asianometry",
+        "channel_id": "UC1LpsuAUaKoMzzJSEt5WImw",
+        "channel_title": "Asianometry",
+        "status": "added"
+      },
+      {
+        "requested_name": "ColdFusion",
+        "evidence_url": "https://www.youtube.com/@ColdFusion",
+        "notes": "YouTube channelMetadataRenderer: title=ColdFusion; canonical vanity URL=http://www.youtube.com/@ColdFusion",
+        "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
+        "channel_title": "ColdFusion",
+        "status": "added"
+      },
+      {
+        "requested_name": "Sabine Hossenfelder",
+        "evidence_url": "https://www.youtube.com/@SabineHossenfelder",
+        "notes": "YouTube channelMetadataRenderer: title=Sabine Hossenfelder; canonical vanity URL=http://www.youtube.com/@SabineHossenfelder",
+        "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
+        "channel_title": "Sabine Hossenfelder",
+        "status": "added"
+      },
+      {
+        "requested_name": "Anton Petrov",
+        "evidence_url": "https://www.youtube.com/@whatdamath",
+        "notes": "YouTube channelMetadataRenderer: title=Anton Petrov; canonical vanity URL=http://www.youtube.com/@whatdamath",
+        "channel_id": "UCciQ8wFcVoIIMi-lfu8-cjQ",
+        "channel_title": "Anton Petrov",
+        "status": "added"
+      },
+      {
+        "requested_name": "Dr Becky",
+        "evidence_url": "https://www.youtube.com/@DrBecky",
+        "notes": "YouTube channelMetadataRenderer: title=Dr. Becky; canonical vanity URL=http://www.youtube.com/@DrBecky",
+        "channel_id": "UCYNbYGl89UUowy8oXkipC-Q",
+        "channel_title": "Dr. Becky",
+        "status": "added"
+      },
+      {
+        "requested_name": "Astrum",
+        "evidence_url": "https://www.youtube.com/@astrumspace",
+        "notes": "YouTube channelMetadataRenderer: title=Astrum; canonical vanity URL=http://www.youtube.com/@astrumspace",
+        "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
+        "channel_title": "Astrum",
+        "status": "added"
+      },
+      {
+        "requested_name": "StarTalk",
+        "evidence_url": "https://www.youtube.com/@StarTalk",
+        "notes": "YouTube channelMetadataRenderer: title=StarTalk; canonical vanity URL=http://www.youtube.com/@StarTalk",
+        "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
+        "channel_title": "StarTalk",
+        "status": "added"
+      },
+      {
+        "requested_name": "Fraser Cain",
+        "evidence_url": "https://www.youtube.com/@frasercain",
+        "notes": "YouTube channelMetadataRenderer: title=Fraser Cain; canonical vanity URL=http://www.youtube.com/@frasercain",
+        "channel_id": "UCogrSQkBJn1KF0N9I4oM7eQ",
+        "channel_title": "Fraser Cain",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Royal Institution",
+        "evidence_url": "https://www.youtube.com/@TheRoyalInstitution",
+        "notes": "YouTube channelMetadataRenderer: title=The Royal Institution; canonical vanity URL=http://www.youtube.com/@TheRoyalInstitution",
+        "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
+        "channel_title": "The Royal Institution",
+        "status": "added"
+      },
+      {
+        "requested_name": "New Scientist",
+        "evidence_url": "https://www.youtube.com/@newscientist",
+        "notes": "YouTube channelMetadataRenderer: title=New Scientist; canonical vanity URL=http://www.youtube.com/@NewScientist",
+        "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
+        "channel_title": "New Scientist",
+        "status": "added"
+      },
+      {
+        "requested_name": "SpaceX",
+        "evidence_url": "https://www.youtube.com/@SpaceX",
+        "notes": "YouTube channelMetadataRenderer: title=SpaceX; canonical vanity URL=http://www.youtube.com/@SpaceX",
+        "channel_id": "UCtI0Hodo5o5dUb67FeUjDeA",
+        "channel_title": "SpaceX",
+        "status": "added"
+      },
+      {
+        "requested_name": "Everyday Astronaut",
+        "evidence_url": "https://www.youtube.com/@EverydayAstronaut",
+        "notes": "YouTube channelMetadataRenderer: title=Everyday Astronaut; canonical vanity URL=http://www.youtube.com/@EverydayAstronaut",
+        "channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
+        "channel_title": "Everyday Astronaut",
+        "status": "added"
+      },
+      {
+        "requested_name": "Scott Manley",
+        "evidence_url": "https://www.youtube.com/@scottmanley",
+        "notes": "YouTube channelMetadataRenderer: title=Scott Manley; canonical vanity URL=http://www.youtube.com/@scottmanley",
+        "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
+        "channel_title": "Scott Manley",
+        "status": "added"
+      },
+      {
+        "requested_name": "Primal Space",
+        "evidence_url": "https://www.youtube.com/@primalspace",
+        "notes": "YouTube channelMetadataRenderer: title=Primal Space; canonical vanity URL=http://www.youtube.com/@primalspace",
+        "channel_id": "UClZbmi9JzfnB2CEb0fG8iew",
+        "channel_title": "Primal Space",
+        "status": "added"
+      },
+      {
+        "requested_name": "TED-Ed",
+        "evidence_url": "https://www.youtube.com/@TEDEd",
+        "notes": "YouTube channelMetadataRenderer: title=TED-Ed; canonical vanity URL=http://www.youtube.com/@TEDEd",
+        "channel_id": "UCsooa4yRKGN_zEE8iknghZA",
+        "channel_title": "TED-Ed",
+        "status": "added"
+      }
+    ],
+    "software-developer-tools": [
+      {
+        "requested_name": "Programming with Mosh",
+        "evidence_url": "https://www.youtube.com/@programmingwithmosh",
+        "notes": "YouTube channelMetadataRenderer: title=Programming with Mosh; canonical vanity URL=http://www.youtube.com/@programmingwithmosh",
+        "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "channel_title": "Programming with Mosh",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Net Ninja",
+        "evidence_url": "https://www.youtube.com/@NetNinja",
+        "notes": "YouTube channelMetadataRenderer: title=Net Ninja; canonical vanity URL=http://www.youtube.com/@NetNinja",
+        "channel_id": "UCW5YeuERMmlnqo4oq8vwUpg",
+        "channel_title": "Net Ninja",
+        "status": "added"
+      },
+      {
+        "requested_name": "Academind",
+        "evidence_url": "https://www.youtube.com/@academind",
+        "notes": "YouTube channelMetadataRenderer: title=Academind; canonical vanity URL=http://www.youtube.com/@academind",
+        "channel_id": "UCSJbGtTlrDami-tDGPUV9-w",
+        "channel_title": "Academind",
+        "status": "added"
+      },
+      {
+        "requested_name": "Kevin Powell",
+        "evidence_url": "https://www.youtube.com/@KevinPowell",
+        "notes": "YouTube channelMetadataRenderer: title=Kevin Powell; canonical vanity URL=http://www.youtube.com/@KevinPowell",
+        "channel_id": "UCJZv4d5rbIKd4QHMPkcABCw",
+        "channel_title": "Kevin Powell",
+        "status": "added"
+      },
+      {
+        "requested_name": "The Coding Train",
+        "evidence_url": "https://www.youtube.com/@TheCodingTrain",
+        "notes": "YouTube channelMetadataRenderer: title=The Coding Train; canonical vanity URL=http://www.youtube.com/@TheCodingTrain",
+        "channel_id": "UCvjgXvBlbQiydffZU7m1_aw",
+        "channel_title": "The Coding Train",
+        "status": "added"
+      },
+      {
+        "requested_name": "NeetCode",
+        "evidence_url": "https://www.youtube.com/@NeetCode",
+        "notes": "YouTube channelMetadataRenderer: title=NeetCode; canonical vanity URL=http://www.youtube.com/@NeetCode",
+        "channel_id": "UC_mYaQAE6-71rjSN6CeCA-g",
+        "channel_title": "NeetCode",
+        "status": "added"
+      },
+      {
+        "requested_name": "CS Dojo",
+        "evidence_url": "https://www.youtube.com/@CSDojo",
+        "notes": "YouTube channelMetadataRenderer: title=CS Dojo; canonical vanity URL=http://www.youtube.com/@CSDojo",
+        "channel_id": "UCxX9wt5FWQUAAz4UrysqK9A",
+        "channel_title": "CS Dojo",
+        "status": "added"
+      },
+      {
+        "requested_name": "Amigoscode",
+        "evidence_url": "https://www.youtube.com/@amigoscode",
+        "notes": "YouTube channelMetadataRenderer: title=Amigoscode; canonical vanity URL=http://www.youtube.com/@amigoscode",
+        "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
+        "channel_title": "Amigoscode",
+        "status": "added"
+      },
+      {
+        "requested_name": "CodeAesthetic",
+        "evidence_url": "https://www.youtube.com/@CodeAesthetic",
+        "notes": "YouTube channelMetadataRenderer: title=CodeAesthetic; canonical vanity URL=http://www.youtube.com/@CodeAesthetic",
+        "channel_id": "UCaSCt8s_4nfkRglWCvNSDrg",
+        "channel_title": "CodeAesthetic",
+        "status": "added"
+      },
+      {
+        "requested_name": "Hyperplexed",
+        "evidence_url": "https://www.youtube.com/@Hyperplexed",
+        "notes": "YouTube channelMetadataRenderer: title=Hyperplexed; canonical vanity URL=http://www.youtube.com/@Hyperplexed",
+        "channel_id": "UCmEzz-dPBVrsy4ZluSsYHDg",
+        "channel_title": "Hyperplexed",
+        "status": "added"
+      },
+      {
+        "requested_name": "Jack Herrington",
+        "evidence_url": "https://www.youtube.com/@jherr",
+        "notes": "YouTube channelMetadataRenderer: title=Jack Herrington; canonical vanity URL=http://www.youtube.com/@jherr",
+        "channel_id": "UC6vRUjYqDuoUsYsku86Lrsw",
+        "channel_title": "Jack Herrington",
+        "status": "added"
+      },
+      {
+        "requested_name": "Josh tried coding",
+        "evidence_url": "https://www.youtube.com/@joshtriedcoding",
+        "notes": "YouTube channelMetadataRenderer: title=Josh tried coding; canonical vanity URL=http://www.youtube.com/@joshtriedcoding",
+        "channel_id": "UCvGwM5woTl13I-qThI4YMCg",
+        "channel_title": "Josh tried coding",
+        "status": "added"
+      },
+      {
+        "requested_name": "Sam Selikoff",
+        "evidence_url": "https://www.youtube.com/@samselikoff",
+        "notes": "YouTube channelMetadataRenderer: title=Sam Selikoff; canonical vanity URL=http://www.youtube.com/@samselikoff",
+        "channel_id": "UCgN4rDA3UNQ1OKQRXJd0nwg",
+        "channel_title": "Sam Selikoff",
+        "status": "added"
+      },
+      {
+        "requested_name": "Dave Gray",
+        "evidence_url": "https://www.youtube.com/@DaveGrayTeachesCode",
+        "notes": "YouTube channelMetadataRenderer: title=Dave Gray; canonical vanity URL=http://www.youtube.com/@DaveGrayTeachesCode",
+        "channel_id": "UCY38RvRIxYODO4penyxUwTg",
+        "channel_title": "Dave Gray",
+        "status": "added"
+      },
+      {
+        "requested_name": "Codevolution",
+        "evidence_url": "https://www.youtube.com/@Codevolution",
+        "notes": "YouTube channelMetadataRenderer: title=Codevolution; canonical vanity URL=http://www.youtube.com/@Codevolution",
+        "channel_id": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+        "channel_title": "Codevolution",
+        "status": "added"
+      },
+      {
+        "requested_name": "JavaScript Mastery",
+        "evidence_url": "https://www.youtube.com/@javascriptmastery",
+        "notes": "YouTube channelMetadataRenderer: title=JavaScript Mastery; canonical vanity URL=http://www.youtube.com/@javascriptmastery",
+        "channel_id": "UCmXmlB4-HJytD7wek0Uo97A",
+        "channel_title": "JavaScript Mastery",
+        "status": "added"
+      },
+      {
+        "requested_name": "ArjanCodes",
+        "evidence_url": "https://www.youtube.com/@ArjanCodes",
+        "notes": "YouTube channelMetadataRenderer: title=ArjanCodes; canonical vanity URL=http://www.youtube.com/@ArjanCodes",
+        "channel_id": "UCVhQ2NnY5Rskt6UjCUkJ_DA",
+        "channel_title": "ArjanCodes",
+        "status": "added"
+      },
+      {
+        "requested_name": "Corey Schafer",
+        "evidence_url": "https://www.youtube.com/@coreyms",
+        "notes": "YouTube channelMetadataRenderer: title=Corey Schafer; canonical vanity URL=http://www.youtube.com/@coreyms",
+        "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+        "channel_title": "Corey Schafer",
+        "status": "added"
+      },
+      {
+        "requested_name": "mCoding",
+        "evidence_url": "https://www.youtube.com/@mCoding",
+        "notes": "YouTube channelMetadataRenderer: title=mCoding; canonical vanity URL=http://www.youtube.com/@mCoding",
+        "channel_id": "UCaiL2GDNpLYH6Wokkk1VNcg",
+        "channel_title": "mCoding",
+        "status": "added"
+      },
+      {
+        "requested_name": "KodeKloud",
+        "evidence_url": "https://www.youtube.com/@KodeKloud",
+        "notes": "YouTube channelMetadataRenderer: title=KodeKloud; canonical vanity URL=http://www.youtube.com/@KodeKloud",
+        "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
+        "channel_title": "KodeKloud",
+        "status": "added"
+      },
+      {
+        "requested_name": "Bret Fisher Docker and DevOps",
+        "evidence_url": "https://www.youtube.com/@BretFisher",
+        "notes": "YouTube channelMetadataRenderer: title=Bret Fisher; canonical vanity URL=http://www.youtube.com/@BretFisher",
+        "channel_id": "UC0NErq0RhP51iXx64ZmyVfg",
+        "channel_title": "Bret Fisher",
+        "status": "added"
+      },
+      {
+        "requested_name": "Christian Lempa",
+        "evidence_url": "https://www.youtube.com/@christianlempa",
+        "notes": "YouTube channelMetadataRenderer: title=Christian Lempa; canonical vanity URL=http://www.youtube.com/@christianlempa",
+        "channel_id": "UCZNhwA1B5YqiY1nLzmM0ZRg",
+        "channel_title": "Christian Lempa",
+        "status": "added"
+      },
+      {
+        "requested_name": "DevOps Directive",
+        "evidence_url": "https://www.youtube.com/@DevOpsDirective",
+        "notes": "YouTube channelMetadataRenderer: title=DevOps Directive; canonical vanity URL=http://www.youtube.com/@DevOpsDirective",
+        "channel_id": "UC4MdpjzjPuop_qWNAvR23JA",
+        "channel_title": "DevOps Directive",
+        "status": "added"
+      },
+      {
+        "requested_name": "Be A Better Dev",
+        "evidence_url": "https://www.youtube.com/@BeABetterDev",
+        "notes": "YouTube channelMetadataRenderer: title=Be A Better Dev; canonical vanity URL=http://www.youtube.com/@BeABetterDev",
+        "channel_id": "UCraiFqWi0qSIxXxXN4IHFBQ",
+        "channel_title": "Be A Better Dev",
+        "status": "added"
+      },
+      {
+        "requested_name": "Gaurav Sen",
+        "evidence_url": "https://www.youtube.com/@gkcs",
+        "notes": "YouTube channelMetadataRenderer: title=Gaurav Sen; canonical vanity URL=http://www.youtube.com/@gkcs",
+        "channel_id": "UCRPMAqdtSgd0Ipeef7iFsKw",
+        "channel_title": "Gaurav Sen",
+        "status": "added"
+      },
+      {
+        "requested_name": "CodeOpinion",
+        "evidence_url": "https://www.youtube.com/@CodeOpinion",
+        "notes": "YouTube channelMetadataRenderer: title=CodeOpinion; canonical vanity URL=http://www.youtube.com/@CodeOpinion",
+        "channel_id": "UC3RKA4vunFAfrfxiJhPEplw",
+        "channel_title": "CodeOpinion",
+        "status": "added"
+      },
+      {
+        "requested_name": "Computerphile",
+        "evidence_url": "https://www.youtube.com/@Computerphile",
+        "notes": "YouTube channelMetadataRenderer: title=Computerphile; canonical vanity URL=http://www.youtube.com/@Computerphile",
+        "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+        "channel_title": "Computerphile",
+        "status": "added"
+      },
+      {
+        "requested_name": "Low Level Learning",
+        "evidence_url": "https://www.youtube.com/@LowLevelTV",
+        "notes": "YouTube channelMetadataRenderer: title=Low Level; canonical vanity URL=http://www.youtube.com/@LowLevelTV; formerly Low Level Learning, now Low Level (search corroboration: https://www.youtube.com/lowlevellearning).",
+        "channel_id": "UC6biysICWOJ-C3P4Tyeggzg",
+        "channel_title": "Low Level",
+        "status": "added"
+      },
+      {
+        "requested_name": "Syntax",
+        "evidence_url": "https://www.youtube.com/@syntaxfm",
+        "notes": "YouTube channelMetadataRenderer: title=Syntax; canonical vanity URL=http://www.youtube.com/@syntaxfm",
+        "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
+        "channel_title": "Syntax",
+        "status": "added"
+      },
+      {
+        "requested_name": "Supabase",
+        "evidence_url": "https://www.youtube.com/@Supabase",
+        "notes": "YouTube channelMetadataRenderer: title=Supabase; canonical vanity URL=http://www.youtube.com/@Supabase",
+        "channel_id": "UCNTVzV1InxHV-YR0fSajqPQ",
+        "channel_title": "Supabase",
+        "status": "added"
+      }
+    ]
+  }
+}
