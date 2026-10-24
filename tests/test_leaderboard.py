@@ -188,7 +188,9 @@ class LeaderboardTests(unittest.TestCase):
 
         relaxed = rank_category_videos(videos, now=now, terms=("ai agent",), title_terms=("ai agent",), source_types={"channel-a": "AI agent and automation"})
 
-        self.assertEqual([item["video_id"] for item in relaxed], ["excluded-incidental", "included"])
+        # Both matches belong to channel-a; only its most-viewed eligible
+        # video survives the broader topic pass.
+        self.assertEqual([item["video_id"] for item in relaxed], ["excluded-incidental"])
 
     def test_parse_duration_minutes_rounds_to_nearest_minute(self):
         self.assertEqual(parse_duration_minutes("PT59S"), 1)

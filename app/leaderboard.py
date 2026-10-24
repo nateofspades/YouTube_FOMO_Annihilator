@@ -79,7 +79,7 @@ def filter_and_rank_videos(
     title_terms: tuple[str, ...] | None = None,
     source_types: dict[str, str] | None = None,
 ) -> list[dict]:
-    """Return eligible curated-source videos ordered by current public view count."""
+    """Rank eligible videos by views, keeping at most one video per channel."""
     source_types = source_types or {}
     eligible = []
     for video in videos:
@@ -92,6 +92,8 @@ def filter_and_rank_videos(
             continue
         snippet = video["snippet"]
         channel_id = snippet.get("channelId", "")
+        if not channel_id:
+            continue
         eligible.append(
             {
                 "video_id": video["id"],
@@ -105,4 +107,10 @@ def filter_and_rank_videos(
                 "url": f"https://www.youtube.com/watch?v={video['id']}",
             }
         )
-    return sorted(eligible, key=lambda item: (-item["view_count"], item["published_at"], item["video_id"]))[:limit]
+    # Deduplicate by stable channel ID only after sorting the entire eligible
+    # pool, so each channel contributes its highest-ranked video and lower
+    # ranked channels can still fill all ten slots. State is category-local.
+    best_per_channel = {}
+    for item in sorted(eligible, key=lambda item: (-item["view_count"], item["published_at"], item["video_id"])):
+        best_per_channel.setdefault(item["channel_id"], item)
+    return list(best_per_channel.values())[:limit]

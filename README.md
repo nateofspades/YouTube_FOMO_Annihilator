@@ -36,9 +36,9 @@ The newest published date is selected by default. The earliest date for which re
 For each category, the automation:
 
 1. Reviews videos from the selected YouTube channels that were published in the preceding 7 days.
-2. Keeps videos with English audio-language metadata and a category-topic match. AI agents and automation and AI podcasts first require a high-signal AI topic match in the title. If fewer than 10 videos qualify, the automation broadens that category’s matching rule to title, description, and tags so the published list can reach 10 when enough relevant videos exist.
-3. Sorts qualifying videos by current public YouTube Data API v3 `viewCount`.
-4. Publishes the top-10 as date-stamped JSON for the site’s Category and Date filters.
+2. Keeps videos with English audio-language metadata, a known channel ID, and a category-topic match. AI agents and automation and AI podcasts first require a high-signal AI topic match in the title. If fewer than 10 distinct channels qualify, the automation broadens that category’s matching rule to title, description, and tags so the published list can reach 10 when enough relevant channels exist.
+3. Sorts qualifying videos by current public YouTube Data API v3 `viewCount`, then keeps only the highest-ranked video per channel (using the stable channel ID, not the display name).
+4. Publishes the top-10 from 10 different channels as date-stamped JSON for the site’s Category and Date filters. Channel uniqueness applies separately to each category and date: the same channel may appear in multiple categories on the same day and may appear again on a later day. If fewer than 10 channels have eligible videos, the list remains shorter rather than repeating a channel. Earlier archived dates are unchanged; the October 24, 2026 refresh applies this rule.
 
 This project ranks qualifying videos from the selected YouTube channels; it does not claim to rank every relevant video on YouTube.
 
