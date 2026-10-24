@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-10-24T14:02:11.510643Z",
+  "generated_at": "2026-10-24T18:15:42.382804Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,14 +11,14 @@
       "handle": "@TheDiaryOfACEO",
       "source_type": "Business podcast",
       "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "My First Million",
       "handle": "@MyFirstMillionPod",
       "source_type": "Business podcast",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 10
+      "recent_video_count": 11
     },
     {
       "name": "Acquired",
@@ -74,7 +74,7 @@
       "handle": "@tkppodcast",
       "source_type": "Business podcast",
       "channel_id": "UCLtTf_uKt0Itd0NG7txrwXA",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "This Week in Startups",
@@ -88,7 +88,7 @@
       "handle": "@20VC",
       "source_type": "Business podcast",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 12
+      "recent_video_count": 11
     },
     {
       "name": "a16z",
@@ -102,14 +102,14 @@
       "handle": "@TheProfGPod",
       "source_type": "Business podcast",
       "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "recent_video_count": 16
+      "recent_video_count": 17
     },
     {
       "name": "Pivot with Kara Swisher and Scott Galloway",
       "handle": "@pivot",
       "source_type": "Business podcast",
       "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "recent_video_count": 10
+      "recent_video_count": 11
     },
     {
       "name": "Tim Ferriss",
@@ -145,20 +145,245 @@
       "source_type": "Business podcast",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
       "recent_video_count": 3
+    },
+    {
+      "name": "The Logan Bartlett Show",
+      "handle": "UCugS0jD5IAdoqzjaNYzns7w",
+      "source_type": "Business podcast",
+      "channel_id": "UCugS0jD5IAdoqzjaNYzns7w",
+      "recent_video_count": 0
+    },
+    {
+      "name": "PBD Podcast",
+      "handle": "UCGX7nGXpz-CmO_Arg-cgJ7A",
+      "source_type": "Business podcast",
+      "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
+      "recent_video_count": 32
+    },
+    {
+      "name": "The Jordan Harbinger Show",
+      "handle": "UCGLcx_fFZ3GlLXO5anHSm9w",
+      "source_type": "Business podcast",
+      "channel_id": "UCGLcx_fFZ3GlLXO5anHSm9w",
+      "recent_video_count": 4
+    },
+    {
+      "name": "The Iced Coffee Hour",
+      "handle": "UCMSYZVlQmyG8_2MkIKzg0kw",
+      "source_type": "Business podcast",
+      "channel_id": "UCMSYZVlQmyG8_2MkIKzg0kw",
+      "recent_video_count": 8
+    },
+    {
+      "name": "The Money Mondays",
+      "handle": "UCJOnJXXGqrcqF9ccXcpbFPg",
+      "source_type": "Business podcast",
+      "channel_id": "UCJOnJXXGqrcqF9ccXcpbFPg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Business Breakdowns",
+      "handle": "UCfnHKTFEryHWyqr4Xjsjb3w",
+      "source_type": "Business podcast",
+      "channel_id": "UCfnHKTFEryHWyqr4Xjsjb3w",
+      "recent_video_count": 1
+    },
+    {
+      "name": "How I Invest with David Weisburd",
+      "handle": "UCncFI0XEvTu7k4er6BgVN9g",
+      "source_type": "Business podcast",
+      "channel_id": "UCncFI0XEvTu7k4er6BgVN9g",
+      "recent_video_count": 10
+    },
+    {
+      "name": "Smart Passive Income",
+      "handle": "UCcVgQ0ziCT3cIYSfs6uaHQg",
+      "source_type": "Business podcast",
+      "channel_id": "UCcVgQ0ziCT3cIYSfs6uaHQg",
+      "recent_video_count": 11
+    },
+    {
+      "name": "Entrepreneurs on Fire",
+      "handle": "UCXfzpliAfdjParawJljHo2g",
+      "source_type": "Business podcast",
+      "channel_id": "UCXfzpliAfdjParawJljHo2g",
+      "recent_video_count": 0
+    },
+    {
+      "name": "The Pitch",
+      "handle": "UC4g1niWj3_eXiBPERvatsFA",
+      "source_type": "Business podcast",
+      "channel_id": "UC4g1niWj3_eXiBPERvatsFA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "The Best One Yet",
+      "handle": "UCly3md3CbnTFJP83lVUEcjw",
+      "source_type": "Business podcast",
+      "channel_id": "UCly3md3CbnTFJP83lVUEcjw",
+      "recent_video_count": 17
+    },
+    {
+      "name": "Marketing Against the Grain",
+      "handle": "UCGtXqPiNV8YC0GMUzY-EUFg",
+      "source_type": "Business podcast",
+      "channel_id": "UCGtXqPiNV8YC0GMUzY-EUFg",
+      "recent_video_count": 5
+    },
+    {
+      "name": "Marketing School",
+      "handle": "UCTJmkA2-u7Kyblm5_P6tKdA",
+      "source_type": "Business podcast",
+      "channel_id": "UCTJmkA2-u7Kyblm5_P6tKdA",
+      "recent_video_count": 13
+    },
+    {
+      "name": "The Colin and Samir Show",
+      "playlist_id": "PLi4pMG9s7WOnS3hwOBlrB1HHVI4D_NamE",
+      "source_type": "Business podcast",
+      "channel_id": "UCamLstJyCa-t5gfZegxsFMw",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Modern Wisdom",
+      "playlist_id": "PLkL7BvJXiqSQu3i72hSrG4vUkDuaneHuB",
+      "source_type": "Business podcast",
+      "channel_id": "UCIaH-gZIVC432YRjNVvnyCA",
+      "recent_video_count": 5
+    },
+    {
+      "name": "The School of Greatness",
+      "playlist_id": "PLMG5w22POeeykqONbfGi00m4AqxhnzmWc",
+      "source_type": "Business podcast",
+      "channel_id": "UCKsP3v2JeT2hWI_HzkxWiMA",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Impact Theory",
+      "playlist_id": "PL8qcvQ7Byc3N3CAcv4tVXeP5DoAG1zNek",
+      "source_type": "Business podcast",
+      "channel_id": "UCnYMOamNKLGVlJgRUbamveA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Odd Lots",
+      "playlist_id": "PLe4PRejZgr0OJbRzA6nWybYiThLJd_ouz",
+      "source_type": "Business podcast",
+      "channel_id": "UChF5O40UBqAc82I7-i5ig6A",
+      "recent_video_count": 5
+    },
+    {
+      "name": "The Compound and Friends",
+      "playlist_id": "PLZgCX3KJ3XGAq-6Ewy4ClI88EIYDxJsaS",
+      "source_type": "Business podcast",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Animal Spirits Podcast",
+      "playlist_id": "PLZgCX3KJ3XGCNSt9ynclginAZzAvgmzk3",
+      "source_type": "Business podcast",
+      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Masters in Business",
+      "playlist_id": "PLe4PRejZgr0PzN7r8NikAnOqP70DHhoJ0",
+      "source_type": "Business podcast",
+      "channel_id": "UChF5O40UBqAc82I7-i5ig6A",
+      "recent_video_count": 2
+    },
+    {
+      "name": "The Startup Ideas Podcast",
+      "playlist_id": "PLQHTakJAwGLMQxKVlKUVpC7aiYTZ2j2J9",
+      "source_type": "Business podcast",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "recent_video_count": 3
+    },
+    {
+      "name": "The Futur Podcast",
+      "playlist_id": "PLzKJi2GjpkEE8hyFgMt0pIjnYkGB2YpDt",
+      "source_type": "Business podcast",
+      "channel_id": "UC-b3c7kxa5vU-bnmaROgvog",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Goal Digger Podcast",
+      "playlist_id": "PLsMotrp9AeS-56sgt0kBQXm-4s_UgLUEY",
+      "source_type": "Business podcast",
+      "channel_id": "UCHLhShbj0XD9xLq7wDSTj5A",
+      "recent_video_count": 0
+    },
+    {
+      "name": "The Foundr Podcast",
+      "playlist_id": "PLx2VRNuTQZgbxunK7mZD3FY1IhKxCbs5b",
+      "source_type": "Business podcast",
+      "channel_id": "UChpWgrkJY_i7F6wwI_TOnrg",
+      "recent_video_count": 1
+    },
+    {
+      "name": "The SaaS Podcast",
+      "playlist_id": "PLgKRhGFL8PHP9P7fpWCG9jHp-abyK2GG4",
+      "source_type": "Business podcast",
+      "channel_id": "UCZbyAKrrtV87PywXc9vydng",
+      "recent_video_count": 0
+    },
+    {
+      "name": "The Startup Chat",
+      "playlist_id": "PLb1c0oEEXWIbdRXhp0AS46qd6jlxBFLEh",
+      "source_type": "Business podcast",
+      "channel_id": "UCC7ZkCK3FxZiqMXqI3yvWHw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "The Side Hustle Show",
+      "playlist_id": "PLj561ehA3vjbTzFM3ToFMzjgk2eStZF4X",
+      "source_type": "Business podcast",
+      "channel_id": "UCzOAAJUiSO2uyu1xyxw__2Q",
+      "recent_video_count": 2
+    },
+    {
+      "name": "HBR IdeaCast",
+      "playlist_id": "PLzAU8TPKsJub289QhDao56ioTr7044hBl",
+      "source_type": "Business podcast",
+      "channel_id": "UCWo4IA01TXzBeGJJKWHOG9g",
+      "recent_video_count": 1
     }
   ],
-  "candidate_count": 214,
+  "candidate_count": 337,
   "results": [
     {
-      "video_id": "i7-t8e42WkM",
-      "title": "Chamath Explains the AI Boom’s Achilles Heel",
-      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "channel_title": "All-In Podcast",
+      "video_id": "OeOJFbvbyEM",
+      "title": "France Erupts in Protests, Dems Want \"Manly Men,\" & Talarico Surges| PBD Podcast #875",
+      "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
+      "channel_title": "PBD Podcast",
       "source_type": "Business podcast",
-      "published_at": "2026-10-17T15:30:12Z",
-      "view_count": 353944,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=i7-t8e42WkM"
+      "published_at": "2026-10-19T15:40:50Z",
+      "view_count": 514096,
+      "duration_minutes": 129,
+      "url": "https://www.youtube.com/watch?v=OeOJFbvbyEM"
+    },
+    {
+      "video_id": "3UgyPEqnOBE",
+      "title": "Floyd Mayweather Reveals How $550 MILLION Was Stolen From Him | PBD Podcast #876",
+      "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
+      "channel_title": "PBD Podcast",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-20T15:00:09Z",
+      "view_count": 408851,
+      "duration_minutes": 65,
+      "url": "https://www.youtube.com/watch?v=3UgyPEqnOBE"
+    },
+    {
+      "video_id": "N_nuY-9YPc4",
+      "title": "Democrats Come After Musk & Zuck Thinks About Leaving California | PBD Podcast Ep. 878",
+      "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
+      "channel_title": "PBD Podcast",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-23T15:43:37Z",
+      "view_count": 346338,
+      "duration_minutes": 137,
+      "url": "https://www.youtube.com/watch?v=N_nuY-9YPc4"
     },
     {
       "video_id": "jt5ol63Qaxw",
@@ -167,9 +392,31 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-18T12:00:14Z",
-      "view_count": 337272,
+      "view_count": 339093,
       "duration_minutes": 7,
       "url": "https://www.youtube.com/watch?v=jt5ol63Qaxw"
+    },
+    {
+      "video_id": "6czo-C3FU7I",
+      "title": "AI Cyber Panic, Ken Griffin’s Bubble Warning, The Fall of France?",
+      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
+      "channel_title": "All-In Podcast",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-23T23:52:56Z",
+      "view_count": 281576,
+      "duration_minutes": 103,
+      "url": "https://www.youtube.com/watch?v=6czo-C3FU7I"
+    },
+    {
+      "video_id": "5pk8HLcAAT0",
+      "title": "Asking A 30-Year-Old Billionaire CEO How He’d Make $1,000,000 (Starting From $0)",
+      "channel_id": "UCMSYZVlQmyG8_2MkIKzg0kw",
+      "channel_title": "The Iced Coffee Hour",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-18T16:00:00Z",
+      "view_count": 278419,
+      "duration_minutes": 133,
+      "url": "https://www.youtube.com/watch?v=5pk8HLcAAT0"
     },
     {
       "video_id": "KmwJy5_1nOw",
@@ -178,7 +425,7 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-23T13:00:18Z",
-      "view_count": 252219,
+      "view_count": 268573,
       "duration_minutes": 70,
       "url": "https://www.youtube.com/watch?v=KmwJy5_1nOw"
     },
@@ -189,7 +436,7 @@
       "channel_title": "My First Million",
       "source_type": "Business podcast",
       "published_at": "2026-10-17T22:43:10Z",
-      "view_count": 248034,
+      "view_count": 250710,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=pTuzmOblTGY"
     },
@@ -200,64 +447,20 @@
       "channel_title": "My First Million",
       "source_type": "Business podcast",
       "published_at": "2026-10-22T21:31:01Z",
-      "view_count": 233009,
+      "view_count": 243786,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=_Lux62iTbFE"
     },
     {
-      "video_id": "6czo-C3FU7I",
-      "title": "AI Cyber Panic, Ken Griffin’s Bubble Warning, The Fall of France?",
-      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "channel_title": "All-In Podcast",
+      "video_id": "dbQICAMJBbg",
+      "title": "How To Make MILLIONS Off DoorDash",
+      "channel_id": "UCMSYZVlQmyG8_2MkIKzg0kw",
+      "channel_title": "The Iced Coffee Hour",
       "source_type": "Business podcast",
-      "published_at": "2026-10-23T23:52:56Z",
-      "view_count": 215257,
-      "duration_minutes": 103,
-      "url": "https://www.youtube.com/watch?v=6czo-C3FU7I"
-    },
-    {
-      "video_id": "dpnlQg2lWF4",
-      "title": "Peter Zeihan: Globalization Was Always Going to Fail — Trump Just Sped It Up",
-      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "channel_title": "The Prof G Pod – Scott Galloway",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-19T22:30:35Z",
-      "view_count": 212928,
-      "duration_minutes": 8,
-      "url": "https://www.youtube.com/watch?v=dpnlQg2lWF4"
-    },
-    {
-      "video_id": "TRnM1ngRCaU",
-      "title": "Why Elon’s \"Flying\" Roadster Stunt Is Pure Distraction",
-      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-20T13:00:38Z",
-      "view_count": 197718,
-      "duration_minutes": 53,
-      "url": "https://www.youtube.com/watch?v=TRnM1ngRCaU"
-    },
-    {
-      "video_id": "1q-PAX92DOg",
-      "title": "My Life Journey",
-      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "channel_title": "Alex Hormozi",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-21T23:30:11Z",
-      "view_count": 180940,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=1q-PAX92DOg"
-    },
-    {
-      "video_id": "b89qg6pBp2E",
-      "title": "How this tiny golf game makes $500K a year",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-20T22:39:53Z",
-      "view_count": 172852,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=b89qg6pBp2E"
+      "published_at": "2026-10-17T19:00:16Z",
+      "view_count": 241164,
+      "duration_minutes": 0,
+      "url": "https://www.youtube.com/watch?v=dbQICAMJBbg"
     }
   ]
 }

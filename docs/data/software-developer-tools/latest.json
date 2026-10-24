@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-10-24T14:02:11.510643Z",
+  "generated_at": "2026-10-24T18:15:42.382804Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@GitHub",
       "source_type": "Official company",
       "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "Google for Developers",
@@ -95,7 +95,7 @@
       "handle": "@TraversyMedia",
       "source_type": "Independent creator",
       "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Web Dev Simplified",
@@ -145,9 +145,219 @@
       "source_type": "Official company",
       "channel_id": "UCfO2GiQwb-cwJTb1CuRSkwg",
       "recent_video_count": 2
+    },
+    {
+      "name": "Programming with Mosh",
+      "handle": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "source_type": "Additional curated source",
+      "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "The Net Ninja",
+      "handle": "UCW5YeuERMmlnqo4oq8vwUpg",
+      "source_type": "Additional curated source",
+      "channel_id": "UCW5YeuERMmlnqo4oq8vwUpg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Academind",
+      "handle": "UCSJbGtTlrDami-tDGPUV9-w",
+      "source_type": "Additional curated source",
+      "channel_id": "UCSJbGtTlrDami-tDGPUV9-w",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Kevin Powell",
+      "handle": "UCJZv4d5rbIKd4QHMPkcABCw",
+      "source_type": "Additional curated source",
+      "channel_id": "UCJZv4d5rbIKd4QHMPkcABCw",
+      "recent_video_count": 2
+    },
+    {
+      "name": "The Coding Train",
+      "handle": "UCvjgXvBlbQiydffZU7m1_aw",
+      "source_type": "Additional curated source",
+      "channel_id": "UCvjgXvBlbQiydffZU7m1_aw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "NeetCode",
+      "handle": "UC_mYaQAE6-71rjSN6CeCA-g",
+      "source_type": "Additional curated source",
+      "channel_id": "UC_mYaQAE6-71rjSN6CeCA-g",
+      "recent_video_count": 0
+    },
+    {
+      "name": "CS Dojo",
+      "handle": "UCxX9wt5FWQUAAz4UrysqK9A",
+      "source_type": "Additional curated source",
+      "channel_id": "UCxX9wt5FWQUAAz4UrysqK9A",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Amigoscode",
+      "handle": "UC2KfmYEM4KCuA1ZurravgYw",
+      "source_type": "Additional curated source",
+      "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
+      "recent_video_count": 7
+    },
+    {
+      "name": "CodeAesthetic",
+      "handle": "UCaSCt8s_4nfkRglWCvNSDrg",
+      "source_type": "Additional curated source",
+      "channel_id": "UCaSCt8s_4nfkRglWCvNSDrg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Hyperplexed",
+      "handle": "UCmEzz-dPBVrsy4ZluSsYHDg",
+      "source_type": "Additional curated source",
+      "channel_id": "UCmEzz-dPBVrsy4ZluSsYHDg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Jack Herrington",
+      "handle": "UC6vRUjYqDuoUsYsku86Lrsw",
+      "source_type": "Additional curated source",
+      "channel_id": "UC6vRUjYqDuoUsYsku86Lrsw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Josh tried coding",
+      "handle": "UCvGwM5woTl13I-qThI4YMCg",
+      "source_type": "Additional curated source",
+      "channel_id": "UCvGwM5woTl13I-qThI4YMCg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Sam Selikoff",
+      "handle": "UCgN4rDA3UNQ1OKQRXJd0nwg",
+      "source_type": "Additional curated source",
+      "channel_id": "UCgN4rDA3UNQ1OKQRXJd0nwg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Dave Gray",
+      "handle": "UCY38RvRIxYODO4penyxUwTg",
+      "source_type": "Additional curated source",
+      "channel_id": "UCY38RvRIxYODO4penyxUwTg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Codevolution",
+      "handle": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+      "source_type": "Additional curated source",
+      "channel_id": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "JavaScript Mastery",
+      "handle": "UCmXmlB4-HJytD7wek0Uo97A",
+      "source_type": "Additional curated source",
+      "channel_id": "UCmXmlB4-HJytD7wek0Uo97A",
+      "recent_video_count": 5
+    },
+    {
+      "name": "ArjanCodes",
+      "handle": "UCVhQ2NnY5Rskt6UjCUkJ_DA",
+      "source_type": "Additional curated source",
+      "channel_id": "UCVhQ2NnY5Rskt6UjCUkJ_DA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Corey Schafer",
+      "handle": "UCCezIgC97PvUuR4_gbFUs5g",
+      "source_type": "Additional curated source",
+      "channel_id": "UCCezIgC97PvUuR4_gbFUs5g",
+      "recent_video_count": 0
+    },
+    {
+      "name": "mCoding",
+      "handle": "UCaiL2GDNpLYH6Wokkk1VNcg",
+      "source_type": "Additional curated source",
+      "channel_id": "UCaiL2GDNpLYH6Wokkk1VNcg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "KodeKloud",
+      "handle": "UCSWj8mqQCcrcBlXPi4ThRDQ",
+      "source_type": "Additional curated source",
+      "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
+      "recent_video_count": 9
+    },
+    {
+      "name": "Bret Fisher Docker and DevOps",
+      "handle": "UC0NErq0RhP51iXx64ZmyVfg",
+      "source_type": "Additional curated source",
+      "channel_id": "UC0NErq0RhP51iXx64ZmyVfg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Christian Lempa",
+      "handle": "UCZNhwA1B5YqiY1nLzmM0ZRg",
+      "source_type": "Additional curated source",
+      "channel_id": "UCZNhwA1B5YqiY1nLzmM0ZRg",
+      "recent_video_count": 1
+    },
+    {
+      "name": "DevOps Directive",
+      "handle": "UC4MdpjzjPuop_qWNAvR23JA",
+      "source_type": "Additional curated source",
+      "channel_id": "UC4MdpjzjPuop_qWNAvR23JA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Be A Better Dev",
+      "handle": "UCraiFqWi0qSIxXxXN4IHFBQ",
+      "source_type": "Additional curated source",
+      "channel_id": "UCraiFqWi0qSIxXxXN4IHFBQ",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Gaurav Sen",
+      "handle": "UCRPMAqdtSgd0Ipeef7iFsKw",
+      "source_type": "Additional curated source",
+      "channel_id": "UCRPMAqdtSgd0Ipeef7iFsKw",
+      "recent_video_count": 1
+    },
+    {
+      "name": "CodeOpinion",
+      "handle": "UC3RKA4vunFAfrfxiJhPEplw",
+      "source_type": "Additional curated source",
+      "channel_id": "UC3RKA4vunFAfrfxiJhPEplw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Computerphile",
+      "handle": "UC9-y-6csu5WGm29I7JiwpnA",
+      "source_type": "Additional curated source",
+      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Low Level Learning",
+      "handle": "UC6biysICWOJ-C3P4Tyeggzg",
+      "source_type": "Additional curated source",
+      "channel_id": "UC6biysICWOJ-C3P4Tyeggzg",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Syntax",
+      "handle": "UCyU5wkjgQYGRB0hIHMwm2Sg",
+      "source_type": "Additional curated source",
+      "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
+      "recent_video_count": 4
+    },
+    {
+      "name": "Supabase",
+      "handle": "UCNTVzV1InxHV-YR0fSajqPQ",
+      "source_type": "Additional curated source",
+      "channel_id": "UCNTVzV1InxHV-YR0fSajqPQ",
+      "recent_video_count": 0
     }
   ],
-  "candidate_count": 103,
+  "candidate_count": 138,
   "results": [
     {
       "video_id": "zv6B6PQOuHE",
@@ -156,7 +366,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-10-22T15:09:31Z",
-      "view_count": 1339212,
+      "view_count": 1362895,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=zv6B6PQOuHE"
     },
@@ -167,9 +377,20 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-10-23T18:19:58Z",
-      "view_count": 1069886,
+      "view_count": 1185769,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=SMGg7iisHmc"
+    },
+    {
+      "video_id": "JqljXzMrSGk",
+      "title": "the fridge situation is insane",
+      "channel_id": "UC6biysICWOJ-C3P4Tyeggzg",
+      "channel_title": "Low Level",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-19T14:43:24Z",
+      "view_count": 287997,
+      "duration_minutes": 12,
+      "url": "https://www.youtube.com/watch?v=JqljXzMrSGk"
     },
     {
       "video_id": "m-B3jIMMmUE",
@@ -178,20 +399,9 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-18T23:57:04Z",
-      "view_count": 234934,
+      "view_count": 235655,
       "duration_minutes": 32,
       "url": "https://www.youtube.com/watch?v=m-B3jIMMmUE"
-    },
-    {
-      "video_id": "3OshsLm3_OQ",
-      "title": "Opus 5.5 is proof that we do need smarter models",
-      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
-      "channel_title": "Theo - t3․gg",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-20T22:13:42Z",
-      "view_count": 220908,
-      "duration_minutes": 31,
-      "url": "https://www.youtube.com/watch?v=3OshsLm3_OQ"
     },
     {
       "video_id": "USeyDcWyVCc",
@@ -200,64 +410,64 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-22T19:14:45Z",
-      "view_count": 220051,
+      "view_count": 223274,
       "duration_minutes": 29,
       "url": "https://www.youtube.com/watch?v=USeyDcWyVCc"
     },
     {
-      "video_id": "2C_CefSQEAQ",
-      "title": "AI harness crash course",
-      "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "channel_title": "Google Cloud Tech",
-      "source_type": "Official company",
-      "published_at": "2026-10-22T15:55:11Z",
-      "view_count": 76108,
-      "duration_minutes": 9,
-      "url": "https://www.youtube.com/watch?v=2C_CefSQEAQ"
-    },
-    {
-      "video_id": "FbXPaIcpvww",
-      "title": "How To Design The Perfect Auth System In The Age of AI",
-      "channel_id": "UCFbNIlppjAuEX4znoulh0Cw",
-      "channel_title": "Web Dev Simplified",
+      "video_id": "3OshsLm3_OQ",
+      "title": "Opus 5.5 is proof that we do need smarter models",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
-      "published_at": "2026-10-20T22:00:20Z",
-      "view_count": 72497,
-      "duration_minutes": 24,
-      "url": "https://www.youtube.com/watch?v=FbXPaIcpvww"
+      "published_at": "2026-10-20T22:13:42Z",
+      "view_count": 221979,
+      "duration_minutes": 31,
+      "url": "https://www.youtube.com/watch?v=3OshsLm3_OQ"
     },
     {
-      "video_id": "kT7nXO32L-Q",
-      "title": "PostgreSQL Hybrid Search Course – Keyword (BM25) + Vector Retrieval",
-      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
-      "channel_title": "freeCodeCamp.org",
-      "source_type": "Research institution",
-      "published_at": "2026-10-21T10:30:36Z",
-      "view_count": 68781,
-      "duration_minutes": 60,
-      "url": "https://www.youtube.com/watch?v=kT7nXO32L-Q"
+      "video_id": "ZSFSA1Tx6lk",
+      "title": "Interview: What Is a Bloom Filter?🧠",
+      "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
+      "channel_title": "KodeKloud",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-21T12:34:40Z",
+      "view_count": 180029,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=ZSFSA1Tx6lk"
     },
     {
-      "video_id": "gYXLRMycVMk",
-      "title": "MCP Security Fundamentals Course",
-      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
-      "channel_title": "freeCodeCamp.org",
-      "source_type": "Research institution",
-      "published_at": "2026-10-22T12:08:35Z",
-      "view_count": 66698,
-      "duration_minutes": 130,
-      "url": "https://www.youtube.com/watch?v=gYXLRMycVMk"
+      "video_id": "Hp-fPImMNfs",
+      "title": "Interview: How Does File Compression Work?🗃️",
+      "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
+      "channel_title": "KodeKloud",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-22T12:57:04Z",
+      "view_count": 175141,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=Hp-fPImMNfs"
     },
     {
-      "video_id": "JGly6PSK5iw",
-      "title": "Gemini 4 Argon API Crash Course",
-      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
-      "channel_title": "freeCodeCamp.org",
-      "source_type": "Research institution",
-      "published_at": "2026-10-23T14:10:25Z",
-      "view_count": 65243,
-      "duration_minutes": 11,
-      "url": "https://www.youtube.com/watch?v=JGly6PSK5iw"
+      "video_id": "Ifd31fTxzgc",
+      "title": "System Design: Building an Authentication System",
+      "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
+      "channel_title": "KodeKloud",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-19T12:35:34Z",
+      "view_count": 146884,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=Ifd31fTxzgc"
+    },
+    {
+      "video_id": "wEjgtknhLUQ",
+      "title": "Interview: How DNS Finds a Website’s IP Address",
+      "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
+      "channel_title": "KodeKloud",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-18T11:30:10Z",
+      "view_count": 132269,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=wEjgtknhLUQ"
     }
   ]
 }
