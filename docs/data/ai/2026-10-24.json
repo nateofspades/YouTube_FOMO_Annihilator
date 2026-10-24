@@ -1,7 +1,7 @@
 {
   "slug": "ai",
   "title": "AI news",
-  "generated_at": "2026-10-24T18:27:45.247868Z",
+  "generated_at": "2026-10-24T18:51:32.908076Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 2,
@@ -18,7 +18,7 @@
       "handle": "@mreflow",
       "source_type": "AI-focused channel",
       "channel_id": "UChpleBmo18P08aKCIgti38g",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "TheAIGRID",
@@ -350,7 +350,7 @@
       "recent_video_count": 3
     }
   ],
-  "candidate_count": 539,
+  "candidate_count": 540,
   "results": [
     {
       "video_id": "v-NGxyPjcrE",
@@ -359,7 +359,7 @@
       "channel_title": "NVIDIA",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-23T08:43:07Z",
-      "view_count": 7315305,
+      "view_count": 7392432,
       "duration_minutes": 92,
       "url": "https://www.youtube.com/watch?v=v-NGxyPjcrE"
     },
@@ -370,20 +370,9 @@
       "channel_title": "Fireship",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-20T16:21:03Z",
-      "view_count": 1844886,
+      "view_count": 1845921,
       "duration_minutes": 7,
       "url": "https://www.youtube.com/watch?v=b2tjnxX8IHU"
-    },
-    {
-      "video_id": "SMGg7iisHmc",
-      "title": "The most vulnerable week in internet history...",
-      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "channel_title": "Fireship",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-23T18:19:58Z",
-      "view_count": 1189833,
-      "duration_minutes": 6,
-      "url": "https://www.youtube.com/watch?v=SMGg7iisHmc"
     },
     {
       "video_id": "ppq-xEd-AXw",
@@ -392,7 +381,7 @@
       "channel_title": "TechLinked",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-22T01:55:04Z",
-      "view_count": 742565,
+      "view_count": 743347,
       "duration_minutes": 11,
       "url": "https://www.youtube.com/watch?v=ppq-xEd-AXw"
     },
@@ -403,31 +392,9 @@
       "channel_title": "AI Search",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-23T03:29:27Z",
-      "view_count": 609198,
+      "view_count": 611939,
       "duration_minutes": 27,
       "url": "https://www.youtube.com/watch?v=1Aqhg0FVm-w"
-    },
-    {
-      "video_id": "HNr84Ub9-w8",
-      "title": "BIG OOF",
-      "channel_id": "UCeeFfhMcJa1kjtfZAGskOCA",
-      "channel_title": "TechLinked",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-20T01:06:46Z",
-      "view_count": 564693,
-      "duration_minutes": 8,
-      "url": "https://www.youtube.com/watch?v=HNr84Ub9-w8"
-    },
-    {
-      "video_id": "tDWtcyeNNew",
-      "title": "Quantum breakthrough, Gemini 4 Argon, MOSS Image, KLING 4, OpenAI spy, Muse Wonder: AI NEWS",
-      "channel_id": "UCIgnGlGkVRhd4qNFcEwLL4A",
-      "channel_title": "AI Search",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-18T03:30:33Z",
-      "view_count": 561413,
-      "duration_minutes": 41,
-      "url": "https://www.youtube.com/watch?v=tDWtcyeNNew"
     },
     {
       "video_id": "ehcBwqyUGjo",
@@ -436,20 +403,9 @@
       "channel_title": "Wes Roth",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-21T20:47:18Z",
-      "view_count": 480358,
+      "view_count": 480563,
       "duration_minutes": 17,
       "url": "https://www.youtube.com/watch?v=ehcBwqyUGjo"
-    },
-    {
-      "video_id": "cUeZMUGCxrw",
-      "title": "New top local AI image generator is here!",
-      "channel_id": "UCIgnGlGkVRhd4qNFcEwLL4A",
-      "channel_title": "AI Search",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-20T03:24:08Z",
-      "view_count": 360693,
-      "duration_minutes": 22,
-      "url": "https://www.youtube.com/watch?v=cUeZMUGCxrw"
     },
     {
       "video_id": "3gXLmy7DK_4",
@@ -458,9 +414,53 @@
       "channel_title": "Matthew Berman",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-21T15:30:24Z",
-      "view_count": 315259,
+      "view_count": 316446,
       "duration_minutes": 45,
       "url": "https://www.youtube.com/watch?v=3gXLmy7DK_4"
+    },
+    {
+      "video_id": "7Y4sbZgBdnc",
+      "title": "Is the Agent Harness Dead? — Jediah Katz, SpaceXAI",
+      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channel_title": "AI Engineer",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-19T19:00:17Z",
+      "view_count": 250550,
+      "duration_minutes": 18,
+      "url": "https://www.youtube.com/watch?v=7Y4sbZgBdnc"
+    },
+    {
+      "video_id": "FuIjXL_ODmA",
+      "title": "Breakthrough Glasses Slow Myopia in Kids — What It’s Like to Order Stellest",
+      "channel_id": "UCOmcA3f_RrH6b9NmcNa4tdg",
+      "channel_title": "CNET",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-18T12:00:15Z",
+      "view_count": 246360,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=FuIjXL_ODmA"
+    },
+    {
+      "video_id": "m-B3jIMMmUE",
+      "title": "Your prompts kinda suck",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "channel_title": "Theo - t3․gg",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-18T23:57:04Z",
+      "view_count": 235776,
+      "duration_minutes": 32,
+      "url": "https://www.youtube.com/watch?v=m-B3jIMMmUE"
+    },
+    {
+      "video_id": "LWxX6vvHfrc",
+      "title": "Gemini 4 Argon Is Not What I Expected",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "channel_title": "Two Minute Papers",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-19T08:49:21Z",
+      "view_count": 224473,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc"
     }
   ]
 }

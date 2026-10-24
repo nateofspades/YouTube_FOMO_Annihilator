@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-10-24T18:27:45.247868Z",
+  "generated_at": "2026-10-24T18:51:32.908076Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -359,20 +359,9 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-17T22:43:10Z",
-      "view_count": 250822,
+      "view_count": 251122,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=pTuzmOblTGY"
-    },
-    {
-      "video_id": "_Lux62iTbFE",
-      "title": "What Elon Musk would do if he lost everything",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-22T21:31:01Z",
-      "view_count": 244323,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=_Lux62iTbFE"
     },
     {
       "video_id": "tpZOU1ugODQ",
@@ -381,7 +370,7 @@
       "channel_title": "Greg Isenberg",
       "source_type": "Additional curated source",
       "published_at": "2026-10-19T17:50:26Z",
-      "view_count": 228922,
+      "view_count": 229152,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=tpZOU1ugODQ"
     },
@@ -392,7 +381,7 @@
       "channel_title": "Rob Walling",
       "source_type": "Additional curated source",
       "published_at": "2026-10-18T16:00:21Z",
-      "view_count": 192441,
+      "view_count": 192638,
       "duration_minutes": 40,
       "url": "https://www.youtube.com/watch?v=KpILHX2D-AA"
     },
@@ -403,42 +392,9 @@
       "channel_title": "Starter Story",
       "source_type": "Additional curated source",
       "published_at": "2026-10-18T17:00:19Z",
-      "view_count": 181149,
+      "view_count": 181664,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=NuYO7DWzlaM"
-    },
-    {
-      "video_id": "b89qg6pBp2E",
-      "title": "How this tiny golf game makes $500K a year",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-20T22:39:53Z",
-      "view_count": 176538,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=b89qg6pBp2E"
-    },
-    {
-      "video_id": "aX6-BC2rBHI",
-      "title": "Why Zuckerberg bet $15B on Alexander Wang",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-22T00:11:40Z",
-      "view_count": 147176,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=aX6-BC2rBHI"
-    },
-    {
-      "video_id": "0ab30SMpLFo",
-      "title": "One Family Controls 70% of All Motels",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-18T22:58:02Z",
-      "view_count": 85731,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=0ab30SMpLFo"
     },
     {
       "video_id": "82JpLrZyteg",
@@ -447,7 +403,7 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-19T16:00:34Z",
-      "view_count": 83590,
+      "view_count": 83635,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=82JpLrZyteg"
     },
@@ -458,9 +414,53 @@
       "channel_title": "Codie Sanchez",
       "source_type": "Additional curated source",
       "published_at": "2026-10-18T15:00:34Z",
-      "view_count": 72557,
+      "view_count": 72624,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=_IwYLXAXzx8"
+    },
+    {
+      "video_id": "-YMMRQ1qscI",
+      "title": "Amazon CEO Andy Jassy on the Infrastructure the AI Era Needs",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-23T15:40:03Z",
+      "view_count": 67028,
+      "duration_minutes": 61,
+      "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI"
+    },
+    {
+      "video_id": "JHo-aiePjoM",
+      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
+      "channel_title": "Lenny's Podcast",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-18T12:30:11Z",
+      "view_count": 65540,
+      "duration_minutes": 72,
+      "url": "https://www.youtube.com/watch?v=JHo-aiePjoM"
+    },
+    {
+      "video_id": "Kn1-GJj-Ibs",
+      "title": "We Bought A Brooklyn Brownstone For $1.5 Million And Renovated It For About $300,000",
+      "channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
+      "channel_title": "CNBC Make It",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-22T17:00:07Z",
+      "view_count": 56026,
+      "duration_minutes": 10,
+      "url": "https://www.youtube.com/watch?v=Kn1-GJj-Ibs"
+    },
+    {
+      "video_id": "9Cf416w4JJI",
+      "title": "Copy This Strategy to 10X Your Business (Fast)",
+      "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+      "channel_title": "Dan Martell",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-21T13:00:30Z",
+      "view_count": 52675,
+      "duration_minutes": 26,
+      "url": "https://www.youtube.com/watch?v=9Cf416w4JJI"
     }
   ]
 }
