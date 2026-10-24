@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-10-24T18:15:42.382804Z",
+  "generated_at": "2026-10-24T18:27:45.247868Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -367,7 +367,7 @@
       "channel_title": "Kurzgesagt – In a Nutshell",
       "source_type": "Independent creator",
       "published_at": "2026-10-20T14:00:11Z",
-      "view_count": 4676107,
+      "view_count": 4679425,
       "duration_minutes": 4,
       "url": "https://www.youtube.com/watch?v=PXbVn-f_wuM"
     },
@@ -378,7 +378,7 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-23T18:46:44Z",
-      "view_count": 3025211,
+      "view_count": 3043317,
       "duration_minutes": 34,
       "url": "https://www.youtube.com/watch?v=eyZEqSPeMwg"
     },
@@ -389,7 +389,7 @@
       "channel_title": "StarTalk",
       "source_type": "Additional curated source",
       "published_at": "2026-10-18T15:00:38Z",
-      "view_count": 1360074,
+      "view_count": 1360290,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=NyCtgZCYUmY"
     },
@@ -400,7 +400,7 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-22T13:00:17Z",
-      "view_count": 936550,
+      "view_count": 937888,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=wxLc-gFORPQ"
     },
@@ -411,7 +411,7 @@
       "channel_title": "NASA",
       "source_type": "Government",
       "published_at": "2026-10-20T15:02:15Z",
-      "view_count": 804938,
+      "view_count": 805625,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=Zezt6EsG9WE"
     },
@@ -422,7 +422,7 @@
       "channel_title": "Practical Engineering",
       "source_type": "Independent creator",
       "published_at": "2026-10-20T13:00:19Z",
-      "view_count": 759351,
+      "view_count": 759953,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=awV7FP9sAHE"
     },
@@ -433,7 +433,7 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-23T13:45:36Z",
-      "view_count": 734124,
+      "view_count": 737668,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=PBPLhvsR9V8"
     },
@@ -444,7 +444,7 @@
       "channel_title": "StarTalk",
       "source_type": "Additional curated source",
       "published_at": "2026-10-22T19:30:00Z",
-      "view_count": 608499,
+      "view_count": 609313,
       "duration_minutes": 11,
       "url": "https://www.youtube.com/watch?v=FDGacISecDQ"
     },
@@ -455,7 +455,7 @@
       "channel_title": "PBS Space Time",
       "source_type": "Editorial/media",
       "published_at": "2026-10-22T20:15:02Z",
-      "view_count": 566576,
+      "view_count": 567134,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=eb8x2tz_pgc"
     },
@@ -466,7 +466,7 @@
       "channel_title": "Sabine Hossenfelder",
       "source_type": "Additional curated source",
       "published_at": "2026-10-20T15:00:14Z",
-      "view_count": 519485,
+      "view_count": 519582,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=y4fN8APrV8I"
     }

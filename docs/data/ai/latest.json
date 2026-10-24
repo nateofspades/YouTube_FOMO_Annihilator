@@ -1,7 +1,7 @@
 {
   "slug": "ai",
   "title": "AI news",
-  "generated_at": "2026-10-24T18:15:42.382804Z",
+  "generated_at": "2026-10-24T18:27:45.247868Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 2,
@@ -179,7 +179,7 @@
       "handle": "UCOmcA3f_RrH6b9NmcNa4tdg",
       "source_type": "AI-focused channel",
       "channel_id": "UCOmcA3f_RrH6b9NmcNa4tdg",
-      "recent_video_count": 22
+      "recent_video_count": 23
     },
     {
       "name": "The Verge",
@@ -350,7 +350,7 @@
       "recent_video_count": 3
     }
   ],
-  "candidate_count": 538,
+  "candidate_count": 539,
   "results": [
     {
       "video_id": "v-NGxyPjcrE",
@@ -359,7 +359,7 @@
       "channel_title": "NVIDIA",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-23T08:43:07Z",
-      "view_count": 7275821,
+      "view_count": 7315305,
       "duration_minutes": 92,
       "url": "https://www.youtube.com/watch?v=v-NGxyPjcrE"
     },
@@ -370,7 +370,7 @@
       "channel_title": "Fireship",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-20T16:21:03Z",
-      "view_count": 1844464,
+      "view_count": 1844886,
       "duration_minutes": 7,
       "url": "https://www.youtube.com/watch?v=b2tjnxX8IHU"
     },
@@ -381,7 +381,7 @@
       "channel_title": "Fireship",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-23T18:19:58Z",
-      "view_count": 1183091,
+      "view_count": 1189833,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=SMGg7iisHmc"
     },
@@ -392,7 +392,7 @@
       "channel_title": "TechLinked",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-22T01:55:04Z",
-      "view_count": 742176,
+      "view_count": 742565,
       "duration_minutes": 11,
       "url": "https://www.youtube.com/watch?v=ppq-xEd-AXw"
     },
@@ -403,7 +403,7 @@
       "channel_title": "AI Search",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-23T03:29:27Z",
-      "view_count": 607876,
+      "view_count": 609198,
       "duration_minutes": 27,
       "url": "https://www.youtube.com/watch?v=1Aqhg0FVm-w"
     },
@@ -414,7 +414,7 @@
       "channel_title": "TechLinked",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-20T01:06:46Z",
-      "view_count": 564610,
+      "view_count": 564693,
       "duration_minutes": 8,
       "url": "https://www.youtube.com/watch?v=HNr84Ub9-w8"
     },
@@ -425,7 +425,7 @@
       "channel_title": "AI Search",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-18T03:30:33Z",
-      "view_count": 561358,
+      "view_count": 561413,
       "duration_minutes": 41,
       "url": "https://www.youtube.com/watch?v=tDWtcyeNNew"
     },
@@ -436,7 +436,7 @@
       "channel_title": "Wes Roth",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-21T20:47:18Z",
-      "view_count": 480252,
+      "view_count": 480358,
       "duration_minutes": 17,
       "url": "https://www.youtube.com/watch?v=ehcBwqyUGjo"
     },
@@ -447,7 +447,7 @@
       "channel_title": "AI Search",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-20T03:24:08Z",
-      "view_count": 360521,
+      "view_count": 360693,
       "duration_minutes": 22,
       "url": "https://www.youtube.com/watch?v=cUeZMUGCxrw"
     },
@@ -458,7 +458,7 @@
       "channel_title": "Matthew Berman",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-21T15:30:24Z",
-      "view_count": 314487,
+      "view_count": 315259,
       "duration_minutes": 45,
       "url": "https://www.youtube.com/watch?v=3gXLmy7DK_4"
     }

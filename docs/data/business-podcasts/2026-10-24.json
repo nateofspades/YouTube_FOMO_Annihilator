@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-10-24T18:15:42.382804Z",
+  "generated_at": "2026-10-24T18:27:45.247868Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -102,14 +102,14 @@
       "handle": "@TheProfGPod",
       "source_type": "Business podcast",
       "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "recent_video_count": 17
+      "recent_video_count": 16
     },
     {
       "name": "Pivot with Kara Swisher and Scott Galloway",
       "handle": "@pivot",
       "source_type": "Business podcast",
       "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "recent_video_count": 11
+      "recent_video_count": 12
     },
     {
       "name": "Tim Ferriss",
@@ -359,7 +359,7 @@
       "channel_title": "PBD Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-19T15:40:50Z",
-      "view_count": 514096,
+      "view_count": 514130,
       "duration_minutes": 129,
       "url": "https://www.youtube.com/watch?v=OeOJFbvbyEM"
     },
@@ -370,7 +370,7 @@
       "channel_title": "PBD Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-20T15:00:09Z",
-      "view_count": 408851,
+      "view_count": 409096,
       "duration_minutes": 65,
       "url": "https://www.youtube.com/watch?v=3UgyPEqnOBE"
     },
@@ -381,7 +381,7 @@
       "channel_title": "PBD Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-23T15:43:37Z",
-      "view_count": 346338,
+      "view_count": 347114,
       "duration_minutes": 137,
       "url": "https://www.youtube.com/watch?v=N_nuY-9YPc4"
     },
@@ -392,7 +392,7 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-18T12:00:14Z",
-      "view_count": 339093,
+      "view_count": 339195,
       "duration_minutes": 7,
       "url": "https://www.youtube.com/watch?v=jt5ol63Qaxw"
     },
@@ -403,7 +403,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-23T23:52:56Z",
-      "view_count": 281576,
+      "view_count": 283875,
       "duration_minutes": 103,
       "url": "https://www.youtube.com/watch?v=6czo-C3FU7I"
     },
@@ -414,7 +414,7 @@
       "channel_title": "The Iced Coffee Hour",
       "source_type": "Business podcast",
       "published_at": "2026-10-18T16:00:00Z",
-      "view_count": 278419,
+      "view_count": 278641,
       "duration_minutes": 133,
       "url": "https://www.youtube.com/watch?v=5pk8HLcAAT0"
     },
@@ -425,7 +425,7 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-23T13:00:18Z",
-      "view_count": 268573,
+      "view_count": 269343,
       "duration_minutes": 70,
       "url": "https://www.youtube.com/watch?v=KmwJy5_1nOw"
     },
@@ -436,7 +436,7 @@
       "channel_title": "My First Million",
       "source_type": "Business podcast",
       "published_at": "2026-10-17T22:43:10Z",
-      "view_count": 250710,
+      "view_count": 250856,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=pTuzmOblTGY"
     },
@@ -447,7 +447,7 @@
       "channel_title": "My First Million",
       "source_type": "Business podcast",
       "published_at": "2026-10-22T21:31:01Z",
-      "view_count": 243786,
+      "view_count": 244397,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=_Lux62iTbFE"
     },
@@ -458,7 +458,7 @@
       "channel_title": "The Iced Coffee Hour",
       "source_type": "Business podcast",
       "published_at": "2026-10-17T19:00:16Z",
-      "view_count": 241164,
+      "view_count": 241177,
       "duration_minutes": 0,
       "url": "https://www.youtube.com/watch?v=dbQICAMJBbg"
     }

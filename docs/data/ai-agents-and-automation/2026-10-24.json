@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-10-24T18:15:42.382804Z",
+  "generated_at": "2026-10-24T18:27:45.247868Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -367,7 +367,7 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-19T11:00:06Z",
-      "view_count": 100053,
+      "view_count": 100072,
       "duration_minutes": 11,
       "url": "https://www.youtube.com/watch?v=DQBqh6gcx7U"
     },
@@ -389,7 +389,7 @@
       "channel_title": "Cole Medin",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-20T16:06:59Z",
-      "view_count": 24396,
+      "view_count": 24404,
       "duration_minutes": 16,
       "url": "https://www.youtube.com/watch?v=TVhhmhvCovg"
     },
@@ -400,7 +400,7 @@
       "channel_title": "AI Engineer",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-19T23:00:08Z",
-      "view_count": 16948,
+      "view_count": 16989,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=_4Ph2dhmUFI"
     },
@@ -411,7 +411,7 @@
       "channel_title": "AI Engineer",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-17T19:00:23Z",
-      "view_count": 16112,
+      "view_count": 16136,
       "duration_minutes": 116,
       "url": "https://www.youtube.com/watch?v=SHMCGrNJJGc"
     },
@@ -433,7 +433,7 @@
       "channel_title": "AI Engineer",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-17T23:00:05Z",
-      "view_count": 9767,
+      "view_count": 9762,
       "duration_minutes": 43,
       "url": "https://www.youtube.com/watch?v=IavxrdVnwXM"
     },
@@ -444,7 +444,7 @@
       "channel_title": "AI Engineer",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-18T23:00:35Z",
-      "view_count": 8545,
+      "view_count": 8541,
       "duration_minutes": 21,
       "url": "https://www.youtube.com/watch?v=-AOxpwVeIWw"
     },
@@ -455,7 +455,7 @@
       "channel_title": "AI Engineer",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-20T07:00:35Z",
-      "view_count": 7388,
+      "view_count": 7389,
       "duration_minutes": 17,
       "url": "https://www.youtube.com/watch?v=f_HwzoYrZ7s"
     },
@@ -466,7 +466,7 @@
       "channel_title": "AI Engineer",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-23T07:00:08Z",
-      "view_count": 7166,
+      "view_count": 7185,
       "duration_minutes": 17,
       "url": "https://www.youtube.com/watch?v=A3FL_zTQKU0"
     }
