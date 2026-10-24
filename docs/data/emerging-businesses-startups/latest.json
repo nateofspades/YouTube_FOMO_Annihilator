@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-10-23T15:10:22.646267Z",
+  "generated_at": "2026-10-24T14:02:11.510643Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,21 +11,21 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "TechCrunch",
       "handle": "@TechCrunch",
       "source_type": "Editorial/media",
       "channel_id": "UCCjyq_K1Xwfg8Lndy7lKMpA",
-      "recent_video_count": 27
+      "recent_video_count": 7
     },
     {
       "name": "a16z",
       "handle": "@a16z",
       "source_type": "Venture capital",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Sequoia Capital",
@@ -46,14 +46,14 @@
       "handle": "@LennysPodcast",
       "source_type": "Independent creator",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "20VC",
       "handle": "@20vc",
       "source_type": "Venture capital",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 11
+      "recent_video_count": 12
     },
     {
       "name": "Acquired",
@@ -67,7 +67,7 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 18
+      "recent_video_count": 21
     },
     {
       "name": "My First Million",
@@ -95,7 +95,7 @@
       "handle": "@Slidebean",
       "source_type": "Official company",
       "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Bessemer Venture Partners",
@@ -147,19 +147,8 @@
       "recent_video_count": 11
     }
   ],
-  "candidate_count": 131,
+  "candidate_count": 115,
   "results": [
-    {
-      "video_id": "zVS06J8r5lI",
-      "title": "Lessons from Mark Zuckerberg and Elon Musk and Napoleon",
-      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "channel_title": "David Senra",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-16T15:45:21Z",
-      "view_count": 245868,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=zVS06J8r5lI"
-    },
     {
       "video_id": "pTuzmOblTGY",
       "title": "Howard Marks: The S&P 500 isn’t a good bet right now",
@@ -167,20 +156,9 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-17T22:43:10Z",
-      "view_count": 234328,
+      "view_count": 248000,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=pTuzmOblTGY"
-    },
-    {
-      "video_id": "b89qg6pBp2E",
-      "title": "How this tiny golf game makes $500K a year",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-20T22:39:53Z",
-      "view_count": 154181,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=b89qg6pBp2E"
     },
     {
       "video_id": "_Lux62iTbFE",
@@ -189,9 +167,20 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-22T21:31:01Z",
-      "view_count": 113294,
+      "view_count": 233009,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=_Lux62iTbFE"
+    },
+    {
+      "video_id": "b89qg6pBp2E",
+      "title": "How this tiny golf game makes $500K a year",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-20T22:39:53Z",
+      "view_count": 172841,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=b89qg6pBp2E"
     },
     {
       "video_id": "aX6-BC2rBHI",
@@ -200,7 +189,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-22T00:11:40Z",
-      "view_count": 112297,
+      "view_count": 142380,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=aX6-BC2rBHI"
     },
@@ -211,7 +200,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-18T22:58:02Z",
-      "view_count": 83530,
+      "view_count": 85335,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=0ab30SMpLFo"
     },
@@ -222,7 +211,7 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-19T16:00:34Z",
-      "view_count": 80072,
+      "view_count": 83092,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=82JpLrZyteg"
     },
@@ -233,31 +222,42 @@
       "channel_title": "Lenny's Podcast",
       "source_type": "Independent creator",
       "published_at": "2026-10-18T12:30:11Z",
-      "view_count": 62712,
+      "view_count": 65080,
       "duration_minutes": 72,
       "url": "https://www.youtube.com/watch?v=JHo-aiePjoM"
     },
     {
-      "video_id": "c7HzTX9CZic",
-      "title": "How he beat the S&P 500 for 11 years doing (almost) nothing",
+      "video_id": "-YMMRQ1qscI",
+      "title": "Amazon CEO Andy Jassy on the Infrastructure the AI Era Needs",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-23T15:40:03Z",
+      "view_count": 59833,
+      "duration_minutes": 61,
+      "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI"
+    },
+    {
+      "video_id": "EWckNEYWshY",
+      "title": "@CodieSanchezCT on the multimillion-dollar business of Halloween stores",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
       "channel_title": "My First Million",
       "source_type": "Independent creator",
-      "published_at": "2026-10-19T13:30:31Z",
-      "view_count": 49870,
-      "duration_minutes": 46,
-      "url": "https://www.youtube.com/watch?v=c7HzTX9CZic"
+      "published_at": "2026-10-19T13:27:45Z",
+      "view_count": 53754,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=EWckNEYWshY"
     },
     {
-      "video_id": "81j1sV32Wng",
-      "title": "SaaS Moats in the AI Era: Sell the Outcome, Not the Tool",
-      "channel_id": "UCroeMSea_O-xfgDvgbJGVQA",
-      "channel_title": "MicroConf",
-      "source_type": "Founder community",
-      "published_at": "2026-10-19T10:00:11Z",
-      "view_count": 47248,
-      "duration_minutes": 14,
-      "url": "https://www.youtube.com/watch?v=81j1sV32Wng"
+      "video_id": "-9XQMHhpypc",
+      "title": "The Frontier Ideas a16z Wants to Fund Now | Marc Andreessen, Ben Horowitz & Chris Dixon",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-22T16:36:24Z",
+      "view_count": 53604,
+      "duration_minutes": 61,
+      "url": "https://www.youtube.com/watch?v=-9XQMHhpypc"
     }
   ]
 }

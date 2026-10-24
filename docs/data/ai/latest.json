@@ -1,7 +1,7 @@
 {
   "slug": "ai",
   "title": "AI news",
-  "generated_at": "2026-10-23T15:10:22.646267Z",
+  "generated_at": "2026-10-24T14:02:11.510643Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,14 +18,14 @@
       "handle": "@mreflow",
       "source_type": "AI-focused channel",
       "channel_id": "UChpleBmo18P08aKCIgti38g",
-      "recent_video_count": 6
+      "recent_video_count": 8
     },
     {
       "name": "TheAIGRID",
       "handle": "@TheAiGrid",
       "source_type": "AI-focused channel",
       "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "WorldofAI",
@@ -46,7 +46,7 @@
       "handle": "@aiadvantage",
       "source_type": "AI-focused channel",
       "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ",
-      "recent_video_count": 2
+      "recent_video_count": 5
     },
     {
       "name": "Aitrepreneur",
@@ -74,7 +74,7 @@
       "handle": "@openai",
       "source_type": "AI-focused channel",
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "recent_video_count": 13
+      "recent_video_count": 19
     },
     {
       "name": "Anthropic",
@@ -88,10 +88,10 @@
       "handle": "@HuggingFace",
       "source_type": "AI-focused channel",
       "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "recent_video_count": 7
+      "recent_video_count": 6
     }
   ],
-  "candidate_count": 39,
+  "candidate_count": 50,
   "results": [
     {
       "video_id": "LWxX6vvHfrc",
@@ -100,31 +100,9 @@
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-19T08:49:21Z",
-      "view_count": 218962,
+      "view_count": 223602,
       "duration_minutes": 7,
       "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc"
-    },
-    {
-      "video_id": "KGcuuhqmPhI",
-      "title": "AI News: 6 New Models & A Nano Banana Killer",
-      "channel_id": "UChpleBmo18P08aKCIgti38g",
-      "channel_title": "Matt Wolfe",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-16T16:20:28Z",
-      "view_count": 175689,
-      "duration_minutes": 31,
-      "url": "https://www.youtube.com/watch?v=KGcuuhqmPhI"
-    },
-    {
-      "video_id": "2BXktpaCEN4",
-      "title": "HUGE GPT-6.5 LEAK! NEW Claude Fable 5.5, Gemini 4 Carbon, MiniMax M3.1 Flash & Kimi K3.1! AI NEWS",
-      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
-      "channel_title": "WorldofAI",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-20T07:01:16Z",
-      "view_count": 162204,
-      "duration_minutes": 27,
-      "url": "https://www.youtube.com/watch?v=2BXktpaCEN4"
     },
     {
       "video_id": "2mE6bbjVazE",
@@ -133,20 +111,20 @@
       "channel_title": "TheAIGRID",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-17T20:31:16Z",
-      "view_count": 161519,
+      "view_count": 165005,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=2mE6bbjVazE"
     },
     {
-      "video_id": "GBOZIRK1ujw",
-      "title": "Put your dot on call",
-      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "channel_title": "OpenAI",
+      "video_id": "2BXktpaCEN4",
+      "title": "HUGE GPT-6.5 LEAK! NEW Claude Fable 5.5, Gemini 4 Carbon, MiniMax M3.1 Flash & Kimi K3.1! AI NEWS",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "channel_title": "WorldofAI",
       "source_type": "AI-focused channel",
-      "published_at": "2026-10-16T21:43:48Z",
-      "view_count": 154013,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=GBOZIRK1ujw"
+      "published_at": "2026-10-20T07:01:16Z",
+      "view_count": 164648,
+      "duration_minutes": 27,
+      "url": "https://www.youtube.com/watch?v=2BXktpaCEN4"
     },
     {
       "video_id": "dyrNQV0F3Zs",
@@ -155,7 +133,7 @@
       "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-22T03:06:41Z",
-      "view_count": 133802,
+      "view_count": 145298,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=dyrNQV0F3Zs"
     },
@@ -166,7 +144,7 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-19T05:30:13Z",
-      "view_count": 132908,
+      "view_count": 134476,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=mEulEkuxCnM"
     },
@@ -177,7 +155,7 @@
       "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-21T17:45:26Z",
-      "view_count": 117361,
+      "view_count": 130247,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=umGZrkyTRtw"
     },
@@ -188,7 +166,7 @@
       "channel_title": "WorldofAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-22T06:04:04Z",
-      "view_count": 94578,
+      "view_count": 101144,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=egh6GlvyD1g"
     },
@@ -199,9 +177,31 @@
       "channel_title": "WorldofAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-19T06:33:58Z",
-      "view_count": 81054,
+      "view_count": 81718,
       "duration_minutes": 21,
       "url": "https://www.youtube.com/watch?v=24j6YmsTVng"
+    },
+    {
+      "video_id": "TVRCcMlvR10",
+      "title": "AI News: 24 Things You Need To Know This Week",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "channel_title": "Matt Wolfe",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-23T17:40:19Z",
+      "view_count": 80486,
+      "duration_minutes": 27,
+      "url": "https://www.youtube.com/watch?v=TVRCcMlvR10"
+    },
+    {
+      "video_id": "8n-SXxRIrm8",
+      "title": "Build a Better Shopping Experience with OpenAI | Shopping Agent Demo",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "channel_title": "OpenAI",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-20T22:57:52Z",
+      "view_count": 72655,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=8n-SXxRIrm8"
     }
   ]
 }

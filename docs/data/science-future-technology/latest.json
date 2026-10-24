@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-10-23T15:10:22.646267Z",
+  "generated_at": "2026-10-24T14:02:11.510643Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,14 +11,14 @@
       "handle": "@kurzgesagt",
       "source_type": "Independent creator",
       "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Veritasium",
       "handle": "@veritasium",
       "source_type": "Independent creator",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "PBS Space Time",
@@ -53,14 +53,14 @@
       "handle": "@MarkRober",
       "source_type": "Independent creator",
       "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Hacksmith Industries",
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Boston Dynamics",
@@ -74,7 +74,7 @@
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "European Space Agency",
@@ -88,7 +88,7 @@
       "handle": "@CleoAbram",
       "source_type": "Editorial/media",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "recent_video_count": 5
+      "recent_video_count": 3
     },
     {
       "name": "Undecided",
@@ -138,17 +138,17 @@
       "handle": "@TwoBitDaVinci",
       "source_type": "Independent creator",
       "channel_id": "UCEgYhf84VjXDz-W7a9-rdCQ",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Branch Education",
       "handle": "@BranchEducation",
       "source_type": "Independent creator",
       "channel_id": "UCdp4_l1vPmpN-gDbUwhaRUQ",
-      "recent_video_count": 1
+      "recent_video_count": 0
     }
   ],
-  "candidate_count": 29,
+  "candidate_count": 32,
   "results": [
     {
       "video_id": "PXbVn-f_wuM",
@@ -157,31 +157,31 @@
       "channel_title": "Kurzgesagt – In a Nutshell",
       "source_type": "Independent creator",
       "published_at": "2026-10-20T14:00:11Z",
-      "view_count": 4308344,
+      "view_count": 4620243,
       "duration_minutes": 4,
       "url": "https://www.youtube.com/watch?v=PXbVn-f_wuM"
     },
     {
-      "video_id": "sSvbLk-6eIA",
-      "title": "This Tesla Just Flew. HOW??",
-      "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "channel_title": "Cleo Abram",
-      "source_type": "Editorial/media",
-      "published_at": "2026-10-16T16:05:51Z",
-      "view_count": 3524081,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=sSvbLk-6eIA"
+      "video_id": "eyZEqSPeMwg",
+      "title": "No device could prove our theory of gravity wrong... until now",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channel_title": "Veritasium",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-23T18:46:44Z",
+      "view_count": 2620501,
+      "duration_minutes": 34,
+      "url": "https://www.youtube.com/watch?v=eyZEqSPeMwg"
     },
     {
-      "video_id": "YkEwyFpxWFc",
-      "title": "The Most Likely Place to Find Aliens",
-      "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "channel_title": "Cleo Abram",
-      "source_type": "Editorial/media",
-      "published_at": "2026-10-17T13:36:22Z",
-      "view_count": 1927140,
-      "duration_minutes": 39,
-      "url": "https://www.youtube.com/watch?v=YkEwyFpxWFc"
+      "video_id": "wxLc-gFORPQ",
+      "title": "Is there something faster than light?",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channel_title": "Veritasium",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-22T13:00:17Z",
+      "view_count": 907973,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=wxLc-gFORPQ"
     },
     {
       "video_id": "Zezt6EsG9WE",
@@ -190,7 +190,7 @@
       "channel_title": "NASA",
       "source_type": "Government",
       "published_at": "2026-10-20T15:02:15Z",
-      "view_count": 710046,
+      "view_count": 790297,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=Zezt6EsG9WE"
     },
@@ -201,31 +201,20 @@
       "channel_title": "Practical Engineering",
       "source_type": "Independent creator",
       "published_at": "2026-10-20T13:00:19Z",
-      "view_count": 706653,
+      "view_count": 749909,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=awV7FP9sAHE"
     },
     {
-      "video_id": "wxLc-gFORPQ",
-      "title": "Is there something faster than light?",
-      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "channel_title": "Veritasium",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-22T13:00:17Z",
-      "view_count": 648348,
+      "video_id": "PBPLhvsR9V8",
+      "title": "What Is That Red Dot?",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-23T13:45:36Z",
+      "view_count": 621135,
       "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=wxLc-gFORPQ"
-    },
-    {
-      "video_id": "VUPxowV0fsk",
-      "title": "The Flattest Surface in the World",
-      "channel_id": "UCdp4_l1vPmpN-gDbUwhaRUQ",
-      "channel_title": "Branch Education",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-16T20:56:05Z",
-      "view_count": 520485,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=VUPxowV0fsk"
+      "url": "https://www.youtube.com/watch?v=PBPLhvsR9V8"
     },
     {
       "video_id": "eb8x2tz_pgc",
@@ -234,7 +223,7 @@
       "channel_title": "PBS Space Time",
       "source_type": "Editorial/media",
       "published_at": "2026-10-22T20:15:02Z",
-      "view_count": 398753,
+      "view_count": 550411,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=eb8x2tz_pgc"
     },
@@ -245,7 +234,7 @@
       "channel_title": "Undecided with Matt Ferrell",
       "source_type": "Independent creator",
       "published_at": "2026-10-21T12:16:49Z",
-      "view_count": 214962,
+      "view_count": 233010,
       "duration_minutes": 17,
       "url": "https://www.youtube.com/watch?v=QtzTIz2QnvI"
     },
@@ -256,9 +245,20 @@
       "channel_title": "Hacksmith Industries",
       "source_type": "Official company",
       "published_at": "2026-10-18T16:00:37Z",
-      "view_count": 160567,
+      "view_count": 167456,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=6E-cpiLGHJo"
+    },
+    {
+      "video_id": "pAKqJxuxDgk",
+      "title": "Artemis Acceleration (Oct. 23, 2026)",
+      "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "channel_title": "NASA",
+      "source_type": "Government",
+      "published_at": "2026-10-23T20:16:18Z",
+      "view_count": 144387,
+      "duration_minutes": 125,
+      "url": "https://www.youtube.com/watch?v=pAKqJxuxDgk"
     }
   ]
 }

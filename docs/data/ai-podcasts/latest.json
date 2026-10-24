@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-10-23T15:10:22.646267Z",
+  "generated_at": "2026-10-24T14:02:11.510643Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "UCJIfeSCssxSC_Dhc5s7woww",
       "source_type": "AI podcast",
       "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "recent_video_count": 10
+      "recent_video_count": 5
     },
     {
       "name": "Dwarkesh Patel",
@@ -25,7 +25,7 @@
       "handle": "UCxBcwypKK-W3GHd_RZ9FZrQ",
       "source_type": "AI podcast",
       "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Cognitive Revolution",
@@ -53,7 +53,7 @@
       "handle": "UC9tpZnMLKv5vbZIGuIIPmNg",
       "source_type": "AI podcast",
       "channel_id": "UC9tpZnMLKv5vbZIGuIIPmNg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "The AI Breakdown",
@@ -67,7 +67,7 @@
       "handle": "UCdHpbfqjELZmhqY3k0ELGcQ",
       "source_type": "AI podcast",
       "channel_id": "UCdHpbfqjELZmhqY3k0ELGcQ",
-      "recent_video_count": 1
+      "recent_video_count": 3
     },
     {
       "name": "The Gradient",
@@ -88,7 +88,7 @@
       "handle": "UCgx8lqX3QsHgH0bQq7-EHVg",
       "source_type": "AI podcast",
       "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "AI Agents Podcast",
@@ -98,7 +98,7 @@
       "recent_video_count": 0
     }
   ],
-  "candidate_count": 46,
+  "candidate_count": 44,
   "results": [
     {
       "video_id": "o5UZtZuPAeY",
@@ -107,7 +107,7 @@
       "channel_title": "Dwarkesh Patel",
       "source_type": "AI podcast",
       "published_at": "2026-10-22T23:21:44Z",
-      "view_count": 93194,
+      "view_count": 235280,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=o5UZtZuPAeY"
     },
@@ -118,7 +118,7 @@
       "channel_title": "Machine Gods",
       "source_type": "AI podcast",
       "published_at": "2026-10-21T11:00:19Z",
-      "view_count": 30868,
+      "view_count": 35962,
       "duration_minutes": 52,
       "url": "https://www.youtube.com/watch?v=OKDai2_aZe4"
     },
@@ -129,20 +129,20 @@
       "channel_title": "Lex Clips",
       "source_type": "AI podcast",
       "published_at": "2026-10-18T04:00:19Z",
-      "view_count": 24765,
+      "view_count": 25145,
       "duration_minutes": 5,
       "url": "https://www.youtube.com/watch?v=9rH1ChuVAe0"
     },
     {
-      "video_id": "pSopii-RTJg",
-      "title": "China's approach to AI and robotics | Lex Fridman and Jensen Huang in Taiwan",
-      "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "channel_title": "Lex Clips",
+      "video_id": "tjAg_KxApmw",
+      "title": "Whistleblowers or justified Open AI firing? | Fired safety workers speak out",
+      "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
+      "channel_title": "Machine Gods",
       "source_type": "AI podcast",
-      "published_at": "2026-10-17T04:00:21Z",
-      "view_count": 12762,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=pSopii-RTJg"
+      "published_at": "2026-10-23T11:00:07Z",
+      "view_count": 13947,
+      "duration_minutes": 48,
+      "url": "https://www.youtube.com/watch?v=tjAg_KxApmw"
     },
     {
       "video_id": "Vki6cklFqxo",
@@ -151,9 +151,20 @@
       "channel_title": "Latent Space",
       "source_type": "AI podcast",
       "published_at": "2026-10-21T04:52:14Z",
-      "view_count": 7798,
+      "view_count": 11220,
       "duration_minutes": 44,
       "url": "https://www.youtube.com/watch?v=Vki6cklFqxo"
+    },
+    {
+      "video_id": "IiZ9yd2Do8I",
+      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal",
+      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
+      "channel_title": "Latent Space",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-22T16:31:33Z",
+      "view_count": 3976,
+      "duration_minutes": 86,
+      "url": "https://www.youtube.com/watch?v=IiZ9yd2Do8I"
     },
     {
       "video_id": "PST8yesYOSo",
@@ -162,7 +173,7 @@
       "channel_title": "No Priors: AI, Machine Learning, Tech, & Startups",
       "source_type": "AI podcast",
       "published_at": "2026-10-22T10:00:04Z",
-      "view_count": 3147,
+      "view_count": 3860,
       "duration_minutes": 45,
       "url": "https://www.youtube.com/watch?v=PST8yesYOSo"
     },
@@ -173,20 +184,9 @@
       "channel_title": "The Artificial Intelligence Show Podcast",
       "source_type": "AI podcast",
       "published_at": "2026-10-20T09:00:36Z",
-      "view_count": 2840,
+      "view_count": 3028,
       "duration_minutes": 106,
       "url": "https://www.youtube.com/watch?v=nvyNQmOTKfY"
-    },
-    {
-      "video_id": "IiZ9yd2Do8I",
-      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal",
-      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "channel_title": "Latent Space",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-22T16:31:33Z",
-      "view_count": 2833,
-      "duration_minutes": 86,
-      "url": "https://www.youtube.com/watch?v=IiZ9yd2Do8I"
     },
     {
       "video_id": "bWDCOMHWVw4",
@@ -195,20 +195,20 @@
       "channel_title": "Machine Gods",
       "source_type": "AI podcast",
       "published_at": "2026-10-21T22:04:40Z",
-      "view_count": 2579,
+      "view_count": 2951,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=bWDCOMHWVw4"
     },
     {
-      "video_id": "tjAg_KxApmw",
-      "title": "Whistleblowers or justified Open AI firing? | Fired safety workers speak out",
-      "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
-      "channel_title": "Machine Gods",
+      "video_id": "zt6dSvcJZC8",
+      "title": "How OpenAI Secures Its Systems with AI",
+      "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
+      "channel_title": "No Priors: AI, Machine Learning, Tech, & Startups",
       "source_type": "AI podcast",
-      "published_at": "2026-10-23T11:00:07Z",
-      "view_count": 2076,
-      "duration_minutes": 48,
-      "url": "https://www.youtube.com/watch?v=tjAg_KxApmw"
+      "published_at": "2026-10-19T12:10:17Z",
+      "view_count": 1870,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=zt6dSvcJZC8"
     }
   ]
 }

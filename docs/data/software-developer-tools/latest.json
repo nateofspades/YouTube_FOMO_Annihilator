@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-10-23T15:10:22.646267Z",
+  "generated_at": "2026-10-24T14:02:11.510643Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,21 +11,21 @@
       "handle": "@GitHub",
       "source_type": "Official company",
       "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "Google for Developers",
       "handle": "@GoogleDevelopers",
       "source_type": "Official company",
       "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
-      "recent_video_count": 4
+      "recent_video_count": 2
     },
     {
       "name": "Microsoft Developer",
       "handle": "@MicrosoftDeveloper",
       "source_type": "Official company",
       "channel_id": "UCsMica-v34Irf9KVTh6xx-g",
-      "recent_video_count": 19
+      "recent_video_count": 20
     },
     {
       "name": "AWS Developers",
@@ -39,14 +39,14 @@
       "handle": "@googlecloudtech",
       "source_type": "Official company",
       "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "recent_video_count": 10
+      "recent_video_count": 11
     },
     {
       "name": "Cloudflare",
       "handle": "UCgv3xMy6kECn0boYP9d2o-g",
       "source_type": "Official company",
       "channel_id": "UCgv3xMy6kECn0boYP9d2o-g",
-      "recent_video_count": 5
+      "recent_video_count": 7
     },
     {
       "name": "Docker",
@@ -60,7 +60,7 @@
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 12
+      "recent_video_count": 11
     },
     {
       "name": "GitLab",
@@ -81,7 +81,7 @@
       "handle": "@Fireship",
       "source_type": "Independent creator",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "freeCodeCamp.org",
@@ -109,7 +109,7 @@
       "handle": "@t3dotgg",
       "source_type": "Independent creator",
       "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "ThePrimeagen",
@@ -147,7 +147,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 101,
+  "candidate_count": 103,
   "results": [
     {
       "video_id": "zv6B6PQOuHE",
@@ -156,9 +156,20 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-10-22T15:09:31Z",
-      "view_count": 1192316,
+      "view_count": 1339212,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=zv6B6PQOuHE"
+    },
+    {
+      "video_id": "SMGg7iisHmc",
+      "title": "The most vulnerable week in internet history...",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "channel_title": "Fireship",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-23T18:19:58Z",
+      "view_count": 1069886,
+      "duration_minutes": 6,
+      "url": "https://www.youtube.com/watch?v=SMGg7iisHmc"
     },
     {
       "video_id": "m-B3jIMMmUE",
@@ -167,7 +178,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-18T23:57:04Z",
-      "view_count": 231074,
+      "view_count": 234934,
       "duration_minutes": 32,
       "url": "https://www.youtube.com/watch?v=m-B3jIMMmUE"
     },
@@ -178,7 +189,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-20T22:13:42Z",
-      "view_count": 215103,
+      "view_count": 220908,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=3OshsLm3_OQ"
     },
@@ -189,9 +200,20 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-22T19:14:45Z",
-      "view_count": 187667,
+      "view_count": 220051,
       "duration_minutes": 29,
       "url": "https://www.youtube.com/watch?v=USeyDcWyVCc"
+    },
+    {
+      "video_id": "2C_CefSQEAQ",
+      "title": "AI harness crash course",
+      "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
+      "channel_title": "Google Cloud Tech",
+      "source_type": "Official company",
+      "published_at": "2026-10-22T15:55:11Z",
+      "view_count": 76108,
+      "duration_minutes": 9,
+      "url": "https://www.youtube.com/watch?v=2C_CefSQEAQ"
     },
     {
       "video_id": "FbXPaIcpvww",
@@ -200,7 +222,7 @@
       "channel_title": "Web Dev Simplified",
       "source_type": "Independent creator",
       "published_at": "2026-10-20T22:00:20Z",
-      "view_count": 67579,
+      "view_count": 72497,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=FbXPaIcpvww"
     },
@@ -211,20 +233,9 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-10-21T10:30:36Z",
-      "view_count": 63871,
+      "view_count": 68781,
       "duration_minutes": 60,
       "url": "https://www.youtube.com/watch?v=kT7nXO32L-Q"
-    },
-    {
-      "video_id": "2C_CefSQEAQ",
-      "title": "AI harness crash course",
-      "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "channel_title": "Google Cloud Tech",
-      "source_type": "Official company",
-      "published_at": "2026-10-22T15:55:11Z",
-      "view_count": 61989,
-      "duration_minutes": 9,
-      "url": "https://www.youtube.com/watch?v=2C_CefSQEAQ"
     },
     {
       "video_id": "gYXLRMycVMk",
@@ -233,31 +244,20 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-10-22T12:08:35Z",
-      "view_count": 58162,
+      "view_count": 66698,
       "duration_minutes": 130,
       "url": "https://www.youtube.com/watch?v=gYXLRMycVMk"
     },
     {
-      "video_id": "AHFGMkzrfwM",
-      "title": "Do You Still Need an IDE If Agents Write Your Code?",
-      "channel_id": "UCGp4UBwpTNegd_4nCpuBcow",
-      "channel_title": "JetBrains",
-      "source_type": "Official company",
-      "published_at": "2026-10-20T11:51:03Z",
-      "view_count": 29765,
-      "duration_minutes": 6,
-      "url": "https://www.youtube.com/watch?v=AHFGMkzrfwM"
-    },
-    {
-      "video_id": "vnxkaP8clJE",
-      "title": "10 Years in Telecom, Got a DevOps Role in 12 Months (Here's How)",
-      "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
-      "channel_title": "TechWorld with Nana",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-19T14:00:18Z",
-      "view_count": 29431,
-      "duration_minutes": 78,
-      "url": "https://www.youtube.com/watch?v=vnxkaP8clJE"
+      "video_id": "JGly6PSK5iw",
+      "title": "Gemini 4 Argon API Crash Course",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "channel_title": "freeCodeCamp.org",
+      "source_type": "Research institution",
+      "published_at": "2026-10-23T14:10:25Z",
+      "view_count": 65243,
+      "duration_minutes": 11,
+      "url": "https://www.youtube.com/watch?v=JGly6PSK5iw"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-10-23T15:10:22.646267Z",
+  "generated_at": "2026-10-24T14:02:11.510643Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@TheDiaryOfACEO",
       "source_type": "Business podcast",
       "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "My First Million",
@@ -53,21 +53,21 @@
       "handle": "@LennysPodcast",
       "source_type": "Business podcast",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "Masters of Scale",
       "handle": "@MastersofScale_",
       "source_type": "Business podcast",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 18
+      "recent_video_count": 21
     },
     {
       "name": "Invest Like The Best",
       "handle": "@ILTB_Podcast",
       "source_type": "Business podcast",
       "channel_id": "UCpQBb0fToph3jrDulwz1iUQ",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "The Knowledge Project Podcast",
@@ -88,14 +88,14 @@
       "handle": "@20VC",
       "source_type": "Business podcast",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 11
+      "recent_video_count": 12
     },
     {
       "name": "a16z",
       "handle": "@a16z",
       "source_type": "Business podcast",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "The Prof G Pod – Scott Galloway",
@@ -109,28 +109,28 @@
       "handle": "@pivot",
       "source_type": "Business podcast",
       "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "Tim Ferriss",
       "handle": "@timferriss",
       "source_type": "Business podcast",
       "channel_id": "UCznv7Vf9nBdJYvBagFdAHWw",
-      "recent_video_count": 4
+      "recent_video_count": 2
     },
     {
       "name": "Young and Profiting",
       "handle": "@youngandprofiting",
       "source_type": "Business podcast",
       "channel_id": "UCtz8s6nPLvrVQ4YhOJz6DSg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Alex Hormozi / The Game",
       "handle": "@AlexHormozi",
       "source_type": "Business podcast",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "recent_video_count": 87
+      "recent_video_count": 94
     },
     {
       "name": "Startups for the Rest of Us",
@@ -144,33 +144,11 @@
       "handle": "@ycombinator",
       "source_type": "Business podcast",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     }
   ],
-  "candidate_count": 204,
+  "candidate_count": 214,
   "results": [
-    {
-      "video_id": "lZuEi-lRd4Y",
-      "title": "\"East Asia Is Gone\" — Peter Zeihan on the Oil Shock No One Is Ready For",
-      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "channel_title": "The Prof G Pod – Scott Galloway",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-17T12:00:23Z",
-      "view_count": 1012678,
-      "duration_minutes": 9,
-      "url": "https://www.youtube.com/watch?v=lZuEi-lRd4Y"
-    },
-    {
-      "video_id": "_b3LfMflIGs",
-      "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
-      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "channel_title": "All-In Podcast",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-17T01:59:19Z",
-      "view_count": 887034,
-      "duration_minutes": 94,
-      "url": "https://www.youtube.com/watch?v=_b3LfMflIGs"
-    },
     {
       "video_id": "i7-t8e42WkM",
       "title": "Chamath Explains the AI Boom’s Achilles Heel",
@@ -178,7 +156,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-17T15:30:12Z",
-      "view_count": 342939,
+      "view_count": 353944,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=i7-t8e42WkM"
     },
@@ -189,31 +167,20 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-18T12:00:14Z",
-      "view_count": 328671,
+      "view_count": 337272,
       "duration_minutes": 7,
       "url": "https://www.youtube.com/watch?v=jt5ol63Qaxw"
     },
     {
-      "video_id": "6eHU-0Qa8-g",
-      "title": "The middle class won’t survive on its own",
-      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "channel_title": "The Prof G Pod – Scott Galloway",
+      "video_id": "KmwJy5_1nOw",
+      "title": "So Why Is Elon Musk Going After Kara Swisher This Time?",
+      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
+      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
-      "published_at": "2026-10-16T16:33:46Z",
-      "view_count": 299035,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=6eHU-0Qa8-g"
-    },
-    {
-      "video_id": "0dTLRlnJf9I",
-      "title": "Could We Lose the Persian Gulf? Scott Galloway and Peter Zeihan",
-      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "channel_title": "The Prof G Pod – Scott Galloway",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-16T23:00:30Z",
-      "view_count": 237412,
-      "duration_minutes": 10,
-      "url": "https://www.youtube.com/watch?v=0dTLRlnJf9I"
+      "published_at": "2026-10-23T13:00:18Z",
+      "view_count": 252219,
+      "duration_minutes": 70,
+      "url": "https://www.youtube.com/watch?v=KmwJy5_1nOw"
     },
     {
       "video_id": "pTuzmOblTGY",
@@ -222,9 +189,31 @@
       "channel_title": "My First Million",
       "source_type": "Business podcast",
       "published_at": "2026-10-17T22:43:10Z",
-      "view_count": 234328,
+      "view_count": 248034,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=pTuzmOblTGY"
+    },
+    {
+      "video_id": "_Lux62iTbFE",
+      "title": "What Elon Musk would do if he lost everything",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-22T21:31:01Z",
+      "view_count": 233009,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=_Lux62iTbFE"
+    },
+    {
+      "video_id": "6czo-C3FU7I",
+      "title": "AI Cyber Panic, Ken Griffin’s Bubble Warning, The Fall of France?",
+      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
+      "channel_title": "All-In Podcast",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-23T23:52:56Z",
+      "view_count": 215257,
+      "duration_minutes": 103,
+      "url": "https://www.youtube.com/watch?v=6czo-C3FU7I"
     },
     {
       "video_id": "dpnlQg2lWF4",
@@ -233,7 +222,7 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-19T22:30:35Z",
-      "view_count": 206688,
+      "view_count": 212928,
       "duration_minutes": 8,
       "url": "https://www.youtube.com/watch?v=dpnlQg2lWF4"
     },
@@ -244,9 +233,20 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-20T13:00:38Z",
-      "view_count": 193760,
+      "view_count": 197718,
       "duration_minutes": 53,
       "url": "https://www.youtube.com/watch?v=TRnM1ngRCaU"
+    },
+    {
+      "video_id": "1q-PAX92DOg",
+      "title": "My Life Journey",
+      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
+      "channel_title": "Alex Hormozi",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-21T23:30:11Z",
+      "view_count": 180940,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=1q-PAX92DOg"
     },
     {
       "video_id": "b89qg6pBp2E",
@@ -255,7 +255,7 @@
       "channel_title": "My First Million",
       "source_type": "Business podcast",
       "published_at": "2026-10-20T22:39:53Z",
-      "view_count": 154181,
+      "view_count": 172852,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=b89qg6pBp2E"
     }

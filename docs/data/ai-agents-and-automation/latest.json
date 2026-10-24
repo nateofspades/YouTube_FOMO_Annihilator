@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-10-23T15:10:22.646267Z",
+  "generated_at": "2026-10-24T14:02:11.510643Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,14 +18,14 @@
       "handle": "@AlexFinnOfficial",
       "source_type": "AI agent and automation",
       "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Matthew Berman",
       "handle": "@matthew_berman",
       "source_type": "AI agent and automation",
       "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "recent_video_count": 10
+      "recent_video_count": 13
     },
     {
       "name": "Cole Medin",
@@ -46,14 +46,14 @@
       "handle": "@NateHerk",
       "source_type": "AI agent and automation",
       "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "recent_video_count": 12
+      "recent_video_count": 9
     },
     {
       "name": "Krish Naik",
       "handle": "@krishnaik06",
       "source_type": "AI agent and automation",
       "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "AI Code King",
@@ -81,21 +81,21 @@
       "handle": "@Fireship",
       "source_type": "AI agent and automation",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Tech With Tim",
       "handle": "@TechWithTim",
       "source_type": "AI agent and automation",
       "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "NetworkChuck",
       "handle": "@NetworkChuck",
       "source_type": "AI agent and automation",
       "channel_id": "UC9x0AN7BWHpCDHSm9NiJFJQ",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Greg Isenberg",
@@ -131,11 +131,22 @@
       "handle": "@huggingface",
       "source_type": "AI agent and automation",
       "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "recent_video_count": 7
+      "recent_video_count": 6
     }
   ],
-  "candidate_count": 88,
+  "candidate_count": 90,
   "results": [
+    {
+      "video_id": "SMGg7iisHmc",
+      "title": "The most vulnerable week in internet history...",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "channel_title": "Fireship",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-23T18:19:58Z",
+      "view_count": 1069886,
+      "duration_minutes": 6,
+      "url": "https://www.youtube.com/watch?v=SMGg7iisHmc"
+    },
     {
       "video_id": "DQBqh6gcx7U",
       "title": "What Is Loop Engineering? Building Better AI Agents",
@@ -143,7 +154,7 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-19T11:00:06Z",
-      "view_count": 94925,
+      "view_count": 99024,
       "duration_minutes": 11,
       "url": "https://www.youtube.com/watch?v=DQBqh6gcx7U"
     },
@@ -154,7 +165,7 @@
       "channel_title": "Krish Naik",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-20T07:00:07Z",
-      "view_count": 82747,
+      "view_count": 88101,
       "duration_minutes": 13,
       "url": "https://www.youtube.com/watch?v=Zub-w_3xmXs"
     },
@@ -165,20 +176,9 @@
       "channel_title": "Nate Herk | AI Automation",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-19T14:22:01Z",
-      "view_count": 73086,
+      "view_count": 77365,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=hgLI491ajG0"
-    },
-    {
-      "video_id": "OLqP8jxJ0Wc",
-      "title": "My Jev Pi Durable Agent CURATES News: HYPE, FACT, or SIGNAL",
-      "channel_id": "UC_x36zCEGilGpB1m-V4gmjg",
-      "channel_title": "IndyDevDan",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-19T13:00:05Z",
-      "view_count": 45810,
-      "duration_minutes": 23,
-      "url": "https://www.youtube.com/watch?v=OLqP8jxJ0Wc"
     },
     {
       "video_id": "3rgd2Xx5ceg",
@@ -187,31 +187,31 @@
       "channel_title": "Tech With Tim",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-21T14:00:31Z",
-      "view_count": 45482,
+      "view_count": 53606,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=3rgd2Xx5ceg"
     },
     {
-      "video_id": "0Otn8QGGtRw",
-      "title": "RIP Reverse Engineer Anything! This 8 KB Skill Outperforms REA (38% Faster)",
-      "channel_id": "UC0m81bQuthaQZmFbXEY9QSw",
-      "channel_title": "AICodeKing",
+      "video_id": "OLqP8jxJ0Wc",
+      "title": "My Jev Pi Durable Agent CURATES News: HYPE, FACT, or SIGNAL",
+      "channel_id": "UC_x36zCEGilGpB1m-V4gmjg",
+      "channel_title": "IndyDevDan",
       "source_type": "AI agent and automation",
-      "published_at": "2026-10-17T09:16:41Z",
-      "view_count": 45241,
-      "duration_minutes": 10,
-      "url": "https://www.youtube.com/watch?v=0Otn8QGGtRw"
+      "published_at": "2026-10-19T13:00:05Z",
+      "view_count": 47726,
+      "duration_minutes": 23,
+      "url": "https://www.youtube.com/watch?v=OLqP8jxJ0Wc"
     },
     {
-      "video_id": "aypkvuGFq5Y",
-      "title": "Build a Multimodal AI App in Python (Beginner Project)",
-      "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
-      "channel_title": "Tech With Tim",
+      "video_id": "M-UaSHSIgJs",
+      "title": "How To Get An AI Job in 2026-27",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "channel_title": "Krish Naik",
       "source_type": "AI agent and automation",
-      "published_at": "2026-10-18T14:00:36Z",
-      "view_count": 32508,
-      "duration_minutes": 35,
-      "url": "https://www.youtube.com/watch?v=aypkvuGFq5Y"
+      "published_at": "2026-10-23T15:48:58Z",
+      "view_count": 41249,
+      "duration_minutes": 24,
+      "url": "https://www.youtube.com/watch?v=M-UaSHSIgJs"
     },
     {
       "video_id": "nRl-7Yhmbog",
@@ -220,9 +220,20 @@
       "channel_title": "Greg Isenberg",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-21T19:15:33Z",
-      "view_count": 31969,
+      "view_count": 37386,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=nRl-7Yhmbog"
+    },
+    {
+      "video_id": "aypkvuGFq5Y",
+      "title": "Build a Multimodal AI App in Python (Beginner Project)",
+      "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+      "channel_title": "Tech With Tim",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-18T14:00:36Z",
+      "view_count": 33716,
+      "duration_minutes": 35,
+      "url": "https://www.youtube.com/watch?v=aypkvuGFq5Y"
     },
     {
       "video_id": "cCFAIrbt_s8",
@@ -231,20 +242,9 @@
       "channel_title": "AICodeKing",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-21T09:15:18Z",
-      "view_count": 30018,
+      "view_count": 33280,
       "duration_minutes": 16,
       "url": "https://www.youtube.com/watch?v=cCFAIrbt_s8"
-    },
-    {
-      "video_id": "NmN6jn6IiMA",
-      "title": "Clay's AI Agent Builds Your Outbound From One Prompt",
-      "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "channel_title": "Nate Herk | AI Automation",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-17T11:45:06Z",
-      "view_count": 26553,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=NmN6jn6IiMA"
     }
   ]
 }

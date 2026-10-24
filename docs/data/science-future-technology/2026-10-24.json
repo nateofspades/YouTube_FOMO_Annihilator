@@ -1,0 +1,264 @@
+{
+  "slug": "science-future-technology",
+  "title": "Science and future technology",
+  "generated_at": "2026-10-24T14:02:11.510643Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "Kurzgesagt",
+      "handle": "@kurzgesagt",
+      "source_type": "Independent creator",
+      "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Veritasium",
+      "handle": "@veritasium",
+      "source_type": "Independent creator",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "recent_video_count": 2
+    },
+    {
+      "name": "PBS Space Time",
+      "handle": "@pbsspacetime",
+      "source_type": "Editorial/media",
+      "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
+      "recent_video_count": 3
+    },
+    {
+      "name": "SmarterEveryDay",
+      "handle": "@smartereveryday",
+      "source_type": "Independent creator",
+      "channel_id": "UC6107grRI4m0o2-emgoDnAA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Real Engineering",
+      "handle": "@RealEngineering",
+      "source_type": "Independent creator",
+      "channel_id": "UCR1IuLEqb6UEA_zQ81kwXfg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Practical Engineering",
+      "handle": "@PracticalEngineeringChannel",
+      "source_type": "Independent creator",
+      "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Mark Rober",
+      "handle": "@MarkRober",
+      "source_type": "Independent creator",
+      "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Hacksmith Industries",
+      "handle": "@hacksmith",
+      "source_type": "Official company",
+      "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
+      "recent_video_count": 5
+    },
+    {
+      "name": "Boston Dynamics",
+      "handle": "@BostonDynamics",
+      "source_type": "Official company",
+      "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
+      "recent_video_count": 0
+    },
+    {
+      "name": "NASA",
+      "handle": "@NASA",
+      "source_type": "Government",
+      "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "recent_video_count": 5
+    },
+    {
+      "name": "European Space Agency",
+      "handle": "@EuropeanSpaceAgency",
+      "source_type": "Government",
+      "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
+      "recent_video_count": 4
+    },
+    {
+      "name": "Cleo Abram",
+      "handle": "@CleoAbram",
+      "source_type": "Editorial/media",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Undecided",
+      "handle": "@UndecidedTechnology",
+      "source_type": "Independent creator",
+      "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Everything Electric",
+      "handle": "@fullychargedshow",
+      "source_type": "Editorial/media",
+      "channel_id": "UCzz4CoEgSgWNs9ZAvRMhW2A",
+      "recent_video_count": 1
+    },
+    {
+      "name": "IBM Research",
+      "handle": "ibmresearch",
+      "source_type": "Research institution",
+      "channel_id": null,
+      "recent_video_count": 0,
+      "status": "unavailable"
+    },
+    {
+      "name": "Fermilab",
+      "handle": "@fermilab",
+      "source_type": "Research institution",
+      "channel_id": "UCD5B6VoXv41fJ-IW8Wrhz9A",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Applied Science",
+      "handle": "@AppliedScience",
+      "source_type": "Independent creator",
+      "channel_id": "UCivA7_KLKWo43tFcCkFvydw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Periodic Videos",
+      "handle": "@periodicvideos",
+      "source_type": "Editorial/media",
+      "channel_id": "UCtESv1e7ntJaLJYKIO1FoYw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Two Bit da Vinci",
+      "handle": "@TwoBitDaVinci",
+      "source_type": "Independent creator",
+      "channel_id": "UCEgYhf84VjXDz-W7a9-rdCQ",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Branch Education",
+      "handle": "@BranchEducation",
+      "source_type": "Independent creator",
+      "channel_id": "UCdp4_l1vPmpN-gDbUwhaRUQ",
+      "recent_video_count": 0
+    }
+  ],
+  "candidate_count": 32,
+  "results": [
+    {
+      "video_id": "PXbVn-f_wuM",
+      "title": "You Will Only Like Half of This Video",
+      "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
+      "channel_title": "Kurzgesagt – In a Nutshell",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-20T14:00:11Z",
+      "view_count": 4620243,
+      "duration_minutes": 4,
+      "url": "https://www.youtube.com/watch?v=PXbVn-f_wuM"
+    },
+    {
+      "video_id": "eyZEqSPeMwg",
+      "title": "No device could prove our theory of gravity wrong... until now",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channel_title": "Veritasium",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-23T18:46:44Z",
+      "view_count": 2620501,
+      "duration_minutes": 34,
+      "url": "https://www.youtube.com/watch?v=eyZEqSPeMwg"
+    },
+    {
+      "video_id": "wxLc-gFORPQ",
+      "title": "Is there something faster than light?",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channel_title": "Veritasium",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-22T13:00:17Z",
+      "view_count": 907973,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=wxLc-gFORPQ"
+    },
+    {
+      "video_id": "Zezt6EsG9WE",
+      "title": "NASA Moon Base: Rovers and Lunar Terrain Vehicles (October 2026 Update)",
+      "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "channel_title": "NASA",
+      "source_type": "Government",
+      "published_at": "2026-10-20T15:02:15Z",
+      "view_count": 790297,
+      "duration_minutes": 9,
+      "url": "https://www.youtube.com/watch?v=Zezt6EsG9WE"
+    },
+    {
+      "video_id": "awV7FP9sAHE",
+      "title": "Whatever Happened to Fire Escapes?",
+      "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
+      "channel_title": "Practical Engineering",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-20T13:00:19Z",
+      "view_count": 749909,
+      "duration_minutes": 18,
+      "url": "https://www.youtube.com/watch?v=awV7FP9sAHE"
+    },
+    {
+      "video_id": "PBPLhvsR9V8",
+      "title": "What Is That Red Dot?",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-23T13:45:36Z",
+      "view_count": 621135,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=PBPLhvsR9V8"
+    },
+    {
+      "video_id": "eb8x2tz_pgc",
+      "title": "Ghost Particles Are Exposing Hidden Black Holes. They Just Won a Nobel Prize.",
+      "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
+      "channel_title": "PBS Space Time",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-22T20:15:02Z",
+      "view_count": 550411,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=eb8x2tz_pgc"
+    },
+    {
+      "video_id": "QtzTIz2QnvI",
+      "title": "Why Google is Betting on a Battery That Rusts",
+      "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
+      "channel_title": "Undecided with Matt Ferrell",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-21T12:16:49Z",
+      "view_count": 233010,
+      "duration_minutes": 17,
+      "url": "https://www.youtube.com/watch?v=QtzTIz2QnvI"
+    },
+    {
+      "video_id": "6E-cpiLGHJo",
+      "title": "We unlocked the 2050 tech tree early 💀 #tech #future #ad #cybopal",
+      "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
+      "channel_title": "Hacksmith Industries",
+      "source_type": "Official company",
+      "published_at": "2026-10-18T16:00:37Z",
+      "view_count": 167456,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=6E-cpiLGHJo"
+    },
+    {
+      "video_id": "pAKqJxuxDgk",
+      "title": "Artemis Acceleration (Oct. 23, 2026)",
+      "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "channel_title": "NASA",
+      "source_type": "Government",
+      "published_at": "2026-10-23T20:16:18Z",
+      "view_count": 144387,
+      "duration_minutes": 125,
+      "url": "https://www.youtube.com/watch?v=pAKqJxuxDgk"
+    }
+  ]
+}
