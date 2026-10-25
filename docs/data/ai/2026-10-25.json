@@ -1,0 +1,466 @@
+{
+  "slug": "ai",
+  "title": "AI news",
+  "generated_at": "2026-10-25T12:48:00.736207Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 2,
+  "source_channels": [
+    {
+      "name": "AI Explained",
+      "handle": "@aiexplained-official",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Matt Wolfe",
+      "handle": "@mreflow",
+      "source_type": "AI-focused channel",
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "recent_video_count": 9
+    },
+    {
+      "name": "TheAIGRID",
+      "handle": "@TheAiGrid",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
+      "recent_video_count": 4
+    },
+    {
+      "name": "WorldofAI",
+      "handle": "@intheworldofai",
+      "source_type": "AI-focused channel",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "recent_video_count": 5
+    },
+    {
+      "name": "All About AI",
+      "handle": "@AllAboutAI",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "The AI Advantage",
+      "handle": "@aiadvantage",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ",
+      "recent_video_count": 5
+    },
+    {
+      "name": "Aitrepreneur",
+      "handle": "@aitrepreneur",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCEAbqW0HFB_UxZoUDO0kJBw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Two Minute Papers",
+      "handle": "@TwoMinutePapers",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Google DeepMind",
+      "handle": "@googledeepmind",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "recent_video_count": 0
+    },
+    {
+      "name": "OpenAI",
+      "handle": "@openai",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "recent_video_count": 19
+    },
+    {
+      "name": "Anthropic",
+      "handle": "@anthropic-ai",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCrDwWp7EBBv4NwvScIpBDOA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Hugging Face",
+      "handle": "@HuggingFace",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
+      "recent_video_count": 6
+    },
+    {
+      "name": "Wes Roth",
+      "handle": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "recent_video_count": 2
+    },
+    {
+      "name": "The AI Daily Brief",
+      "handle": "UCKelCK4ZaO6HeEI1KQjqzWA",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+      "recent_video_count": 6
+    },
+    {
+      "name": "Nate B Jones",
+      "handle": "UC0C-17n9iuUQPylguM1d-lQ",
+      "source_type": "AI-focused channel",
+      "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
+      "recent_video_count": 7
+    },
+    {
+      "name": "AI Search",
+      "handle": "UCIgnGlGkVRhd4qNFcEwLL4A",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCIgnGlGkVRhd4qNFcEwLL4A",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Skill Leap AI",
+      "handle": "UCwSozl89jl2zUDzQ4jGJD3g",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCwSozl89jl2zUDzQ4jGJD3g",
+      "recent_video_count": 4
+    },
+    {
+      "name": "Matthew Berman",
+      "handle": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "recent_video_count": 14
+    },
+    {
+      "name": "Fireship",
+      "handle": "UCsBjURrPoezykLs9EqgamOA",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "recent_video_count": 3
+    },
+    {
+      "name": "IBM Technology",
+      "handle": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "recent_video_count": 8
+    },
+    {
+      "name": "Theo - t3.gg",
+      "handle": "UCbRP3c757lWg9M-U7TyEkXA",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "recent_video_count": 4
+    },
+    {
+      "name": "AI For Humans",
+      "handle": "UCghJTNTO9kcDeUFXMuSDGLQ",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCghJTNTO9kcDeUFXMuSDGLQ",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Hard Fork",
+      "handle": "UCZcR2SVWaGWNlMqPxvQS3vw",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCZcR2SVWaGWNlMqPxvQS3vw",
+      "recent_video_count": 4
+    },
+    {
+      "name": "TechLinked",
+      "handle": "UCeeFfhMcJa1kjtfZAGskOCA",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCeeFfhMcJa1kjtfZAGskOCA",
+      "recent_video_count": 8
+    },
+    {
+      "name": "CNET",
+      "handle": "UCOmcA3f_RrH6b9NmcNa4tdg",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCOmcA3f_RrH6b9NmcNa4tdg",
+      "recent_video_count": 23
+    },
+    {
+      "name": "The Verge",
+      "handle": "UCddiUEpeqJcYeBxX1IVBKvQ",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCddiUEpeqJcYeBxX1IVBKvQ",
+      "recent_video_count": 28
+    },
+    {
+      "name": "Bloomberg Technology",
+      "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
+      "recent_video_count": 43
+    },
+    {
+      "name": "CNBC Television",
+      "handle": "UCrp_UI8XtuYfpiqluWLD7Lw",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCrp_UI8XtuYfpiqluWLD7Lw",
+      "recent_video_count": 219
+    },
+    {
+      "name": "TechCrunch",
+      "handle": "UCCjyq_K1Xwfg8Lndy7lKMpA",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCCjyq_K1Xwfg8Lndy7lKMpA",
+      "recent_video_count": 7
+    },
+    {
+      "name": "MIT Technology Review",
+      "handle": "UCgy4Mf_tlZGqesYNqPNxjPw",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCgy4Mf_tlZGqesYNqPNxjPw",
+      "recent_video_count": 2
+    },
+    {
+      "name": "IEEE Spectrum",
+      "handle": "UCFQDtftsHGzSh1-TReNT4lA",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCFQDtftsHGzSh1-TReNT4lA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "The Rundown AI",
+      "handle": "UC8LUzR34nNX8KH3Edd0un1g",
+      "source_type": "AI-focused channel",
+      "channel_id": "UC8LUzR34nNX8KH3Edd0un1g",
+      "recent_video_count": 5
+    },
+    {
+      "name": "The AI Epiphany",
+      "handle": "UCj8shE7aIn4Yawwbo2FceCQ",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCj8shE7aIn4Yawwbo2FceCQ",
+      "recent_video_count": 0
+    },
+    {
+      "name": "What's AI",
+      "handle": "UCUzGQrN-lyyc0BWTYoJM_Sg",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCUzGQrN-lyyc0BWTYoJM_Sg",
+      "recent_video_count": 5
+    },
+    {
+      "name": "Dr Alan D. Thompson",
+      "handle": "UC00DrQVoCf9Liv4D0KV0rGw",
+      "source_type": "AI-focused channel",
+      "channel_id": "UC00DrQVoCf9Liv4D0KV0rGw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Yannic Kilcher",
+      "handle": "UCZHmQk67mSJgfCCTn7xBfew",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "recent_video_count": 0
+    },
+    {
+      "name": "bycloud",
+      "handle": "UC6r0JH23PKZfogSwn2Q-oMw",
+      "source_type": "AI-focused channel",
+      "channel_id": "UC6r0JH23PKZfogSwn2Q-oMw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "DeepLearning.AI",
+      "handle": "UCcIXc5mJsHVYTZR1maL5l9w",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
+      "recent_video_count": 1
+    },
+    {
+      "name": "NVIDIA",
+      "handle": "UCHuiy8bXnmK5nisYHUd1J5g",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCHuiy8bXnmK5nisYHUd1J5g",
+      "recent_video_count": 20
+    },
+    {
+      "name": "Microsoft",
+      "handle": "UCFtEEv80fQVKkD4h1PF-Xqw",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
+      "recent_video_count": 4
+    },
+    {
+      "name": "Google",
+      "handle": "UCK8sQmJBp8GCxrOtXWBpyEA",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
+      "recent_video_count": 4
+    },
+    {
+      "name": "Meta AI",
+      "handle": "UC5qxlwEKM7-5YZudb24l0bg",
+      "source_type": "AI-focused channel",
+      "channel_id": "UC5qxlwEKM7-5YZudb24l0bg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Mistral AI",
+      "handle": "UC5-pBdfdA3KUo-vq72l-umA",
+      "source_type": "AI-focused channel",
+      "channel_id": "UC5-pBdfdA3KUo-vq72l-umA",
+      "recent_video_count": 6
+    },
+    {
+      "name": "Perplexity",
+      "handle": "UCYqxnCFtaC4-iC_bwt2bRLg",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCYqxnCFtaC4-iC_bwt2bRLg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Stability AI",
+      "handle": "UCpi_ULPErwrxGTDWZey5azQ",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCpi_ULPErwrxGTDWZey5azQ",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Runway",
+      "handle": "UCUBqu_z5uP0AZhYtuyFZB3g",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCUBqu_z5uP0AZhYtuyFZB3g",
+      "recent_video_count": 8
+    },
+    {
+      "name": "AI Engineer",
+      "handle": "UCLKPca3kwwd-B59HNr-_lvA",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "recent_video_count": 39
+    },
+    {
+      "name": "David Shapiro",
+      "handle": "UCvKRFNawVcuz4b9ihUTApCg",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCvKRFNawVcuz4b9ihUTApCg",
+      "recent_video_count": 7
+    },
+    {
+      "name": "The Artificial Intelligence Show",
+      "handle": "UCdHpbfqjELZmhqY3k0ELGcQ",
+      "source_type": "AI-focused channel",
+      "channel_id": "UCdHpbfqjELZmhqY3k0ELGcQ",
+      "recent_video_count": 3
+    }
+  ],
+  "candidate_count": 540,
+  "results": [
+    {
+      "video_id": "v-NGxyPjcrE",
+      "title": "NVIDIA GTC Berlin 2026 Keynote With CEO Jensen Huang",
+      "channel_id": "UCHuiy8bXnmK5nisYHUd1J5g",
+      "channel_title": "NVIDIA",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-23T08:43:07Z",
+      "view_count": 11154954,
+      "duration_minutes": 92,
+      "url": "https://www.youtube.com/watch?v=v-NGxyPjcrE"
+    },
+    {
+      "video_id": "b2tjnxX8IHU",
+      "title": "Did Google just dethrone OpenAI and Anthropic?",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "channel_title": "Fireship",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-20T16:21:03Z",
+      "view_count": 1874913,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=b2tjnxX8IHU"
+    },
+    {
+      "video_id": "ppq-xEd-AXw",
+      "title": "Oops The Internet Broke",
+      "channel_id": "UCeeFfhMcJa1kjtfZAGskOCA",
+      "channel_title": "TechLinked",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-22T01:55:04Z",
+      "view_count": 772967,
+      "duration_minutes": 11,
+      "url": "https://www.youtube.com/watch?v=ppq-xEd-AXw"
+    },
+    {
+      "video_id": "1Aqhg0FVm-w",
+      "title": "Deepseek strikes again",
+      "channel_id": "UCIgnGlGkVRhd4qNFcEwLL4A",
+      "channel_title": "AI Search",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-23T03:29:27Z",
+      "view_count": 711288,
+      "duration_minutes": 27,
+      "url": "https://www.youtube.com/watch?v=1Aqhg0FVm-w"
+    },
+    {
+      "video_id": "ehcBwqyUGjo",
+      "title": "they’re shutting it DOWN",
+      "channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "channel_title": "Wes Roth",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-21T20:47:18Z",
+      "view_count": 488721,
+      "duration_minutes": 17,
+      "url": "https://www.youtube.com/watch?v=ehcBwqyUGjo"
+    },
+    {
+      "video_id": "3gXLmy7DK_4",
+      "title": "Sam Altman: RSI, AI Consciousness, OpenAI's New Hardware, Compute, and more!",
+      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "channel_title": "Matthew Berman",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-21T15:30:24Z",
+      "view_count": 359529,
+      "duration_minutes": 45,
+      "url": "https://www.youtube.com/watch?v=3gXLmy7DK_4"
+    },
+    {
+      "video_id": "7Y4sbZgBdnc",
+      "title": "Is the Agent Harness Dead? — Jediah Katz, SpaceXAI",
+      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channel_title": "AI Engineer",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-19T19:00:17Z",
+      "view_count": 267862,
+      "duration_minutes": 18,
+      "url": "https://www.youtube.com/watch?v=7Y4sbZgBdnc"
+    },
+    {
+      "video_id": "m-B3jIMMmUE",
+      "title": "Your prompts kinda suck",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "channel_title": "Theo - t3․gg",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-18T23:57:04Z",
+      "view_count": 238474,
+      "duration_minutes": 32,
+      "url": "https://www.youtube.com/watch?v=m-B3jIMMmUE"
+    },
+    {
+      "video_id": "LWxX6vvHfrc",
+      "title": "Gemini 4 Argon Is Not What I Expected",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "channel_title": "Two Minute Papers",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-19T08:49:21Z",
+      "view_count": 229653,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc"
+    },
+    {
+      "video_id": "OK1BBBaX9h0",
+      "title": "We're in the 'final innings' of the market correction, says Morgan Stanley's Mike Wilson",
+      "channel_id": "UCrp_UI8XtuYfpiqluWLD7Lw",
+      "channel_title": "CNBC Television",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-20T11:46:22Z",
+      "view_count": 222508,
+      "duration_minutes": 6,
+      "url": "https://www.youtube.com/watch?v=OK1BBBaX9h0"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-10-24T18:51:32.908076Z",
+  "generated_at": "2026-10-25T12:48:00.736207Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -74,7 +74,7 @@
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 11
+      "recent_video_count": 10
     },
     {
       "name": "MicroConf",
@@ -350,18 +350,18 @@
       "recent_video_count": 8
     }
   ],
-  "candidate_count": 239,
+  "candidate_count": 238,
   "results": [
     {
-      "video_id": "pTuzmOblTGY",
-      "title": "Howard Marks: The S&P 500 isn’t a good bet right now",
+      "video_id": "_Lux62iTbFE",
+      "title": "What Elon Musk would do if he lost everything",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
       "channel_title": "My First Million",
       "source_type": "Independent creator",
-      "published_at": "2026-10-17T22:43:10Z",
-      "view_count": 251122,
+      "published_at": "2026-10-22T21:31:01Z",
+      "view_count": 265867,
       "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=pTuzmOblTGY"
+      "url": "https://www.youtube.com/watch?v=_Lux62iTbFE"
     },
     {
       "video_id": "tpZOU1ugODQ",
@@ -370,7 +370,7 @@
       "channel_title": "Greg Isenberg",
       "source_type": "Additional curated source",
       "published_at": "2026-10-19T17:50:26Z",
-      "view_count": 229152,
+      "view_count": 238828,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=tpZOU1ugODQ"
     },
@@ -381,7 +381,7 @@
       "channel_title": "Rob Walling",
       "source_type": "Additional curated source",
       "published_at": "2026-10-18T16:00:21Z",
-      "view_count": 192638,
+      "view_count": 201539,
       "duration_minutes": 40,
       "url": "https://www.youtube.com/watch?v=KpILHX2D-AA"
     },
@@ -392,9 +392,20 @@
       "channel_title": "Starter Story",
       "source_type": "Additional curated source",
       "published_at": "2026-10-18T17:00:19Z",
-      "view_count": 181664,
+      "view_count": 197915,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=NuYO7DWzlaM"
+    },
+    {
+      "video_id": "-YMMRQ1qscI",
+      "title": "Amazon CEO Andy Jassy on the Infrastructure the AI Era Needs",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-23T15:40:03Z",
+      "view_count": 85532,
+      "duration_minutes": 61,
+      "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI"
     },
     {
       "video_id": "82JpLrZyteg",
@@ -403,7 +414,7 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-19T16:00:34Z",
-      "view_count": 83635,
+      "view_count": 84574,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=82JpLrZyteg"
     },
@@ -414,31 +425,9 @@
       "channel_title": "Codie Sanchez",
       "source_type": "Additional curated source",
       "published_at": "2026-10-18T15:00:34Z",
-      "view_count": 72624,
+      "view_count": 74445,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=_IwYLXAXzx8"
-    },
-    {
-      "video_id": "-YMMRQ1qscI",
-      "title": "Amazon CEO Andy Jassy on the Infrastructure the AI Era Needs",
-      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "channel_title": "a16z",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-23T15:40:03Z",
-      "view_count": 67028,
-      "duration_minutes": 61,
-      "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI"
-    },
-    {
-      "video_id": "JHo-aiePjoM",
-      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
-      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "channel_title": "Lenny's Podcast",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-18T12:30:11Z",
-      "view_count": 65540,
-      "duration_minutes": 72,
-      "url": "https://www.youtube.com/watch?v=JHo-aiePjoM"
     },
     {
       "video_id": "Kn1-GJj-Ibs",
@@ -447,7 +436,7 @@
       "channel_title": "CNBC Make It",
       "source_type": "Additional curated source",
       "published_at": "2026-10-22T17:00:07Z",
-      "view_count": 56026,
+      "view_count": 67646,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=Kn1-GJj-Ibs"
     },
@@ -458,9 +447,20 @@
       "channel_title": "Dan Martell",
       "source_type": "Additional curated source",
       "published_at": "2026-10-21T13:00:30Z",
-      "view_count": 52675,
+      "view_count": 56399,
       "duration_minutes": 26,
       "url": "https://www.youtube.com/watch?v=9Cf416w4JJI"
+    },
+    {
+      "video_id": "0mMWQRRUcjY",
+      "title": "yeah... Netflix only wants you to watch THEIR movies",
+      "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
+      "channel_title": "Slidebean",
+      "source_type": "Official company",
+      "published_at": "2026-10-21T11:30:31Z",
+      "view_count": 54958,
+      "duration_minutes": 28,
+      "url": "https://www.youtube.com/watch?v=0mMWQRRUcjY"
     }
   ]
 }

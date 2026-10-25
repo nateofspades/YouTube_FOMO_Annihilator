@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-10-24T18:51:32.908076Z",
+  "generated_at": "2026-10-25T12:48:00.736207Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,14 +11,14 @@
       "handle": "UCJIfeSCssxSC_Dhc5s7woww",
       "source_type": "AI podcast",
       "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "recent_video_count": 4
+      "recent_video_count": 0
     },
     {
       "name": "Dwarkesh Patel",
       "handle": "UCXl4i9dYBrFOabk0xGmbkRA",
       "source_type": "AI podcast",
       "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "Latent Space",
@@ -39,7 +39,7 @@
       "handle": "UCSI7h9hydQ40K5MJHnCrQvw",
       "source_type": "AI podcast",
       "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "The TWIML AI Podcast",
@@ -88,7 +88,7 @@
       "handle": "UCgx8lqX3QsHgH0bQq7-EHVg",
       "source_type": "AI podcast",
       "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "AI Agents Podcast",
@@ -165,7 +165,7 @@
       "handle": "UCaKiCexVhZ459j9sZ2e7XdQ",
       "source_type": "AI podcast",
       "channel_id": "UCaKiCexVhZ459j9sZ2e7XdQ",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Data Skeptic",
@@ -343,7 +343,7 @@
       "recent_video_count": 3
     }
   ],
-  "candidate_count": 185,
+  "candidate_count": 183,
   "results": [
     {
       "video_id": "o5UZtZuPAeY",
@@ -352,7 +352,7 @@
       "channel_title": "Dwarkesh Patel",
       "source_type": "AI podcast",
       "published_at": "2026-10-22T23:21:44Z",
-      "view_count": 250254,
+      "view_count": 296277,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=o5UZtZuPAeY"
     },
@@ -363,7 +363,7 @@
       "channel_title": "Decoder with Nilay Patel",
       "source_type": "AI podcast",
       "published_at": "2026-10-22T13:00:32Z",
-      "view_count": 213436,
+      "view_count": 271168,
       "duration_minutes": 71,
       "url": "https://www.youtube.com/watch?v=A0kTUP7fWtk"
     },
@@ -374,7 +374,7 @@
       "channel_title": "a16z",
       "source_type": "AI podcast",
       "published_at": "2026-10-23T15:40:03Z",
-      "view_count": 67028,
+      "view_count": 85599,
       "duration_minutes": 61,
       "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI"
     },
@@ -385,7 +385,7 @@
       "channel_title": "Big Technology",
       "source_type": "AI podcast",
       "published_at": "2026-10-23T01:52:02Z",
-      "view_count": 57699,
+      "view_count": 66575,
       "duration_minutes": 8,
       "url": "https://www.youtube.com/watch?v=8VAcr7OrxvI"
     },
@@ -396,20 +396,9 @@
       "channel_title": "Machine Gods",
       "source_type": "AI podcast",
       "published_at": "2026-10-21T11:00:19Z",
-      "view_count": 36803,
+      "view_count": 39005,
       "duration_minutes": 52,
       "url": "https://www.youtube.com/watch?v=OKDai2_aZe4"
-    },
-    {
-      "video_id": "d6SO10ihpL4",
-      "title": "A Potentially Historic AI Breakthrough",
-      "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-      "channel_title": "The AI Daily Brief: Artificial Intelligence News",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-19T16:41:01Z",
-      "view_count": 33627,
-      "duration_minutes": 20,
-      "url": "https://www.youtube.com/watch?v=d6SO10ihpL4"
     },
     {
       "video_id": "S1JMiDyAwFM",
@@ -418,20 +407,20 @@
       "channel_title": "TBPN",
       "source_type": "AI podcast",
       "published_at": "2026-10-22T02:52:02Z",
-      "view_count": 33082,
+      "view_count": 35201,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=S1JMiDyAwFM"
     },
     {
-      "video_id": "9rH1ChuVAe0",
-      "title": "Jensen Huang on China's AI labs | Lex Fridman in Taiwan",
-      "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "channel_title": "Lex Clips",
+      "video_id": "d6SO10ihpL4",
+      "title": "A Potentially Historic AI Breakthrough",
+      "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+      "channel_title": "The AI Daily Brief: Artificial Intelligence News",
       "source_type": "AI podcast",
-      "published_at": "2026-10-18T04:00:19Z",
-      "view_count": 25193,
-      "duration_minutes": 5,
-      "url": "https://www.youtube.com/watch?v=9rH1ChuVAe0"
+      "published_at": "2026-10-19T16:41:01Z",
+      "view_count": 33989,
+      "duration_minutes": 20,
+      "url": "https://www.youtube.com/watch?v=d6SO10ihpL4"
     },
     {
       "video_id": "-XIgyMsZZxY",
@@ -440,7 +429,7 @@
       "channel_title": "AI For Humans",
       "source_type": "AI podcast",
       "published_at": "2026-10-23T13:45:21Z",
-      "view_count": 15848,
+      "view_count": 17674,
       "duration_minutes": 53,
       "url": "https://www.youtube.com/watch?v=-XIgyMsZZxY"
     },
@@ -451,9 +440,20 @@
       "channel_title": "Latent Space",
       "source_type": "AI podcast",
       "published_at": "2026-10-21T04:52:14Z",
-      "view_count": 12103,
+      "view_count": 15249,
       "duration_minutes": 44,
       "url": "https://www.youtube.com/watch?v=Vki6cklFqxo"
+    },
+    {
+      "video_id": "UF08V1XIUmw",
+      "title": "Claude Code for creators: AI editing is here",
+      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
+      "channel_title": "How I AI",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-19T12:00:39Z",
+      "view_count": 10781,
+      "duration_minutes": 37,
+      "url": "https://www.youtube.com/watch?v=UF08V1XIUmw"
     }
   ]
 }

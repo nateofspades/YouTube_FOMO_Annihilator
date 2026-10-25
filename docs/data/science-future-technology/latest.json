@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-10-24T18:51:32.908076Z",
+  "generated_at": "2026-10-25T12:48:00.736207Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -81,7 +81,7 @@
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Cleo Abram",
@@ -257,7 +257,7 @@
       "handle": "UC1LpsuAUaKoMzzJSEt5WImw",
       "source_type": "Additional curated source",
       "channel_id": "UC1LpsuAUaKoMzzJSEt5WImw",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "ColdFusion",
@@ -358,7 +358,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 94,
+  "candidate_count": 96,
   "results": [
     {
       "video_id": "PXbVn-f_wuM",
@@ -367,7 +367,7 @@
       "channel_title": "Kurzgesagt – In a Nutshell",
       "source_type": "Independent creator",
       "published_at": "2026-10-20T14:00:11Z",
-      "view_count": 4685055,
+      "view_count": 4901574,
       "duration_minutes": 4,
       "url": "https://www.youtube.com/watch?v=PXbVn-f_wuM"
     },
@@ -378,7 +378,7 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-23T18:46:44Z",
-      "view_count": 3081402,
+      "view_count": 3880503,
       "duration_minutes": 34,
       "url": "https://www.youtube.com/watch?v=eyZEqSPeMwg"
     },
@@ -389,9 +389,20 @@
       "channel_title": "StarTalk",
       "source_type": "Additional curated source",
       "published_at": "2026-10-18T15:00:38Z",
-      "view_count": 1360791,
+      "view_count": 1374470,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=NyCtgZCYUmY"
+    },
+    {
+      "video_id": "PBPLhvsR9V8",
+      "title": "What Is That Red Dot?",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-23T13:45:36Z",
+      "view_count": 945441,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=PBPLhvsR9V8"
     },
     {
       "video_id": "Zezt6EsG9WE",
@@ -400,7 +411,7 @@
       "channel_title": "NASA",
       "source_type": "Government",
       "published_at": "2026-10-20T15:02:15Z",
-      "view_count": 807384,
+      "view_count": 858075,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=Zezt6EsG9WE"
     },
@@ -411,20 +422,9 @@
       "channel_title": "Practical Engineering",
       "source_type": "Independent creator",
       "published_at": "2026-10-20T13:00:19Z",
-      "view_count": 761252,
+      "view_count": 798240,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=awV7FP9sAHE"
-    },
-    {
-      "video_id": "PBPLhvsR9V8",
-      "title": "What Is That Red Dot?",
-      "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "channel_title": "Cleo Abram",
-      "source_type": "Editorial/media",
-      "published_at": "2026-10-23T13:45:36Z",
-      "view_count": 744186,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=PBPLhvsR9V8"
     },
     {
       "video_id": "eb8x2tz_pgc",
@@ -433,20 +433,20 @@
       "channel_title": "PBS Space Time",
       "source_type": "Editorial/media",
       "published_at": "2026-10-22T20:15:02Z",
-      "view_count": 568871,
+      "view_count": 655790,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=eb8x2tz_pgc"
     },
     {
-      "video_id": "y4fN8APrV8I",
-      "title": "A 14-Year-Old’s New Theory of the Universe",
+      "video_id": "rH79TGultXM",
+      "title": "It Shouldn’t Exist But it Does: Astronomers Find Green Star",
       "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
       "channel_title": "Sabine Hossenfelder",
       "source_type": "Additional curated source",
-      "published_at": "2026-10-20T15:00:14Z",
-      "view_count": 519819,
-      "duration_minutes": 6,
-      "url": "https://www.youtube.com/watch?v=y4fN8APrV8I"
+      "published_at": "2026-10-19T15:00:17Z",
+      "view_count": 531769,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=rH79TGultXM"
     },
     {
       "video_id": "3h_aeB4TPxo",
@@ -455,7 +455,7 @@
       "channel_title": "Anton Petrov",
       "source_type": "Additional curated source",
       "published_at": "2026-10-21T22:00:30Z",
-      "view_count": 470838,
+      "view_count": 521937,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=3h_aeB4TPxo"
     },
@@ -466,7 +466,7 @@
       "channel_title": "SciShow",
       "source_type": "Additional curated source",
       "published_at": "2026-10-21T17:00:11Z",
-      "view_count": 440608,
+      "view_count": 481626,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=p7Tb0GNawdM"
     }

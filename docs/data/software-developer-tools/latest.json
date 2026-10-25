@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-10-24T18:51:32.908076Z",
+  "generated_at": "2026-10-25T12:48:00.736207Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -60,7 +60,7 @@
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 11
+      "recent_video_count": 41
     },
     {
       "name": "GitLab",
@@ -357,7 +357,7 @@
       "recent_video_count": 0
     }
   ],
-  "candidate_count": 138,
+  "candidate_count": 168,
   "results": [
     {
       "video_id": "zv6B6PQOuHE",
@@ -366,9 +366,20 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-10-22T15:09:31Z",
-      "view_count": 1367512,
+      "view_count": 1429734,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=zv6B6PQOuHE"
+    },
+    {
+      "video_id": "Hp-fPImMNfs",
+      "title": "Interview: How Does File Compression Work?🗃️",
+      "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
+      "channel_title": "KodeKloud",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-22T12:57:04Z",
+      "view_count": 293578,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=Hp-fPImMNfs"
     },
     {
       "video_id": "JqljXzMrSGk",
@@ -377,7 +388,7 @@
       "channel_title": "Low Level",
       "source_type": "Additional curated source",
       "published_at": "2026-10-19T14:43:24Z",
-      "view_count": 288026,
+      "view_count": 289855,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=JqljXzMrSGk"
     },
@@ -388,31 +399,9 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-18T23:57:04Z",
-      "view_count": 235776,
+      "view_count": 238474,
       "duration_minutes": 32,
       "url": "https://www.youtube.com/watch?v=m-B3jIMMmUE"
-    },
-    {
-      "video_id": "ZSFSA1Tx6lk",
-      "title": "Interview: What Is a Bloom Filter?🧠",
-      "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
-      "channel_title": "KodeKloud",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-21T12:34:40Z",
-      "view_count": 180778,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=ZSFSA1Tx6lk"
-    },
-    {
-      "video_id": "jLtnD-0V7pA",
-      "title": "PHP, Node and more are vulnerable! You must act NOW!",
-      "channel_id": "UCSJbGtTlrDami-tDGPUV9-w",
-      "channel_title": "Academind",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-22T14:12:19Z",
-      "view_count": 97666,
-      "duration_minutes": 12,
-      "url": "https://www.youtube.com/watch?v=jLtnD-0V7pA"
     },
     {
       "video_id": "h6j_ixGnpiY",
@@ -421,20 +410,20 @@
       "channel_title": "Computerphile",
       "source_type": "Additional curated source",
       "published_at": "2026-10-22T13:00:06Z",
-      "view_count": 92379,
+      "view_count": 101497,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=h6j_ixGnpiY"
     },
     {
-      "video_id": "qKyFi6j1XpA",
-      "title": "Everyone is hacking their TV ⟡ VoidZero Framework Open Sourced ⟡ OpenCode Hacked ⌁ Syntax Weekly ⌁",
-      "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
-      "channel_title": "Syntax",
+      "video_id": "jLtnD-0V7pA",
+      "title": "PHP, Node and more are vulnerable! You must act NOW!",
+      "channel_id": "UCSJbGtTlrDami-tDGPUV9-w",
+      "channel_title": "Academind",
       "source_type": "Additional curated source",
-      "published_at": "2026-10-19T18:31:37Z",
-      "view_count": 86404,
-      "duration_minutes": 84,
-      "url": "https://www.youtube.com/watch?v=qKyFi6j1XpA"
+      "published_at": "2026-10-22T14:12:19Z",
+      "view_count": 101122,
+      "duration_minutes": 12,
+      "url": "https://www.youtube.com/watch?v=jLtnD-0V7pA"
     },
     {
       "video_id": "2C_CefSQEAQ",
@@ -443,20 +432,20 @@
       "channel_title": "Google Cloud Tech",
       "source_type": "Official company",
       "published_at": "2026-10-22T15:55:11Z",
-      "view_count": 81979,
+      "view_count": 96321,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=2C_CefSQEAQ"
     },
     {
-      "video_id": "FbXPaIcpvww",
-      "title": "How To Design The Perfect Auth System In The Age of AI",
-      "channel_id": "UCFbNIlppjAuEX4znoulh0Cw",
-      "channel_title": "Web Dev Simplified",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-20T22:00:20Z",
-      "view_count": 73482,
-      "duration_minutes": 24,
-      "url": "https://www.youtube.com/watch?v=FbXPaIcpvww"
+      "video_id": "qKyFi6j1XpA",
+      "title": "Everyone is hacking their TV ⟡ VoidZero Framework Open Sourced ⟡ OpenCode Hacked ⌁ Syntax Weekly ⌁",
+      "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
+      "channel_title": "Syntax",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-19T18:31:37Z",
+      "view_count": 88621,
+      "duration_minutes": 84,
+      "url": "https://www.youtube.com/watch?v=qKyFi6j1XpA"
     },
     {
       "video_id": "JGly6PSK5iw",
@@ -465,9 +454,20 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-10-23T14:10:25Z",
-      "view_count": 70842,
+      "view_count": 80600,
       "duration_minutes": 11,
       "url": "https://www.youtube.com/watch?v=JGly6PSK5iw"
+    },
+    {
+      "video_id": "FbXPaIcpvww",
+      "title": "How To Design The Perfect Auth System In The Age of AI",
+      "channel_id": "UCFbNIlppjAuEX4znoulh0Cw",
+      "channel_title": "Web Dev Simplified",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-20T22:00:20Z",
+      "view_count": 76440,
+      "duration_minutes": 24,
+      "url": "https://www.youtube.com/watch?v=FbXPaIcpvww"
     }
   ]
 }

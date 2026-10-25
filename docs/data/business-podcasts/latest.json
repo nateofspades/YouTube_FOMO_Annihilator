@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-10-24T18:51:32.908076Z",
+  "generated_at": "2026-10-25T12:48:00.736207Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,7 +18,7 @@
       "handle": "@MyFirstMillionPod",
       "source_type": "Business podcast",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 11
+      "recent_video_count": 10
     },
     {
       "name": "Acquired",
@@ -32,7 +32,7 @@
       "handle": "@allin",
       "source_type": "Business podcast",
       "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "Guy Raz / How I Built This",
@@ -102,7 +102,7 @@
       "handle": "@TheProfGPod",
       "source_type": "Business podcast",
       "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "recent_video_count": 16
+      "recent_video_count": 15
     },
     {
       "name": "Pivot with Kara Swisher and Scott Galloway",
@@ -130,7 +130,7 @@
       "handle": "@AlexHormozi",
       "source_type": "Business podcast",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "recent_video_count": 94
+      "recent_video_count": 95
     },
     {
       "name": "Startups for the Rest of Us",
@@ -158,7 +158,7 @@
       "handle": "UCGX7nGXpz-CmO_Arg-cgJ7A",
       "source_type": "Business podcast",
       "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
-      "recent_video_count": 32
+      "recent_video_count": 34
     },
     {
       "name": "The Jordan Harbinger Show",
@@ -193,7 +193,7 @@
       "handle": "UCncFI0XEvTu7k4er6BgVN9g",
       "source_type": "Business podcast",
       "channel_id": "UCncFI0XEvTu7k4er6BgVN9g",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "Smart Passive Income",
@@ -235,7 +235,7 @@
       "handle": "UCTJmkA2-u7Kyblm5_P6tKdA",
       "source_type": "Business podcast",
       "channel_id": "UCTJmkA2-u7Kyblm5_P6tKdA",
-      "recent_video_count": 13
+      "recent_video_count": 14
     },
     {
       "name": "The Colin and Samir Show",
@@ -350,7 +350,7 @@
       "recent_video_count": 1
     }
   ],
-  "candidate_count": 337,
+  "candidate_count": 339,
   "results": [
     {
       "video_id": "OeOJFbvbyEM",
@@ -359,20 +359,9 @@
       "channel_title": "PBD Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-19T15:40:50Z",
-      "view_count": 514251,
+      "view_count": 517306,
       "duration_minutes": 129,
       "url": "https://www.youtube.com/watch?v=OeOJFbvbyEM"
-    },
-    {
-      "video_id": "jt5ol63Qaxw",
-      "title": "\"There's Only One Place to Put Your Money\" — Peter Zeihan on America's Edge",
-      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "channel_title": "The Prof G Pod – Scott Galloway",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-18T12:00:14Z",
-      "view_count": 339382,
-      "duration_minutes": 7,
-      "url": "https://www.youtube.com/watch?v=jt5ol63Qaxw"
     },
     {
       "video_id": "6czo-C3FU7I",
@@ -381,20 +370,9 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-23T23:52:56Z",
-      "view_count": 290731,
+      "view_count": 420577,
       "duration_minutes": 103,
       "url": "https://www.youtube.com/watch?v=6czo-C3FU7I"
-    },
-    {
-      "video_id": "5pk8HLcAAT0",
-      "title": "Asking A 30-Year-Old Billionaire CEO How He’d Make $1,000,000 (Starting From $0)",
-      "channel_id": "UCMSYZVlQmyG8_2MkIKzg0kw",
-      "channel_title": "The Iced Coffee Hour",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-18T16:00:00Z",
-      "view_count": 278980,
-      "duration_minutes": 133,
-      "url": "https://www.youtube.com/watch?v=5pk8HLcAAT0"
     },
     {
       "video_id": "KmwJy5_1nOw",
@@ -403,31 +381,20 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-23T13:00:18Z",
-      "view_count": 270513,
+      "view_count": 310867,
       "duration_minutes": 70,
       "url": "https://www.youtube.com/watch?v=KmwJy5_1nOw"
     },
     {
-      "video_id": "pTuzmOblTGY",
-      "title": "Howard Marks: The S&P 500 isn’t a good bet right now",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
+      "video_id": "5pk8HLcAAT0",
+      "title": "Asking A 30-Year-Old Billionaire CEO How He’d Make $1,000,000 (Starting From $0)",
+      "channel_id": "UCMSYZVlQmyG8_2MkIKzg0kw",
+      "channel_title": "The Iced Coffee Hour",
       "source_type": "Business podcast",
-      "published_at": "2026-10-17T22:43:10Z",
-      "view_count": 251122,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=pTuzmOblTGY"
-    },
-    {
-      "video_id": "tpZOU1ugODQ",
-      "title": "Meta Muse Will Create 1,000 Millionaires",
-      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "channel_title": "Greg Isenberg",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-19T17:50:26Z",
-      "view_count": 229250,
-      "duration_minutes": 25,
-      "url": "https://www.youtube.com/watch?v=tpZOU1ugODQ"
+      "published_at": "2026-10-18T16:00:00Z",
+      "view_count": 292032,
+      "duration_minutes": 133,
+      "url": "https://www.youtube.com/watch?v=5pk8HLcAAT0"
     },
     {
       "video_id": "5rOIS7GHD5Y",
@@ -436,9 +403,42 @@
       "channel_title": "Alex Hormozi",
       "source_type": "Business podcast",
       "published_at": "2026-10-23T18:36:19Z",
-      "view_count": 198854,
+      "view_count": 278018,
       "duration_minutes": 16,
       "url": "https://www.youtube.com/watch?v=5rOIS7GHD5Y"
+    },
+    {
+      "video_id": "_Lux62iTbFE",
+      "title": "What Elon Musk would do if he lost everything",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-22T21:31:01Z",
+      "view_count": 265926,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=_Lux62iTbFE"
+    },
+    {
+      "video_id": "tpZOU1ugODQ",
+      "title": "Meta Muse Will Create 1,000 Millionaires",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "channel_title": "Greg Isenberg",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-19T17:50:26Z",
+      "view_count": 238828,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=tpZOU1ugODQ"
+    },
+    {
+      "video_id": "dpnlQg2lWF4",
+      "title": "Peter Zeihan: Globalization Was Always Going to Fail — Trump Just Sped It Up",
+      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
+      "channel_title": "The Prof G Pod – Scott Galloway",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-19T22:30:35Z",
+      "view_count": 218423,
+      "duration_minutes": 8,
+      "url": "https://www.youtube.com/watch?v=dpnlQg2lWF4"
     },
     {
       "video_id": "tvSda9z7Ul8",
@@ -447,7 +447,7 @@
       "channel_title": "Colin and Samir",
       "source_type": "Business podcast",
       "published_at": "2026-10-19T20:00:34Z",
-      "view_count": 79182,
+      "view_count": 89586,
       "duration_minutes": 43,
       "url": "https://www.youtube.com/watch?v=tvSda9z7Ul8"
     },
@@ -458,7 +458,7 @@
       "channel_title": "a16z",
       "source_type": "Business podcast",
       "published_at": "2026-10-23T15:40:03Z",
-      "view_count": 67028,
+      "view_count": 85599,
       "duration_minutes": 61,
       "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI"
     }

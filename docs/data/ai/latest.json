@@ -1,7 +1,7 @@
 {
   "slug": "ai",
   "title": "AI news",
-  "generated_at": "2026-10-24T18:51:32.908076Z",
+  "generated_at": "2026-10-25T12:48:00.736207Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 2,
@@ -25,7 +25,7 @@
       "handle": "@TheAiGrid",
       "source_type": "AI-focused channel",
       "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "WorldofAI",
@@ -130,7 +130,7 @@
       "handle": "UCawZsQWqfGSbCI5yjkdVkTA",
       "source_type": "AI-focused channel",
       "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "recent_video_count": 13
+      "recent_video_count": 14
     },
     {
       "name": "Fireship",
@@ -359,7 +359,7 @@
       "channel_title": "NVIDIA",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-23T08:43:07Z",
-      "view_count": 7392432,
+      "view_count": 11154954,
       "duration_minutes": 92,
       "url": "https://www.youtube.com/watch?v=v-NGxyPjcrE"
     },
@@ -370,7 +370,7 @@
       "channel_title": "Fireship",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-20T16:21:03Z",
-      "view_count": 1845921,
+      "view_count": 1874913,
       "duration_minutes": 7,
       "url": "https://www.youtube.com/watch?v=b2tjnxX8IHU"
     },
@@ -381,7 +381,7 @@
       "channel_title": "TechLinked",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-22T01:55:04Z",
-      "view_count": 743347,
+      "view_count": 772967,
       "duration_minutes": 11,
       "url": "https://www.youtube.com/watch?v=ppq-xEd-AXw"
     },
@@ -392,7 +392,7 @@
       "channel_title": "AI Search",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-23T03:29:27Z",
-      "view_count": 611939,
+      "view_count": 711288,
       "duration_minutes": 27,
       "url": "https://www.youtube.com/watch?v=1Aqhg0FVm-w"
     },
@@ -403,7 +403,7 @@
       "channel_title": "Wes Roth",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-21T20:47:18Z",
-      "view_count": 480563,
+      "view_count": 488721,
       "duration_minutes": 17,
       "url": "https://www.youtube.com/watch?v=ehcBwqyUGjo"
     },
@@ -414,7 +414,7 @@
       "channel_title": "Matthew Berman",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-21T15:30:24Z",
-      "view_count": 316446,
+      "view_count": 359529,
       "duration_minutes": 45,
       "url": "https://www.youtube.com/watch?v=3gXLmy7DK_4"
     },
@@ -425,20 +425,9 @@
       "channel_title": "AI Engineer",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-19T19:00:17Z",
-      "view_count": 250550,
+      "view_count": 267862,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=7Y4sbZgBdnc"
-    },
-    {
-      "video_id": "FuIjXL_ODmA",
-      "title": "Breakthrough Glasses Slow Myopia in Kids — What It’s Like to Order Stellest",
-      "channel_id": "UCOmcA3f_RrH6b9NmcNa4tdg",
-      "channel_title": "CNET",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-18T12:00:15Z",
-      "view_count": 246360,
-      "duration_minutes": 7,
-      "url": "https://www.youtube.com/watch?v=FuIjXL_ODmA"
     },
     {
       "video_id": "m-B3jIMMmUE",
@@ -447,7 +436,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-18T23:57:04Z",
-      "view_count": 235776,
+      "view_count": 238474,
       "duration_minutes": 32,
       "url": "https://www.youtube.com/watch?v=m-B3jIMMmUE"
     },
@@ -458,9 +447,20 @@
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-19T08:49:21Z",
-      "view_count": 224473,
+      "view_count": 229653,
       "duration_minutes": 7,
       "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc"
+    },
+    {
+      "video_id": "OK1BBBaX9h0",
+      "title": "We're in the 'final innings' of the market correction, says Morgan Stanley's Mike Wilson",
+      "channel_id": "UCrp_UI8XtuYfpiqluWLD7Lw",
+      "channel_title": "CNBC Television",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-20T11:46:22Z",
+      "view_count": 222508,
+      "duration_minutes": 6,
+      "url": "https://www.youtube.com/watch?v=OK1BBBaX9h0"
     }
   ]
 }
