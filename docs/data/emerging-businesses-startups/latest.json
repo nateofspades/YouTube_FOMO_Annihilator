@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-10-25T12:48:00.736207Z",
+  "generated_at": "2026-10-26T14:36:25.723581Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "TechCrunch",
@@ -25,7 +25,7 @@
       "handle": "@a16z",
       "source_type": "Venture capital",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Sequoia Capital",
@@ -53,14 +53,14 @@
       "handle": "@20vc",
       "source_type": "Venture capital",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 11
+      "recent_video_count": 10
     },
     {
       "name": "Acquired",
       "handle": "@AcquiredFM",
       "source_type": "Independent creator",
       "channel_id": "UCyFqFYfTW2VoIQKylJ04Rtw",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Masters of Scale",
@@ -74,7 +74,7 @@
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "MicroConf",
@@ -144,14 +144,14 @@
       "handle": "@DavidSenra",
       "source_type": "Independent creator",
       "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "recent_video_count": 10
+      "recent_video_count": 11
     },
     {
       "name": "Starter Story",
       "handle": "UChhw6DlKKTQ9mYSpTfXUYqA",
       "source_type": "Additional curated source",
       "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "Greg Isenberg",
@@ -179,7 +179,7 @@
       "handle": "UChpWgrkJY_i7F6wwI_TOnrg",
       "source_type": "Additional curated source",
       "channel_id": "UChpWgrkJY_i7F6wwI_TOnrg",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Entrepreneur",
@@ -193,14 +193,14 @@
       "handle": "UCH5_L3ytGbBziX0CLuYdQ1Q",
       "source_type": "Additional curated source",
       "channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Bloomberg Technology",
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "Additional curated source",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 43
+      "recent_video_count": 42
     },
     {
       "name": "PitchBook",
@@ -340,7 +340,7 @@
       "handle": "UCA-mWX9CvCTVFWRMb9bKc9w",
       "source_type": "Additional curated source",
       "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-      "recent_video_count": 15
+      "recent_video_count": 17
     },
     {
       "name": "Codie Sanchez",
@@ -359,7 +359,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-22T21:31:01Z",
-      "view_count": 265867,
+      "view_count": 285639,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=_Lux62iTbFE"
     },
@@ -370,40 +370,18 @@
       "channel_title": "Greg Isenberg",
       "source_type": "Additional curated source",
       "published_at": "2026-10-19T17:50:26Z",
-      "view_count": 238828,
+      "view_count": 248696,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=tpZOU1ugODQ"
     },
     {
-      "video_id": "KpILHX2D-AA",
-      "title": "The Only SaaS Moats Left in 2026",
-      "channel_id": "UCHoBKQDRkJcOY2BO47q5Ruw",
-      "channel_title": "Rob Walling",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-18T16:00:21Z",
-      "view_count": 201539,
-      "duration_minutes": 40,
-      "url": "https://www.youtube.com/watch?v=KpILHX2D-AA"
-    },
-    {
-      "video_id": "NuYO7DWzlaM",
-      "title": "I built an app that makes $2K PER DAY",
-      "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
-      "channel_title": "Starter Story",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-18T17:00:19Z",
-      "view_count": 197915,
-      "duration_minutes": 15,
-      "url": "https://www.youtube.com/watch?v=NuYO7DWzlaM"
-    },
-    {
       "video_id": "-YMMRQ1qscI",
-      "title": "Amazon CEO Andy Jassy on the Infrastructure the AI Era Needs",
+      "title": "Amazon CEO Andy Jassy on Reinventing Amazon for the AI Era",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
       "channel_title": "a16z",
       "source_type": "Venture capital",
       "published_at": "2026-10-23T15:40:03Z",
-      "view_count": 85532,
+      "view_count": 109871,
       "duration_minutes": 61,
       "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI"
     },
@@ -414,20 +392,20 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-19T16:00:34Z",
-      "view_count": 84574,
+      "view_count": 85730,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=82JpLrZyteg"
     },
     {
-      "video_id": "_IwYLXAXzx8",
-      "title": "There Are Only 3 Types Of Profitable Businesses (Pick ONE)",
-      "channel_id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
-      "channel_title": "Codie Sanchez",
+      "video_id": "RSlhgyAXsBI",
+      "title": "I quit my job to build this micro-saas. Now it makes $30K/month",
+      "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
+      "channel_title": "Starter Story",
       "source_type": "Additional curated source",
-      "published_at": "2026-10-18T15:00:34Z",
-      "view_count": 74445,
-      "duration_minutes": 18,
-      "url": "https://www.youtube.com/watch?v=_IwYLXAXzx8"
+      "published_at": "2026-10-21T17:00:03Z",
+      "view_count": 85524,
+      "duration_minutes": 16,
+      "url": "https://www.youtube.com/watch?v=RSlhgyAXsBI"
     },
     {
       "video_id": "Kn1-GJj-Ibs",
@@ -436,7 +414,7 @@
       "channel_title": "CNBC Make It",
       "source_type": "Additional curated source",
       "published_at": "2026-10-22T17:00:07Z",
-      "view_count": 67646,
+      "view_count": 79602,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=Kn1-GJj-Ibs"
     },
@@ -447,7 +425,7 @@
       "channel_title": "Dan Martell",
       "source_type": "Additional curated source",
       "published_at": "2026-10-21T13:00:30Z",
-      "view_count": 56399,
+      "view_count": 61712,
       "duration_minutes": 26,
       "url": "https://www.youtube.com/watch?v=9Cf416w4JJI"
     },
@@ -458,9 +436,31 @@
       "channel_title": "Slidebean",
       "source_type": "Official company",
       "published_at": "2026-10-21T11:30:31Z",
-      "view_count": 54958,
+      "view_count": 58750,
       "duration_minutes": 28,
       "url": "https://www.youtube.com/watch?v=0mMWQRRUcjY"
+    },
+    {
+      "video_id": "4UmFfI8CWuA",
+      "title": "Inference Will Be $10TRN Market: What No One Sees | Software Investors are F***ed | Naveen Rao",
+      "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
+      "channel_title": "20VC with Harry Stebbings",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-24T14:00:32Z",
+      "view_count": 44298,
+      "duration_minutes": 73,
+      "url": "https://www.youtube.com/watch?v=4UmFfI8CWuA"
+    },
+    {
+      "video_id": "v12aSIZIXUs",
+      "title": "This Is How You Should Actually Make Launch Videos",
+      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "channel_title": "Y Combinator",
+      "source_type": "Accelerator",
+      "published_at": "2026-10-23T15:00:24Z",
+      "view_count": 39418,
+      "duration_minutes": 47,
+      "url": "https://www.youtube.com/watch?v=v12aSIZIXUs"
     }
   ]
 }

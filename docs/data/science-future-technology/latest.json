@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-10-25T12:48:00.736207Z",
+  "generated_at": "2026-10-26T14:36:25.723581Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -60,7 +60,7 @@
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Boston Dynamics",
@@ -81,7 +81,7 @@
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Cleo Abram",
@@ -117,7 +117,7 @@
       "handle": "@fermilab",
       "source_type": "Research institution",
       "channel_id": "UCD5B6VoXv41fJ-IW8Wrhz9A",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Applied Science",
@@ -159,7 +159,7 @@
       "handle": "UCYO_jab_esuFRV4b17AJtAw",
       "source_type": "Additional curated source",
       "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "SciShow",
@@ -229,7 +229,7 @@
       "handle": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "source_type": "Additional curated source",
       "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "GreatScott!",
@@ -243,7 +243,7 @@
       "handle": "UCS0N5baNlQWJCUrhCEo8WlA",
       "source_type": "Additional curated source",
       "channel_id": "UCS0N5baNlQWJCUrhCEo8WlA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "New Mind",
@@ -299,21 +299,21 @@
       "handle": "UCqoAEDirJPjEUFcF2FklnBA",
       "source_type": "Additional curated source",
       "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Fraser Cain",
       "handle": "UCogrSQkBJn1KF0N9I4oM7eQ",
       "source_type": "Additional curated source",
       "channel_id": "UCogrSQkBJn1KF0N9I4oM7eQ",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "The Royal Institution",
       "handle": "UCYeF244yNGuFefuFKqxIAXw",
       "source_type": "Additional curated source",
       "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "New Scientist",
@@ -358,8 +358,19 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 96,
+  "candidate_count": 99,
   "results": [
+    {
+      "video_id": "eyZEqSPeMwg",
+      "title": "No device could prove Einstein wrong... until now",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channel_title": "Veritasium",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-23T18:46:44Z",
+      "view_count": 5169145,
+      "duration_minutes": 34,
+      "url": "https://www.youtube.com/watch?v=eyZEqSPeMwg"
+    },
     {
       "video_id": "PXbVn-f_wuM",
       "title": "You Will Only Like Half of This Video",
@@ -367,31 +378,9 @@
       "channel_title": "Kurzgesagt – In a Nutshell",
       "source_type": "Independent creator",
       "published_at": "2026-10-20T14:00:11Z",
-      "view_count": 4901574,
+      "view_count": 5099425,
       "duration_minutes": 4,
       "url": "https://www.youtube.com/watch?v=PXbVn-f_wuM"
-    },
-    {
-      "video_id": "eyZEqSPeMwg",
-      "title": "No device could prove our theory of gravity wrong... until now",
-      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "channel_title": "Veritasium",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-23T18:46:44Z",
-      "view_count": 3880503,
-      "duration_minutes": 34,
-      "url": "https://www.youtube.com/watch?v=eyZEqSPeMwg"
-    },
-    {
-      "video_id": "NyCtgZCYUmY",
-      "title": "Steven Spielberg Asks Why Atoms Don't Collapse",
-      "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "channel_title": "StarTalk",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-18T15:00:38Z",
-      "view_count": 1374470,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=NyCtgZCYUmY"
     },
     {
       "video_id": "PBPLhvsR9V8",
@@ -400,7 +389,7 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-23T13:45:36Z",
-      "view_count": 945441,
+      "view_count": 1163639,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=PBPLhvsR9V8"
     },
@@ -411,7 +400,7 @@
       "channel_title": "NASA",
       "source_type": "Government",
       "published_at": "2026-10-20T15:02:15Z",
-      "view_count": 858075,
+      "view_count": 897847,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=Zezt6EsG9WE"
     },
@@ -422,9 +411,20 @@
       "channel_title": "Practical Engineering",
       "source_type": "Independent creator",
       "published_at": "2026-10-20T13:00:19Z",
-      "view_count": 798240,
+      "view_count": 837281,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=awV7FP9sAHE"
+    },
+    {
+      "video_id": "FDGacISecDQ",
+      "title": "You Probably Don’t Realize How Big A Trillion Is",
+      "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
+      "channel_title": "StarTalk",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-22T19:30:00Z",
+      "view_count": 772781,
+      "duration_minutes": 11,
+      "url": "https://www.youtube.com/watch?v=FDGacISecDQ"
     },
     {
       "video_id": "eb8x2tz_pgc",
@@ -433,42 +433,42 @@
       "channel_title": "PBS Space Time",
       "source_type": "Editorial/media",
       "published_at": "2026-10-22T20:15:02Z",
-      "view_count": 655790,
+      "view_count": 741290,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=eb8x2tz_pgc"
     },
     {
-      "video_id": "rH79TGultXM",
-      "title": "It Shouldn’t Exist But it Does: Astronomers Find Green Star",
-      "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
-      "channel_title": "Sabine Hossenfelder",
+      "video_id": "ICDKH4L6rTo",
+      "title": "The Surprising Problem With Measuring Anything",
+      "channel_id": "UC5_Y-BKzq1uW_2rexWkUzlA",
+      "channel_title": "New Mind",
       "source_type": "Additional curated source",
-      "published_at": "2026-10-19T15:00:17Z",
-      "view_count": 531769,
-      "duration_minutes": 7,
-      "url": "https://www.youtube.com/watch?v=rH79TGultXM"
+      "published_at": "2026-10-23T20:25:53Z",
+      "view_count": 728431,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=ICDKH4L6rTo"
     },
     {
-      "video_id": "3h_aeB4TPxo",
-      "title": "Why a 1960 Science Paper Predicted End of Humanity on Nov 13, 2026",
-      "channel_id": "UCciQ8wFcVoIIMi-lfu8-cjQ",
-      "channel_title": "Anton Petrov",
+      "video_id": "zj0b2RAJq1g",
+      "title": "Hannah Fry on The Nun Study #dementia #dataset #scienceexplained #hannahfry #thenunstudy #research",
+      "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
+      "channel_title": "The Royal Institution",
       "source_type": "Additional curated source",
-      "published_at": "2026-10-21T22:00:30Z",
-      "view_count": 521937,
-      "duration_minutes": 14,
-      "url": "https://www.youtube.com/watch?v=3h_aeB4TPxo"
+      "published_at": "2026-10-25T16:00:02Z",
+      "view_count": 626754,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=zj0b2RAJq1g"
     },
     {
-      "video_id": "p7Tb0GNawdM",
-      "title": "Why Weed Doesn't Work on Everyone",
-      "channel_id": "UCZYTClx2T1of7BRZ86-8fow",
-      "channel_title": "SciShow",
+      "video_id": "ZjyrZmtc7L0",
+      "title": "Electrical Wiring, Installations and Upgrade",
+      "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "channel_title": "ElectroBOOM",
       "source_type": "Additional curated source",
-      "published_at": "2026-10-21T17:00:11Z",
-      "view_count": 481626,
-      "duration_minutes": 9,
-      "url": "https://www.youtube.com/watch?v=p7Tb0GNawdM"
+      "published_at": "2026-10-25T16:00:09Z",
+      "view_count": 569103,
+      "duration_minutes": 32,
+      "url": "https://www.youtube.com/watch?v=ZjyrZmtc7L0"
     }
   ]
 }

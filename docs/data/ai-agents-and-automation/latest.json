@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-10-25T12:48:00.736207Z",
+  "generated_at": "2026-10-26T14:36:25.723581Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,7 +18,7 @@
       "handle": "@AlexFinnOfficial",
       "source_type": "AI agent and automation",
       "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Matthew Berman",
@@ -46,7 +46,7 @@
       "handle": "@NateHerk",
       "source_type": "AI agent and automation",
       "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "Krish Naik",
@@ -131,7 +131,7 @@
       "handle": "@huggingface",
       "source_type": "AI agent and automation",
       "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Liam Ottley",
@@ -145,14 +145,14 @@
       "handle": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
       "source_type": "AI agent and automation",
       "channel_id": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
-      "recent_video_count": 7
+      "recent_video_count": 5
     },
     {
       "name": "Tina Huang",
       "handle": "UC2UXDak6o7rBm23k3Vv5dww",
       "source_type": "AI agent and automation",
       "channel_id": "UC2UXDak6o7rBm23k3Vv5dww",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Dave Ebbelaar",
@@ -166,7 +166,7 @@
       "handle": "UCMcoud_ZW7cfxeIugBflSBw",
       "source_type": "AI agent and automation",
       "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Sam Witteveen",
@@ -194,14 +194,14 @@
       "handle": "UC8KWRrf8wqyowmWhXJ9DRjQ",
       "source_type": "AI agent and automation",
       "channel_id": "UC8KWRrf8wqyowmWhXJ9DRjQ",
-      "recent_video_count": 7
+      "recent_video_count": 4
     },
     {
       "name": "Zapier",
       "handle": "UCEvsxF4Z12vwpwDUaU02yiA",
       "source_type": "AI agent and automation",
       "channel_id": "UCEvsxF4Z12vwpwDUaU02yiA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "LangChain",
@@ -236,7 +236,7 @@
       "handle": "UCXZCJLdBC09xxGZ6gcdrc6A",
       "source_type": "AI agent and automation",
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "recent_video_count": 19
+      "recent_video_count": 16
     },
     {
       "name": "Anthropic",
@@ -334,7 +334,7 @@
       "handle": "UCiGWNa6QK6CiKPvv5-YPv8g",
       "source_type": "AI agent and automation",
       "channel_id": "UCiGWNa6QK6CiKPvv5-YPv8g",
-      "recent_video_count": 14
+      "recent_video_count": 16
     },
     {
       "name": "LowCode Agency",
@@ -355,22 +355,11 @@
       "handle": "UCDq7SjbgRKty5TgGafW8Clg",
       "source_type": "AI agent and automation",
       "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-      "recent_video_count": 7
+      "recent_video_count": 8
     }
   ],
-  "candidate_count": 244,
+  "candidate_count": 237,
   "results": [
-    {
-      "video_id": "DQBqh6gcx7U",
-      "title": "What Is Loop Engineering? Building Better AI Agents",
-      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
-      "channel_title": "IBM Technology",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-19T11:00:06Z",
-      "view_count": 103386,
-      "duration_minutes": 11,
-      "url": "https://www.youtube.com/watch?v=DQBqh6gcx7U"
-    },
     {
       "video_id": "nRl-7Yhmbog",
       "title": "The 9 Stages of AI Agent Adoption, Explained",
@@ -378,7 +367,7 @@
       "channel_title": "Greg Isenberg",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-21T19:15:33Z",
-      "view_count": 40827,
+      "view_count": 45162,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=nRl-7Yhmbog"
     },
@@ -389,7 +378,7 @@
       "channel_title": "Cole Medin",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-20T16:06:59Z",
-      "view_count": 25285,
+      "view_count": 26465,
       "duration_minutes": 16,
       "url": "https://www.youtube.com/watch?v=TVhhmhvCovg"
     },
@@ -400,20 +389,20 @@
       "channel_title": "AI Engineer",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-19T23:00:08Z",
-      "view_count": 17122,
+      "view_count": 17254,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=_4Ph2dhmUFI"
     },
     {
-      "video_id": "m82OHMtl6FA",
-      "title": "The iPhone Duo is the greatest way to manage AI agents ever #iphoneduo #ai #aiagents",
-      "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-      "channel_title": "Alex Finn",
+      "video_id": "SIZsFGvtClM",
+      "title": "Agentic Engineering: 5 Terms Every AI Developer Should Know",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
-      "published_at": "2026-10-23T18:56:57Z",
-      "view_count": 7397,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=m82OHMtl6FA"
+      "published_at": "2026-10-26T11:00:26Z",
+      "view_count": 8361,
+      "duration_minutes": 12,
+      "url": "https://www.youtube.com/watch?v=SIZsFGvtClM"
     },
     {
       "video_id": "2lNUGkCg_qc",
@@ -422,7 +411,7 @@
       "channel_title": "OpenAI",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-23T18:36:34Z",
-      "view_count": 4474,
+      "view_count": 6593,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=2lNUGkCg_qc"
     },
@@ -433,7 +422,7 @@
       "channel_title": "Sabrina Ramonov 🍄",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-24T15:00:25Z",
-      "view_count": 4318,
+      "view_count": 5627,
       "duration_minutes": 7,
       "url": "https://www.youtube.com/watch?v=ocHuQVz0-5o"
     },
@@ -444,20 +433,20 @@
       "channel_title": "Hugging Face",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-19T14:48:54Z",
-      "view_count": 3388,
+      "view_count": 3424,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=3-sSbJKb-fQ"
     },
     {
-      "video_id": "8Inu1FNd8mc",
-      "title": "Which AI Agent Should You Actually Use",
+      "video_id": "R7u3ncQFIU0",
+      "title": "What’s Inside an AI Agent",
       "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
       "channel_title": "Tech With Tim",
       "source_type": "AI agent and automation",
-      "published_at": "2026-10-21T12:00:37Z",
-      "view_count": 3118,
+      "published_at": "2026-10-25T12:00:16Z",
+      "view_count": 3329,
       "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=8Inu1FNd8mc"
+      "url": "https://www.youtube.com/watch?v=R7u3ncQFIU0"
     },
     {
       "video_id": "Xs8u_sQxMDw",
@@ -466,9 +455,20 @@
       "channel_title": "Zapier",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-22T04:00:28Z",
-      "view_count": 2172,
+      "view_count": 2212,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=Xs8u_sQxMDw"
+    },
+    {
+      "video_id": "52JX83rGPLc",
+      "title": "ELITE Agentic Engineers Are LEAVING THE LOOP... Here’s why",
+      "channel_id": "UC_x36zCEGilGpB1m-V4gmjg",
+      "channel_title": "IndyDevDan",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-26T13:00:05Z",
+      "view_count": 1351,
+      "duration_minutes": 26,
+      "url": "https://www.youtube.com/watch?v=52JX83rGPLc"
     }
   ]
 }
