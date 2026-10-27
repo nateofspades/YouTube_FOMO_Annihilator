@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-10-26T14:36:25.723581Z",
+  "generated_at": "2026-10-27T13:40:18.625289Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -46,7 +46,7 @@
       "handle": "@PracticalEngineeringChannel",
       "source_type": "Independent creator",
       "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Mark Rober",
@@ -60,14 +60,14 @@
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Boston Dynamics",
       "handle": "@BostonDynamics",
       "source_type": "Official company",
       "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "NASA",
@@ -81,7 +81,7 @@
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Cleo Abram",
@@ -95,7 +95,7 @@
       "handle": "@UndecidedTechnology",
       "source_type": "Independent creator",
       "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Everything Electric",
@@ -152,7 +152,7 @@
       "handle": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "source_type": "Additional curated source",
       "channel_id": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "3Blue1Brown",
@@ -180,7 +180,7 @@
       "handle": "UCeiYXex_fwgYDonaTcSIk6w",
       "source_type": "Additional curated source",
       "channel_id": "UCeiYXex_fwgYDonaTcSIk6w",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "NileRed",
@@ -257,7 +257,7 @@
       "handle": "UC1LpsuAUaKoMzzJSEt5WImw",
       "source_type": "Additional curated source",
       "channel_id": "UC1LpsuAUaKoMzzJSEt5WImw",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "ColdFusion",
@@ -306,7 +306,7 @@
       "handle": "UCogrSQkBJn1KF0N9I4oM7eQ",
       "source_type": "Additional curated source",
       "channel_id": "UCogrSQkBJn1KF0N9I4oM7eQ",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "The Royal Institution",
@@ -320,7 +320,7 @@
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "SpaceX",
@@ -367,7 +367,7 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-23T18:46:44Z",
-      "view_count": 5169145,
+      "view_count": 5777938,
       "duration_minutes": 34,
       "url": "https://www.youtube.com/watch?v=eyZEqSPeMwg"
     },
@@ -378,9 +378,20 @@
       "channel_title": "Kurzgesagt – In a Nutshell",
       "source_type": "Independent creator",
       "published_at": "2026-10-20T14:00:11Z",
-      "view_count": 5099425,
+      "view_count": 5239290,
       "duration_minutes": 4,
       "url": "https://www.youtube.com/watch?v=PXbVn-f_wuM"
+    },
+    {
+      "video_id": "zj0b2RAJq1g",
+      "title": "Hannah Fry on The Nun Study #dementia #dataset #scienceexplained #hannahfry #thenunstudy #research",
+      "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
+      "channel_title": "The Royal Institution",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-25T16:00:02Z",
+      "view_count": 1908938,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=zj0b2RAJq1g"
     },
     {
       "video_id": "PBPLhvsR9V8",
@@ -389,7 +400,7 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-23T13:45:36Z",
-      "view_count": 1163639,
+      "view_count": 1559389,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=PBPLhvsR9V8"
     },
@@ -400,20 +411,9 @@
       "channel_title": "NASA",
       "source_type": "Government",
       "published_at": "2026-10-20T15:02:15Z",
-      "view_count": 897847,
+      "view_count": 923633,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=Zezt6EsG9WE"
-    },
-    {
-      "video_id": "awV7FP9sAHE",
-      "title": "Whatever Happened to Fire Escapes?",
-      "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
-      "channel_title": "Practical Engineering",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-20T13:00:19Z",
-      "view_count": 837281,
-      "duration_minutes": 18,
-      "url": "https://www.youtube.com/watch?v=awV7FP9sAHE"
     },
     {
       "video_id": "FDGacISecDQ",
@@ -422,20 +422,9 @@
       "channel_title": "StarTalk",
       "source_type": "Additional curated source",
       "published_at": "2026-10-22T19:30:00Z",
-      "view_count": 772781,
+      "view_count": 849061,
       "duration_minutes": 11,
       "url": "https://www.youtube.com/watch?v=FDGacISecDQ"
-    },
-    {
-      "video_id": "eb8x2tz_pgc",
-      "title": "Ghost Particles Are Exposing Hidden Black Holes. They Just Won a Nobel Prize.",
-      "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
-      "channel_title": "PBS Space Time",
-      "source_type": "Editorial/media",
-      "published_at": "2026-10-22T20:15:02Z",
-      "view_count": 741290,
-      "duration_minutes": 19,
-      "url": "https://www.youtube.com/watch?v=eb8x2tz_pgc"
     },
     {
       "video_id": "ICDKH4L6rTo",
@@ -444,20 +433,20 @@
       "channel_title": "New Mind",
       "source_type": "Additional curated source",
       "published_at": "2026-10-23T20:25:53Z",
-      "view_count": 728431,
+      "view_count": 836196,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=ICDKH4L6rTo"
     },
     {
-      "video_id": "zj0b2RAJq1g",
-      "title": "Hannah Fry on The Nun Study #dementia #dataset #scienceexplained #hannahfry #thenunstudy #research",
-      "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
-      "channel_title": "The Royal Institution",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-25T16:00:02Z",
-      "view_count": 626754,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=zj0b2RAJq1g"
+      "video_id": "eb8x2tz_pgc",
+      "title": "Ghost Particles Are Exposing Hidden Black Holes. They Just Won a Nobel Prize.",
+      "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
+      "channel_title": "PBS Space Time",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-22T20:15:02Z",
+      "view_count": 802889,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=eb8x2tz_pgc"
     },
     {
       "video_id": "ZjyrZmtc7L0",
@@ -466,9 +455,20 @@
       "channel_title": "ElectroBOOM",
       "source_type": "Additional curated source",
       "published_at": "2026-10-25T16:00:09Z",
-      "view_count": 569103,
+      "view_count": 760943,
       "duration_minutes": 32,
       "url": "https://www.youtube.com/watch?v=ZjyrZmtc7L0"
+    },
+    {
+      "video_id": "3h_aeB4TPxo",
+      "title": "Why a 1960 Science Paper Predicted End of Humanity on Nov 13, 2026",
+      "channel_id": "UCciQ8wFcVoIIMi-lfu8-cjQ",
+      "channel_title": "Anton Petrov",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-21T22:00:30Z",
+      "view_count": 611013,
+      "duration_minutes": 14,
+      "url": "https://www.youtube.com/watch?v=3h_aeB4TPxo"
     }
   ]
 }

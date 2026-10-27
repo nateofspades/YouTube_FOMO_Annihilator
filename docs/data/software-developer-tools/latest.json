@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-10-26T14:36:25.723581Z",
+  "generated_at": "2026-10-27T13:40:18.625289Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@GitHub",
       "source_type": "Official company",
       "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Google for Developers",
@@ -25,70 +25,70 @@
       "handle": "@MicrosoftDeveloper",
       "source_type": "Official company",
       "channel_id": "UCsMica-v34Irf9KVTh6xx-g",
-      "recent_video_count": 22
+      "recent_video_count": 23
     },
     {
       "name": "AWS Developers",
       "handle": "@awsdevelopers",
       "source_type": "Official company",
       "channel_id": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Google Cloud Tech",
       "handle": "@googlecloudtech",
       "source_type": "Official company",
       "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "recent_video_count": 11
+      "recent_video_count": 13
     },
     {
       "name": "Cloudflare",
       "handle": "UCgv3xMy6kECn0boYP9d2o-g",
       "source_type": "Official company",
       "channel_id": "UCgv3xMy6kECn0boYP9d2o-g",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Docker",
       "handle": "dockerrun",
       "source_type": "Official company",
       "channel_id": "UC76AVf2JkrwjxNKMuPpscHQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "CNCF",
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 42
+      "recent_video_count": 44
     },
     {
       "name": "GitLab",
       "handle": "@GitLab",
       "source_type": "Official company",
       "channel_id": "UCnMGQ8QHMAnVIsI3xJrihhg",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "JetBrains",
       "handle": "@JetBrainsTV",
       "source_type": "Official company",
       "channel_id": "UCGp4UBwpTNegd_4nCpuBcow",
-      "recent_video_count": 14
+      "recent_video_count": 5
     },
     {
       "name": "Fireship",
       "handle": "@Fireship",
       "source_type": "Independent creator",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "freeCodeCamp.org",
       "handle": "@freecodecamp",
       "source_type": "Research institution",
       "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Traversy Media",
@@ -109,7 +109,7 @@
       "handle": "@t3dotgg",
       "source_type": "Independent creator",
       "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "ThePrimeagen",
@@ -123,7 +123,7 @@
       "handle": "@TechWorldwithNana",
       "source_type": "Independent creator",
       "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Hussein Nasser",
@@ -158,7 +158,7 @@
       "handle": "UCW5YeuERMmlnqo4oq8vwUpg",
       "source_type": "Additional curated source",
       "channel_id": "UCW5YeuERMmlnqo4oq8vwUpg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Academind",
@@ -186,7 +186,7 @@
       "handle": "UC_mYaQAE6-71rjSN6CeCA-g",
       "source_type": "Additional curated source",
       "channel_id": "UC_mYaQAE6-71rjSN6CeCA-g",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "CS Dojo",
@@ -200,7 +200,7 @@
       "handle": "UC2KfmYEM4KCuA1ZurravgYw",
       "source_type": "Additional curated source",
       "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "CodeAesthetic",
@@ -340,14 +340,14 @@
       "handle": "UC6biysICWOJ-C3P4Tyeggzg",
       "source_type": "Additional curated source",
       "channel_id": "UC6biysICWOJ-C3P4Tyeggzg",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Syntax",
       "handle": "UCyU5wkjgQYGRB0hIHMwm2Sg",
       "source_type": "Additional curated source",
       "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Supabase",
@@ -357,7 +357,7 @@
       "recent_video_count": 0
     }
   ],
-  "candidate_count": 172,
+  "candidate_count": 170,
   "results": [
     {
       "video_id": "SMGg7iisHmc",
@@ -366,7 +366,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-10-23T18:19:58Z",
-      "view_count": 1661036,
+      "view_count": 1756961,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=SMGg7iisHmc"
     },
@@ -377,20 +377,9 @@
       "channel_title": "KodeKloud",
       "source_type": "Additional curated source",
       "published_at": "2026-10-22T12:57:04Z",
-      "view_count": 536843,
+      "view_count": 605337,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=Hp-fPImMNfs"
-    },
-    {
-      "video_id": "JqljXzMrSGk",
-      "title": "the fridge situation is insane",
-      "channel_id": "UC6biysICWOJ-C3P4Tyeggzg",
-      "channel_title": "Low Level",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-19T14:43:24Z",
-      "view_count": 292493,
-      "duration_minutes": 12,
-      "url": "https://www.youtube.com/watch?v=JqljXzMrSGk"
     },
     {
       "video_id": "USeyDcWyVCc",
@@ -399,7 +388,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-22T19:14:45Z",
-      "view_count": 240657,
+      "view_count": 243622,
       "duration_minutes": 29,
       "url": "https://www.youtube.com/watch?v=USeyDcWyVCc"
     },
@@ -410,7 +399,7 @@
       "channel_title": "Google Cloud Tech",
       "source_type": "Official company",
       "published_at": "2026-10-22T15:55:11Z",
-      "view_count": 118914,
+      "view_count": 139297,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=2C_CefSQEAQ"
     },
@@ -421,7 +410,7 @@
       "channel_title": "Computerphile",
       "source_type": "Additional curated source",
       "published_at": "2026-10-22T13:00:06Z",
-      "view_count": 112948,
+      "view_count": 119989,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=h6j_ixGnpiY"
     },
@@ -432,7 +421,7 @@
       "channel_title": "Academind",
       "source_type": "Additional curated source",
       "published_at": "2026-10-22T14:12:19Z",
-      "view_count": 105138,
+      "view_count": 106275,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=jLtnD-0V7pA"
     },
@@ -443,20 +432,9 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-10-23T14:10:25Z",
-      "view_count": 92951,
+      "view_count": 99795,
       "duration_minutes": 11,
       "url": "https://www.youtube.com/watch?v=JGly6PSK5iw"
-    },
-    {
-      "video_id": "qKyFi6j1XpA",
-      "title": "Everyone is hacking their TV ⟡ VoidZero Framework Open Sourced ⟡ OpenCode Hacked ⌁ Syntax Weekly ⌁",
-      "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
-      "channel_title": "Syntax",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-19T18:31:37Z",
-      "view_count": 91611,
-      "duration_minutes": 84,
-      "url": "https://www.youtube.com/watch?v=qKyFi6j1XpA"
     },
     {
       "video_id": "FbXPaIcpvww",
@@ -465,9 +443,31 @@
       "channel_title": "Web Dev Simplified",
       "source_type": "Independent creator",
       "published_at": "2026-10-20T22:00:20Z",
-      "view_count": 80088,
+      "view_count": 82746,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=FbXPaIcpvww"
+    },
+    {
+      "video_id": "aYz9G3__Z4g",
+      "title": "WTF is a Software Factory?",
+      "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
+      "channel_title": "Syntax",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-21T11:00:12Z",
+      "view_count": 59348,
+      "duration_minutes": 58,
+      "url": "https://www.youtube.com/watch?v=aYz9G3__Z4g"
+    },
+    {
+      "video_id": "bLB90QwRki4",
+      "title": "No more clamp() magic numbers",
+      "channel_id": "UCJZv4d5rbIKd4QHMPkcABCw",
+      "channel_title": "Kevin Powell",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-21T13:00:24Z",
+      "view_count": 58805,
+      "duration_minutes": 14,
+      "url": "https://www.youtube.com/watch?v=bLB90QwRki4"
     }
   ]
 }
