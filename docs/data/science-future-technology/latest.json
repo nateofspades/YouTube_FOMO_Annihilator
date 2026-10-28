@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-10-27T13:40:18.625289Z",
+  "generated_at": "2026-10-28T14:34:18.488745Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,7 +18,7 @@
       "handle": "@veritasium",
       "source_type": "Independent creator",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "PBS Space Time",
@@ -74,28 +74,28 @@
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 5
+      "recent_video_count": 2
     },
     {
       "name": "European Space Agency",
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Cleo Abram",
       "handle": "@CleoAbram",
       "source_type": "Editorial/media",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Undecided",
       "handle": "@UndecidedTechnology",
       "source_type": "Independent creator",
       "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Everything Electric",
@@ -117,7 +117,7 @@
       "handle": "@fermilab",
       "source_type": "Research institution",
       "channel_id": "UCD5B6VoXv41fJ-IW8Wrhz9A",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Applied Science",
@@ -152,7 +152,7 @@
       "handle": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "source_type": "Additional curated source",
       "channel_id": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "3Blue1Brown",
@@ -229,7 +229,7 @@
       "handle": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "source_type": "Additional curated source",
       "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "GreatScott!",
@@ -257,7 +257,7 @@
       "handle": "UC1LpsuAUaKoMzzJSEt5WImw",
       "source_type": "Additional curated source",
       "channel_id": "UC1LpsuAUaKoMzzJSEt5WImw",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "ColdFusion",
@@ -271,7 +271,7 @@
       "handle": "UC1yNl2E66ZzKApQdRuTQ4tw",
       "source_type": "Additional curated source",
       "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Anton Petrov",
@@ -292,14 +292,14 @@
       "handle": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "source_type": "Additional curated source",
       "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "StarTalk",
       "handle": "UCqoAEDirJPjEUFcF2FklnBA",
       "source_type": "Additional curated source",
       "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "recent_video_count": 6
+      "recent_video_count": 8
     },
     {
       "name": "Fraser Cain",
@@ -313,14 +313,14 @@
       "handle": "UCYeF244yNGuFefuFKqxIAXw",
       "source_type": "Additional curated source",
       "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "New Scientist",
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "SpaceX",
@@ -341,7 +341,7 @@
       "handle": "UCxzC4EngIsMrPmbm6Nxvb-A",
       "source_type": "Additional curated source",
       "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "recent_video_count": 2
+      "recent_video_count": 5
     },
     {
       "name": "Primal Space",
@@ -358,7 +358,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 99,
+  "candidate_count": 107,
   "results": [
     {
       "video_id": "eyZEqSPeMwg",
@@ -367,20 +367,9 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-23T18:46:44Z",
-      "view_count": 5777938,
+      "view_count": 6303841,
       "duration_minutes": 34,
       "url": "https://www.youtube.com/watch?v=eyZEqSPeMwg"
-    },
-    {
-      "video_id": "PXbVn-f_wuM",
-      "title": "You Will Only Like Half of This Video",
-      "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "channel_title": "Kurzgesagt – In a Nutshell",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-20T14:00:11Z",
-      "view_count": 5239290,
-      "duration_minutes": 4,
-      "url": "https://www.youtube.com/watch?v=PXbVn-f_wuM"
     },
     {
       "video_id": "zj0b2RAJq1g",
@@ -389,9 +378,20 @@
       "channel_title": "The Royal Institution",
       "source_type": "Additional curated source",
       "published_at": "2026-10-25T16:00:02Z",
-      "view_count": 1908938,
+      "view_count": 2433333,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=zj0b2RAJq1g"
+    },
+    {
+      "video_id": "gNVj-FIxoe4",
+      "title": "We Used To Think The Sun Was Cold",
+      "channel_id": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
+      "channel_title": "Vsauce",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-27T23:49:28Z",
+      "view_count": 1908278,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=gNVj-FIxoe4"
     },
     {
       "video_id": "PBPLhvsR9V8",
@@ -400,53 +400,9 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-23T13:45:36Z",
-      "view_count": 1559389,
+      "view_count": 1853529,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=PBPLhvsR9V8"
-    },
-    {
-      "video_id": "Zezt6EsG9WE",
-      "title": "NASA Moon Base: Rovers and Lunar Terrain Vehicles (October 2026 Update)",
-      "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "channel_title": "NASA",
-      "source_type": "Government",
-      "published_at": "2026-10-20T15:02:15Z",
-      "view_count": 923633,
-      "duration_minutes": 9,
-      "url": "https://www.youtube.com/watch?v=Zezt6EsG9WE"
-    },
-    {
-      "video_id": "FDGacISecDQ",
-      "title": "You Probably Don’t Realize How Big A Trillion Is",
-      "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "channel_title": "StarTalk",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-22T19:30:00Z",
-      "view_count": 849061,
-      "duration_minutes": 11,
-      "url": "https://www.youtube.com/watch?v=FDGacISecDQ"
-    },
-    {
-      "video_id": "ICDKH4L6rTo",
-      "title": "The Surprising Problem With Measuring Anything",
-      "channel_id": "UC5_Y-BKzq1uW_2rexWkUzlA",
-      "channel_title": "New Mind",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-23T20:25:53Z",
-      "view_count": 836196,
-      "duration_minutes": 25,
-      "url": "https://www.youtube.com/watch?v=ICDKH4L6rTo"
-    },
-    {
-      "video_id": "eb8x2tz_pgc",
-      "title": "Ghost Particles Are Exposing Hidden Black Holes. They Just Won a Nobel Prize.",
-      "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
-      "channel_title": "PBS Space Time",
-      "source_type": "Editorial/media",
-      "published_at": "2026-10-22T20:15:02Z",
-      "view_count": 802889,
-      "duration_minutes": 19,
-      "url": "https://www.youtube.com/watch?v=eb8x2tz_pgc"
     },
     {
       "video_id": "ZjyrZmtc7L0",
@@ -455,20 +411,64 @@
       "channel_title": "ElectroBOOM",
       "source_type": "Additional curated source",
       "published_at": "2026-10-25T16:00:09Z",
-      "view_count": 760943,
+      "view_count": 1015525,
       "duration_minutes": 32,
       "url": "https://www.youtube.com/watch?v=ZjyrZmtc7L0"
     },
     {
-      "video_id": "3h_aeB4TPxo",
-      "title": "Why a 1960 Science Paper Predicted End of Humanity on Nov 13, 2026",
-      "channel_id": "UCciQ8wFcVoIIMi-lfu8-cjQ",
-      "channel_title": "Anton Petrov",
+      "video_id": "ICDKH4L6rTo",
+      "title": "The Surprising Problem With Measuring Anything",
+      "channel_id": "UC5_Y-BKzq1uW_2rexWkUzlA",
+      "channel_title": "New Mind",
       "source_type": "Additional curated source",
-      "published_at": "2026-10-21T22:00:30Z",
-      "view_count": 611013,
-      "duration_minutes": 14,
-      "url": "https://www.youtube.com/watch?v=3h_aeB4TPxo"
+      "published_at": "2026-10-23T20:25:53Z",
+      "view_count": 989213,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=ICDKH4L6rTo"
+    },
+    {
+      "video_id": "FDGacISecDQ",
+      "title": "You Probably Don’t Realize How Big A Trillion Is",
+      "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
+      "channel_title": "StarTalk",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-22T19:30:00Z",
+      "view_count": 942528,
+      "duration_minutes": 11,
+      "url": "https://www.youtube.com/watch?v=FDGacISecDQ"
+    },
+    {
+      "video_id": "eb8x2tz_pgc",
+      "title": "Ghost Particles Are Exposing Hidden Black Holes. They Just Won a Nobel Prize.",
+      "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
+      "channel_title": "PBS Space Time",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-22T20:15:02Z",
+      "view_count": 844936,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=eb8x2tz_pgc"
+    },
+    {
+      "video_id": "35No369rmq0",
+      "title": "What If We Cool Down the Sun?",
+      "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
+      "channel_title": "Kurzgesagt – In a Nutshell",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-24T14:00:15Z",
+      "view_count": 842569,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=35No369rmq0"
+    },
+    {
+      "video_id": "BVaCZoWTZbo",
+      "title": "China's Super Secret Spaceplane Finally Revealed",
+      "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
+      "channel_title": "Scott Manley",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-27T18:30:55Z",
+      "view_count": 664156,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=BVaCZoWTZbo"
     }
   ]
 }

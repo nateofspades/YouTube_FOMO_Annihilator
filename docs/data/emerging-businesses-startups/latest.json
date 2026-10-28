@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-10-27T13:40:18.625289Z",
+  "generated_at": "2026-10-28T14:34:18.488745Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,28 +11,28 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 4
+      "recent_video_count": 8
     },
     {
       "name": "TechCrunch",
       "handle": "@TechCrunch",
       "source_type": "Editorial/media",
       "channel_id": "UCCjyq_K1Xwfg8Lndy7lKMpA",
-      "recent_video_count": 4
+      "recent_video_count": 24
     },
     {
       "name": "a16z",
       "handle": "@a16z",
       "source_type": "Venture capital",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Sequoia Capital",
       "handle": "@sequoiacapital",
       "source_type": "Venture capital",
       "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "This Week in Startups",
@@ -46,7 +46,7 @@
       "handle": "@LennysPodcast",
       "source_type": "Independent creator",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "20VC",
@@ -67,7 +67,7 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 22
+      "recent_video_count": 24
     },
     {
       "name": "My First Million",
@@ -95,7 +95,7 @@
       "handle": "@Slidebean",
       "source_type": "Official company",
       "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Bessemer Venture Partners",
@@ -109,7 +109,7 @@
       "handle": "@Antlerglobal",
       "source_type": "Venture capital",
       "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Khosla Ventures",
@@ -137,14 +137,14 @@
       "handle": "StartupGrind",
       "source_type": "Founder community",
       "channel_id": "UCwB3HiWejAkml1UZ0Qo2bFg",
-      "recent_video_count": 0
+      "recent_video_count": 2
     },
     {
       "name": "David Senra / Founders",
       "handle": "@DavidSenra",
       "source_type": "Independent creator",
       "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "recent_video_count": 10
+      "recent_video_count": 11
     },
     {
       "name": "Starter Story",
@@ -165,7 +165,7 @@
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "Additional curated source",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 26
+      "recent_video_count": 24
     },
     {
       "name": "The Logan Bartlett Show",
@@ -186,7 +186,7 @@
       "handle": "UCNFGSWVOdVWEe9XJNnfTdyQ",
       "source_type": "Additional curated source",
       "channel_id": "UCNFGSWVOdVWEe9XJNnfTdyQ",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "CNBC Make It",
@@ -200,7 +200,7 @@
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "Additional curated source",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 45
+      "recent_video_count": 43
     },
     {
       "name": "PitchBook",
@@ -242,7 +242,7 @@
       "handle": "UC_oji6l_-xwhmZqCxRGuAXw",
       "source_type": "Additional curated source",
       "channel_id": "UC_oji6l_-xwhmZqCxRGuAXw",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Lightspeed Venture Partners",
@@ -256,7 +256,7 @@
       "handle": "UCRuWcJZWsga67HTE0fcCvbA",
       "source_type": "Additional curated source",
       "channel_id": "UCRuWcJZWsga67HTE0fcCvbA",
-      "recent_video_count": 3
+      "recent_video_count": 1
     },
     {
       "name": "Accel",
@@ -340,7 +340,7 @@
       "handle": "UCA-mWX9CvCTVFWRMb9bKc9w",
       "source_type": "Additional curated source",
       "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-      "recent_video_count": 19
+      "recent_video_count": 20
     },
     {
       "name": "Codie Sanchez",
@@ -350,7 +350,7 @@
       "recent_video_count": 8
     }
   ],
-  "candidate_count": 232,
+  "candidate_count": 261,
   "results": [
     {
       "video_id": "_Lux62iTbFE",
@@ -359,7 +359,7 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-22T21:31:01Z",
-      "view_count": 295660,
+      "view_count": 300827,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=_Lux62iTbFE"
     },
@@ -370,7 +370,7 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-24T13:00:34Z",
-      "view_count": 124978,
+      "view_count": 156616,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=jwQw9738b7Q"
     },
@@ -381,7 +381,7 @@
       "channel_title": "a16z",
       "source_type": "Venture capital",
       "published_at": "2026-10-23T15:40:03Z",
-      "view_count": 119585,
+      "view_count": 128657,
       "duration_minutes": 61,
       "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI"
     },
@@ -392,7 +392,7 @@
       "channel_title": "Bloomberg Tech",
       "source_type": "Additional curated source",
       "published_at": "2026-10-26T16:11:20Z",
-      "view_count": 102898,
+      "view_count": 119791,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=0jU4nLhCeWY"
     },
@@ -403,7 +403,7 @@
       "channel_title": "Starter Story",
       "source_type": "Additional curated source",
       "published_at": "2026-10-21T17:00:03Z",
-      "view_count": 93677,
+      "view_count": 103144,
       "duration_minutes": 16,
       "url": "https://www.youtube.com/watch?v=RSlhgyAXsBI"
     },
@@ -414,20 +414,20 @@
       "channel_title": "CNBC Make It",
       "source_type": "Additional curated source",
       "published_at": "2026-10-22T17:00:07Z",
-      "view_count": 87148,
+      "view_count": 92446,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=Kn1-GJj-Ibs"
     },
     {
-      "video_id": "9Cf416w4JJI",
-      "title": "Copy This Strategy to 10X Your Business (Fast)",
-      "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-      "channel_title": "Dan Martell",
+      "video_id": "HKNpCwG3nlc",
+      "title": "The $1,000/hour 1-person AI business",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "channel_title": "Greg Isenberg",
       "source_type": "Additional curated source",
-      "published_at": "2026-10-21T13:00:30Z",
-      "view_count": 68013,
-      "duration_minutes": 26,
-      "url": "https://www.youtube.com/watch?v=9Cf416w4JJI"
+      "published_at": "2026-10-26T18:35:28Z",
+      "view_count": 75112,
+      "duration_minutes": 44,
+      "url": "https://www.youtube.com/watch?v=HKNpCwG3nlc"
     },
     {
       "video_id": "-8CDZRd0FWM",
@@ -436,31 +436,31 @@
       "channel_title": "Slidebean",
       "source_type": "Official company",
       "published_at": "2026-10-23T21:28:11Z",
-      "view_count": 62517,
+      "view_count": 71703,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=-8CDZRd0FWM"
     },
     {
-      "video_id": "bXQHIBBstNU",
-      "title": "What if an AI could predict organ failure 6.5 hours before it happens?",
-      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "channel_title": "Antler Global",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-21T06:00:10Z",
-      "view_count": 56637,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=bXQHIBBstNU"
+      "video_id": "S1JMiDyAwFM",
+      "title": "SpaceX Q3 blowout: revenue up 161% to $14.6B, $4.4B profit on AI and Starlink growth",
+      "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
+      "channel_title": "TBPN",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-22T02:52:02Z",
+      "view_count": 64540,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=S1JMiDyAwFM"
     },
     {
-      "video_id": "4UmFfI8CWuA",
-      "title": "Inference Will Be $10TRN Market: What No One Sees | Software Investors are F***ed | Naveen Rao",
-      "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "channel_title": "20VC with Harry Stebbings",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-24T14:00:32Z",
-      "view_count": 53508,
-      "duration_minutes": 73,
-      "url": "https://www.youtube.com/watch?v=4UmFfI8CWuA"
+      "video_id": "eojywvxqoLc",
+      "title": "The New Full-Stack Designer",
+      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "channel_title": "Y Combinator",
+      "source_type": "Accelerator",
+      "published_at": "2026-10-26T14:00:10Z",
+      "view_count": 61008,
+      "duration_minutes": 66,
+      "url": "https://www.youtube.com/watch?v=eojywvxqoLc"
     }
   ]
 }

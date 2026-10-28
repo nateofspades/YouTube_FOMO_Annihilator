@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-10-27T13:40:18.625289Z",
+  "generated_at": "2026-10-28T14:34:18.488745Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "UCJIfeSCssxSC_Dhc5s7woww",
       "source_type": "AI podcast",
       "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "recent_video_count": 3
+      "recent_video_count": 8
     },
     {
       "name": "Dwarkesh Patel",
@@ -25,14 +25,14 @@
       "handle": "UCxBcwypKK-W3GHd_RZ9FZrQ",
       "source_type": "AI podcast",
       "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Cognitive Revolution",
       "handle": "UCjNRVMBVI30Sak_p6HRWhIA",
       "source_type": "AI podcast",
       "channel_id": "UCjNRVMBVI30Sak_p6HRWhIA",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "No Priors",
@@ -53,7 +53,7 @@
       "handle": "UC9tpZnMLKv5vbZIGuIIPmNg",
       "source_type": "AI podcast",
       "channel_id": "UC9tpZnMLKv5vbZIGuIIPmNg",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "The AI Breakdown",
@@ -67,7 +67,7 @@
       "handle": "UCdHpbfqjELZmhqY3k0ELGcQ",
       "source_type": "AI podcast",
       "channel_id": "UCdHpbfqjELZmhqY3k0ELGcQ",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "The Gradient",
@@ -109,14 +109,14 @@
       "handle": "UCZcR2SVWaGWNlMqPxvQS3vw",
       "source_type": "AI podcast",
       "channel_id": "UCZcR2SVWaGWNlMqPxvQS3vw",
-      "recent_video_count": 3
+      "recent_video_count": 5
     },
     {
       "name": "Machine Learning Street Talk",
       "handle": "UCMLtBahI5DMrt0NPvDSoIRQ",
       "source_type": "AI podcast",
       "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
-      "recent_video_count": 1
+      "recent_video_count": 8
     },
     {
       "name": "Eye on AI",
@@ -130,14 +130,14 @@
       "handle": "UCghJTNTO9kcDeUFXMuSDGLQ",
       "source_type": "AI podcast",
       "channel_id": "UCghJTNTO9kcDeUFXMuSDGLQ",
-      "recent_video_count": 3
+      "recent_video_count": 1
     },
     {
       "name": "Everyday AI",
       "handle": "UCujMOyMfjf4hvYn7aRe1JEQ",
       "source_type": "AI podcast",
       "channel_id": "UCujMOyMfjf4hvYn7aRe1JEQ",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "MLOps Community",
@@ -158,14 +158,14 @@
       "handle": "UCPbwhExawYrn9xxI21TFfyw",
       "source_type": "AI podcast",
       "channel_id": "UCPbwhExawYrn9xxI21TFfyw",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Big Technology Podcast",
       "handle": "UCaKiCexVhZ459j9sZ2e7XdQ",
       "source_type": "AI podcast",
       "channel_id": "UCaKiCexVhZ459j9sZ2e7XdQ",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Data Skeptic",
@@ -179,14 +179,14 @@
       "handle": "UCMbtqTGdSsxYYhhTpV4lSTQ",
       "source_type": "AI podcast",
       "channel_id": "UCMbtqTGdSsxYYhhTpV4lSTQ",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "How I AI",
       "handle": "UCRYY7IEbkHLH_ScJCu9eWDQ",
       "source_type": "AI podcast",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 14
+      "recent_video_count": 13
     },
     {
       "name": "Software Engineering Daily",
@@ -214,35 +214,35 @@
       "handle": "UCXOtILmQEo3pL_1bJfUOFWw",
       "source_type": "AI podcast",
       "channel_id": "UCXOtILmQEo3pL_1bJfUOFWw",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "BG2Pod",
       "handle": "UC-yRDvpR99LUc5l7i7jLzew",
       "source_type": "AI podcast",
       "channel_id": "UC-yRDvpR99LUc5l7i7jLzew",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "TBPN",
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "AI podcast",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 26
+      "recent_video_count": 24
     },
     {
       "name": "Decoder with Nilay Patel",
       "handle": "UCYRwJnCWfBqFHEHrgc18FFw",
       "source_type": "AI podcast",
       "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
-      "recent_video_count": 16
+      "recent_video_count": 15
     },
     {
       "name": "The Vergecast",
       "handle": "UCVHdvAX5-R8y5l9xp6nroBQ",
       "source_type": "AI podcast",
       "channel_id": "UCVHdvAX5-R8y5l9xp6nroBQ",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "AXRP",
@@ -343,7 +343,7 @@
       "recent_video_count": 3
     }
   ],
-  "candidate_count": 186,
+  "candidate_count": 198,
   "results": [
     {
       "video_id": "A0kTUP7fWtk",
@@ -352,7 +352,7 @@
       "channel_title": "Decoder with Nilay Patel",
       "source_type": "AI podcast",
       "published_at": "2026-10-22T13:00:32Z",
-      "view_count": 439004,
+      "view_count": 504643,
       "duration_minutes": 71,
       "url": "https://www.youtube.com/watch?v=A0kTUP7fWtk"
     },
@@ -363,20 +363,9 @@
       "channel_title": "Dwarkesh Patel",
       "source_type": "AI podcast",
       "published_at": "2026-10-22T23:21:44Z",
-      "view_count": 359250,
+      "view_count": 387164,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=o5UZtZuPAeY"
-    },
-    {
-      "video_id": "-YMMRQ1qscI",
-      "title": "Amazon CEO Andy Jassy on Reinventing Amazon for the AI Era",
-      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "channel_title": "a16z",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-23T15:40:03Z",
-      "view_count": 119585,
-      "duration_minutes": 61,
-      "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI"
     },
     {
       "video_id": "8VAcr7OrxvI",
@@ -385,9 +374,20 @@
       "channel_title": "Big Technology",
       "source_type": "AI podcast",
       "published_at": "2026-10-23T01:52:02Z",
-      "view_count": 96803,
+      "view_count": 132893,
       "duration_minutes": 8,
       "url": "https://www.youtube.com/watch?v=8VAcr7OrxvI"
+    },
+    {
+      "video_id": "-YMMRQ1qscI",
+      "title": "Amazon CEO Andy Jassy on Reinventing Amazon for the AI Era",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-23T15:40:03Z",
+      "view_count": 128683,
+      "duration_minutes": 61,
+      "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI"
     },
     {
       "video_id": "S1JMiDyAwFM",
@@ -396,31 +396,31 @@
       "channel_title": "TBPN",
       "source_type": "AI podcast",
       "published_at": "2026-10-22T02:52:02Z",
-      "view_count": 46591,
+      "view_count": 64546,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=S1JMiDyAwFM"
     },
     {
-      "video_id": "OKDai2_aZe4",
-      "title": "Can AI Replicate in Your Smart TV? | Bots Behaving Badly",
+      "video_id": "P74sXjWiMDc",
+      "title": "Quasi-Riemann hypothesis proved by AI - mathematician explains | Lex Fridman",
+      "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
+      "channel_title": "Lex Clips",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-27T20:00:23Z",
+      "view_count": 59385,
+      "duration_minutes": 14,
+      "url": "https://www.youtube.com/watch?v=P74sXjWiMDc"
+    },
+    {
+      "video_id": "tjAg_KxApmw",
+      "title": "Whistleblowers or justified Open AI firing? | Fired safety workers speak out",
       "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
       "channel_title": "Machine Gods",
       "source_type": "AI podcast",
-      "published_at": "2026-10-21T11:00:19Z",
-      "view_count": 43980,
-      "duration_minutes": 52,
-      "url": "https://www.youtube.com/watch?v=OKDai2_aZe4"
-    },
-    {
-      "video_id": "Vki6cklFqxo",
-      "title": "AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman & CJ Hess",
-      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "channel_title": "Latent Space",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-21T04:52:14Z",
-      "view_count": 23127,
-      "duration_minutes": 44,
-      "url": "https://www.youtube.com/watch?v=Vki6cklFqxo"
+      "published_at": "2026-10-23T11:00:07Z",
+      "view_count": 24656,
+      "duration_minutes": 48,
+      "url": "https://www.youtube.com/watch?v=tjAg_KxApmw"
     },
     {
       "video_id": "-XIgyMsZZxY",
@@ -429,9 +429,20 @@
       "channel_title": "AI For Humans",
       "source_type": "AI podcast",
       "published_at": "2026-10-23T13:45:21Z",
-      "view_count": 22113,
+      "view_count": 22957,
       "duration_minutes": 53,
       "url": "https://www.youtube.com/watch?v=-XIgyMsZZxY"
+    },
+    {
+      "video_id": "MRQTlwcW-aQ",
+      "title": "How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang",
+      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
+      "channel_title": "Latent Space",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-27T18:37:32Z",
+      "view_count": 17776,
+      "duration_minutes": 107,
+      "url": "https://www.youtube.com/watch?v=MRQTlwcW-aQ"
     },
     {
       "video_id": "3WYxicCws8k",
@@ -440,20 +451,9 @@
       "channel_title": "The AI Daily Brief: Artificial Intelligence News",
       "source_type": "AI podcast",
       "published_at": "2026-10-24T15:48:47Z",
-      "view_count": 10501,
+      "view_count": 10987,
       "duration_minutes": 28,
       "url": "https://www.youtube.com/watch?v=3WYxicCws8k"
-    },
-    {
-      "video_id": "8873on73O-E",
-      "title": "Role of humans in the age of AI in mathematics | Lex Fridman",
-      "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "channel_title": "Lex Clips",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-27T04:00:19Z",
-      "view_count": 9226,
-      "duration_minutes": 10,
-      "url": "https://www.youtube.com/watch?v=8873on73O-E"
     }
   ]
 }

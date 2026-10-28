@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-10-27T13:40:18.625289Z",
+  "generated_at": "2026-10-28T14:34:18.488745Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,42 +18,42 @@
       "handle": "@AlexFinnOfficial",
       "source_type": "AI agent and automation",
       "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Matthew Berman",
       "handle": "@matthew_berman",
       "source_type": "AI agent and automation",
       "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "recent_video_count": 15
+      "recent_video_count": 18
     },
     {
       "name": "Cole Medin",
       "handle": "@ColeMedin",
       "source_type": "AI agent and automation",
       "channel_id": "UCMwVTLZIRRUyyVrkjDpn4pA",
-      "recent_video_count": 4
+      "recent_video_count": 2
     },
     {
       "name": "Futurepedia",
       "handle": "@Futurepedia_io",
       "source_type": "AI agent and automation",
       "channel_id": "UC_RovKmk0OCbuZjA8f08opw",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Nate Herk",
       "handle": "@NateHerk",
       "source_type": "AI agent and automation",
       "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "recent_video_count": 8
+      "recent_video_count": 5
     },
     {
       "name": "Krish Naik",
       "handle": "@krishnaik06",
       "source_type": "AI agent and automation",
       "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "AI Code King",
@@ -74,7 +74,7 @@
       "handle": "@1littlecoder",
       "source_type": "AI agent and automation",
       "channel_id": "UCpV_X0VrL8-jg3t6wYGS-1g",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Fireship",
@@ -88,7 +88,7 @@
       "handle": "@TechWithTim",
       "source_type": "AI agent and automation",
       "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "NetworkChuck",
@@ -109,14 +109,14 @@
       "handle": "@howiaipodcast",
       "source_type": "AI agent and automation",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 14
+      "recent_video_count": 13
     },
     {
       "name": "IBM Technology",
       "handle": "@IBMTechnology",
       "source_type": "AI agent and automation",
       "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "Weights & Biases",
@@ -131,7 +131,7 @@
       "handle": "@huggingface",
       "source_type": "AI agent and automation",
       "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Liam Ottley",
@@ -159,7 +159,7 @@
       "handle": "UCn8ujwUInbJkBhffxqAPBVQ",
       "source_type": "AI agent and automation",
       "channel_id": "UCn8ujwUInbJkBhffxqAPBVQ",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Riley Brown",
@@ -194,7 +194,7 @@
       "handle": "UC8KWRrf8wqyowmWhXJ9DRjQ",
       "source_type": "AI agent and automation",
       "channel_id": "UC8KWRrf8wqyowmWhXJ9DRjQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Zapier",
@@ -208,7 +208,7 @@
       "handle": "UCC-lyoTfSrcJzA1ab3APAgw",
       "source_type": "AI agent and automation",
       "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
-      "recent_video_count": 6
+      "recent_video_count": 8
     },
     {
       "name": "LlamaIndex",
@@ -229,14 +229,14 @@
       "handle": "UCVC1GrIK_002p3V1D94VO9A",
       "source_type": "AI agent and automation",
       "channel_id": "UCVC1GrIK_002p3V1D94VO9A",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "OpenAI",
       "handle": "UCXZCJLdBC09xxGZ6gcdrc6A",
       "source_type": "AI agent and automation",
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "recent_video_count": 21
+      "recent_video_count": 35
     },
     {
       "name": "Anthropic",
@@ -257,14 +257,14 @@
       "handle": "UCgoJjdR6-7AMu9fDitb6nVw",
       "source_type": "AI agent and automation",
       "channel_id": "UCgoJjdR6-7AMu9fDitb6nVw",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Supabase",
       "handle": "UCNTVzV1InxHV-YR0fSajqPQ",
       "source_type": "AI agent and automation",
       "channel_id": "UCNTVzV1InxHV-YR0fSajqPQ",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Vercel",
@@ -320,21 +320,21 @@
       "handle": "UCWTyktbw5JYoSBduu8LsBgQ",
       "source_type": "AI agent and automation",
       "channel_id": "UCWTyktbw5JYoSBduu8LsBgQ",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "AI Engineer",
       "handle": "UCLKPca3kwwd-B59HNr-_lvA",
       "source_type": "AI agent and automation",
       "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
-      "recent_video_count": 39
+      "recent_video_count": 40
     },
     {
       "name": "Sabrina Ramonov",
       "handle": "UCiGWNa6QK6CiKPvv5-YPv8g",
       "source_type": "AI agent and automation",
       "channel_id": "UCiGWNa6QK6CiKPvv5-YPv8g",
-      "recent_video_count": 17
+      "recent_video_count": 16
     },
     {
       "name": "LowCode Agency",
@@ -358,7 +358,7 @@
       "recent_video_count": 9
     }
   ],
-  "candidate_count": 282,
+  "candidate_count": 296,
   "results": [
     {
       "video_id": "SIZsFGvtClM",
@@ -367,7 +367,7 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-26T11:00:26Z",
-      "view_count": 52204,
+      "view_count": 66108,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=SIZsFGvtClM"
     },
@@ -378,7 +378,7 @@
       "channel_title": "Greg Isenberg",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-21T19:15:33Z",
-      "view_count": 47546,
+      "view_count": 49341,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=nRl-7Yhmbog"
     },
@@ -389,20 +389,9 @@
       "channel_title": "IndyDevDan",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-26T13:00:05Z",
-      "view_count": 42517,
+      "view_count": 49233,
       "duration_minutes": 26,
       "url": "https://www.youtube.com/watch?v=52JX83rGPLc"
-    },
-    {
-      "video_id": "TVhhmhvCovg",
-      "title": "Let Your AI Agent Do ITS OWN Harness Engineering (Here's How)",
-      "channel_id": "UCMwVTLZIRRUyyVrkjDpn4pA",
-      "channel_title": "Cole Medin",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-20T16:06:59Z",
-      "view_count": 27447,
-      "duration_minutes": 16,
-      "url": "https://www.youtube.com/watch?v=TVhhmhvCovg"
     },
     {
       "video_id": "zUybw-9ejZ4",
@@ -411,31 +400,20 @@
       "channel_title": "OpenAI",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-26T22:03:54Z",
-      "view_count": 13323,
+      "view_count": 16795,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=zUybw-9ejZ4"
     },
     {
-      "video_id": "A3FL_zTQKU0",
-      "title": "Don't Trust Your AI Agents. Test Them Like a Scientist — Stephanie Jarmak, Omni Analytics",
+      "video_id": "iniryju23Sk",
+      "title": "What a $900M Bank Error Teaches Us About AI Agents - John Feminella, Two Sigma",
       "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
       "channel_title": "AI Engineer",
       "source_type": "AI agent and automation",
-      "published_at": "2026-10-23T07:00:08Z",
-      "view_count": 9793,
-      "duration_minutes": 17,
-      "url": "https://www.youtube.com/watch?v=A3FL_zTQKU0"
-    },
-    {
-      "video_id": "ocHuQVz0-5o",
-      "title": "Hermes AI Agent Automates Social Media",
-      "channel_id": "UCiGWNa6QK6CiKPvv5-YPv8g",
-      "channel_title": "Sabrina Ramonov 🍄",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-24T15:00:25Z",
-      "view_count": 6475,
-      "duration_minutes": 7,
-      "url": "https://www.youtube.com/watch?v=ocHuQVz0-5o"
+      "published_at": "2026-10-27T15:00:06Z",
+      "view_count": 13619,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=iniryju23Sk"
     },
     {
       "video_id": "R7u3ncQFIU0",
@@ -444,9 +422,20 @@
       "channel_title": "Tech With Tim",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-25T12:00:16Z",
-      "view_count": 5279,
+      "view_count": 7842,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=R7u3ncQFIU0"
+    },
+    {
+      "video_id": "ocHuQVz0-5o",
+      "title": "Hermes AI Agent Automates Social Media",
+      "channel_id": "UCiGWNa6QK6CiKPvv5-YPv8g",
+      "channel_title": "Sabrina Ramonov 🍄",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-24T15:00:25Z",
+      "view_count": 6966,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=ocHuQVz0-5o"
     },
     {
       "video_id": "Xs8u_sQxMDw",
@@ -455,9 +444,20 @@
       "channel_title": "Zapier",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-22T04:00:28Z",
-      "view_count": 2231,
+      "view_count": 2245,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=Xs8u_sQxMDw"
+    },
+    {
+      "video_id": "hnCoQ5wB-GU",
+      "title": "I tested 4 AI agents on 9 real tasks. Here’s who won.",
+      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
+      "channel_title": "How I AI",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-10-28T12:00:34Z",
+      "view_count": 1584,
+      "duration_minutes": 35,
+      "url": "https://www.youtube.com/watch?v=hnCoQ5wB-GU"
     },
     {
       "video_id": "uwALRjyYjjs",
@@ -466,7 +466,7 @@
       "channel_title": "Mervin Praison",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-26T21:22:32Z",
-      "view_count": 686,
+      "view_count": 731,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=uwALRjyYjjs"
     }
