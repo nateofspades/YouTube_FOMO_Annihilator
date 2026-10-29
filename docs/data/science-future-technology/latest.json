@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-10-28T14:34:18.488745Z",
+  "generated_at": "2026-10-29T14:41:44.413223Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,14 +18,14 @@
       "handle": "@veritasium",
       "source_type": "Independent creator",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "PBS Space Time",
       "handle": "@pbsspacetime",
       "source_type": "Editorial/media",
       "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "SmarterEveryDay",
@@ -67,21 +67,21 @@
       "handle": "@BostonDynamics",
       "source_type": "Official company",
       "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "NASA",
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "European Space Agency",
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Cleo Abram",
@@ -117,14 +117,14 @@
       "handle": "@fermilab",
       "source_type": "Research institution",
       "channel_id": "UCD5B6VoXv41fJ-IW8Wrhz9A",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Applied Science",
       "handle": "@AppliedScience",
       "source_type": "Independent creator",
       "channel_id": "UCivA7_KLKWo43tFcCkFvydw",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Periodic Videos",
@@ -138,7 +138,7 @@
       "handle": "@TwoBitDaVinci",
       "source_type": "Independent creator",
       "channel_id": "UCEgYhf84VjXDz-W7a9-rdCQ",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Branch Education",
@@ -180,7 +180,7 @@
       "handle": "UCeiYXex_fwgYDonaTcSIk6w",
       "source_type": "Additional curated source",
       "channel_id": "UCeiYXex_fwgYDonaTcSIk6w",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "NileRed",
@@ -257,14 +257,14 @@
       "handle": "UC1LpsuAUaKoMzzJSEt5WImw",
       "source_type": "Additional curated source",
       "channel_id": "UC1LpsuAUaKoMzzJSEt5WImw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "ColdFusion",
       "handle": "UC4QZ_LsYcvcq7qOsOhpAX4A",
       "source_type": "Additional curated source",
       "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Sabine Hossenfelder",
@@ -292,35 +292,35 @@
       "handle": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "source_type": "Additional curated source",
       "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "StarTalk",
       "handle": "UCqoAEDirJPjEUFcF2FklnBA",
       "source_type": "Additional curated source",
       "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "Fraser Cain",
       "handle": "UCogrSQkBJn1KF0N9I4oM7eQ",
       "source_type": "Additional curated source",
       "channel_id": "UCogrSQkBJn1KF0N9I4oM7eQ",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "The Royal Institution",
       "handle": "UCYeF244yNGuFefuFKqxIAXw",
       "source_type": "Additional curated source",
       "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "New Scientist",
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 10
+      "recent_video_count": 11
     },
     {
       "name": "SpaceX",
@@ -358,7 +358,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 107,
+  "candidate_count": 105,
   "results": [
     {
       "video_id": "eyZEqSPeMwg",
@@ -367,20 +367,9 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-23T18:46:44Z",
-      "view_count": 6303841,
+      "view_count": 6600259,
       "duration_minutes": 34,
       "url": "https://www.youtube.com/watch?v=eyZEqSPeMwg"
-    },
-    {
-      "video_id": "zj0b2RAJq1g",
-      "title": "Hannah Fry on The Nun Study #dementia #dataset #scienceexplained #hannahfry #thenunstudy #research",
-      "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
-      "channel_title": "The Royal Institution",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-25T16:00:02Z",
-      "view_count": 2433333,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=zj0b2RAJq1g"
     },
     {
       "video_id": "gNVj-FIxoe4",
@@ -389,9 +378,20 @@
       "channel_title": "Vsauce",
       "source_type": "Additional curated source",
       "published_at": "2026-10-27T23:49:28Z",
-      "view_count": 1908278,
+      "view_count": 3539490,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=gNVj-FIxoe4"
+    },
+    {
+      "video_id": "zj0b2RAJq1g",
+      "title": "Hannah Fry on The Nun Study #dementia #dataset #scienceexplained #hannahfry #thenunstudy #research",
+      "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
+      "channel_title": "The Royal Institution",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-25T16:00:02Z",
+      "view_count": 2897252,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=zj0b2RAJq1g"
     },
     {
       "video_id": "PBPLhvsR9V8",
@@ -400,7 +400,7 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-23T13:45:36Z",
-      "view_count": 1853529,
+      "view_count": 2090425,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=PBPLhvsR9V8"
     },
@@ -411,7 +411,7 @@
       "channel_title": "ElectroBOOM",
       "source_type": "Additional curated source",
       "published_at": "2026-10-25T16:00:09Z",
-      "view_count": 1015525,
+      "view_count": 1171632,
       "duration_minutes": 32,
       "url": "https://www.youtube.com/watch?v=ZjyrZmtc7L0"
     },
@@ -422,7 +422,7 @@
       "channel_title": "New Mind",
       "source_type": "Additional curated source",
       "published_at": "2026-10-23T20:25:53Z",
-      "view_count": 989213,
+      "view_count": 1097792,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=ICDKH4L6rTo"
     },
@@ -433,31 +433,9 @@
       "channel_title": "StarTalk",
       "source_type": "Additional curated source",
       "published_at": "2026-10-22T19:30:00Z",
-      "view_count": 942528,
+      "view_count": 1050666,
       "duration_minutes": 11,
       "url": "https://www.youtube.com/watch?v=FDGacISecDQ"
-    },
-    {
-      "video_id": "eb8x2tz_pgc",
-      "title": "Ghost Particles Are Exposing Hidden Black Holes. They Just Won a Nobel Prize.",
-      "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
-      "channel_title": "PBS Space Time",
-      "source_type": "Editorial/media",
-      "published_at": "2026-10-22T20:15:02Z",
-      "view_count": 844936,
-      "duration_minutes": 19,
-      "url": "https://www.youtube.com/watch?v=eb8x2tz_pgc"
-    },
-    {
-      "video_id": "35No369rmq0",
-      "title": "What If We Cool Down the Sun?",
-      "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "channel_title": "Kurzgesagt – In a Nutshell",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-24T14:00:15Z",
-      "view_count": 842569,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=35No369rmq0"
     },
     {
       "video_id": "BVaCZoWTZbo",
@@ -466,9 +444,31 @@
       "channel_title": "Scott Manley",
       "source_type": "Additional curated source",
       "published_at": "2026-10-27T18:30:55Z",
-      "view_count": 664156,
+      "view_count": 891370,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=BVaCZoWTZbo"
+    },
+    {
+      "video_id": "Q4nEdB1cfUk",
+      "title": "The Insane Science Hidden in These Toys",
+      "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "channel_title": "Mark Rober",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-28T13:00:39Z",
+      "view_count": 890770,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=Q4nEdB1cfUk"
+    },
+    {
+      "video_id": "35No369rmq0",
+      "title": "What If We Cool Down the Sun?",
+      "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
+      "channel_title": "Kurzgesagt – In a Nutshell",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-24T14:00:15Z",
+      "view_count": 879128,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=35No369rmq0"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-10-28T14:34:18.488745Z",
+  "generated_at": "2026-10-29T14:41:44.413223Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,14 +11,14 @@
       "handle": "UCJIfeSCssxSC_Dhc5s7woww",
       "source_type": "AI podcast",
       "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "recent_video_count": 8
+      "recent_video_count": 12
     },
     {
       "name": "Dwarkesh Patel",
       "handle": "UCXl4i9dYBrFOabk0xGmbkRA",
       "source_type": "AI podcast",
       "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "Latent Space",
@@ -32,14 +32,14 @@
       "handle": "UCjNRVMBVI30Sak_p6HRWhIA",
       "source_type": "AI podcast",
       "channel_id": "UCjNRVMBVI30Sak_p6HRWhIA",
-      "recent_video_count": 4
+      "recent_video_count": 6
     },
     {
       "name": "No Priors",
       "handle": "UCSI7h9hydQ40K5MJHnCrQvw",
       "source_type": "AI podcast",
       "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "The TWIML AI Podcast",
@@ -53,7 +53,7 @@
       "handle": "UC9tpZnMLKv5vbZIGuIIPmNg",
       "source_type": "AI podcast",
       "channel_id": "UC9tpZnMLKv5vbZIGuIIPmNg",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "The AI Breakdown",
@@ -67,7 +67,7 @@
       "handle": "UCdHpbfqjELZmhqY3k0ELGcQ",
       "source_type": "AI podcast",
       "channel_id": "UCdHpbfqjELZmhqY3k0ELGcQ",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "The Gradient",
@@ -109,7 +109,7 @@
       "handle": "UCZcR2SVWaGWNlMqPxvQS3vw",
       "source_type": "AI podcast",
       "channel_id": "UCZcR2SVWaGWNlMqPxvQS3vw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Machine Learning Street Talk",
@@ -123,7 +123,7 @@
       "handle": "UC-o9u9QL4zXzBwjvT1gmzNg",
       "source_type": "AI podcast",
       "channel_id": "UC-o9u9QL4zXzBwjvT1gmzNg",
-      "recent_video_count": 17
+      "recent_video_count": 18
     },
     {
       "name": "AI For Humans",
@@ -137,14 +137,14 @@
       "handle": "UCujMOyMfjf4hvYn7aRe1JEQ",
       "source_type": "AI podcast",
       "channel_id": "UCujMOyMfjf4hvYn7aRe1JEQ",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "MLOps Community",
       "handle": "UCG6qpjVnBTTT8wLGBygANOQ",
       "source_type": "AI podcast",
       "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Interconnects",
@@ -165,14 +165,14 @@
       "handle": "UCaKiCexVhZ459j9sZ2e7XdQ",
       "source_type": "AI podcast",
       "channel_id": "UCaKiCexVhZ459j9sZ2e7XdQ",
-      "recent_video_count": 6
+      "recent_video_count": 4
     },
     {
       "name": "Data Skeptic",
       "handle": "UC60gRMJRjTuTskBnl-LkPAg",
       "source_type": "AI podcast",
       "channel_id": "UC60gRMJRjTuTskBnl-LkPAg",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Super Data Science",
@@ -186,7 +186,7 @@
       "handle": "UCRYY7IEbkHLH_ScJCu9eWDQ",
       "source_type": "AI podcast",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 13
+      "recent_video_count": 10
     },
     {
       "name": "Software Engineering Daily",
@@ -207,42 +207,42 @@
       "handle": "UCKPSmMfDsXTKrCZApukcJ7A",
       "source_type": "AI podcast",
       "channel_id": "UCKPSmMfDsXTKrCZApukcJ7A",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "ChinaTalk",
       "handle": "UCXOtILmQEo3pL_1bJfUOFWw",
       "source_type": "AI podcast",
       "channel_id": "UCXOtILmQEo3pL_1bJfUOFWw",
-      "recent_video_count": 2
+      "recent_video_count": 4
     },
     {
       "name": "BG2Pod",
       "handle": "UC-yRDvpR99LUc5l7i7jLzew",
       "source_type": "AI podcast",
       "channel_id": "UC-yRDvpR99LUc5l7i7jLzew",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "TBPN",
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "AI podcast",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 24
+      "recent_video_count": 20
     },
     {
       "name": "Decoder with Nilay Patel",
       "handle": "UCYRwJnCWfBqFHEHrgc18FFw",
       "source_type": "AI podcast",
       "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
-      "recent_video_count": 15
+      "recent_video_count": 14
     },
     {
       "name": "The Vergecast",
       "handle": "UCVHdvAX5-R8y5l9xp6nroBQ",
       "source_type": "AI podcast",
       "channel_id": "UCVHdvAX5-R8y5l9xp6nroBQ",
-      "recent_video_count": 9
+      "recent_video_count": 11
     },
     {
       "name": "AXRP",
@@ -256,14 +256,14 @@
       "handle": "UCXi7Hg2nSB40ujzM2CMtF-Q",
       "source_type": "AI podcast",
       "channel_id": "UCXi7Hg2nSB40ujzM2CMtF-Q",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "Gradient Dissent",
       "playlist_id": "PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_",
       "source_type": "AI podcast",
       "channel_id": "UCBp3w4DCEC64FZr4k9ROxig",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "NVIDIA AI Podcast",
@@ -277,7 +277,7 @@
       "playlist_id": "PLnTmH22EvTFTtWJRPTNzosDIDblnSg0PD",
       "source_type": "AI podcast",
       "channel_id": "UCibEcNJENpWRshGjcfMndcw",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "The Changelog",
@@ -298,7 +298,7 @@
       "playlist_id": "PLISstAySqk7KNRW1vfsjTqJnm4lXXBgPe",
       "source_type": "AI podcast",
       "channel_id": "UCg3pI4p6OKSFrDVZcwRIx8A",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "The AI Fix",
@@ -312,7 +312,7 @@
       "playlist_id": "PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
       "source_type": "AI podcast",
       "channel_id": "UCjIMtrzxYc0lblGhmOgC_CA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Google DeepMind: The Podcast",
@@ -326,36 +326,25 @@
       "playlist_id": "PLM4u6XbiXf5rnUvH5NLdV_It2QLgbHBDZ",
       "source_type": "AI podcast",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Training Data (Sequoia)",
       "playlist_id": "PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
       "source_type": "AI podcast",
       "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "80,000 Hours Podcast",
       "playlist_id": "PL-BRtcBm4Yj4aKn72p4PjyqHh0ZQFdI1A",
       "source_type": "AI podcast",
       "channel_id": "UCafjal1QYJ3rb0Y9xZk1Ezg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     }
   ],
-  "candidate_count": 198,
+  "candidate_count": 200,
   "results": [
-    {
-      "video_id": "A0kTUP7fWtk",
-      "title": "Bill Gates says to prepare for 20 years of tumultuous AI disruption",
-      "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
-      "channel_title": "Decoder with Nilay Patel",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-22T13:00:32Z",
-      "view_count": 504643,
-      "duration_minutes": 71,
-      "url": "https://www.youtube.com/watch?v=A0kTUP7fWtk"
-    },
     {
       "video_id": "o5UZtZuPAeY",
       "title": "AI’s bottleneck isn’t compute. It’s geometry.",
@@ -363,7 +352,7 @@
       "channel_title": "Dwarkesh Patel",
       "source_type": "AI podcast",
       "published_at": "2026-10-22T23:21:44Z",
-      "view_count": 387164,
+      "view_count": 403913,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=o5UZtZuPAeY"
     },
@@ -374,7 +363,7 @@
       "channel_title": "Big Technology",
       "source_type": "AI podcast",
       "published_at": "2026-10-23T01:52:02Z",
-      "view_count": 132893,
+      "view_count": 166171,
       "duration_minutes": 8,
       "url": "https://www.youtube.com/watch?v=8VAcr7OrxvI"
     },
@@ -385,20 +374,9 @@
       "channel_title": "a16z",
       "source_type": "AI podcast",
       "published_at": "2026-10-23T15:40:03Z",
-      "view_count": 128683,
+      "view_count": 135275,
       "duration_minutes": 61,
       "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI"
-    },
-    {
-      "video_id": "S1JMiDyAwFM",
-      "title": "SpaceX Q3 blowout: revenue up 161% to $14.6B, $4.4B profit on AI and Starlink growth",
-      "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "channel_title": "TBPN",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-22T02:52:02Z",
-      "view_count": 64546,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=S1JMiDyAwFM"
     },
     {
       "video_id": "P74sXjWiMDc",
@@ -407,9 +385,20 @@
       "channel_title": "Lex Clips",
       "source_type": "AI podcast",
       "published_at": "2026-10-27T20:00:23Z",
-      "view_count": 59385,
+      "view_count": 132321,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=P74sXjWiMDc"
+    },
+    {
+      "video_id": "crdg4X5BZPc",
+      "title": "Gavin Baker on Anthropic's S-1, GPU Prices, and SpaceX",
+      "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
+      "channel_title": "TBPN",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-27T20:52:58Z",
+      "view_count": 36148,
+      "duration_minutes": 41,
+      "url": "https://www.youtube.com/watch?v=crdg4X5BZPc"
     },
     {
       "video_id": "tjAg_KxApmw",
@@ -418,7 +407,7 @@
       "channel_title": "Machine Gods",
       "source_type": "AI podcast",
       "published_at": "2026-10-23T11:00:07Z",
-      "view_count": 24656,
+      "view_count": 25658,
       "duration_minutes": 48,
       "url": "https://www.youtube.com/watch?v=tjAg_KxApmw"
     },
@@ -429,7 +418,7 @@
       "channel_title": "AI For Humans",
       "source_type": "AI podcast",
       "published_at": "2026-10-23T13:45:21Z",
-      "view_count": 22957,
+      "view_count": 23578,
       "duration_minutes": 53,
       "url": "https://www.youtube.com/watch?v=-XIgyMsZZxY"
     },
@@ -440,9 +429,20 @@
       "channel_title": "Latent Space",
       "source_type": "AI podcast",
       "published_at": "2026-10-27T18:37:32Z",
-      "view_count": 17776,
+      "view_count": 21691,
       "duration_minutes": 107,
       "url": "https://www.youtube.com/watch?v=MRQTlwcW-aQ"
+    },
+    {
+      "video_id": "hnCoQ5wB-GU",
+      "title": "I tested 4 AI agents on 9 real tasks. Here’s who won.",
+      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
+      "channel_title": "How I AI",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-28T12:00:34Z",
+      "view_count": 20369,
+      "duration_minutes": 35,
+      "url": "https://www.youtube.com/watch?v=hnCoQ5wB-GU"
     },
     {
       "video_id": "3WYxicCws8k",
@@ -451,7 +451,7 @@
       "channel_title": "The AI Daily Brief: Artificial Intelligence News",
       "source_type": "AI podcast",
       "published_at": "2026-10-24T15:48:47Z",
-      "view_count": 10987,
+      "view_count": 11163,
       "duration_minutes": 28,
       "url": "https://www.youtube.com/watch?v=3WYxicCws8k"
     }
