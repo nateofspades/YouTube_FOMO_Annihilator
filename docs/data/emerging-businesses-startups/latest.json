@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-10-29T14:41:44.413223Z",
+  "generated_at": "2026-10-30T14:37:26.406718Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 12
+      "recent_video_count": 15
     },
     {
       "name": "TechCrunch",
@@ -32,7 +32,7 @@
       "handle": "@sequoiacapital",
       "source_type": "Venture capital",
       "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
-      "recent_video_count": 2
+      "recent_video_count": 5
     },
     {
       "name": "This Week in Startups",
@@ -53,7 +53,7 @@
       "handle": "@20vc",
       "source_type": "Venture capital",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 11
+      "recent_video_count": 14
     },
     {
       "name": "Acquired",
@@ -67,14 +67,14 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 18
+      "recent_video_count": 9
     },
     {
       "name": "My First Million",
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 10
+      "recent_video_count": 8
     },
     {
       "name": "MicroConf",
@@ -88,7 +88,7 @@
       "handle": "@Saastr",
       "source_type": "Founder community",
       "channel_id": "UCwOILzAcxK5CM2M7oRBuWSg",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Slidebean",
@@ -151,21 +151,21 @@
       "handle": "UChhw6DlKKTQ9mYSpTfXUYqA",
       "source_type": "Additional curated source",
       "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "Greg Isenberg",
       "handle": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "source_type": "Additional curated source",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "TBPN",
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "Additional curated source",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 20
+      "recent_video_count": 19
     },
     {
       "name": "The Logan Bartlett Show",
@@ -186,7 +186,7 @@
       "handle": "UCNFGSWVOdVWEe9XJNnfTdyQ",
       "source_type": "Additional curated source",
       "channel_id": "UCNFGSWVOdVWEe9XJNnfTdyQ",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "CNBC Make It",
@@ -200,14 +200,14 @@
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "Additional curated source",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 44
+      "recent_video_count": 39
     },
     {
       "name": "PitchBook",
       "handle": "UC4rBao48na0v__j3Xvu0T-g",
       "source_type": "Additional curated source",
       "channel_id": "UC4rBao48na0v__j3Xvu0T-g",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Crunchbase",
@@ -242,14 +242,14 @@
       "handle": "UC_oji6l_-xwhmZqCxRGuAXw",
       "source_type": "Additional curated source",
       "channel_id": "UC_oji6l_-xwhmZqCxRGuAXw",
-      "recent_video_count": 1
+      "recent_video_count": 3
     },
     {
       "name": "Lightspeed Venture Partners",
       "handle": "UCwBTFE_6Bsb_EtmXlW2aTlg",
       "source_type": "Additional curated source",
       "channel_id": "UCwBTFE_6Bsb_EtmXlW2aTlg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "General Catalyst",
@@ -350,19 +350,8 @@
       "recent_video_count": 8
     }
   ],
-  "candidate_count": 252,
+  "candidate_count": 246,
   "results": [
-    {
-      "video_id": "_Lux62iTbFE",
-      "title": "What Elon Musk would do if he lost everything",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-22T21:31:01Z",
-      "view_count": 306421,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=_Lux62iTbFE"
-    },
     {
       "video_id": "jwQw9738b7Q",
       "title": "How Elon Musk thinks about money",
@@ -370,31 +359,9 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-24T13:00:34Z",
-      "view_count": 182395,
+      "view_count": 203928,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=jwQw9738b7Q"
-    },
-    {
-      "video_id": "-YMMRQ1qscI",
-      "title": "Amazon CEO Andy Jassy on Reinventing Amazon for the AI Era",
-      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "channel_title": "a16z",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-23T15:40:03Z",
-      "view_count": 135262,
-      "duration_minutes": 61,
-      "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI"
-    },
-    {
-      "video_id": "0jU4nLhCeWY",
-      "title": "Microsoft Offers Buyouts to 60,000 Employees",
-      "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "channel_title": "Bloomberg Tech",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-26T16:11:20Z",
-      "view_count": 123241,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=0jU4nLhCeWY"
     },
     {
       "video_id": "SJywU4UQryQ",
@@ -403,20 +370,31 @@
       "channel_title": "Dan Martell",
       "source_type": "Additional curated source",
       "published_at": "2026-10-28T13:00:28Z",
-      "view_count": 109271,
+      "view_count": 159452,
       "duration_minutes": 28,
       "url": "https://www.youtube.com/watch?v=SJywU4UQryQ"
     },
     {
-      "video_id": "Kn1-GJj-Ibs",
-      "title": "We Bought A Brooklyn Brownstone For $1.5 Million And Renovated It For About $300,000",
-      "channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
-      "channel_title": "CNBC Make It",
+      "video_id": "-YMMRQ1qscI",
+      "title": "Amazon CEO Andy Jassy on Reinventing Amazon for the AI Era",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-23T15:40:03Z",
+      "view_count": 139908,
+      "duration_minutes": 61,
+      "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI"
+    },
+    {
+      "video_id": "a2wv9giz3vU",
+      "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
+      "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
+      "channel_title": "Bloomberg Tech",
       "source_type": "Additional curated source",
-      "published_at": "2026-10-22T17:00:07Z",
-      "view_count": 95928,
-      "duration_minutes": 10,
-      "url": "https://www.youtube.com/watch?v=Kn1-GJj-Ibs"
+      "published_at": "2026-10-27T18:21:02Z",
+      "view_count": 125261,
+      "duration_minutes": 15,
+      "url": "https://www.youtube.com/watch?v=a2wv9giz3vU"
     },
     {
       "video_id": "eojywvxqoLc",
@@ -425,7 +403,7 @@
       "channel_title": "Y Combinator",
       "source_type": "Accelerator",
       "published_at": "2026-10-26T14:00:10Z",
-      "view_count": 84938,
+      "view_count": 99848,
       "duration_minutes": 66,
       "url": "https://www.youtube.com/watch?v=eojywvxqoLc"
     },
@@ -436,18 +414,18 @@
       "channel_title": "Greg Isenberg",
       "source_type": "Additional curated source",
       "published_at": "2026-10-26T18:35:28Z",
-      "view_count": 84252,
+      "view_count": 89782,
       "duration_minutes": 44,
       "url": "https://www.youtube.com/watch?v=HKNpCwG3nlc"
     },
     {
       "video_id": "-8CDZRd0FWM",
-      "title": "The fatal flaw with satellite 5G",
+      "title": "The brilliant scam of satellite 5G",
       "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
       "channel_title": "Slidebean",
       "source_type": "Official company",
       "published_at": "2026-10-23T21:28:11Z",
-      "view_count": 80323,
+      "view_count": 84771,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=-8CDZRd0FWM"
     },
@@ -458,9 +436,31 @@
       "channel_title": "20VC with Harry Stebbings",
       "source_type": "Venture capital",
       "published_at": "2026-10-24T14:00:32Z",
-      "view_count": 64963,
+      "view_count": 68418,
       "duration_minutes": 73,
       "url": "https://www.youtube.com/watch?v=4UmFfI8CWuA"
+    },
+    {
+      "video_id": "0_hpTKQqKOQ",
+      "title": "Ex-Amazon VP reveals what it's really like working with Jeff Bezos",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-28T13:56:17Z",
+      "view_count": 62094,
+      "duration_minutes": 73,
+      "url": "https://www.youtube.com/watch?v=0_hpTKQqKOQ"
+    },
+    {
+      "video_id": "pwvnH9S4j60",
+      "title": "I Make $30K/Month From the Most Boring Website on the Internet",
+      "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
+      "channel_title": "Starter Story",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-28T17:00:22Z",
+      "view_count": 57925,
+      "duration_minutes": 13,
+      "url": "https://www.youtube.com/watch?v=pwvnH9S4j60"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-10-29T14:41:44.413223Z",
+  "generated_at": "2026-10-30T14:37:26.406718Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "UCJIfeSCssxSC_Dhc5s7woww",
       "source_type": "AI podcast",
       "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "recent_video_count": 12
+      "recent_video_count": 15
     },
     {
       "name": "Dwarkesh Patel",
@@ -25,21 +25,21 @@
       "handle": "UCxBcwypKK-W3GHd_RZ9FZrQ",
       "source_type": "AI podcast",
       "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Cognitive Revolution",
       "handle": "UCjNRVMBVI30Sak_p6HRWhIA",
       "source_type": "AI podcast",
       "channel_id": "UCjNRVMBVI30Sak_p6HRWhIA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "No Priors",
       "handle": "UCSI7h9hydQ40K5MJHnCrQvw",
       "source_type": "AI podcast",
       "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "The TWIML AI Podcast",
@@ -67,7 +67,7 @@
       "handle": "UCdHpbfqjELZmhqY3k0ELGcQ",
       "source_type": "AI podcast",
       "channel_id": "UCdHpbfqjELZmhqY3k0ELGcQ",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "The Gradient",
@@ -109,7 +109,7 @@
       "handle": "UCZcR2SVWaGWNlMqPxvQS3vw",
       "source_type": "AI podcast",
       "channel_id": "UCZcR2SVWaGWNlMqPxvQS3vw",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Machine Learning Street Talk",
@@ -137,14 +137,14 @@
       "handle": "UCujMOyMfjf4hvYn7aRe1JEQ",
       "source_type": "AI podcast",
       "channel_id": "UCujMOyMfjf4hvYn7aRe1JEQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "MLOps Community",
       "handle": "UCG6qpjVnBTTT8wLGBygANOQ",
       "source_type": "AI podcast",
       "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Interconnects",
@@ -228,14 +228,14 @@
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "AI podcast",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 20
+      "recent_video_count": 19
     },
     {
       "name": "Decoder with Nilay Patel",
       "handle": "UCYRwJnCWfBqFHEHrgc18FFw",
       "source_type": "AI podcast",
       "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
-      "recent_video_count": 14
+      "recent_video_count": 15
     },
     {
       "name": "The Vergecast",
@@ -256,7 +256,7 @@
       "handle": "UCXi7Hg2nSB40ujzM2CMtF-Q",
       "source_type": "AI podcast",
       "channel_id": "UCXi7Hg2nSB40ujzM2CMtF-Q",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "Gradient Dissent",
@@ -340,43 +340,21 @@
       "playlist_id": "PL-BRtcBm4Yj4aKn72p4PjyqHh0ZQFdI1A",
       "source_type": "AI podcast",
       "channel_id": "UCafjal1QYJ3rb0Y9xZk1Ezg",
-      "recent_video_count": 4
+      "recent_video_count": 5
     }
   ],
-  "candidate_count": 200,
+  "candidate_count": 205,
   "results": [
     {
-      "video_id": "o5UZtZuPAeY",
-      "title": "AI’s bottleneck isn’t compute. It’s geometry.",
-      "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
-      "channel_title": "Dwarkesh Patel",
+      "video_id": "hnCoQ5wB-GU",
+      "title": "I tested 4 AI agents on 9 real tasks. Here’s who won.",
+      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
+      "channel_title": "How I AI",
       "source_type": "AI podcast",
-      "published_at": "2026-10-22T23:21:44Z",
-      "view_count": 403913,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=o5UZtZuPAeY"
-    },
-    {
-      "video_id": "8VAcr7OrxvI",
-      "title": "Sundar Pichai: Will AI Kill the Interface?",
-      "channel_id": "UCaKiCexVhZ459j9sZ2e7XdQ",
-      "channel_title": "Big Technology",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-23T01:52:02Z",
-      "view_count": 166171,
-      "duration_minutes": 8,
-      "url": "https://www.youtube.com/watch?v=8VAcr7OrxvI"
-    },
-    {
-      "video_id": "-YMMRQ1qscI",
-      "title": "Amazon CEO Andy Jassy on Reinventing Amazon for the AI Era",
-      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "channel_title": "a16z",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-23T15:40:03Z",
-      "view_count": 135275,
-      "duration_minutes": 61,
-      "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI"
+      "published_at": "2026-10-28T12:00:34Z",
+      "view_count": 204455,
+      "duration_minutes": 35,
+      "url": "https://www.youtube.com/watch?v=hnCoQ5wB-GU"
     },
     {
       "video_id": "P74sXjWiMDc",
@@ -385,9 +363,20 @@
       "channel_title": "Lex Clips",
       "source_type": "AI podcast",
       "published_at": "2026-10-27T20:00:23Z",
-      "view_count": 132321,
+      "view_count": 183428,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=P74sXjWiMDc"
+    },
+    {
+      "video_id": "-YMMRQ1qscI",
+      "title": "Amazon CEO Andy Jassy on Reinventing Amazon for the AI Era",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-23T15:40:03Z",
+      "view_count": 139908,
+      "duration_minutes": 61,
+      "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI"
     },
     {
       "video_id": "crdg4X5BZPc",
@@ -396,31 +385,9 @@
       "channel_title": "TBPN",
       "source_type": "AI podcast",
       "published_at": "2026-10-27T20:52:58Z",
-      "view_count": 36148,
+      "view_count": 42301,
       "duration_minutes": 41,
       "url": "https://www.youtube.com/watch?v=crdg4X5BZPc"
-    },
-    {
-      "video_id": "tjAg_KxApmw",
-      "title": "Whistleblowers or justified Open AI firing? | Fired safety workers speak out",
-      "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
-      "channel_title": "Machine Gods",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-23T11:00:07Z",
-      "view_count": 25658,
-      "duration_minutes": 48,
-      "url": "https://www.youtube.com/watch?v=tjAg_KxApmw"
-    },
-    {
-      "video_id": "-XIgyMsZZxY",
-      "title": "AI Just Broke The Internet. For Real This Time.",
-      "channel_id": "UCghJTNTO9kcDeUFXMuSDGLQ",
-      "channel_title": "AI For Humans",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-23T13:45:21Z",
-      "view_count": 23578,
-      "duration_minutes": 53,
-      "url": "https://www.youtube.com/watch?v=-XIgyMsZZxY"
     },
     {
       "video_id": "MRQTlwcW-aQ",
@@ -429,20 +396,53 @@
       "channel_title": "Latent Space",
       "source_type": "AI podcast",
       "published_at": "2026-10-27T18:37:32Z",
-      "view_count": 21691,
+      "view_count": 24294,
       "duration_minutes": 107,
       "url": "https://www.youtube.com/watch?v=MRQTlwcW-aQ"
     },
     {
-      "video_id": "hnCoQ5wB-GU",
-      "title": "I tested 4 AI agents on 9 real tasks. Here’s who won.",
-      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "channel_title": "How I AI",
+      "video_id": "Yvy_Qm14odU",
+      "title": "Inside Anthropic’s trillion-dollar AI gamble",
+      "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
+      "channel_title": "Decoder with Nilay Patel",
       "source_type": "AI podcast",
-      "published_at": "2026-10-28T12:00:34Z",
-      "view_count": 20369,
-      "duration_minutes": 35,
-      "url": "https://www.youtube.com/watch?v=hnCoQ5wB-GU"
+      "published_at": "2026-10-29T13:00:13Z",
+      "view_count": 23077,
+      "duration_minutes": 42,
+      "url": "https://www.youtube.com/watch?v=Yvy_Qm14odU"
+    },
+    {
+      "video_id": "_hP1vFEr3Ck",
+      "title": "How Anthropic went from “near death” to IPO",
+      "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
+      "channel_title": "Machine Gods",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-28T11:00:16Z",
+      "view_count": 21794,
+      "duration_minutes": 56,
+      "url": "https://www.youtube.com/watch?v=_hP1vFEr3Ck"
+    },
+    {
+      "video_id": "2K7494olN6s",
+      "title": "Google’s CEO on His Biggest Bets: Anthropic, SpaceX, Space TPUs, and more",
+      "channel_id": "UCaKiCexVhZ459j9sZ2e7XdQ",
+      "channel_title": "Big Technology",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-24T22:27:31Z",
+      "view_count": 15276,
+      "duration_minutes": 11,
+      "url": "https://www.youtube.com/watch?v=2K7494olN6s"
+    },
+    {
+      "video_id": "XQQjCU7VLFo",
+      "title": "Everyone says AI is moving too fast, so why aren’t we slowing down?",
+      "channel_id": "UCafjal1QYJ3rb0Y9xZk1Ezg",
+      "channel_title": "80,000 Hours",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-27T18:16:47Z",
+      "view_count": 12154,
+      "duration_minutes": 21,
+      "url": "https://www.youtube.com/watch?v=XQQjCU7VLFo"
     },
     {
       "video_id": "3WYxicCws8k",
@@ -451,7 +451,7 @@
       "channel_title": "The AI Daily Brief: Artificial Intelligence News",
       "source_type": "AI podcast",
       "published_at": "2026-10-24T15:48:47Z",
-      "view_count": 11163,
+      "view_count": 11269,
       "duration_minutes": 28,
       "url": "https://www.youtube.com/watch?v=3WYxicCws8k"
     }

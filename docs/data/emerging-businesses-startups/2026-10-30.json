@@ -1,0 +1,466 @@
+{
+  "slug": "emerging-businesses-startups",
+  "title": "Emerging businesses and startups",
+  "generated_at": "2026-10-30T14:37:26.406718Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "Y Combinator",
+      "handle": "@ycombinator",
+      "source_type": "Accelerator",
+      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "recent_video_count": 15
+    },
+    {
+      "name": "TechCrunch",
+      "handle": "@TechCrunch",
+      "source_type": "Editorial/media",
+      "channel_id": "UCCjyq_K1Xwfg8Lndy7lKMpA",
+      "recent_video_count": 24
+    },
+    {
+      "name": "a16z",
+      "handle": "@a16z",
+      "source_type": "Venture capital",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "recent_video_count": 8
+    },
+    {
+      "name": "Sequoia Capital",
+      "handle": "@sequoiacapital",
+      "source_type": "Venture capital",
+      "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
+      "recent_video_count": 5
+    },
+    {
+      "name": "This Week in Startups",
+      "handle": "@ThisWeekInStartups",
+      "source_type": "Editorial/media",
+      "channel_id": "UC1UbgWkb41KrhF824U6t6uQ",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Lenny’s Podcast",
+      "handle": "@LennysPodcast",
+      "source_type": "Independent creator",
+      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
+      "recent_video_count": 8
+    },
+    {
+      "name": "20VC",
+      "handle": "@20vc",
+      "source_type": "Venture capital",
+      "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
+      "recent_video_count": 14
+    },
+    {
+      "name": "Acquired",
+      "handle": "@AcquiredFM",
+      "source_type": "Independent creator",
+      "channel_id": "UCyFqFYfTW2VoIQKylJ04Rtw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Masters of Scale",
+      "handle": "@mastersofscale_",
+      "source_type": "Editorial/media",
+      "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
+      "recent_video_count": 9
+    },
+    {
+      "name": "My First Million",
+      "handle": "@myfirstmillionpod",
+      "source_type": "Independent creator",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "recent_video_count": 8
+    },
+    {
+      "name": "MicroConf",
+      "handle": "@MicroConf",
+      "source_type": "Founder community",
+      "channel_id": "UCroeMSea_O-xfgDvgbJGVQA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "SaaStr",
+      "handle": "@Saastr",
+      "source_type": "Founder community",
+      "channel_id": "UCwOILzAcxK5CM2M7oRBuWSg",
+      "recent_video_count": 6
+    },
+    {
+      "name": "Slidebean",
+      "handle": "@Slidebean",
+      "source_type": "Official company",
+      "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Bessemer Venture Partners",
+      "handle": "@BessemerVenturePartners",
+      "source_type": "Venture capital",
+      "channel_id": "UCKuHAxZoh99t8uyPQhoDR3A",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Antler Global",
+      "handle": "@Antlerglobal",
+      "source_type": "Venture capital",
+      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
+      "recent_video_count": 6
+    },
+    {
+      "name": "Khosla Ventures",
+      "handle": "@KhoslaVentures1",
+      "source_type": "Venture capital",
+      "channel_id": "UCF92qR15QflJFGO7c_PeT-g",
+      "recent_video_count": 0
+    },
+    {
+      "name": "NFX",
+      "handle": "@nfxinsights",
+      "source_type": "Venture capital",
+      "channel_id": "UC2ZCl6UC4FYlvsUEtK4ZaOg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Product School",
+      "handle": "UC6hlQ0x6kPbAGjYkoz53cvA",
+      "source_type": "Official company",
+      "channel_id": "UC6hlQ0x6kPbAGjYkoz53cvA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Startup Grind",
+      "handle": "StartupGrind",
+      "source_type": "Founder community",
+      "channel_id": "UCwB3HiWejAkml1UZ0Qo2bFg",
+      "recent_video_count": 2
+    },
+    {
+      "name": "David Senra / Founders",
+      "handle": "@DavidSenra",
+      "source_type": "Independent creator",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "recent_video_count": 13
+    },
+    {
+      "name": "Starter Story",
+      "handle": "UChhw6DlKKTQ9mYSpTfXUYqA",
+      "source_type": "Additional curated source",
+      "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
+      "recent_video_count": 7
+    },
+    {
+      "name": "Greg Isenberg",
+      "handle": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "source_type": "Additional curated source",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "recent_video_count": 4
+    },
+    {
+      "name": "TBPN",
+      "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
+      "source_type": "Additional curated source",
+      "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
+      "recent_video_count": 19
+    },
+    {
+      "name": "The Logan Bartlett Show",
+      "handle": "UCugS0jD5IAdoqzjaNYzns7w",
+      "source_type": "Additional curated source",
+      "channel_id": "UCugS0jD5IAdoqzjaNYzns7w",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Foundr",
+      "handle": "UChpWgrkJY_i7F6wwI_TOnrg",
+      "source_type": "Additional curated source",
+      "channel_id": "UChpWgrkJY_i7F6wwI_TOnrg",
+      "recent_video_count": 6
+    },
+    {
+      "name": "Entrepreneur",
+      "handle": "UCNFGSWVOdVWEe9XJNnfTdyQ",
+      "source_type": "Additional curated source",
+      "channel_id": "UCNFGSWVOdVWEe9XJNnfTdyQ",
+      "recent_video_count": 3
+    },
+    {
+      "name": "CNBC Make It",
+      "handle": "UCH5_L3ytGbBziX0CLuYdQ1Q",
+      "source_type": "Additional curated source",
+      "channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
+      "recent_video_count": 5
+    },
+    {
+      "name": "Bloomberg Technology",
+      "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
+      "source_type": "Additional curated source",
+      "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
+      "recent_video_count": 39
+    },
+    {
+      "name": "PitchBook",
+      "handle": "UC4rBao48na0v__j3Xvu0T-g",
+      "source_type": "Additional curated source",
+      "channel_id": "UC4rBao48na0v__j3Xvu0T-g",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Crunchbase",
+      "handle": "UCnAZr1Krg51E_tUg-Hpunwg",
+      "source_type": "Additional curated source",
+      "channel_id": "UCnAZr1Krg51E_tUg-Hpunwg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "CB Insights",
+      "handle": "UC96nq-gVV0vy96gfYXfEhmA",
+      "source_type": "Additional curated source",
+      "channel_id": "UC96nq-gVV0vy96gfYXfEhmA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Techstars",
+      "handle": "UClebMzrpRNTWVfZXw2jfsSw",
+      "source_type": "Additional curated source",
+      "channel_id": "UClebMzrpRNTWVfZXw2jfsSw",
+      "recent_video_count": 2
+    },
+    {
+      "name": "500 Global",
+      "handle": "UCsFOY-wGT9IOC4Okrq6UBfA",
+      "source_type": "Additional curated source",
+      "channel_id": "UCsFOY-wGT9IOC4Okrq6UBfA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "First Round Capital",
+      "handle": "UC_oji6l_-xwhmZqCxRGuAXw",
+      "source_type": "Additional curated source",
+      "channel_id": "UC_oji6l_-xwhmZqCxRGuAXw",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Lightspeed Venture Partners",
+      "handle": "UCwBTFE_6Bsb_EtmXlW2aTlg",
+      "source_type": "Additional curated source",
+      "channel_id": "UCwBTFE_6Bsb_EtmXlW2aTlg",
+      "recent_video_count": 3
+    },
+    {
+      "name": "General Catalyst",
+      "handle": "UCRuWcJZWsga67HTE0fcCvbA",
+      "source_type": "Additional curated source",
+      "channel_id": "UCRuWcJZWsga67HTE0fcCvbA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Accel",
+      "handle": "UCkgHtlqtoa73AUIueX5udaQ",
+      "source_type": "Additional curated source",
+      "channel_id": "UCkgHtlqtoa73AUIueX5udaQ",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Index Ventures",
+      "handle": "UCFMxDWNYefVV3XmCdCBCFjQ",
+      "source_type": "Additional curated source",
+      "channel_id": "UCFMxDWNYefVV3XmCdCBCFjQ",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Greylock",
+      "handle": "UCZ7x7yDBbEFCGztD8BYvRhA",
+      "source_type": "Additional curated source",
+      "channel_id": "UCZ7x7yDBbEFCGztD8BYvRhA",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Insight Partners",
+      "handle": "UC7xNlG4PokgWJe8hd2kS-Kg",
+      "source_type": "Additional curated source",
+      "channel_id": "UC7xNlG4PokgWJe8hd2kS-Kg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Product Hunt",
+      "handle": "UCOtU18DT8csQVqHPT1wtYzw",
+      "source_type": "Additional curated source",
+      "channel_id": "UCOtU18DT8csQVqHPT1wtYzw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Indie Hackers",
+      "handle": "UC36zt_eM_gZQXayw_pAdASg",
+      "source_type": "Additional curated source",
+      "channel_id": "UC36zt_eM_gZQXayw_pAdASg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Nathan Latka",
+      "handle": "UCJ4E393uI8mWRlSqgoeUKKw",
+      "source_type": "Additional curated source",
+      "channel_id": "UCJ4E393uI8mWRlSqgoeUKKw",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Rob Walling",
+      "handle": "UCHoBKQDRkJcOY2BO47q5Ruw",
+      "source_type": "Additional curated source",
+      "channel_id": "UCHoBKQDRkJcOY2BO47q5Ruw",
+      "recent_video_count": 1
+    },
+    {
+      "name": "TK Kader",
+      "handle": "UCUseoG3kofRLS6WoUaL_15w",
+      "source_type": "Additional curated source",
+      "channel_id": "UCUseoG3kofRLS6WoUaL_15w",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Marc Lou",
+      "handle": "UC12JO2IPlEViR-o6SLXKx1A",
+      "source_type": "Additional curated source",
+      "channel_id": "UC12JO2IPlEViR-o6SLXKx1A",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Arvid Kahl",
+      "handle": "UCB6s-V1Ls4vc_mXEF-4Lz_Q",
+      "source_type": "Additional curated source",
+      "channel_id": "UCB6s-V1Ls4vc_mXEF-4Lz_Q",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Dan Martell",
+      "handle": "UCA-mWX9CvCTVFWRMb9bKc9w",
+      "source_type": "Additional curated source",
+      "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+      "recent_video_count": 19
+    },
+    {
+      "name": "Codie Sanchez",
+      "handle": "UC5fI3kxC-ewZ6ZXEYgznM7g",
+      "source_type": "Additional curated source",
+      "channel_id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
+      "recent_video_count": 8
+    }
+  ],
+  "candidate_count": 246,
+  "results": [
+    {
+      "video_id": "jwQw9738b7Q",
+      "title": "How Elon Musk thinks about money",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "channel_title": "David Senra",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-24T13:00:34Z",
+      "view_count": 203928,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=jwQw9738b7Q"
+    },
+    {
+      "video_id": "SJywU4UQryQ",
+      "title": "How to Build an AI Agent for Every Part of Your Life",
+      "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+      "channel_title": "Dan Martell",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-28T13:00:28Z",
+      "view_count": 159452,
+      "duration_minutes": 28,
+      "url": "https://www.youtube.com/watch?v=SJywU4UQryQ"
+    },
+    {
+      "video_id": "-YMMRQ1qscI",
+      "title": "Amazon CEO Andy Jassy on Reinventing Amazon for the AI Era",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-23T15:40:03Z",
+      "view_count": 139908,
+      "duration_minutes": 61,
+      "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI"
+    },
+    {
+      "video_id": "a2wv9giz3vU",
+      "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
+      "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
+      "channel_title": "Bloomberg Tech",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-27T18:21:02Z",
+      "view_count": 125261,
+      "duration_minutes": 15,
+      "url": "https://www.youtube.com/watch?v=a2wv9giz3vU"
+    },
+    {
+      "video_id": "eojywvxqoLc",
+      "title": "The New Full-Stack Designer",
+      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "channel_title": "Y Combinator",
+      "source_type": "Accelerator",
+      "published_at": "2026-10-26T14:00:10Z",
+      "view_count": 99848,
+      "duration_minutes": 66,
+      "url": "https://www.youtube.com/watch?v=eojywvxqoLc"
+    },
+    {
+      "video_id": "HKNpCwG3nlc",
+      "title": "The $1,000/hour 1-person AI business",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "channel_title": "Greg Isenberg",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-26T18:35:28Z",
+      "view_count": 89782,
+      "duration_minutes": 44,
+      "url": "https://www.youtube.com/watch?v=HKNpCwG3nlc"
+    },
+    {
+      "video_id": "-8CDZRd0FWM",
+      "title": "The brilliant scam of satellite 5G",
+      "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
+      "channel_title": "Slidebean",
+      "source_type": "Official company",
+      "published_at": "2026-10-23T21:28:11Z",
+      "view_count": 84771,
+      "duration_minutes": 24,
+      "url": "https://www.youtube.com/watch?v=-8CDZRd0FWM"
+    },
+    {
+      "video_id": "4UmFfI8CWuA",
+      "title": "Inference Will Be $10TRN Market: What No One Sees | Software Investors are F***ed | Naveen Rao",
+      "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
+      "channel_title": "20VC with Harry Stebbings",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-24T14:00:32Z",
+      "view_count": 68418,
+      "duration_minutes": 73,
+      "url": "https://www.youtube.com/watch?v=4UmFfI8CWuA"
+    },
+    {
+      "video_id": "0_hpTKQqKOQ",
+      "title": "Ex-Amazon VP reveals what it's really like working with Jeff Bezos",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-28T13:56:17Z",
+      "view_count": 62094,
+      "duration_minutes": 73,
+      "url": "https://www.youtube.com/watch?v=0_hpTKQqKOQ"
+    },
+    {
+      "video_id": "pwvnH9S4j60",
+      "title": "I Make $30K/Month From the Most Boring Website on the Internet",
+      "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
+      "channel_title": "Starter Story",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-28T17:00:22Z",
+      "view_count": 57925,
+      "duration_minutes": 13,
+      "url": "https://www.youtube.com/watch?v=pwvnH9S4j60"
+    }
+  ]
+}

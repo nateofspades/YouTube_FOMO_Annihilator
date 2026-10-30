@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-10-29T14:41:44.413223Z",
+  "generated_at": "2026-10-30T14:37:26.406718Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,14 +11,14 @@
       "handle": "@kurzgesagt",
       "source_type": "Independent creator",
       "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Veritasium",
       "handle": "@veritasium",
       "source_type": "Independent creator",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "PBS Space Time",
@@ -74,21 +74,21 @@
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "European Space Agency",
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Cleo Abram",
       "handle": "@CleoAbram",
       "source_type": "Editorial/media",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Undecided",
@@ -152,7 +152,7 @@
       "handle": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "source_type": "Additional curated source",
       "channel_id": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "3Blue1Brown",
@@ -173,14 +173,14 @@
       "handle": "UCUHW94eEFW7hkUMVaZz4eDg",
       "source_type": "Additional curated source",
       "channel_id": "UCUHW94eEFW7hkUMVaZz4eDg",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "MinuteEarth",
       "handle": "UCeiYXex_fwgYDonaTcSIk6w",
       "source_type": "Additional curated source",
       "channel_id": "UCeiYXex_fwgYDonaTcSIk6w",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "NileRed",
@@ -257,7 +257,7 @@
       "handle": "UC1LpsuAUaKoMzzJSEt5WImw",
       "source_type": "Additional curated source",
       "channel_id": "UC1LpsuAUaKoMzzJSEt5WImw",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "ColdFusion",
@@ -292,14 +292,14 @@
       "handle": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "source_type": "Additional curated source",
       "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "StarTalk",
       "handle": "UCqoAEDirJPjEUFcF2FklnBA",
       "source_type": "Additional curated source",
       "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "recent_video_count": 9
+      "recent_video_count": 7
     },
     {
       "name": "Fraser Cain",
@@ -313,14 +313,14 @@
       "handle": "UCYeF244yNGuFefuFKqxIAXw",
       "source_type": "Additional curated source",
       "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "New Scientist",
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 11
+      "recent_video_count": 12
     },
     {
       "name": "SpaceX",
@@ -358,7 +358,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 105,
+  "candidate_count": 109,
   "results": [
     {
       "video_id": "eyZEqSPeMwg",
@@ -367,7 +367,7 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-23T18:46:44Z",
-      "view_count": 6600259,
+      "view_count": 6832918,
       "duration_minutes": 34,
       "url": "https://www.youtube.com/watch?v=eyZEqSPeMwg"
     },
@@ -378,7 +378,7 @@
       "channel_title": "Vsauce",
       "source_type": "Additional curated source",
       "published_at": "2026-10-27T23:49:28Z",
-      "view_count": 3539490,
+      "view_count": 4064334,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=gNVj-FIxoe4"
     },
@@ -389,20 +389,20 @@
       "channel_title": "The Royal Institution",
       "source_type": "Additional curated source",
       "published_at": "2026-10-25T16:00:02Z",
-      "view_count": 2897252,
+      "view_count": 3401260,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=zj0b2RAJq1g"
     },
     {
-      "video_id": "PBPLhvsR9V8",
-      "title": "What Is That Red Dot?",
+      "video_id": "rHmxAXO9w_s",
+      "title": "We’re Missing the Best Place to Find Aliens",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
-      "published_at": "2026-10-23T13:45:36Z",
-      "view_count": 2090425,
+      "published_at": "2026-10-24T15:27:43Z",
+      "view_count": 1434193,
       "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=PBPLhvsR9V8"
+      "url": "https://www.youtube.com/watch?v=rHmxAXO9w_s"
     },
     {
       "video_id": "ZjyrZmtc7L0",
@@ -411,7 +411,7 @@
       "channel_title": "ElectroBOOM",
       "source_type": "Additional curated source",
       "published_at": "2026-10-25T16:00:09Z",
-      "view_count": 1171632,
+      "view_count": 1269704,
       "duration_minutes": 32,
       "url": "https://www.youtube.com/watch?v=ZjyrZmtc7L0"
     },
@@ -422,31 +422,9 @@
       "channel_title": "New Mind",
       "source_type": "Additional curated source",
       "published_at": "2026-10-23T20:25:53Z",
-      "view_count": 1097792,
+      "view_count": 1209036,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=ICDKH4L6rTo"
-    },
-    {
-      "video_id": "FDGacISecDQ",
-      "title": "You Probably Don’t Realize How Big A Trillion Is",
-      "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "channel_title": "StarTalk",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-22T19:30:00Z",
-      "view_count": 1050666,
-      "duration_minutes": 11,
-      "url": "https://www.youtube.com/watch?v=FDGacISecDQ"
-    },
-    {
-      "video_id": "BVaCZoWTZbo",
-      "title": "China's Super Secret Spaceplane Finally Revealed",
-      "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "channel_title": "Scott Manley",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-27T18:30:55Z",
-      "view_count": 891370,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=BVaCZoWTZbo"
     },
     {
       "video_id": "Q4nEdB1cfUk",
@@ -455,9 +433,20 @@
       "channel_title": "Mark Rober",
       "source_type": "Independent creator",
       "published_at": "2026-10-28T13:00:39Z",
-      "view_count": 890770,
+      "view_count": 1097533,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=Q4nEdB1cfUk"
+    },
+    {
+      "video_id": "BVaCZoWTZbo",
+      "title": "China's Super Secret Spaceplane Finally Revealed",
+      "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
+      "channel_title": "Scott Manley",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-27T18:30:55Z",
+      "view_count": 1009359,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=BVaCZoWTZbo"
     },
     {
       "video_id": "35No369rmq0",
@@ -466,9 +455,20 @@
       "channel_title": "Kurzgesagt – In a Nutshell",
       "source_type": "Independent creator",
       "published_at": "2026-10-24T14:00:15Z",
-      "view_count": 879128,
+      "view_count": 907022,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=35No369rmq0"
+    },
+    {
+      "video_id": "ESvls8ZUg58",
+      "title": "The Science of Looksmaxxing, with Doc Noc",
+      "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
+      "channel_title": "StarTalk",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-24T15:00:24Z",
+      "view_count": 858727,
+      "duration_minutes": 61,
+      "url": "https://www.youtube.com/watch?v=ESvls8ZUg58"
     }
   ]
 }
