@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-10-30T14:37:26.406718Z",
+  "generated_at": "2026-10-31T13:56:00.582036Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@TheDiaryOfACEO",
       "source_type": "Business podcast",
       "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "My First Million",
@@ -53,21 +53,21 @@
       "handle": "@LennysPodcast",
       "source_type": "Business podcast",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "Masters of Scale",
       "handle": "@MastersofScale_",
       "source_type": "Business podcast",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 9
+      "recent_video_count": 6
     },
     {
       "name": "Invest Like The Best",
       "handle": "@ILTB_Podcast",
       "source_type": "Business podcast",
       "channel_id": "UCpQBb0fToph3jrDulwz1iUQ",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "The Knowledge Project Podcast",
@@ -88,35 +88,35 @@
       "handle": "@20VC",
       "source_type": "Business podcast",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 14
+      "recent_video_count": 13
     },
     {
       "name": "a16z",
       "handle": "@a16z",
       "source_type": "Business podcast",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "The Prof G Pod – Scott Galloway",
       "handle": "@TheProfGPod",
       "source_type": "Business podcast",
       "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "recent_video_count": 16
+      "recent_video_count": 15
     },
     {
       "name": "Pivot with Kara Swisher and Scott Galloway",
       "handle": "@pivot",
       "source_type": "Business podcast",
       "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "recent_video_count": 13
+      "recent_video_count": 12
     },
     {
       "name": "Tim Ferriss",
       "handle": "@timferriss",
       "source_type": "Business podcast",
       "channel_id": "UCznv7Vf9nBdJYvBagFdAHWw",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Young and Profiting",
@@ -130,7 +130,7 @@
       "handle": "@AlexHormozi",
       "source_type": "Business podcast",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "recent_video_count": 60
+      "recent_video_count": 49
     },
     {
       "name": "Startups for the Rest of Us",
@@ -144,7 +144,7 @@
       "handle": "@ycombinator",
       "source_type": "Business podcast",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 15
+      "recent_video_count": 14
     },
     {
       "name": "The Logan Bartlett Show",
@@ -158,7 +158,7 @@
       "handle": "UCGX7nGXpz-CmO_Arg-cgJ7A",
       "source_type": "Business podcast",
       "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
-      "recent_video_count": 41
+      "recent_video_count": 38
     },
     {
       "name": "The Jordan Harbinger Show",
@@ -214,14 +214,14 @@
       "handle": "UC4g1niWj3_eXiBPERvatsFA",
       "source_type": "Business podcast",
       "channel_id": "UC4g1niWj3_eXiBPERvatsFA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "The Best One Yet",
       "handle": "UCly3md3CbnTFJP83lVUEcjw",
       "source_type": "Business podcast",
       "channel_id": "UCly3md3CbnTFJP83lVUEcjw",
-      "recent_video_count": 15
+      "recent_video_count": 14
     },
     {
       "name": "Marketing Against the Grain",
@@ -235,7 +235,7 @@
       "handle": "UCTJmkA2-u7Kyblm5_P6tKdA",
       "source_type": "Business podcast",
       "channel_id": "UCTJmkA2-u7Kyblm5_P6tKdA",
-      "recent_video_count": 19
+      "recent_video_count": 18
     },
     {
       "name": "The Colin and Samir Show",
@@ -249,7 +249,7 @@
       "playlist_id": "PLkL7BvJXiqSQu3i72hSrG4vUkDuaneHuB",
       "source_type": "Business podcast",
       "channel_id": "UCIaH-gZIVC432YRjNVvnyCA",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "The School of Greatness",
@@ -350,7 +350,7 @@
       "recent_video_count": 0
     }
   ],
-  "candidate_count": 328,
+  "candidate_count": 303,
   "results": [
     {
       "video_id": "6VTSAs4Rsck",
@@ -359,53 +359,64 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-10-26T07:00:48Z",
-      "view_count": 4244606,
+      "view_count": 4493827,
       "duration_minutes": 92,
       "url": "https://www.youtube.com/watch?v=6VTSAs4Rsck"
     },
     {
-      "video_id": "6czo-C3FU7I",
-      "title": "AI Cyber Panic, Ken Griffin’s Bubble Warning, The Fall of France?",
-      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "channel_title": "All-In Podcast",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-23T23:52:56Z",
-      "view_count": 685588,
-      "duration_minutes": 103,
-      "url": "https://www.youtube.com/watch?v=6czo-C3FU7I"
-    },
-    {
-      "video_id": "5rOIS7GHD5Y",
-      "title": "How I Would Build a Personal Brand in 2027 (If I Had to Start Over)",
-      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "channel_title": "Alex Hormozi",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-23T18:36:19Z",
-      "view_count": 615037,
-      "duration_minutes": 16,
-      "url": "https://www.youtube.com/watch?v=5rOIS7GHD5Y"
-    },
-    {
-      "video_id": "N_nuY-9YPc4",
-      "title": "Democrats Come After Musk & Zuck Thinks About Leaving California | PBD Podcast Ep. 878",
+      "video_id": "pkDTQavV1Hw",
+      "title": "Lula Wins in Brazil, Jordan Church Attack & Rubio’s CIA Call to Cuba | PBD Podcast #879",
       "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
       "channel_title": "PBD Podcast",
       "source_type": "Business podcast",
-      "published_at": "2026-10-23T15:43:37Z",
-      "view_count": 434753,
-      "duration_minutes": 137,
-      "url": "https://www.youtube.com/watch?v=N_nuY-9YPc4"
+      "published_at": "2026-10-26T15:43:14Z",
+      "view_count": 440463,
+      "duration_minutes": 138,
+      "url": "https://www.youtube.com/watch?v=pkDTQavV1Hw"
     },
     {
-      "video_id": "VBgMdz4ESFY",
-      "title": "Nate Silver: Democrats Have a 75% Shot at the Senate",
+      "video_id": "WSAl3p_ccp0",
+      "title": "Heather Cox Richardson: The GOP No Longer Exists and It Looks Like the 1850s",
       "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
-      "published_at": "2026-10-26T20:00:36Z",
-      "view_count": 358635,
-      "duration_minutes": 27,
-      "url": "https://www.youtube.com/watch?v=VBgMdz4ESFY"
+      "published_at": "2026-10-29T20:05:56Z",
+      "view_count": 412632,
+      "duration_minutes": 63,
+      "url": "https://www.youtube.com/watch?v=WSAl3p_ccp0"
+    },
+    {
+      "video_id": "p1Dy4e4ff0s",
+      "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google’s $500B Wipeout, Midterm Predictions",
+      "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
+      "channel_title": "All-In Podcast",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-30T22:03:41Z",
+      "view_count": 316106,
+      "duration_minutes": 86,
+      "url": "https://www.youtube.com/watch?v=p1Dy4e4ff0s"
+    },
+    {
+      "video_id": "Uzr0gv4N4-s",
+      "title": "Alex Hormozi vs 10 Entrepreneurs",
+      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
+      "channel_title": "Alex Hormozi",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-30T16:13:34Z",
+      "view_count": 261082,
+      "duration_minutes": 43,
+      "url": "https://www.youtube.com/watch?v=Uzr0gv4N4-s"
+    },
+    {
+      "video_id": "EMztRBSQHIo",
+      "title": "Scott Galloway Finally Gets Called Out by Elon. You'll Never Guess Why",
+      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
+      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-30T13:00:31Z",
+      "view_count": 222577,
+      "duration_minutes": 54,
+      "url": "https://www.youtube.com/watch?v=EMztRBSQHIo"
     },
     {
       "video_id": "iGGWGk7YU_I",
@@ -414,20 +425,9 @@
       "channel_title": "The Iced Coffee Hour",
       "source_type": "Business podcast",
       "published_at": "2026-10-25T16:00:37Z",
-      "view_count": 182820,
+      "view_count": 190477,
       "duration_minutes": 88,
       "url": "https://www.youtube.com/watch?v=iGGWGk7YU_I"
-    },
-    {
-      "video_id": "KMjIPE2FFpg",
-      "title": "Why Scott Galloway Sees “Tons of Risk” in Anthropic’s IPO",
-      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-27T13:00:30Z",
-      "view_count": 170814,
-      "duration_minutes": 62,
-      "url": "https://www.youtube.com/watch?v=KMjIPE2FFpg"
     },
     {
       "video_id": "vf4t6tS44dw",
@@ -436,20 +436,9 @@
       "channel_title": "Chris Williamson",
       "source_type": "Business podcast",
       "published_at": "2026-10-24T15:00:23Z",
-      "view_count": 144423,
+      "view_count": 146423,
       "duration_minutes": 81,
       "url": "https://www.youtube.com/watch?v=vf4t6tS44dw"
-    },
-    {
-      "video_id": "-YMMRQ1qscI",
-      "title": "Amazon CEO Andy Jassy on Reinventing Amazon for the AI Era",
-      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "channel_title": "a16z",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-23T15:40:03Z",
-      "view_count": 139908,
-      "duration_minutes": 61,
-      "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI"
     },
     {
       "video_id": "eojywvxqoLc",
@@ -458,9 +447,20 @@
       "channel_title": "Y Combinator",
       "source_type": "Business podcast",
       "published_at": "2026-10-26T14:00:10Z",
-      "view_count": 99878,
+      "view_count": 108408,
       "duration_minutes": 66,
       "url": "https://www.youtube.com/watch?v=eojywvxqoLc"
+    },
+    {
+      "video_id": "HKNpCwG3nlc",
+      "title": "The $1,000/hour 1-person AI business",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "channel_title": "Greg Isenberg",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-26T18:35:28Z",
+      "view_count": 92246,
+      "duration_minutes": 44,
+      "url": "https://www.youtube.com/watch?v=HKNpCwG3nlc"
     }
   ]
 }

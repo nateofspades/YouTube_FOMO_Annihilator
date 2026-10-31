@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-10-30T14:37:26.406718Z",
+  "generated_at": "2026-10-31T13:56:00.582036Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,7 +18,7 @@
       "handle": "@veritasium",
       "source_type": "Independent creator",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "PBS Space Time",
@@ -39,7 +39,7 @@
       "handle": "@RealEngineering",
       "source_type": "Independent creator",
       "channel_id": "UCR1IuLEqb6UEA_zQ81kwXfg",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Practical Engineering",
@@ -74,14 +74,14 @@
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "European Space Agency",
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 2
+      "recent_video_count": 5
     },
     {
       "name": "Cleo Abram",
@@ -95,7 +95,7 @@
       "handle": "@UndecidedTechnology",
       "source_type": "Independent creator",
       "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Everything Electric",
@@ -152,7 +152,7 @@
       "handle": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "source_type": "Additional curated source",
       "channel_id": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "3Blue1Brown",
@@ -180,7 +180,7 @@
       "handle": "UCeiYXex_fwgYDonaTcSIk6w",
       "source_type": "Additional curated source",
       "channel_id": "UCeiYXex_fwgYDonaTcSIk6w",
-      "recent_video_count": 4
+      "recent_video_count": 2
     },
     {
       "name": "NileRed",
@@ -201,14 +201,14 @@
       "handle": "UCEIwxahdLz7bap-VDs9h35A",
       "source_type": "Additional curated source",
       "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Technology Connections",
       "handle": "UCy0tKL1T7wFoYcxCe0xjN6Q",
       "source_type": "Additional curated source",
       "channel_id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Stuff Made Here",
@@ -250,7 +250,7 @@
       "handle": "UC5_Y-BKzq1uW_2rexWkUzlA",
       "source_type": "Additional curated source",
       "channel_id": "UC5_Y-BKzq1uW_2rexWkUzlA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Asianometry",
@@ -285,7 +285,7 @@
       "handle": "UCYNbYGl89UUowy8oXkipC-Q",
       "source_type": "Additional curated source",
       "channel_id": "UCYNbYGl89UUowy8oXkipC-Q",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Astrum",
@@ -320,7 +320,7 @@
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 12
+      "recent_video_count": 9
     },
     {
       "name": "SpaceX",
@@ -341,7 +341,7 @@
       "handle": "UCxzC4EngIsMrPmbm6Nxvb-A",
       "source_type": "Additional curated source",
       "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Primal Space",
@@ -361,24 +361,13 @@
   "candidate_count": 109,
   "results": [
     {
-      "video_id": "eyZEqSPeMwg",
-      "title": "No device could prove Einstein wrong... until now",
-      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "channel_title": "Veritasium",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-23T18:46:44Z",
-      "view_count": 6832918,
-      "duration_minutes": 34,
-      "url": "https://www.youtube.com/watch?v=eyZEqSPeMwg"
-    },
-    {
       "video_id": "gNVj-FIxoe4",
       "title": "We Used To Think The Sun Was Cold",
       "channel_id": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "channel_title": "Vsauce",
       "source_type": "Additional curated source",
       "published_at": "2026-10-27T23:49:28Z",
-      "view_count": 4064334,
+      "view_count": 4581284,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=gNVj-FIxoe4"
     },
@@ -389,9 +378,20 @@
       "channel_title": "The Royal Institution",
       "source_type": "Additional curated source",
       "published_at": "2026-10-25T16:00:02Z",
-      "view_count": 3401260,
+      "view_count": 3767133,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=zj0b2RAJq1g"
+    },
+    {
+      "video_id": "zEmabFZvdqA",
+      "title": "What happens if I lower this weight into the water?",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channel_title": "Veritasium",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-30T14:00:38Z",
+      "view_count": 1596967,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=zEmabFZvdqA"
     },
     {
       "video_id": "rHmxAXO9w_s",
@@ -400,7 +400,7 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-24T15:27:43Z",
-      "view_count": 1434193,
+      "view_count": 1530601,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=rHmxAXO9w_s"
     },
@@ -411,20 +411,9 @@
       "channel_title": "ElectroBOOM",
       "source_type": "Additional curated source",
       "published_at": "2026-10-25T16:00:09Z",
-      "view_count": 1269704,
+      "view_count": 1323297,
       "duration_minutes": 32,
       "url": "https://www.youtube.com/watch?v=ZjyrZmtc7L0"
-    },
-    {
-      "video_id": "ICDKH4L6rTo",
-      "title": "The Surprising Problem With Measuring Anything",
-      "channel_id": "UC5_Y-BKzq1uW_2rexWkUzlA",
-      "channel_title": "New Mind",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-23T20:25:53Z",
-      "view_count": 1209036,
-      "duration_minutes": 25,
-      "url": "https://www.youtube.com/watch?v=ICDKH4L6rTo"
     },
     {
       "video_id": "Q4nEdB1cfUk",
@@ -433,9 +422,20 @@
       "channel_title": "Mark Rober",
       "source_type": "Independent creator",
       "published_at": "2026-10-28T13:00:39Z",
-      "view_count": 1097533,
+      "view_count": 1258228,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=Q4nEdB1cfUk"
+    },
+    {
+      "video_id": "I1rlK3BKmyA",
+      "title": "Alkaline batteries are obsolete — but not for the reason you'd think",
+      "channel_id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
+      "channel_title": "Technology Connections",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-30T17:35:51Z",
+      "view_count": 1071994,
+      "duration_minutes": 30,
+      "url": "https://www.youtube.com/watch?v=I1rlK3BKmyA"
     },
     {
       "video_id": "BVaCZoWTZbo",
@@ -444,7 +444,7 @@
       "channel_title": "Scott Manley",
       "source_type": "Additional curated source",
       "published_at": "2026-10-27T18:30:55Z",
-      "view_count": 1009359,
+      "view_count": 1065727,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=BVaCZoWTZbo"
     },
@@ -455,7 +455,7 @@
       "channel_title": "Kurzgesagt – In a Nutshell",
       "source_type": "Independent creator",
       "published_at": "2026-10-24T14:00:15Z",
-      "view_count": 907022,
+      "view_count": 926391,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=35No369rmq0"
     },
@@ -466,7 +466,7 @@
       "channel_title": "StarTalk",
       "source_type": "Additional curated source",
       "published_at": "2026-10-24T15:00:24Z",
-      "view_count": 858727,
+      "view_count": 875047,
       "duration_minutes": 61,
       "url": "https://www.youtube.com/watch?v=ESvls8ZUg58"
     }

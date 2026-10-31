@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-10-30T14:37:26.406718Z",
+  "generated_at": "2026-10-31T13:56:00.582036Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,28 +11,28 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 15
+      "recent_video_count": 14
     },
     {
       "name": "TechCrunch",
       "handle": "@TechCrunch",
       "source_type": "Editorial/media",
       "channel_id": "UCCjyq_K1Xwfg8Lndy7lKMpA",
-      "recent_video_count": 24
+      "recent_video_count": 23
     },
     {
       "name": "a16z",
       "handle": "@a16z",
       "source_type": "Venture capital",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "Sequoia Capital",
       "handle": "@sequoiacapital",
       "source_type": "Venture capital",
       "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "This Week in Startups",
@@ -46,14 +46,14 @@
       "handle": "@LennysPodcast",
       "source_type": "Independent creator",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "20VC",
       "handle": "@20vc",
       "source_type": "Venture capital",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 14
+      "recent_video_count": 13
     },
     {
       "name": "Acquired",
@@ -67,7 +67,7 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 9
+      "recent_video_count": 6
     },
     {
       "name": "My First Million",
@@ -88,7 +88,7 @@
       "handle": "@Saastr",
       "source_type": "Founder community",
       "channel_id": "UCwOILzAcxK5CM2M7oRBuWSg",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Slidebean",
@@ -130,7 +130,7 @@
       "handle": "UC6hlQ0x6kPbAGjYkoz53cvA",
       "source_type": "Official company",
       "channel_id": "UC6hlQ0x6kPbAGjYkoz53cvA",
-      "recent_video_count": 1
+      "recent_video_count": 3
     },
     {
       "name": "Startup Grind",
@@ -144,7 +144,7 @@
       "handle": "@DavidSenra",
       "source_type": "Independent creator",
       "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "recent_video_count": 13
+      "recent_video_count": 15
     },
     {
       "name": "Starter Story",
@@ -200,7 +200,7 @@
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "Additional curated source",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 39
+      "recent_video_count": 33
     },
     {
       "name": "PitchBook",
@@ -242,14 +242,14 @@
       "handle": "UC_oji6l_-xwhmZqCxRGuAXw",
       "source_type": "Additional curated source",
       "channel_id": "UC_oji6l_-xwhmZqCxRGuAXw",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Lightspeed Venture Partners",
       "handle": "UCwBTFE_6Bsb_EtmXlW2aTlg",
       "source_type": "Additional curated source",
       "channel_id": "UCwBTFE_6Bsb_EtmXlW2aTlg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "General Catalyst",
@@ -350,19 +350,8 @@
       "recent_video_count": 8
     }
   ],
-  "candidate_count": 246,
+  "candidate_count": 238,
   "results": [
-    {
-      "video_id": "jwQw9738b7Q",
-      "title": "How Elon Musk thinks about money",
-      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "channel_title": "David Senra",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-24T13:00:34Z",
-      "view_count": 203928,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=jwQw9738b7Q"
-    },
     {
       "video_id": "SJywU4UQryQ",
       "title": "How to Build an AI Agent for Every Part of Your Life",
@@ -370,20 +359,9 @@
       "channel_title": "Dan Martell",
       "source_type": "Additional curated source",
       "published_at": "2026-10-28T13:00:28Z",
-      "view_count": 159452,
+      "view_count": 195026,
       "duration_minutes": 28,
       "url": "https://www.youtube.com/watch?v=SJywU4UQryQ"
-    },
-    {
-      "video_id": "-YMMRQ1qscI",
-      "title": "Amazon CEO Andy Jassy on Reinventing Amazon for the AI Era",
-      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "channel_title": "a16z",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-23T15:40:03Z",
-      "view_count": 139908,
-      "duration_minutes": 61,
-      "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI"
     },
     {
       "video_id": "a2wv9giz3vU",
@@ -392,9 +370,20 @@
       "channel_title": "Bloomberg Tech",
       "source_type": "Additional curated source",
       "published_at": "2026-10-27T18:21:02Z",
-      "view_count": 125261,
+      "view_count": 156022,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=a2wv9giz3vU"
+    },
+    {
+      "video_id": "hT_MAAwFLIc",
+      "title": "Competition, Intensity & Building a $115 Billion Global Bank | Nik Storonsky, Revolut",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "channel_title": "David Senra",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-25T12:00:39Z",
+      "view_count": 109911,
+      "duration_minutes": 67,
+      "url": "https://www.youtube.com/watch?v=hT_MAAwFLIc"
     },
     {
       "video_id": "eojywvxqoLc",
@@ -403,7 +392,7 @@
       "channel_title": "Y Combinator",
       "source_type": "Accelerator",
       "published_at": "2026-10-26T14:00:10Z",
-      "view_count": 99848,
+      "view_count": 108408,
       "duration_minutes": 66,
       "url": "https://www.youtube.com/watch?v=eojywvxqoLc"
     },
@@ -414,31 +403,9 @@
       "channel_title": "Greg Isenberg",
       "source_type": "Additional curated source",
       "published_at": "2026-10-26T18:35:28Z",
-      "view_count": 89782,
+      "view_count": 92238,
       "duration_minutes": 44,
       "url": "https://www.youtube.com/watch?v=HKNpCwG3nlc"
-    },
-    {
-      "video_id": "-8CDZRd0FWM",
-      "title": "The brilliant scam of satellite 5G",
-      "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
-      "channel_title": "Slidebean",
-      "source_type": "Official company",
-      "published_at": "2026-10-23T21:28:11Z",
-      "view_count": 84771,
-      "duration_minutes": 24,
-      "url": "https://www.youtube.com/watch?v=-8CDZRd0FWM"
-    },
-    {
-      "video_id": "4UmFfI8CWuA",
-      "title": "Inference Will Be $10TRN Market: What No One Sees | Software Investors are F***ed | Naveen Rao",
-      "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "channel_title": "20VC with Harry Stebbings",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-24T14:00:32Z",
-      "view_count": 68418,
-      "duration_minutes": 73,
-      "url": "https://www.youtube.com/watch?v=4UmFfI8CWuA"
     },
     {
       "video_id": "0_hpTKQqKOQ",
@@ -447,9 +414,20 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-28T13:56:17Z",
-      "view_count": 62094,
+      "view_count": 79684,
       "duration_minutes": 73,
       "url": "https://www.youtube.com/watch?v=0_hpTKQqKOQ"
+    },
+    {
+      "video_id": "4UmFfI8CWuA",
+      "title": "Inference Will Be $10TRN Market: What No One Sees | Software Investors are F***ed | Naveen Rao",
+      "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
+      "channel_title": "20VC with Harry Stebbings",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-24T14:00:32Z",
+      "view_count": 70696,
+      "duration_minutes": 73,
+      "url": "https://www.youtube.com/watch?v=4UmFfI8CWuA"
     },
     {
       "video_id": "pwvnH9S4j60",
@@ -458,9 +436,31 @@
       "channel_title": "Starter Story",
       "source_type": "Additional curated source",
       "published_at": "2026-10-28T17:00:22Z",
-      "view_count": 57925,
+      "view_count": 69779,
       "duration_minutes": 13,
       "url": "https://www.youtube.com/watch?v=pwvnH9S4j60"
+    },
+    {
+      "video_id": "19qrLchbQEc",
+      "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
+      "channel_title": "Lenny's Podcast",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-25T12:30:15Z",
+      "view_count": 56932,
+      "duration_minutes": 86,
+      "url": "https://www.youtube.com/watch?v=19qrLchbQEc"
+    },
+    {
+      "video_id": "v2jRsAFnqXY",
+      "title": "I Built A Million Dollar Business For A Subscriber in 23 Minutes",
+      "channel_id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
+      "channel_title": "Codie Sanchez",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-25T15:07:19Z",
+      "view_count": 55276,
+      "duration_minutes": 23,
+      "url": "https://www.youtube.com/watch?v=v2jRsAFnqXY"
     }
   ]
 }

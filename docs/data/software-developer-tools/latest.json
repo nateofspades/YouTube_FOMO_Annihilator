@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-10-30T14:37:26.406718Z",
+  "generated_at": "2026-10-31T13:56:00.582036Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@GitHub",
       "source_type": "Official company",
       "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
-      "recent_video_count": 14
+      "recent_video_count": 12
     },
     {
       "name": "Google for Developers",
@@ -25,14 +25,14 @@
       "handle": "@MicrosoftDeveloper",
       "source_type": "Official company",
       "channel_id": "UCsMica-v34Irf9KVTh6xx-g",
-      "recent_video_count": 9
+      "recent_video_count": 11
     },
     {
       "name": "AWS Developers",
       "handle": "@awsdevelopers",
       "source_type": "Official company",
       "channel_id": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Google Cloud Tech",
@@ -46,7 +46,7 @@
       "handle": "UCgv3xMy6kECn0boYP9d2o-g",
       "source_type": "Official company",
       "channel_id": "UCgv3xMy6kECn0boYP9d2o-g",
-      "recent_video_count": 4
+      "recent_video_count": 2
     },
     {
       "name": "Docker",
@@ -81,7 +81,7 @@
       "handle": "@Fireship",
       "source_type": "Independent creator",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "freeCodeCamp.org",
@@ -95,7 +95,7 @@
       "handle": "@TraversyMedia",
       "source_type": "Independent creator",
       "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Web Dev Simplified",
@@ -144,7 +144,7 @@
       "handle": "@LaravelPHP",
       "source_type": "Official company",
       "channel_id": "UCfO2GiQwb-cwJTb1CuRSkwg",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Programming with Mosh",
@@ -165,7 +165,7 @@
       "handle": "UCSJbGtTlrDami-tDGPUV9-w",
       "source_type": "Additional curated source",
       "channel_id": "UCSJbGtTlrDami-tDGPUV9-w",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Kevin Powell",
@@ -200,7 +200,7 @@
       "handle": "UC2KfmYEM4KCuA1ZurravgYw",
       "source_type": "Additional curated source",
       "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "CodeAesthetic",
@@ -263,7 +263,7 @@
       "handle": "UCVhQ2NnY5Rskt6UjCUkJ_DA",
       "source_type": "Additional curated source",
       "channel_id": "UCVhQ2NnY5Rskt6UjCUkJ_DA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Corey Schafer",
@@ -284,7 +284,7 @@
       "handle": "UCSWj8mqQCcrcBlXPi4ThRDQ",
       "source_type": "Additional curated source",
       "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "Bret Fisher Docker and DevOps",
@@ -319,7 +319,7 @@
       "handle": "UCRPMAqdtSgd0Ipeef7iFsKw",
       "source_type": "Additional curated source",
       "channel_id": "UCRPMAqdtSgd0Ipeef7iFsKw",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "CodeOpinion",
@@ -333,7 +333,7 @@
       "handle": "UC9-y-6csu5WGm29I7JiwpnA",
       "source_type": "Additional curated source",
       "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Low Level Learning",
@@ -357,19 +357,8 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 172,
+  "candidate_count": 166,
   "results": [
-    {
-      "video_id": "SMGg7iisHmc",
-      "title": "The most vulnerable week in internet history...",
-      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "channel_title": "Fireship",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-23T18:19:58Z",
-      "view_count": 1838571,
-      "duration_minutes": 6,
-      "url": "https://www.youtube.com/watch?v=SMGg7iisHmc"
-    },
     {
       "video_id": "7h7FYGF7tuQ",
       "title": "Reverse Engineering Proves What We Suspected All Along..",
@@ -377,7 +366,7 @@
       "channel_title": "Low Level",
       "source_type": "Additional curated source",
       "published_at": "2026-10-29T13:52:38Z",
-      "view_count": 920681,
+      "view_count": 1482350,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=7h7FYGF7tuQ"
     },
@@ -388,7 +377,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-29T17:34:08Z",
-      "view_count": 260635,
+      "view_count": 337005,
       "duration_minutes": 42,
       "url": "https://www.youtube.com/watch?v=uLGxb4F3SyI"
     },
@@ -399,7 +388,7 @@
       "channel_title": "KodeKloud",
       "source_type": "Additional curated source",
       "published_at": "2026-10-27T13:10:09Z",
-      "view_count": 174763,
+      "view_count": 182490,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=gPOaMdNDpto"
     },
@@ -410,7 +399,7 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-10-28T16:45:00Z",
-      "view_count": 131867,
+      "view_count": 158609,
       "duration_minutes": 157,
       "url": "https://www.youtube.com/watch?v=cqfl38Ip1ho"
     },
@@ -421,7 +410,7 @@
       "channel_title": "Gaurav Sen",
       "source_type": "Additional curated source",
       "published_at": "2026-10-27T20:03:18Z",
-      "view_count": 100045,
+      "view_count": 107754,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=77z01nVRnTE"
     },
@@ -432,7 +421,7 @@
       "channel_title": "Google for Developers",
       "source_type": "Official company",
       "published_at": "2026-10-27T16:18:01Z",
-      "view_count": 55697,
+      "view_count": 57116,
       "duration_minutes": 47,
       "url": "https://www.youtube.com/watch?v=LOP8ul3KqQI"
     },
@@ -443,20 +432,9 @@
       "channel_title": "Syntax",
       "source_type": "Additional curated source",
       "published_at": "2026-10-28T12:00:11Z",
-      "view_count": 36466,
+      "view_count": 38926,
       "duration_minutes": 58,
       "url": "https://www.youtube.com/watch?v=MrIzFnU0unk"
-    },
-    {
-      "video_id": "45MgUX_ih0s",
-      "title": "The Visitor Pattern in Python (And Better Alternatives)",
-      "channel_id": "UCVhQ2NnY5Rskt6UjCUkJ_DA",
-      "channel_title": "ArjanCodes",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-23T15:00:28Z",
-      "view_count": 35056,
-      "duration_minutes": 12,
-      "url": "https://www.youtube.com/watch?v=45MgUX_ih0s"
     },
     {
       "video_id": "8C4bh59FtsI",
@@ -465,9 +443,31 @@
       "channel_title": "Google Cloud Tech",
       "source_type": "Official company",
       "published_at": "2026-10-28T16:00:07Z",
-      "view_count": 29716,
+      "view_count": 37036,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=8C4bh59FtsI"
+    },
+    {
+      "video_id": "zS_K-bfpQfk",
+      "title": "Stop using min-width in your media queries",
+      "channel_id": "UCJZv4d5rbIKd4QHMPkcABCw",
+      "channel_title": "Kevin Powell",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-28T13:00:23Z",
+      "view_count": 30816,
+      "duration_minutes": 4,
+      "url": "https://www.youtube.com/watch?v=zS_K-bfpQfk"
+    },
+    {
+      "video_id": "xbCa0aa4tRM",
+      "title": "Everything announced at GitHub Universe 2026: opening keynote recap",
+      "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "channel_title": "GitHub",
+      "source_type": "Official company",
+      "published_at": "2026-10-29T13:57:25Z",
+      "view_count": 27632,
+      "duration_minutes": 8,
+      "url": "https://www.youtube.com/watch?v=xbCa0aa4tRM"
     }
   ]
 }
