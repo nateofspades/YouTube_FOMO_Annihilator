@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-10-31T13:56:00.582036Z",
+  "generated_at": "2026-11-01T15:30:15.551172Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -60,7 +60,7 @@
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 50
+      "recent_video_count": 20
     },
     {
       "name": "GitLab",
@@ -95,7 +95,7 @@
       "handle": "@TraversyMedia",
       "source_type": "Independent creator",
       "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Web Dev Simplified",
@@ -186,7 +186,7 @@
       "handle": "UC_mYaQAE6-71rjSN6CeCA-g",
       "source_type": "Additional curated source",
       "channel_id": "UC_mYaQAE6-71rjSN6CeCA-g",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "CS Dojo",
@@ -200,7 +200,7 @@
       "handle": "UC2KfmYEM4KCuA1ZurravgYw",
       "source_type": "Additional curated source",
       "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "CodeAesthetic",
@@ -256,7 +256,7 @@
       "handle": "UCmXmlB4-HJytD7wek0Uo97A",
       "source_type": "Additional curated source",
       "channel_id": "UCmXmlB4-HJytD7wek0Uo97A",
-      "recent_video_count": 5
+      "recent_video_count": 7
     },
     {
       "name": "ArjanCodes",
@@ -357,7 +357,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 166,
+  "candidate_count": 137,
   "results": [
     {
       "video_id": "7h7FYGF7tuQ",
@@ -366,7 +366,7 @@
       "channel_title": "Low Level",
       "source_type": "Additional curated source",
       "published_at": "2026-10-29T13:52:38Z",
-      "view_count": 1482350,
+      "view_count": 1683281,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=7h7FYGF7tuQ"
     },
@@ -377,7 +377,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-29T17:34:08Z",
-      "view_count": 337005,
+      "view_count": 367272,
       "duration_minutes": 42,
       "url": "https://www.youtube.com/watch?v=uLGxb4F3SyI"
     },
@@ -388,7 +388,7 @@
       "channel_title": "KodeKloud",
       "source_type": "Additional curated source",
       "published_at": "2026-10-27T13:10:09Z",
-      "view_count": 182490,
+      "view_count": 191389,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=gPOaMdNDpto"
     },
@@ -399,7 +399,7 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-10-28T16:45:00Z",
-      "view_count": 158609,
+      "view_count": 181415,
       "duration_minutes": 157,
       "url": "https://www.youtube.com/watch?v=cqfl38Ip1ho"
     },
@@ -410,7 +410,7 @@
       "channel_title": "Gaurav Sen",
       "source_type": "Additional curated source",
       "published_at": "2026-10-27T20:03:18Z",
-      "view_count": 107754,
+      "view_count": 113030,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=77z01nVRnTE"
     },
@@ -421,20 +421,9 @@
       "channel_title": "Google for Developers",
       "source_type": "Official company",
       "published_at": "2026-10-27T16:18:01Z",
-      "view_count": 57116,
+      "view_count": 58154,
       "duration_minutes": 47,
       "url": "https://www.youtube.com/watch?v=LOP8ul3KqQI"
-    },
-    {
-      "video_id": "MrIzFnU0unk",
-      "title": "Mourning the Death of Code",
-      "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
-      "channel_title": "Syntax",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-28T12:00:11Z",
-      "view_count": 38926,
-      "duration_minutes": 58,
-      "url": "https://www.youtube.com/watch?v=MrIzFnU0unk"
     },
     {
       "video_id": "8C4bh59FtsI",
@@ -443,9 +432,20 @@
       "channel_title": "Google Cloud Tech",
       "source_type": "Official company",
       "published_at": "2026-10-28T16:00:07Z",
-      "view_count": 37036,
+      "view_count": 43721,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=8C4bh59FtsI"
+    },
+    {
+      "video_id": "MrIzFnU0unk",
+      "title": "Mourning the Death of Code",
+      "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
+      "channel_title": "Syntax",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-28T12:00:11Z",
+      "view_count": 41196,
+      "duration_minutes": 58,
+      "url": "https://www.youtube.com/watch?v=MrIzFnU0unk"
     },
     {
       "video_id": "zS_K-bfpQfk",
@@ -454,7 +454,7 @@
       "channel_title": "Kevin Powell",
       "source_type": "Additional curated source",
       "published_at": "2026-10-28T13:00:23Z",
-      "view_count": 30816,
+      "view_count": 32907,
       "duration_minutes": 4,
       "url": "https://www.youtube.com/watch?v=zS_K-bfpQfk"
     },
@@ -465,7 +465,7 @@
       "channel_title": "GitHub",
       "source_type": "Official company",
       "published_at": "2026-10-29T13:57:25Z",
-      "view_count": 27632,
+      "view_count": 32484,
       "duration_minutes": 8,
       "url": "https://www.youtube.com/watch?v=xbCa0aa4tRM"
     }

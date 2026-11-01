@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-10-31T13:56:00.582036Z",
+  "generated_at": "2026-11-01T15:30:15.551172Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@kurzgesagt",
       "source_type": "Independent creator",
       "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Veritasium",
@@ -117,7 +117,7 @@
       "handle": "@fermilab",
       "source_type": "Research institution",
       "channel_id": "UCD5B6VoXv41fJ-IW8Wrhz9A",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Applied Science",
@@ -159,7 +159,7 @@
       "handle": "UCYO_jab_esuFRV4b17AJtAw",
       "source_type": "Additional curated source",
       "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "SciShow",
@@ -173,7 +173,7 @@
       "handle": "UCUHW94eEFW7hkUMVaZz4eDg",
       "source_type": "Additional curated source",
       "channel_id": "UCUHW94eEFW7hkUMVaZz4eDg",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "MinuteEarth",
@@ -215,7 +215,7 @@
       "handle": "UCj1VqrHhDte54oLgPG4xpuQ",
       "source_type": "Additional curated source",
       "channel_id": "UCj1VqrHhDte54oLgPG4xpuQ",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "William Osman",
@@ -271,7 +271,7 @@
       "handle": "UC1yNl2E66ZzKApQdRuTQ4tw",
       "source_type": "Additional curated source",
       "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Anton Petrov",
@@ -285,7 +285,7 @@
       "handle": "UCYNbYGl89UUowy8oXkipC-Q",
       "source_type": "Additional curated source",
       "channel_id": "UCYNbYGl89UUowy8oXkipC-Q",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Astrum",
@@ -299,7 +299,7 @@
       "handle": "UCqoAEDirJPjEUFcF2FklnBA",
       "source_type": "Additional curated source",
       "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Fraser Cain",
@@ -313,14 +313,14 @@
       "handle": "UCYeF244yNGuFefuFKqxIAXw",
       "source_type": "Additional curated source",
       "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "New Scientist",
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 9
+      "recent_video_count": 11
     },
     {
       "name": "SpaceX",
@@ -341,7 +341,7 @@
       "handle": "UCxzC4EngIsMrPmbm6Nxvb-A",
       "source_type": "Additional curated source",
       "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "recent_video_count": 4
+      "recent_video_count": 6
     },
     {
       "name": "Primal Space",
@@ -358,7 +358,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 109,
+  "candidate_count": 108,
   "results": [
     {
       "video_id": "gNVj-FIxoe4",
@@ -367,7 +367,7 @@
       "channel_title": "Vsauce",
       "source_type": "Additional curated source",
       "published_at": "2026-10-27T23:49:28Z",
-      "view_count": 4581284,
+      "view_count": 4943669,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=gNVj-FIxoe4"
     },
@@ -378,7 +378,7 @@
       "channel_title": "The Royal Institution",
       "source_type": "Additional curated source",
       "published_at": "2026-10-25T16:00:02Z",
-      "view_count": 3767133,
+      "view_count": 4182517,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=zj0b2RAJq1g"
     },
@@ -389,42 +389,9 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-30T14:00:38Z",
-      "view_count": 1596967,
+      "view_count": 2217228,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=zEmabFZvdqA"
-    },
-    {
-      "video_id": "rHmxAXO9w_s",
-      "title": "We’re Missing the Best Place to Find Aliens",
-      "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "channel_title": "Cleo Abram",
-      "source_type": "Editorial/media",
-      "published_at": "2026-10-24T15:27:43Z",
-      "view_count": 1530601,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=rHmxAXO9w_s"
-    },
-    {
-      "video_id": "ZjyrZmtc7L0",
-      "title": "Electrical Wiring, Installations and Upgrade",
-      "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
-      "channel_title": "ElectroBOOM",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-25T16:00:09Z",
-      "view_count": 1323297,
-      "duration_minutes": 32,
-      "url": "https://www.youtube.com/watch?v=ZjyrZmtc7L0"
-    },
-    {
-      "video_id": "Q4nEdB1cfUk",
-      "title": "The Insane Science Hidden in These Toys",
-      "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
-      "channel_title": "Mark Rober",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-28T13:00:39Z",
-      "view_count": 1258228,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=Q4nEdB1cfUk"
     },
     {
       "video_id": "I1rlK3BKmyA",
@@ -433,9 +400,42 @@
       "channel_title": "Technology Connections",
       "source_type": "Additional curated source",
       "published_at": "2026-10-30T17:35:51Z",
-      "view_count": 1071994,
+      "view_count": 1862991,
       "duration_minutes": 30,
       "url": "https://www.youtube.com/watch?v=I1rlK3BKmyA"
+    },
+    {
+      "video_id": "Q4nEdB1cfUk",
+      "title": "The Insane Science Hidden in These Toys",
+      "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "channel_title": "Mark Rober",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-28T13:00:39Z",
+      "view_count": 1405041,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=Q4nEdB1cfUk"
+    },
+    {
+      "video_id": "ZjyrZmtc7L0",
+      "title": "Electrical Wiring, Installations and Upgrade",
+      "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "channel_title": "ElectroBOOM",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-25T16:00:09Z",
+      "view_count": 1361727,
+      "duration_minutes": 32,
+      "url": "https://www.youtube.com/watch?v=ZjyrZmtc7L0"
+    },
+    {
+      "video_id": "Vna0hkq7U1g",
+      "title": "Neuralink’s Newest Brain Chip Isn’t What You Think",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-30T12:46:36Z",
+      "view_count": 1283567,
+      "duration_minutes": 18,
+      "url": "https://www.youtube.com/watch?v=Vna0hkq7U1g"
     },
     {
       "video_id": "BVaCZoWTZbo",
@@ -444,31 +444,31 @@
       "channel_title": "Scott Manley",
       "source_type": "Additional curated source",
       "published_at": "2026-10-27T18:30:55Z",
-      "view_count": 1065727,
+      "view_count": 1103786,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=BVaCZoWTZbo"
     },
     {
-      "video_id": "35No369rmq0",
-      "title": "What If We Cool Down the Sun?",
-      "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "channel_title": "Kurzgesagt – In a Nutshell",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-24T14:00:15Z",
-      "view_count": 926391,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=35No369rmq0"
+      "video_id": "25ckBnzay8Y",
+      "title": "Why Everyone Stopped Buying GoPro",
+      "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
+      "channel_title": "ColdFusion",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-28T17:10:33Z",
+      "view_count": 864027,
+      "duration_minutes": 22,
+      "url": "https://www.youtube.com/watch?v=25ckBnzay8Y"
     },
     {
-      "video_id": "ESvls8ZUg58",
-      "title": "The Science of Looksmaxxing, with Doc Noc",
-      "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "channel_title": "StarTalk",
+      "video_id": "Z-2pTzSZtLU",
+      "title": "This Material Sorts Itself",
+      "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
+      "channel_title": "Steve Mould",
       "source_type": "Additional curated source",
-      "published_at": "2026-10-24T15:00:24Z",
-      "view_count": 875047,
-      "duration_minutes": 61,
-      "url": "https://www.youtube.com/watch?v=ESvls8ZUg58"
+      "published_at": "2026-10-31T12:50:48Z",
+      "view_count": 833386,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=Z-2pTzSZtLU"
     }
   ]
 }
