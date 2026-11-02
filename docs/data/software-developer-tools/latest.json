@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-11-01T15:30:15.551172Z",
+  "generated_at": "2026-11-02T18:53:07.053110Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@GitHub",
       "source_type": "Official company",
       "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
-      "recent_video_count": 12
+      "recent_video_count": 14
     },
     {
       "name": "Google for Developers",
@@ -25,7 +25,7 @@
       "handle": "@MicrosoftDeveloper",
       "source_type": "Official company",
       "channel_id": "UCsMica-v34Irf9KVTh6xx-g",
-      "recent_video_count": 11
+      "recent_video_count": 12
     },
     {
       "name": "AWS Developers",
@@ -39,7 +39,7 @@
       "handle": "@googlecloudtech",
       "source_type": "Official company",
       "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "recent_video_count": 16
+      "recent_video_count": 17
     },
     {
       "name": "Cloudflare",
@@ -60,7 +60,7 @@
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 20
+      "recent_video_count": 18
     },
     {
       "name": "GitLab",
@@ -74,7 +74,7 @@
       "handle": "@JetBrainsTV",
       "source_type": "Official company",
       "channel_id": "UCGp4UBwpTNegd_4nCpuBcow",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Fireship",
@@ -95,7 +95,7 @@
       "handle": "@TraversyMedia",
       "source_type": "Independent creator",
       "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Web Dev Simplified",
@@ -123,7 +123,7 @@
       "handle": "@TechWorldwithNana",
       "source_type": "Independent creator",
       "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Hussein Nasser",
@@ -158,7 +158,7 @@
       "handle": "UCW5YeuERMmlnqo4oq8vwUpg",
       "source_type": "Additional curated source",
       "channel_id": "UCW5YeuERMmlnqo4oq8vwUpg",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Academind",
@@ -186,7 +186,7 @@
       "handle": "UC_mYaQAE6-71rjSN6CeCA-g",
       "source_type": "Additional curated source",
       "channel_id": "UC_mYaQAE6-71rjSN6CeCA-g",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "CS Dojo",
@@ -200,7 +200,7 @@
       "handle": "UC2KfmYEM4KCuA1ZurravgYw",
       "source_type": "Additional curated source",
       "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "CodeAesthetic",
@@ -214,7 +214,7 @@
       "handle": "UCmEzz-dPBVrsy4ZluSsYHDg",
       "source_type": "Additional curated source",
       "channel_id": "UCmEzz-dPBVrsy4ZluSsYHDg",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Jack Herrington",
@@ -284,7 +284,7 @@
       "handle": "UCSWj8mqQCcrcBlXPi4ThRDQ",
       "source_type": "Additional curated source",
       "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
-      "recent_video_count": 9
+      "recent_video_count": 11
     },
     {
       "name": "Bret Fisher Docker and DevOps",
@@ -347,7 +347,7 @@
       "handle": "UCyU5wkjgQYGRB0hIHMwm2Sg",
       "source_type": "Additional curated source",
       "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
-      "recent_video_count": 1
+      "recent_video_count": 3
     },
     {
       "name": "Supabase",
@@ -357,7 +357,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 137,
+  "candidate_count": 140,
   "results": [
     {
       "video_id": "7h7FYGF7tuQ",
@@ -366,7 +366,7 @@
       "channel_title": "Low Level",
       "source_type": "Additional curated source",
       "published_at": "2026-10-29T13:52:38Z",
-      "view_count": 1683281,
+      "view_count": 1816731,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=7h7FYGF7tuQ"
     },
@@ -377,20 +377,9 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-29T17:34:08Z",
-      "view_count": 367272,
+      "view_count": 389777,
       "duration_minutes": 42,
       "url": "https://www.youtube.com/watch?v=uLGxb4F3SyI"
-    },
-    {
-      "video_id": "gPOaMdNDpto",
-      "title": "Why Is Python Slow Compared to C and C++?",
-      "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
-      "channel_title": "KodeKloud",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-27T13:10:09Z",
-      "view_count": 191389,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=gPOaMdNDpto"
     },
     {
       "video_id": "cqfl38Ip1ho",
@@ -399,9 +388,20 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-10-28T16:45:00Z",
-      "view_count": 181415,
+      "view_count": 203065,
       "duration_minutes": 157,
       "url": "https://www.youtube.com/watch?v=cqfl38Ip1ho"
+    },
+    {
+      "video_id": "gPOaMdNDpto",
+      "title": "Why Is Python Slow Compared to C and C++?",
+      "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
+      "channel_title": "KodeKloud",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-27T13:10:09Z",
+      "view_count": 202999,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=gPOaMdNDpto"
     },
     {
       "video_id": "77z01nVRnTE",
@@ -410,7 +410,7 @@
       "channel_title": "Gaurav Sen",
       "source_type": "Additional curated source",
       "published_at": "2026-10-27T20:03:18Z",
-      "view_count": 113030,
+      "view_count": 116070,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=77z01nVRnTE"
     },
@@ -421,7 +421,7 @@
       "channel_title": "Google for Developers",
       "source_type": "Official company",
       "published_at": "2026-10-27T16:18:01Z",
-      "view_count": 58154,
+      "view_count": 59182,
       "duration_minutes": 47,
       "url": "https://www.youtube.com/watch?v=LOP8ul3KqQI"
     },
@@ -432,7 +432,7 @@
       "channel_title": "Google Cloud Tech",
       "source_type": "Official company",
       "published_at": "2026-10-28T16:00:07Z",
-      "view_count": 43721,
+      "view_count": 50242,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=8C4bh59FtsI"
     },
@@ -443,20 +443,9 @@
       "channel_title": "Syntax",
       "source_type": "Additional curated source",
       "published_at": "2026-10-28T12:00:11Z",
-      "view_count": 41196,
+      "view_count": 44887,
       "duration_minutes": 58,
       "url": "https://www.youtube.com/watch?v=MrIzFnU0unk"
-    },
-    {
-      "video_id": "zS_K-bfpQfk",
-      "title": "Stop using min-width in your media queries",
-      "channel_id": "UCJZv4d5rbIKd4QHMPkcABCw",
-      "channel_title": "Kevin Powell",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-28T13:00:23Z",
-      "view_count": 32907,
-      "duration_minutes": 4,
-      "url": "https://www.youtube.com/watch?v=zS_K-bfpQfk"
     },
     {
       "video_id": "xbCa0aa4tRM",
@@ -465,9 +454,20 @@
       "channel_title": "GitHub",
       "source_type": "Official company",
       "published_at": "2026-10-29T13:57:25Z",
-      "view_count": 32484,
+      "view_count": 40756,
       "duration_minutes": 8,
       "url": "https://www.youtube.com/watch?v=xbCa0aa4tRM"
+    },
+    {
+      "video_id": "zS_K-bfpQfk",
+      "title": "Stop using min-width in your media queries",
+      "channel_id": "UCJZv4d5rbIKd4QHMPkcABCw",
+      "channel_title": "Kevin Powell",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-28T13:00:23Z",
+      "view_count": 34877,
+      "duration_minutes": 4,
+      "url": "https://www.youtube.com/watch?v=zS_K-bfpQfk"
     }
   ]
 }

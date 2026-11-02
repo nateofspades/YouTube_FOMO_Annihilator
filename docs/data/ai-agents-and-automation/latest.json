@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-11-01T15:30:15.551172Z",
+  "generated_at": "2026-11-02T18:53:07.053110Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -25,7 +25,7 @@
       "handle": "@matthew_berman",
       "source_type": "AI agent and automation",
       "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "Cole Medin",
@@ -46,7 +46,7 @@
       "handle": "@NateHerk",
       "source_type": "AI agent and automation",
       "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "recent_video_count": 10
+      "recent_video_count": 13
     },
     {
       "name": "Krish Naik",
@@ -88,7 +88,7 @@
       "handle": "@TechWithTim",
       "source_type": "AI agent and automation",
       "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
-      "recent_video_count": 12
+      "recent_video_count": 11
     },
     {
       "name": "NetworkChuck",
@@ -102,14 +102,14 @@
       "handle": "@GregIsenberg",
       "source_type": "AI agent and automation",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "How I AI",
       "handle": "@howiaipodcast",
       "source_type": "AI agent and automation",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "IBM Technology",
@@ -131,21 +131,21 @@
       "handle": "@huggingface",
       "source_type": "AI agent and automation",
       "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "recent_video_count": 3
+      "recent_video_count": 1
     },
     {
       "name": "Liam Ottley",
       "handle": "UCui4jxDaMb53Gdh-AZUTPAg",
       "source_type": "AI agent and automation",
       "channel_id": "UCui4jxDaMb53Gdh-AZUTPAg",
-      "recent_video_count": 0
+      "recent_video_count": 2
     },
     {
       "name": "Nick Saraev",
       "handle": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
       "source_type": "AI agent and automation",
       "channel_id": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Tina Huang",
@@ -194,7 +194,7 @@
       "handle": "UC8KWRrf8wqyowmWhXJ9DRjQ",
       "source_type": "AI agent and automation",
       "channel_id": "UC8KWRrf8wqyowmWhXJ9DRjQ",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Zapier",
@@ -208,7 +208,7 @@
       "handle": "UCC-lyoTfSrcJzA1ab3APAgw",
       "source_type": "AI agent and automation",
       "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
-      "recent_video_count": 11
+      "recent_video_count": 8
     },
     {
       "name": "LlamaIndex",
@@ -229,7 +229,7 @@
       "handle": "UCVC1GrIK_002p3V1D94VO9A",
       "source_type": "AI agent and automation",
       "channel_id": "UCVC1GrIK_002p3V1D94VO9A",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "OpenAI",
@@ -257,7 +257,7 @@
       "handle": "UCgoJjdR6-7AMu9fDitb6nVw",
       "source_type": "AI agent and automation",
       "channel_id": "UCgoJjdR6-7AMu9fDitb6nVw",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Supabase",
@@ -271,7 +271,7 @@
       "handle": "UCLq8gNoee7oXM7MvTdjyQvA",
       "source_type": "AI agent and automation",
       "channel_id": "UCLq8gNoee7oXM7MvTdjyQvA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Lovable",
@@ -306,7 +306,7 @@
       "handle": "UCxVxcTULO9cFU6SB9qVaisQ",
       "source_type": "AI agent and automation",
       "channel_id": "UCxVxcTULO9cFU6SB9qVaisQ",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "AI Foundations",
@@ -320,7 +320,7 @@
       "handle": "UCWTyktbw5JYoSBduu8LsBgQ",
       "source_type": "AI agent and automation",
       "channel_id": "UCWTyktbw5JYoSBduu8LsBgQ",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "AI Engineer",
@@ -355,10 +355,10 @@
       "handle": "UCDq7SjbgRKty5TgGafW8Clg",
       "source_type": "AI agent and automation",
       "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-      "recent_video_count": 5
+      "recent_video_count": 4
     }
   ],
-  "candidate_count": 265,
+  "candidate_count": 263,
   "results": [
     {
       "video_id": "hnCoQ5wB-GU",
@@ -367,42 +367,20 @@
       "channel_title": "How I AI",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-28T12:00:34Z",
-      "view_count": 236842,
+      "view_count": 241522,
       "duration_minutes": 35,
       "url": "https://www.youtube.com/watch?v=hnCoQ5wB-GU"
     },
     {
-      "video_id": "SIZsFGvtClM",
-      "title": "Agentic Engineering: 5 Terms Every AI Developer Should Know",
-      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
-      "channel_title": "IBM Technology",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-26T11:00:26Z",
-      "view_count": 87860,
-      "duration_minutes": 12,
-      "url": "https://www.youtube.com/watch?v=SIZsFGvtClM"
-    },
-    {
-      "video_id": "52JX83rGPLc",
-      "title": "ELITE Agentic Engineers Are LEAVING THE LOOP... Here’s why",
-      "channel_id": "UC_x36zCEGilGpB1m-V4gmjg",
-      "channel_title": "IndyDevDan",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-26T13:00:05Z",
-      "view_count": 58917,
-      "duration_minutes": 26,
-      "url": "https://www.youtube.com/watch?v=52JX83rGPLc"
-    },
-    {
-      "video_id": "iniryju23Sk",
-      "title": "What a $900M Bank Error Teaches Us About AI Agents - John Feminella, Two Sigma",
+      "video_id": "v0UkV5qS9E4",
+      "title": "Why We Rebuilt Microsoft Office From Scratch for AI Agents - Yijia Liang, Compound AI",
       "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
       "channel_title": "AI Engineer",
       "source_type": "AI agent and automation",
-      "published_at": "2026-10-27T15:00:06Z",
-      "view_count": 26104,
-      "duration_minutes": 19,
-      "url": "https://www.youtube.com/watch?v=iniryju23Sk"
+      "published_at": "2026-11-01T10:00:14Z",
+      "view_count": 28973,
+      "duration_minutes": 16,
+      "url": "https://www.youtube.com/watch?v=v0UkV5qS9E4"
     },
     {
       "video_id": "zUybw-9ejZ4",
@@ -411,9 +389,20 @@
       "channel_title": "OpenAI",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-26T22:03:54Z",
-      "view_count": 18002,
+      "view_count": 18219,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=zUybw-9ejZ4"
+    },
+    {
+      "video_id": "EkdIZXDnRK8",
+      "title": "Context-Aware Coding: Give AI Agents the Right Context",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "channel_title": "IBM Technology",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-02T12:00:35Z",
+      "view_count": 17963,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=EkdIZXDnRK8"
     },
     {
       "video_id": "rPoLNjfda2w",
@@ -422,9 +411,20 @@
       "channel_title": "Tech With Tim",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-27T12:00:23Z",
-      "view_count": 13442,
+      "view_count": 13580,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=rPoLNjfda2w"
+    },
+    {
+      "video_id": "1v7ldJiyH-Y",
+      "title": "Tiny Software Factories: Agentic Engineering DONE WRONG",
+      "channel_id": "UC_x36zCEGilGpB1m-V4gmjg",
+      "channel_title": "IndyDevDan",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-02T14:00:24Z",
+      "view_count": 7787,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=1v7ldJiyH-Y"
     },
     {
       "video_id": "35sh2FkQn-k",
@@ -433,7 +433,7 @@
       "channel_title": "Greg Isenberg",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-26T21:00:52Z",
-      "view_count": 5997,
+      "view_count": 6259,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=35sh2FkQn-k"
     },
@@ -444,7 +444,7 @@
       "channel_title": "Nate Herk | AI Automation",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-01T01:01:05Z",
-      "view_count": 1891,
+      "view_count": 2918,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=wTYKO_5nonc"
     },
@@ -455,7 +455,7 @@
       "channel_title": "Pydantic",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-28T13:25:43Z",
-      "view_count": 514,
+      "view_count": 519,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=VkBob_oNPTE"
     },
@@ -466,7 +466,7 @@
       "channel_title": "Make",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-29T09:46:05Z",
-      "view_count": 345,
+      "view_count": 392,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=6ej5ONSU-Rg"
     }

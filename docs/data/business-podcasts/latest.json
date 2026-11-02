@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-11-01T15:30:15.551172Z",
+  "generated_at": "2026-11-02T18:53:07.053110Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -46,21 +46,21 @@
       "handle": "@founderspodcast1",
       "source_type": "Business podcast",
       "channel_id": "UCQ-rrUCsJLNjFdPtKq0YOfA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Lenny's Podcast",
       "handle": "@LennysPodcast",
       "source_type": "Business podcast",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Masters of Scale",
       "handle": "@MastersofScale_",
       "source_type": "Business podcast",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Invest Like The Best",
@@ -81,28 +81,28 @@
       "handle": "@startups",
       "source_type": "Business podcast",
       "channel_id": "UCkkhmBWfS7pILYIk0izkc3A",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "20VC with Harry Stebbings",
       "handle": "@20VC",
       "source_type": "Business podcast",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 12
+      "recent_video_count": 9
     },
     {
       "name": "a16z",
       "handle": "@a16z",
       "source_type": "Business podcast",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "The Prof G Pod – Scott Galloway",
       "handle": "@TheProfGPod",
       "source_type": "Business podcast",
       "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "recent_video_count": 16
+      "recent_video_count": 19
     },
     {
       "name": "Pivot with Kara Swisher and Scott Galloway",
@@ -116,7 +116,7 @@
       "handle": "@timferriss",
       "source_type": "Business podcast",
       "channel_id": "UCznv7Vf9nBdJYvBagFdAHWw",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Young and Profiting",
@@ -130,7 +130,7 @@
       "handle": "@AlexHormozi",
       "source_type": "Business podcast",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "recent_video_count": 42
+      "recent_video_count": 34
     },
     {
       "name": "Startups for the Rest of Us",
@@ -158,14 +158,14 @@
       "handle": "UCGX7nGXpz-CmO_Arg-cgJ7A",
       "source_type": "Business podcast",
       "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
-      "recent_video_count": 40
+      "recent_video_count": 38
     },
     {
       "name": "The Jordan Harbinger Show",
       "handle": "UCGLcx_fFZ3GlLXO5anHSm9w",
       "source_type": "Business podcast",
       "channel_id": "UCGLcx_fFZ3GlLXO5anHSm9w",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "The Iced Coffee Hour",
@@ -193,7 +193,7 @@
       "handle": "UCncFI0XEvTu7k4er6BgVN9g",
       "source_type": "Business podcast",
       "channel_id": "UCncFI0XEvTu7k4er6BgVN9g",
-      "recent_video_count": 12
+      "recent_video_count": 11
     },
     {
       "name": "Smart Passive Income",
@@ -221,7 +221,7 @@
       "handle": "UCly3md3CbnTFJP83lVUEcjw",
       "source_type": "Business podcast",
       "channel_id": "UCly3md3CbnTFJP83lVUEcjw",
-      "recent_video_count": 14
+      "recent_video_count": 12
     },
     {
       "name": "Marketing Against the Grain",
@@ -235,14 +235,14 @@
       "handle": "UCTJmkA2-u7Kyblm5_P6tKdA",
       "source_type": "Business podcast",
       "channel_id": "UCTJmkA2-u7Kyblm5_P6tKdA",
-      "recent_video_count": 21
+      "recent_video_count": 22
     },
     {
       "name": "The Colin and Samir Show",
       "playlist_id": "PLi4pMG9s7WOnS3hwOBlrB1HHVI4D_NamE",
       "source_type": "Business podcast",
       "channel_id": "UCamLstJyCa-t5gfZegxsFMw",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Modern Wisdom",
@@ -298,7 +298,7 @@
       "playlist_id": "PLQHTakJAwGLMQxKVlKUVpC7aiYTZ2j2J9",
       "source_type": "Business podcast",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "The Futur Podcast",
@@ -350,7 +350,7 @@
       "recent_video_count": 0
     }
   ],
-  "candidate_count": 295,
+  "candidate_count": 280,
   "results": [
     {
       "video_id": "3kuNW8hRc2U",
@@ -359,7 +359,7 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-10-29T08:00:22Z",
-      "view_count": 5197975,
+      "view_count": 6657197,
       "duration_minutes": 102,
       "url": "https://www.youtube.com/watch?v=3kuNW8hRc2U"
     },
@@ -370,7 +370,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-10-30T22:03:41Z",
-      "view_count": 545871,
+      "view_count": 674615,
       "duration_minutes": 86,
       "url": "https://www.youtube.com/watch?v=p1Dy4e4ff0s"
     },
@@ -381,20 +381,9 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-29T20:05:56Z",
-      "view_count": 531725,
+      "view_count": 631226,
       "duration_minutes": 63,
       "url": "https://www.youtube.com/watch?v=WSAl3p_ccp0"
-    },
-    {
-      "video_id": "ChrdIPZKfLI",
-      "title": "Clavicular Reveals the Dark Side of His Viral Lifestyle | PBD Podcast #880",
-      "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
-      "channel_title": "PBD Podcast",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-27T15:00:04Z",
-      "view_count": 444577,
-      "duration_minutes": 119,
-      "url": "https://www.youtube.com/watch?v=ChrdIPZKfLI"
     },
     {
       "video_id": "Uzr0gv4N4-s",
@@ -403,9 +392,20 @@
       "channel_title": "Alex Hormozi",
       "source_type": "Business podcast",
       "published_at": "2026-10-30T16:13:34Z",
-      "view_count": 391054,
+      "view_count": 537670,
       "duration_minutes": 43,
       "url": "https://www.youtube.com/watch?v=Uzr0gv4N4-s"
+    },
+    {
+      "video_id": "ChrdIPZKfLI",
+      "title": "Clavicular Reveals the Dark Side of His Viral Lifestyle | PBD Podcast #880",
+      "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
+      "channel_title": "PBD Podcast",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-27T15:00:04Z",
+      "view_count": 480799,
+      "duration_minutes": 119,
+      "url": "https://www.youtube.com/watch?v=ChrdIPZKfLI"
     },
     {
       "video_id": "EMztRBSQHIo",
@@ -414,7 +414,7 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-10-30T13:00:31Z",
-      "view_count": 264045,
+      "view_count": 282613,
       "duration_minutes": 54,
       "url": "https://www.youtube.com/watch?v=EMztRBSQHIo"
     },
@@ -425,31 +425,9 @@
       "channel_title": "The Iced Coffee Hour",
       "source_type": "Business podcast",
       "published_at": "2026-10-29T19:00:31Z",
-      "view_count": 203345,
+      "view_count": 230790,
       "duration_minutes": 137,
       "url": "https://www.youtube.com/watch?v=ZWu2Jx1vz7s"
-    },
-    {
-      "video_id": "n9NhSWUrm38",
-      "title": "Crypto Scams, Dopamine Websites, Tasteful Slop & Vape Shop Energy - Rabbit Hole #6",
-      "channel_id": "UCIaH-gZIVC432YRjNVvnyCA",
-      "channel_title": "Chris Williamson",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-26T15:00:15Z",
-      "view_count": 131075,
-      "duration_minutes": 128,
-      "url": "https://www.youtube.com/watch?v=n9NhSWUrm38"
-    },
-    {
-      "video_id": "eojywvxqoLc",
-      "title": "The New Full-Stack Designer",
-      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "channel_title": "Y Combinator",
-      "source_type": "Business podcast",
-      "published_at": "2026-10-26T14:00:10Z",
-      "view_count": 114508,
-      "duration_minutes": 66,
-      "url": "https://www.youtube.com/watch?v=eojywvxqoLc"
     },
     {
       "video_id": "0_hpTKQqKOQ",
@@ -458,9 +436,31 @@
       "channel_title": "My First Million",
       "source_type": "Business podcast",
       "published_at": "2026-10-28T13:56:17Z",
-      "view_count": 100427,
+      "view_count": 125434,
       "duration_minutes": 73,
       "url": "https://www.youtube.com/watch?v=0_hpTKQqKOQ"
+    },
+    {
+      "video_id": "7HmiGzd-7WQ",
+      "title": "The 4-Hour Workweek in a World of AI",
+      "channel_id": "UCznv7Vf9nBdJYvBagFdAHWw",
+      "channel_title": "Tim Ferriss",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-30T14:06:24Z",
+      "view_count": 121055,
+      "duration_minutes": 8,
+      "url": "https://www.youtube.com/watch?v=7HmiGzd-7WQ"
+    },
+    {
+      "video_id": "BkXnpqgbl9Q",
+      "title": "35 Emotions Explained By Evolutionary Psychology - Rob Kurzban",
+      "channel_id": "UCIaH-gZIVC432YRjNVvnyCA",
+      "channel_title": "Chris Williamson",
+      "source_type": "Business podcast",
+      "published_at": "2026-10-29T15:00:20Z",
+      "view_count": 111798,
+      "duration_minutes": 148,
+      "url": "https://www.youtube.com/watch?v=BkXnpqgbl9Q"
     }
   ]
 }

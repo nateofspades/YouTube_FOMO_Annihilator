@@ -1,7 +1,7 @@
 {
   "slug": "ai",
   "title": "AI news",
-  "generated_at": "2026-11-01T15:30:15.551172Z",
+  "generated_at": "2026-11-02T18:53:07.053110Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 2,
@@ -11,7 +11,7 @@
       "handle": "@aiexplained-official",
       "source_type": "AI-focused channel",
       "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Matt Wolfe",
@@ -25,14 +25,14 @@
       "handle": "@TheAiGrid",
       "source_type": "AI-focused channel",
       "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "WorldofAI",
       "handle": "@intheworldofai",
       "source_type": "AI-focused channel",
       "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "All About AI",
@@ -46,14 +46,14 @@
       "handle": "@aiadvantage",
       "source_type": "AI-focused channel",
       "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ",
-      "recent_video_count": 2
+      "recent_video_count": 5
     },
     {
       "name": "Aitrepreneur",
       "handle": "@aitrepreneur",
       "source_type": "AI-focused channel",
       "channel_id": "UCEAbqW0HFB_UxZoUDO0kJBw",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Two Minute Papers",
@@ -88,7 +88,7 @@
       "handle": "@HuggingFace",
       "source_type": "AI-focused channel",
       "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "recent_video_count": 3
+      "recent_video_count": 1
     },
     {
       "name": "Wes Roth",
@@ -102,7 +102,7 @@
       "handle": "UCKelCK4ZaO6HeEI1KQjqzWA",
       "source_type": "AI-focused channel",
       "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Nate B Jones",
@@ -123,14 +123,14 @@
       "handle": "UCwSozl89jl2zUDzQ4jGJD3g",
       "source_type": "AI-focused channel",
       "channel_id": "UCwSozl89jl2zUDzQ4jGJD3g",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Matthew Berman",
       "handle": "UCawZsQWqfGSbCI5yjkdVkTA",
       "source_type": "AI-focused channel",
       "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "Fireship",
@@ -158,14 +158,14 @@
       "handle": "UCghJTNTO9kcDeUFXMuSDGLQ",
       "source_type": "AI-focused channel",
       "channel_id": "UCghJTNTO9kcDeUFXMuSDGLQ",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Hard Fork",
       "handle": "UCZcR2SVWaGWNlMqPxvQS3vw",
       "source_type": "AI-focused channel",
       "channel_id": "UCZcR2SVWaGWNlMqPxvQS3vw",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "TechLinked",
@@ -179,28 +179,28 @@
       "handle": "UCOmcA3f_RrH6b9NmcNa4tdg",
       "source_type": "AI-focused channel",
       "channel_id": "UCOmcA3f_RrH6b9NmcNa4tdg",
-      "recent_video_count": 29
+      "recent_video_count": 31
     },
     {
       "name": "The Verge",
       "handle": "UCddiUEpeqJcYeBxX1IVBKvQ",
       "source_type": "AI-focused channel",
       "channel_id": "UCddiUEpeqJcYeBxX1IVBKvQ",
-      "recent_video_count": 32
+      "recent_video_count": 31
     },
     {
       "name": "Bloomberg Technology",
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "AI-focused channel",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 33
+      "recent_video_count": 30
     },
     {
       "name": "CNBC Television",
       "handle": "UCrp_UI8XtuYfpiqluWLD7Lw",
       "source_type": "AI-focused channel",
       "channel_id": "UCrp_UI8XtuYfpiqluWLD7Lw",
-      "recent_video_count": 206
+      "recent_video_count": 207
     },
     {
       "name": "TechCrunch",
@@ -214,7 +214,7 @@
       "handle": "UCgy4Mf_tlZGqesYNqPNxjPw",
       "source_type": "AI-focused channel",
       "channel_id": "UCgy4Mf_tlZGqesYNqPNxjPw",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "IEEE Spectrum",
@@ -249,7 +249,7 @@
       "handle": "UC00DrQVoCf9Liv4D0KV0rGw",
       "source_type": "AI-focused channel",
       "channel_id": "UC00DrQVoCf9Liv4D0KV0rGw",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Yannic Kilcher",
@@ -270,28 +270,28 @@
       "handle": "UCcIXc5mJsHVYTZR1maL5l9w",
       "source_type": "AI-focused channel",
       "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "NVIDIA",
       "handle": "UCHuiy8bXnmK5nisYHUd1J5g",
       "source_type": "AI-focused channel",
       "channel_id": "UCHuiy8bXnmK5nisYHUd1J5g",
-      "recent_video_count": 15
+      "recent_video_count": 11
     },
     {
       "name": "Microsoft",
       "handle": "UCFtEEv80fQVKkD4h1PF-Xqw",
       "source_type": "AI-focused channel",
       "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Google",
       "handle": "UCK8sQmJBp8GCxrOtXWBpyEA",
       "source_type": "AI-focused channel",
       "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
-      "recent_video_count": 8
+      "recent_video_count": 6
     },
     {
       "name": "Meta AI",
@@ -305,7 +305,7 @@
       "handle": "UC5-pBdfdA3KUo-vq72l-umA",
       "source_type": "AI-focused channel",
       "channel_id": "UC5-pBdfdA3KUo-vq72l-umA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Perplexity",
@@ -326,7 +326,7 @@
       "handle": "UCUBqu_z5uP0AZhYtuyFZB3g",
       "source_type": "AI-focused channel",
       "channel_id": "UCUBqu_z5uP0AZhYtuyFZB3g",
-      "recent_video_count": 3
+      "recent_video_count": 1
     },
     {
       "name": "AI Engineer",
@@ -350,18 +350,18 @@
       "recent_video_count": 4
     }
   ],
-  "candidate_count": 538,
+  "candidate_count": 528,
   "results": [
     {
-      "video_id": "G_em1hHPnXY",
-      "title": "China just dropped a new frontier model... and nobody can explain how",
+      "video_id": "nEaJMdM1djM",
+      "title": "Did the AI bubble just pop?",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
       "channel_title": "Fireship",
       "source_type": "AI-focused channel",
-      "published_at": "2026-10-26T18:55:29Z",
-      "view_count": 2297049,
-      "duration_minutes": 6,
-      "url": "https://www.youtube.com/watch?v=G_em1hHPnXY"
+      "published_at": "2026-10-28T13:31:29Z",
+      "view_count": 2450081,
+      "duration_minutes": 5,
+      "url": "https://www.youtube.com/watch?v=nEaJMdM1djM"
     },
     {
       "video_id": "gC18kqOcCEI",
@@ -370,7 +370,7 @@
       "channel_title": "Matt Wolfe",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-26T20:19:13Z",
-      "view_count": 1668218,
+      "view_count": 1867606,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=gC18kqOcCEI"
     },
@@ -381,7 +381,7 @@
       "channel_title": "CNBC Television",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-29T12:05:39Z",
-      "view_count": 584182,
+      "view_count": 650415,
       "duration_minutes": 7,
       "url": "https://www.youtube.com/watch?v=AMoKKtNFkDs"
     },
@@ -392,20 +392,9 @@
       "channel_title": "Google DeepMind",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-27T16:00:41Z",
-      "view_count": 584065,
+      "view_count": 593494,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=sFfPkUJd_Jk"
-    },
-    {
-      "video_id": "tTuk4pGnT0A",
-      "title": "GPT-6.1 Terra is now in orbit",
-      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "channel_title": "OpenAI",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-26T18:12:28Z",
-      "view_count": 516942,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=tTuk4pGnT0A"
     },
     {
       "video_id": "s6avdXZlnyo",
@@ -414,7 +403,7 @@
       "channel_title": "TechLinked",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-31T01:05:34Z",
-      "view_count": 433449,
+      "view_count": 487255,
       "duration_minutes": 11,
       "url": "https://www.youtube.com/watch?v=s6avdXZlnyo"
     },
@@ -425,7 +414,7 @@
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-30T15:57:16Z",
-      "view_count": 425272,
+      "view_count": 456190,
       "duration_minutes": 7,
       "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs"
     },
@@ -436,20 +425,9 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "AI-focused channel",
       "published_at": "2026-10-29T17:34:08Z",
-      "view_count": 367272,
+      "view_count": 389777,
       "duration_minutes": 42,
       "url": "https://www.youtube.com/watch?v=uLGxb4F3SyI"
-    },
-    {
-      "video_id": "lskEzJ7ixw0",
-      "title": "OpenAI just broke physics...",
-      "channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
-      "channel_title": "Wes Roth",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-10-27T12:10:55Z",
-      "view_count": 335180,
-      "duration_minutes": 33,
-      "url": "https://www.youtube.com/watch?v=lskEzJ7ixw0"
     },
     {
       "video_id": "IGICYFyP_EI",
@@ -458,9 +436,31 @@
       "channel_title": "AI Search",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-01T03:27:10Z",
-      "view_count": 208379,
+      "view_count": 374371,
       "duration_minutes": 54,
       "url": "https://www.youtube.com/watch?v=IGICYFyP_EI"
+    },
+    {
+      "video_id": "lskEzJ7ixw0",
+      "title": "OpenAI just broke physics...",
+      "channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "channel_title": "Wes Roth",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-27T12:10:55Z",
+      "view_count": 342609,
+      "duration_minutes": 33,
+      "url": "https://www.youtube.com/watch?v=lskEzJ7ixw0"
+    },
+    {
+      "video_id": "kXckZEqBJ3k",
+      "title": "iPhone Duo Livestream: How Many Folds Can Apple’s Phone Take? Day 5",
+      "channel_id": "UCOmcA3f_RrH6b9NmcNa4tdg",
+      "channel_title": "CNET",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-10-30T21:19:05Z",
+      "view_count": 210424,
+      "duration_minutes": 248,
+      "url": "https://www.youtube.com/watch?v=kXckZEqBJ3k"
     }
   ]
 }

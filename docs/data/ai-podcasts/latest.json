@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-11-01T15:30:15.551172Z",
+  "generated_at": "2026-11-02T18:53:07.053110Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "UCJIfeSCssxSC_Dhc5s7woww",
       "source_type": "AI podcast",
       "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "recent_video_count": 25
+      "recent_video_count": 31
     },
     {
       "name": "Dwarkesh Patel",
@@ -25,7 +25,7 @@
       "handle": "UCxBcwypKK-W3GHd_RZ9FZrQ",
       "source_type": "AI podcast",
       "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Cognitive Revolution",
@@ -39,7 +39,7 @@
       "handle": "UCSI7h9hydQ40K5MJHnCrQvw",
       "source_type": "AI podcast",
       "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "The TWIML AI Podcast",
@@ -102,14 +102,14 @@
       "handle": "UCKelCK4ZaO6HeEI1KQjqzWA",
       "source_type": "AI podcast",
       "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Hard Fork",
       "handle": "UCZcR2SVWaGWNlMqPxvQS3vw",
       "source_type": "AI podcast",
       "channel_id": "UCZcR2SVWaGWNlMqPxvQS3vw",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "Machine Learning Street Talk",
@@ -123,28 +123,28 @@
       "handle": "UC-o9u9QL4zXzBwjvT1gmzNg",
       "source_type": "AI podcast",
       "channel_id": "UC-o9u9QL4zXzBwjvT1gmzNg",
-      "recent_video_count": 18
+      "recent_video_count": 16
     },
     {
       "name": "AI For Humans",
       "handle": "UCghJTNTO9kcDeUFXMuSDGLQ",
       "source_type": "AI podcast",
       "channel_id": "UCghJTNTO9kcDeUFXMuSDGLQ",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Everyday AI",
       "handle": "UCujMOyMfjf4hvYn7aRe1JEQ",
       "source_type": "AI podcast",
       "channel_id": "UCujMOyMfjf4hvYn7aRe1JEQ",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "MLOps Community",
       "handle": "UCG6qpjVnBTTT8wLGBygANOQ",
       "source_type": "AI podcast",
       "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Interconnects",
@@ -158,7 +158,7 @@
       "handle": "UCPbwhExawYrn9xxI21TFfyw",
       "source_type": "AI podcast",
       "channel_id": "UCPbwhExawYrn9xxI21TFfyw",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Big Technology Podcast",
@@ -186,7 +186,7 @@
       "handle": "UCRYY7IEbkHLH_ScJCu9eWDQ",
       "source_type": "AI podcast",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "Software Engineering Daily",
@@ -228,14 +228,14 @@
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "AI podcast",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 20
+      "recent_video_count": 24
     },
     {
       "name": "Decoder with Nilay Patel",
       "handle": "UCYRwJnCWfBqFHEHrgc18FFw",
       "source_type": "AI podcast",
       "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
-      "recent_video_count": 12
+      "recent_video_count": 10
     },
     {
       "name": "The Vergecast",
@@ -340,10 +340,10 @@
       "playlist_id": "PL-BRtcBm4Yj4aKn72p4PjyqHh0ZQFdI1A",
       "source_type": "AI podcast",
       "channel_id": "UCafjal1QYJ3rb0Y9xZk1Ezg",
-      "recent_video_count": 4
+      "recent_video_count": 5
     }
   ],
-  "candidate_count": 216,
+  "candidate_count": 217,
   "results": [
     {
       "video_id": "hnCoQ5wB-GU",
@@ -352,7 +352,7 @@
       "channel_title": "How I AI",
       "source_type": "AI podcast",
       "published_at": "2026-10-28T12:00:34Z",
-      "view_count": 236842,
+      "view_count": 241522,
       "duration_minutes": 35,
       "url": "https://www.youtube.com/watch?v=hnCoQ5wB-GU"
     },
@@ -363,7 +363,7 @@
       "channel_title": "Lex Clips",
       "source_type": "AI podcast",
       "published_at": "2026-10-27T20:00:23Z",
-      "view_count": 221851,
+      "view_count": 236680,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=P74sXjWiMDc"
     },
@@ -374,7 +374,7 @@
       "channel_title": "TBPN",
       "source_type": "AI podcast",
       "published_at": "2026-10-27T20:52:58Z",
-      "view_count": 45991,
+      "view_count": 49928,
       "duration_minutes": 41,
       "url": "https://www.youtube.com/watch?v=crdg4X5BZPc"
     },
@@ -385,7 +385,7 @@
       "channel_title": "a16z",
       "source_type": "AI podcast",
       "published_at": "2026-10-28T14:30:15Z",
-      "view_count": 34961,
+      "view_count": 48595,
       "duration_minutes": 60,
       "url": "https://www.youtube.com/watch?v=5UWDUD6qaM4"
     },
@@ -396,7 +396,7 @@
       "channel_title": "Latent Space",
       "source_type": "AI podcast",
       "published_at": "2026-10-27T18:37:32Z",
-      "view_count": 31078,
+      "view_count": 35577,
       "duration_minutes": 107,
       "url": "https://www.youtube.com/watch?v=MRQTlwcW-aQ"
     },
@@ -407,9 +407,20 @@
       "channel_title": "Decoder with Nilay Patel",
       "source_type": "AI podcast",
       "published_at": "2026-10-29T13:00:13Z",
-      "view_count": 28625,
+      "view_count": 32089,
       "duration_minutes": 42,
       "url": "https://www.youtube.com/watch?v=Yvy_Qm14odU"
+    },
+    {
+      "video_id": "EGC7jht_mis",
+      "title": "What We Learned About Anthropic's Business | Hard Fork",
+      "channel_id": "UCZcR2SVWaGWNlMqPxvQS3vw",
+      "channel_title": "Hard Fork",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-30T13:20:17Z",
+      "view_count": 26921,
+      "duration_minutes": 53,
+      "url": "https://www.youtube.com/watch?v=EGC7jht_mis"
     },
     {
       "video_id": "_hP1vFEr3Ck",
@@ -418,20 +429,9 @@
       "channel_title": "Machine Gods",
       "source_type": "AI podcast",
       "published_at": "2026-10-28T11:00:16Z",
-      "view_count": 24632,
+      "view_count": 26273,
       "duration_minutes": 56,
       "url": "https://www.youtube.com/watch?v=_hP1vFEr3Ck"
-    },
-    {
-      "video_id": "EGC7jht_mis",
-      "title": "What Anthropic's S-1 Tells Us About the A.I. Business | Hard Fork",
-      "channel_id": "UCZcR2SVWaGWNlMqPxvQS3vw",
-      "channel_title": "Hard Fork",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-30T13:20:17Z",
-      "view_count": 21910,
-      "duration_minutes": 53,
-      "url": "https://www.youtube.com/watch?v=EGC7jht_mis"
     },
     {
       "video_id": "6101Q0dQQIk",
@@ -440,7 +440,7 @@
       "channel_title": "AI For Humans",
       "source_type": "AI podcast",
       "published_at": "2026-10-30T13:45:33Z",
-      "view_count": 13141,
+      "view_count": 15453,
       "duration_minutes": 51,
       "url": "https://www.youtube.com/watch?v=6101Q0dQQIk"
     },
@@ -451,7 +451,7 @@
       "channel_title": "80,000 Hours",
       "source_type": "AI podcast",
       "published_at": "2026-10-27T18:16:47Z",
-      "view_count": 12992,
+      "view_count": 13236,
       "duration_minutes": 21,
       "url": "https://www.youtube.com/watch?v=XQQjCU7VLFo"
     }

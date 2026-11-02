@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-01T15:30:15.551172Z",
+  "generated_at": "2026-11-02T18:53:07.053110Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,7 +18,7 @@
       "handle": "@veritasium",
       "source_type": "Independent creator",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "PBS Space Time",
@@ -60,28 +60,28 @@
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Boston Dynamics",
       "handle": "@BostonDynamics",
       "source_type": "Official company",
       "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "NASA",
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "European Space Agency",
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Cleo Abram",
@@ -117,7 +117,7 @@
       "handle": "@fermilab",
       "source_type": "Research institution",
       "channel_id": "UCD5B6VoXv41fJ-IW8Wrhz9A",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Applied Science",
@@ -229,7 +229,7 @@
       "handle": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "source_type": "Additional curated source",
       "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "GreatScott!",
@@ -264,14 +264,14 @@
       "handle": "UC4QZ_LsYcvcq7qOsOhpAX4A",
       "source_type": "Additional curated source",
       "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Sabine Hossenfelder",
       "handle": "UC1yNl2E66ZzKApQdRuTQ4tw",
       "source_type": "Additional curated source",
       "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Anton Petrov",
@@ -306,7 +306,7 @@
       "handle": "UCogrSQkBJn1KF0N9I4oM7eQ",
       "source_type": "Additional curated source",
       "channel_id": "UCogrSQkBJn1KF0N9I4oM7eQ",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "The Royal Institution",
@@ -320,7 +320,7 @@
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 11
+      "recent_video_count": 10
     },
     {
       "name": "SpaceX",
@@ -358,7 +358,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 108,
+  "candidate_count": 109,
   "results": [
     {
       "video_id": "gNVj-FIxoe4",
@@ -367,31 +367,9 @@
       "channel_title": "Vsauce",
       "source_type": "Additional curated source",
       "published_at": "2026-10-27T23:49:28Z",
-      "view_count": 4943669,
+      "view_count": 5246748,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=gNVj-FIxoe4"
-    },
-    {
-      "video_id": "zj0b2RAJq1g",
-      "title": "Hannah Fry on The Nun Study #dementia #dataset #scienceexplained #hannahfry #thenunstudy #research",
-      "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
-      "channel_title": "The Royal Institution",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-25T16:00:02Z",
-      "view_count": 4182517,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=zj0b2RAJq1g"
-    },
-    {
-      "video_id": "zEmabFZvdqA",
-      "title": "What happens if I lower this weight into the water?",
-      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "channel_title": "Veritasium",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-30T14:00:38Z",
-      "view_count": 2217228,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=zEmabFZvdqA"
     },
     {
       "video_id": "I1rlK3BKmyA",
@@ -400,31 +378,20 @@
       "channel_title": "Technology Connections",
       "source_type": "Additional curated source",
       "published_at": "2026-10-30T17:35:51Z",
-      "view_count": 1862991,
+      "view_count": 2500917,
       "duration_minutes": 30,
       "url": "https://www.youtube.com/watch?v=I1rlK3BKmyA"
     },
     {
-      "video_id": "Q4nEdB1cfUk",
-      "title": "The Insane Science Hidden in These Toys",
-      "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
-      "channel_title": "Mark Rober",
+      "video_id": "zEmabFZvdqA",
+      "title": "What happens if I lower this weight into the water?",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channel_title": "Veritasium",
       "source_type": "Independent creator",
-      "published_at": "2026-10-28T13:00:39Z",
-      "view_count": 1405041,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=Q4nEdB1cfUk"
-    },
-    {
-      "video_id": "ZjyrZmtc7L0",
-      "title": "Electrical Wiring, Installations and Upgrade",
-      "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
-      "channel_title": "ElectroBOOM",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-25T16:00:09Z",
-      "view_count": 1361727,
-      "duration_minutes": 32,
-      "url": "https://www.youtube.com/watch?v=ZjyrZmtc7L0"
+      "published_at": "2026-10-30T14:00:38Z",
+      "view_count": 2483224,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=zEmabFZvdqA"
     },
     {
       "video_id": "Vna0hkq7U1g",
@@ -433,9 +400,20 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-30T12:46:36Z",
-      "view_count": 1283567,
+      "view_count": 1634105,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=Vna0hkq7U1g"
+    },
+    {
+      "video_id": "Q4nEdB1cfUk",
+      "title": "The Insane Science Hidden in These Toys",
+      "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "channel_title": "Mark Rober",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-28T13:00:39Z",
+      "view_count": 1531762,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=Q4nEdB1cfUk"
     },
     {
       "video_id": "BVaCZoWTZbo",
@@ -444,20 +422,9 @@
       "channel_title": "Scott Manley",
       "source_type": "Additional curated source",
       "published_at": "2026-10-27T18:30:55Z",
-      "view_count": 1103786,
+      "view_count": 1126255,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=BVaCZoWTZbo"
-    },
-    {
-      "video_id": "25ckBnzay8Y",
-      "title": "Why Everyone Stopped Buying GoPro",
-      "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
-      "channel_title": "ColdFusion",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-28T17:10:33Z",
-      "view_count": 864027,
-      "duration_minutes": 22,
-      "url": "https://www.youtube.com/watch?v=25ckBnzay8Y"
     },
     {
       "video_id": "Z-2pTzSZtLU",
@@ -466,9 +433,42 @@
       "channel_title": "Steve Mould",
       "source_type": "Additional curated source",
       "published_at": "2026-10-31T12:50:48Z",
-      "view_count": 833386,
+      "view_count": 1082103,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=Z-2pTzSZtLU"
+    },
+    {
+      "video_id": "25ckBnzay8Y",
+      "title": "Why Everyone Stopped Buying GoPro",
+      "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
+      "channel_title": "ColdFusion",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-28T17:10:33Z",
+      "view_count": 981679,
+      "duration_minutes": 22,
+      "url": "https://www.youtube.com/watch?v=25ckBnzay8Y"
+    },
+    {
+      "video_id": "pZh5BWCNmmE",
+      "title": "Uranus: The Weirdest Planet in the Solar System",
+      "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
+      "channel_title": "Astrum",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-27T16:59:08Z",
+      "view_count": 957459,
+      "duration_minutes": 40,
+      "url": "https://www.youtube.com/watch?v=pZh5BWCNmmE"
+    },
+    {
+      "video_id": "H5ez2RsedGQ",
+      "title": "The Secret Second Heart That Controls Your Longevity",
+      "channel_id": "UCciQ8wFcVoIIMi-lfu8-cjQ",
+      "channel_title": "Anton Petrov",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-26T22:00:28Z",
+      "view_count": 833870,
+      "duration_minutes": 14,
+      "url": "https://www.youtube.com/watch?v=H5ez2RsedGQ"
     }
   ]
 }
