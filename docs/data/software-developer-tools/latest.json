@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-11-02T18:53:07.053110Z",
+  "generated_at": "2026-11-03T16:39:28.883524Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,35 +11,35 @@
       "handle": "@GitHub",
       "source_type": "Official company",
       "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
-      "recent_video_count": 14
+      "recent_video_count": 16
     },
     {
       "name": "Google for Developers",
       "handle": "@GoogleDevelopers",
       "source_type": "Official company",
       "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Microsoft Developer",
       "handle": "@MicrosoftDeveloper",
       "source_type": "Official company",
       "channel_id": "UCsMica-v34Irf9KVTh6xx-g",
-      "recent_video_count": 12
+      "recent_video_count": 11
     },
     {
       "name": "AWS Developers",
       "handle": "@awsdevelopers",
       "source_type": "Official company",
       "channel_id": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Google Cloud Tech",
       "handle": "@googlecloudtech",
       "source_type": "Official company",
       "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "recent_video_count": 17
+      "recent_video_count": 16
     },
     {
       "name": "Cloudflare",
@@ -60,7 +60,7 @@
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 18
+      "recent_video_count": 42
     },
     {
       "name": "GitLab",
@@ -81,7 +81,7 @@
       "handle": "@Fireship",
       "source_type": "Independent creator",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "freeCodeCamp.org",
@@ -144,7 +144,7 @@
       "handle": "@LaravelPHP",
       "source_type": "Official company",
       "channel_id": "UCfO2GiQwb-cwJTb1CuRSkwg",
-      "recent_video_count": 1
+      "recent_video_count": 3
     },
     {
       "name": "Programming with Mosh",
@@ -186,7 +186,7 @@
       "handle": "UC_mYaQAE6-71rjSN6CeCA-g",
       "source_type": "Additional curated source",
       "channel_id": "UC_mYaQAE6-71rjSN6CeCA-g",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "CS Dojo",
@@ -284,7 +284,7 @@
       "handle": "UCSWj8mqQCcrcBlXPi4ThRDQ",
       "source_type": "Additional curated source",
       "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
-      "recent_video_count": 11
+      "recent_video_count": 10
     },
     {
       "name": "Bret Fisher Docker and DevOps",
@@ -319,7 +319,7 @@
       "handle": "UCRPMAqdtSgd0Ipeef7iFsKw",
       "source_type": "Additional curated source",
       "channel_id": "UCRPMAqdtSgd0Ipeef7iFsKw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "CodeOpinion",
@@ -357,7 +357,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 140,
+  "candidate_count": 162,
   "results": [
     {
       "video_id": "7h7FYGF7tuQ",
@@ -366,7 +366,7 @@
       "channel_title": "Low Level",
       "source_type": "Additional curated source",
       "published_at": "2026-10-29T13:52:38Z",
-      "view_count": 1816731,
+      "view_count": 1872802,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=7h7FYGF7tuQ"
     },
@@ -377,9 +377,20 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-29T17:34:08Z",
-      "view_count": 389777,
+      "view_count": 400718,
       "duration_minutes": 42,
       "url": "https://www.youtube.com/watch?v=uLGxb4F3SyI"
+    },
+    {
+      "video_id": "kTBWEkqBIgg",
+      "title": "What Is the New HTTP QUERY Method?🌐",
+      "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
+      "channel_title": "KodeKloud",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-28T12:36:09Z",
+      "view_count": 223820,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=kTBWEkqBIgg"
     },
     {
       "video_id": "cqfl38Ip1ho",
@@ -388,20 +399,9 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-10-28T16:45:00Z",
-      "view_count": 203065,
+      "view_count": 217255,
       "duration_minutes": 157,
       "url": "https://www.youtube.com/watch?v=cqfl38Ip1ho"
-    },
-    {
-      "video_id": "gPOaMdNDpto",
-      "title": "Why Is Python Slow Compared to C and C++?",
-      "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
-      "channel_title": "KodeKloud",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-27T13:10:09Z",
-      "view_count": 202999,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=gPOaMdNDpto"
     },
     {
       "video_id": "77z01nVRnTE",
@@ -410,20 +410,9 @@
       "channel_title": "Gaurav Sen",
       "source_type": "Additional curated source",
       "published_at": "2026-10-27T20:03:18Z",
-      "view_count": 116070,
+      "view_count": 118061,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=77z01nVRnTE"
-    },
-    {
-      "video_id": "LOP8ul3KqQI",
-      "title": "Introducing Genie 4",
-      "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
-      "channel_title": "Google for Developers",
-      "source_type": "Official company",
-      "published_at": "2026-10-27T16:18:01Z",
-      "view_count": 59182,
-      "duration_minutes": 47,
-      "url": "https://www.youtube.com/watch?v=LOP8ul3KqQI"
     },
     {
       "video_id": "8C4bh59FtsI",
@@ -432,20 +421,9 @@
       "channel_title": "Google Cloud Tech",
       "source_type": "Official company",
       "published_at": "2026-10-28T16:00:07Z",
-      "view_count": 50242,
+      "view_count": 56668,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=8C4bh59FtsI"
-    },
-    {
-      "video_id": "MrIzFnU0unk",
-      "title": "Mourning the Death of Code",
-      "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
-      "channel_title": "Syntax",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-28T12:00:11Z",
-      "view_count": 44887,
-      "duration_minutes": 58,
-      "url": "https://www.youtube.com/watch?v=MrIzFnU0unk"
     },
     {
       "video_id": "xbCa0aa4tRM",
@@ -454,9 +432,31 @@
       "channel_title": "GitHub",
       "source_type": "Official company",
       "published_at": "2026-10-29T13:57:25Z",
-      "view_count": 40756,
+      "view_count": 48187,
       "duration_minutes": 8,
       "url": "https://www.youtube.com/watch?v=xbCa0aa4tRM"
+    },
+    {
+      "video_id": "MrIzFnU0unk",
+      "title": "Mourning the Death of Code",
+      "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
+      "channel_title": "Syntax",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-28T12:00:11Z",
+      "view_count": 46371,
+      "duration_minutes": 58,
+      "url": "https://www.youtube.com/watch?v=MrIzFnU0unk"
+    },
+    {
+      "video_id": "ID6vEy94j7c",
+      "title": "Building real-time vision & edge navigation with Gemini Live",
+      "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "channel_title": "Google for Developers",
+      "source_type": "Official company",
+      "published_at": "2026-10-28T21:00:32Z",
+      "view_count": 39998,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=ID6vEy94j7c"
     },
     {
       "video_id": "zS_K-bfpQfk",
@@ -465,7 +465,7 @@
       "channel_title": "Kevin Powell",
       "source_type": "Additional curated source",
       "published_at": "2026-10-28T13:00:23Z",
-      "view_count": 34877,
+      "view_count": 35861,
       "duration_minutes": 4,
       "url": "https://www.youtube.com/watch?v=zS_K-bfpQfk"
     }

@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-11-02T18:53:07.053110Z",
+  "generated_at": "2026-11-03T16:39:28.883524Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,7 +18,7 @@
       "handle": "@TechCrunch",
       "source_type": "Editorial/media",
       "channel_id": "UCCjyq_K1Xwfg8Lndy7lKMpA",
-      "recent_video_count": 23
+      "recent_video_count": 22
     },
     {
       "name": "a16z",
@@ -32,7 +32,7 @@
       "handle": "@sequoiacapital",
       "source_type": "Venture capital",
       "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
-      "recent_video_count": 8
+      "recent_video_count": 10
     },
     {
       "name": "This Week in Startups",
@@ -53,7 +53,7 @@
       "handle": "@20vc",
       "source_type": "Venture capital",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "Acquired",
@@ -74,7 +74,7 @@
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "MicroConf",
@@ -130,7 +130,7 @@
       "handle": "UC6hlQ0x6kPbAGjYkoz53cvA",
       "source_type": "Official company",
       "channel_id": "UC6hlQ0x6kPbAGjYkoz53cvA",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "Startup Grind",
@@ -144,14 +144,14 @@
       "handle": "@DavidSenra",
       "source_type": "Independent creator",
       "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "recent_video_count": 16
+      "recent_video_count": 17
     },
     {
       "name": "Starter Story",
       "handle": "UChhw6DlKKTQ9mYSpTfXUYqA",
       "source_type": "Additional curated source",
       "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "Greg Isenberg",
@@ -165,7 +165,7 @@
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "Additional curated source",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 24
+      "recent_video_count": 23
     },
     {
       "name": "The Logan Bartlett Show",
@@ -179,7 +179,7 @@
       "handle": "UChpWgrkJY_i7F6wwI_TOnrg",
       "source_type": "Additional curated source",
       "channel_id": "UChpWgrkJY_i7F6wwI_TOnrg",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Entrepreneur",
@@ -193,14 +193,14 @@
       "handle": "UCH5_L3ytGbBziX0CLuYdQ1Q",
       "source_type": "Additional curated source",
       "channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Bloomberg Technology",
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "Additional curated source",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 30
+      "recent_video_count": 35
     },
     {
       "name": "PitchBook",
@@ -228,14 +228,14 @@
       "handle": "UClebMzrpRNTWVfZXw2jfsSw",
       "source_type": "Additional curated source",
       "channel_id": "UClebMzrpRNTWVfZXw2jfsSw",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "500 Global",
       "handle": "UCsFOY-wGT9IOC4Okrq6UBfA",
       "source_type": "Additional curated source",
       "channel_id": "UCsFOY-wGT9IOC4Okrq6UBfA",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "First Round Capital",
@@ -340,17 +340,17 @@
       "handle": "UCA-mWX9CvCTVFWRMb9bKc9w",
       "source_type": "Additional curated source",
       "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-      "recent_video_count": 17
+      "recent_video_count": 16
     },
     {
       "name": "Codie Sanchez",
       "handle": "UC5fI3kxC-ewZ6ZXEYgznM7g",
       "source_type": "Additional curated source",
       "channel_id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
-      "recent_video_count": 7
+      "recent_video_count": 8
     }
   ],
-  "candidate_count": 238,
+  "candidate_count": 246,
   "results": [
     {
       "video_id": "SJywU4UQryQ",
@@ -359,20 +359,9 @@
       "channel_title": "Dan Martell",
       "source_type": "Additional curated source",
       "published_at": "2026-10-28T13:00:28Z",
-      "view_count": 280842,
+      "view_count": 314759,
       "duration_minutes": 28,
       "url": "https://www.youtube.com/watch?v=SJywU4UQryQ"
-    },
-    {
-      "video_id": "a2wv9giz3vU",
-      "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
-      "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "channel_title": "Bloomberg Tech",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-27T18:21:02Z",
-      "view_count": 191188,
-      "duration_minutes": 15,
-      "url": "https://www.youtube.com/watch?v=a2wv9giz3vU"
     },
     {
       "video_id": "VS0WThvgfrE",
@@ -381,18 +370,29 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-31T03:35:42Z",
-      "view_count": 178201,
+      "view_count": 217421,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=VS0WThvgfrE"
     },
     {
+      "video_id": "a2wv9giz3vU",
+      "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
+      "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
+      "channel_title": "Bloomberg Tech",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-27T18:21:02Z",
+      "view_count": 197701,
+      "duration_minutes": 15,
+      "url": "https://www.youtube.com/watch?v=a2wv9giz3vU"
+    },
+    {
       "video_id": "0_hpTKQqKOQ",
-      "title": "Ex-Amazon VP reveals what it's really like working with Jeff Bezos",
+      "title": "Ex-Amazon VP: the RUTHLESS reality of working for Jeff Bezos",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-10-28T13:56:17Z",
-      "view_count": 125434,
+      "view_count": 140755,
       "duration_minutes": 73,
       "url": "https://www.youtube.com/watch?v=0_hpTKQqKOQ"
     },
@@ -403,7 +403,7 @@
       "channel_title": "Starter Story",
       "source_type": "Additional curated source",
       "published_at": "2026-10-28T17:00:22Z",
-      "view_count": 92847,
+      "view_count": 103980,
       "duration_minutes": 13,
       "url": "https://www.youtube.com/watch?v=pwvnH9S4j60"
     },
@@ -414,42 +414,9 @@
       "channel_title": "Y Combinator",
       "source_type": "Accelerator",
       "published_at": "2026-10-30T14:30:00Z",
-      "view_count": 65691,
+      "view_count": 74825,
       "duration_minutes": 49,
       "url": "https://www.youtube.com/watch?v=vl7HiMdGfjo"
-    },
-    {
-      "video_id": "AqqjH_uv-_w",
-      "title": "SaaS is dead?",
-      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "channel_title": "Greg Isenberg",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-29T19:25:16Z",
-      "view_count": 63712,
-      "duration_minutes": 11,
-      "url": "https://www.youtube.com/watch?v=AqqjH_uv-_w"
-    },
-    {
-      "video_id": "qCuah_bCqaw",
-      "title": "How do you bring the power of the sun down to Earth?",
-      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "channel_title": "Antler Global",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-28T09:00:21Z",
-      "view_count": 50350,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=qCuah_bCqaw"
-    },
-    {
-      "video_id": "5UWDUD6qaM4",
-      "title": "Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires",
-      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "channel_title": "a16z",
-      "source_type": "Venture capital",
-      "published_at": "2026-10-28T14:30:15Z",
-      "view_count": 48532,
-      "duration_minutes": 60,
-      "url": "https://www.youtube.com/watch?v=5UWDUD6qaM4"
     },
     {
       "video_id": "1hk_VMEeoPQ",
@@ -458,9 +425,42 @@
       "channel_title": "Codie Sanchez",
       "source_type": "Additional curated source",
       "published_at": "2026-11-01T16:00:08Z",
-      "view_count": 40591,
+      "view_count": 71340,
       "duration_minutes": 13,
       "url": "https://www.youtube.com/watch?v=1hk_VMEeoPQ"
+    },
+    {
+      "video_id": "AqqjH_uv-_w",
+      "title": "SaaS is dead?",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "channel_title": "Greg Isenberg",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-29T19:25:16Z",
+      "view_count": 66146,
+      "duration_minutes": 11,
+      "url": "https://www.youtube.com/watch?v=AqqjH_uv-_w"
+    },
+    {
+      "video_id": "5UWDUD6qaM4",
+      "title": "Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-28T14:30:15Z",
+      "view_count": 64247,
+      "duration_minutes": 60,
+      "url": "https://www.youtube.com/watch?v=5UWDUD6qaM4"
+    },
+    {
+      "video_id": "qCuah_bCqaw",
+      "title": "How do you bring the power of the sun down to Earth?",
+      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
+      "channel_title": "Antler Global",
+      "source_type": "Venture capital",
+      "published_at": "2026-10-28T09:00:21Z",
+      "view_count": 50356,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=qCuah_bCqaw"
     }
   ]
 }

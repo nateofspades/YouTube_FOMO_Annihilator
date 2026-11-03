@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-02T18:53:07.053110Z",
+  "generated_at": "2026-11-03T16:39:28.883524Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,14 +11,14 @@
       "handle": "@kurzgesagt",
       "source_type": "Independent creator",
       "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Veritasium",
       "handle": "@veritasium",
       "source_type": "Independent creator",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "PBS Space Time",
@@ -46,7 +46,7 @@
       "handle": "@PracticalEngineeringChannel",
       "source_type": "Independent creator",
       "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Mark Rober",
@@ -60,7 +60,7 @@
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Boston Dynamics",
@@ -74,14 +74,14 @@
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 2
+      "recent_video_count": 4
     },
     {
       "name": "European Space Agency",
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Cleo Abram",
@@ -117,7 +117,7 @@
       "handle": "@fermilab",
       "source_type": "Research institution",
       "channel_id": "UCD5B6VoXv41fJ-IW8Wrhz9A",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Applied Science",
@@ -180,7 +180,7 @@
       "handle": "UCeiYXex_fwgYDonaTcSIk6w",
       "source_type": "Additional curated source",
       "channel_id": "UCeiYXex_fwgYDonaTcSIk6w",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "NileRed",
@@ -208,7 +208,7 @@
       "handle": "UCy0tKL1T7wFoYcxCe0xjN6Q",
       "source_type": "Additional curated source",
       "channel_id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Stuff Made Here",
@@ -271,7 +271,7 @@
       "handle": "UC1yNl2E66ZzKApQdRuTQ4tw",
       "source_type": "Additional curated source",
       "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Anton Petrov",
@@ -299,14 +299,14 @@
       "handle": "UCqoAEDirJPjEUFcF2FklnBA",
       "source_type": "Additional curated source",
       "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Fraser Cain",
       "handle": "UCogrSQkBJn1KF0N9I4oM7eQ",
       "source_type": "Additional curated source",
       "channel_id": "UCogrSQkBJn1KF0N9I4oM7eQ",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "The Royal Institution",
@@ -358,7 +358,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 109,
+  "candidate_count": 110,
   "results": [
     {
       "video_id": "gNVj-FIxoe4",
@@ -367,7 +367,7 @@
       "channel_title": "Vsauce",
       "source_type": "Additional curated source",
       "published_at": "2026-10-27T23:49:28Z",
-      "view_count": 5246748,
+      "view_count": 5423813,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=gNVj-FIxoe4"
     },
@@ -378,7 +378,7 @@
       "channel_title": "Technology Connections",
       "source_type": "Additional curated source",
       "published_at": "2026-10-30T17:35:51Z",
-      "view_count": 2500917,
+      "view_count": 2840421,
       "duration_minutes": 30,
       "url": "https://www.youtube.com/watch?v=I1rlK3BKmyA"
     },
@@ -389,7 +389,7 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-30T14:00:38Z",
-      "view_count": 2483224,
+      "view_count": 2658813,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=zEmabFZvdqA"
     },
@@ -400,7 +400,7 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-30T12:46:36Z",
-      "view_count": 1634105,
+      "view_count": 1787763,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=Vna0hkq7U1g"
     },
@@ -411,20 +411,9 @@
       "channel_title": "Mark Rober",
       "source_type": "Independent creator",
       "published_at": "2026-10-28T13:00:39Z",
-      "view_count": 1531762,
+      "view_count": 1586865,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=Q4nEdB1cfUk"
-    },
-    {
-      "video_id": "BVaCZoWTZbo",
-      "title": "China's Super Secret Spaceplane Finally Revealed",
-      "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "channel_title": "Scott Manley",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-27T18:30:55Z",
-      "view_count": 1126255,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=BVaCZoWTZbo"
     },
     {
       "video_id": "Z-2pTzSZtLU",
@@ -433,20 +422,20 @@
       "channel_title": "Steve Mould",
       "source_type": "Additional curated source",
       "published_at": "2026-10-31T12:50:48Z",
-      "view_count": 1082103,
+      "view_count": 1168997,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=Z-2pTzSZtLU"
     },
     {
-      "video_id": "25ckBnzay8Y",
-      "title": "Why Everyone Stopped Buying GoPro",
-      "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
-      "channel_title": "ColdFusion",
+      "video_id": "BVaCZoWTZbo",
+      "title": "China's Super Secret Spaceplane Finally Revealed",
+      "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
+      "channel_title": "Scott Manley",
       "source_type": "Additional curated source",
-      "published_at": "2026-10-28T17:10:33Z",
-      "view_count": 981679,
-      "duration_minutes": 22,
-      "url": "https://www.youtube.com/watch?v=25ckBnzay8Y"
+      "published_at": "2026-10-27T18:30:55Z",
+      "view_count": 1139567,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=BVaCZoWTZbo"
     },
     {
       "video_id": "pZh5BWCNmmE",
@@ -455,20 +444,31 @@
       "channel_title": "Astrum",
       "source_type": "Additional curated source",
       "published_at": "2026-10-27T16:59:08Z",
-      "view_count": 957459,
+      "view_count": 1070382,
       "duration_minutes": 40,
       "url": "https://www.youtube.com/watch?v=pZh5BWCNmmE"
     },
     {
-      "video_id": "H5ez2RsedGQ",
-      "title": "The Secret Second Heart That Controls Your Longevity",
-      "channel_id": "UCciQ8wFcVoIIMi-lfu8-cjQ",
-      "channel_title": "Anton Petrov",
+      "video_id": "25ckBnzay8Y",
+      "title": "Why Everyone Stopped Buying GoPro",
+      "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
+      "channel_title": "ColdFusion",
       "source_type": "Additional curated source",
-      "published_at": "2026-10-26T22:00:28Z",
-      "view_count": 833870,
-      "duration_minutes": 14,
-      "url": "https://www.youtube.com/watch?v=H5ez2RsedGQ"
+      "published_at": "2026-10-28T17:10:33Z",
+      "view_count": 1061689,
+      "duration_minutes": 22,
+      "url": "https://www.youtube.com/watch?v=25ckBnzay8Y"
+    },
+    {
+      "video_id": "KBfIo9sZbC4",
+      "title": "How Does Ketamine Work?",
+      "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
+      "channel_title": "Kurzgesagt – In a Nutshell",
+      "source_type": "Independent creator",
+      "published_at": "2026-10-29T15:30:29Z",
+      "view_count": 799559,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=KBfIo9sZbC4"
     }
   ]
 }

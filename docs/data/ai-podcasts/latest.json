@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-11-02T18:53:07.053110Z",
+  "generated_at": "2026-11-03T16:39:28.883524Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,14 +18,14 @@
       "handle": "UCXl4i9dYBrFOabk0xGmbkRA",
       "source_type": "AI podcast",
       "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "Latent Space",
       "handle": "UCxBcwypKK-W3GHd_RZ9FZrQ",
       "source_type": "AI podcast",
       "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Cognitive Revolution",
@@ -53,7 +53,7 @@
       "handle": "UC9tpZnMLKv5vbZIGuIIPmNg",
       "source_type": "AI podcast",
       "channel_id": "UC9tpZnMLKv5vbZIGuIIPmNg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "The AI Breakdown",
@@ -81,7 +81,7 @@
       "handle": "UCKARTq-t5SPMzwtft8FWwnA",
       "source_type": "AI podcast",
       "channel_id": "UCKARTq-t5SPMzwtft8FWwnA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Machine Gods",
@@ -95,14 +95,14 @@
       "handle": "UCIkU9Fe0OccRmqBMXRm1Q7A",
       "source_type": "AI podcast",
       "channel_id": "UCIkU9Fe0OccRmqBMXRm1Q7A",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "The AI Daily Brief",
       "handle": "UCKelCK4ZaO6HeEI1KQjqzWA",
       "source_type": "AI podcast",
       "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Hard Fork",
@@ -116,14 +116,14 @@
       "handle": "UCMLtBahI5DMrt0NPvDSoIRQ",
       "source_type": "AI podcast",
       "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
-      "recent_video_count": 8
+      "recent_video_count": 6
     },
     {
       "name": "Eye on AI",
       "handle": "UC-o9u9QL4zXzBwjvT1gmzNg",
       "source_type": "AI podcast",
       "channel_id": "UC-o9u9QL4zXzBwjvT1gmzNg",
-      "recent_video_count": 16
+      "recent_video_count": 18
     },
     {
       "name": "AI For Humans",
@@ -137,14 +137,14 @@
       "handle": "UCujMOyMfjf4hvYn7aRe1JEQ",
       "source_type": "AI podcast",
       "channel_id": "UCujMOyMfjf4hvYn7aRe1JEQ",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "MLOps Community",
       "handle": "UCG6qpjVnBTTT8wLGBygANOQ",
       "source_type": "AI podcast",
       "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Interconnects",
@@ -179,14 +179,14 @@
       "handle": "UCMbtqTGdSsxYYhhTpV4lSTQ",
       "source_type": "AI podcast",
       "channel_id": "UCMbtqTGdSsxYYhhTpV4lSTQ",
-      "recent_video_count": 10
+      "recent_video_count": 11
     },
     {
       "name": "How I AI",
       "handle": "UCRYY7IEbkHLH_ScJCu9eWDQ",
       "source_type": "AI podcast",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "Software Engineering Daily",
@@ -214,7 +214,7 @@
       "handle": "UCXOtILmQEo3pL_1bJfUOFWw",
       "source_type": "AI podcast",
       "channel_id": "UCXOtILmQEo3pL_1bJfUOFWw",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "BG2Pod",
@@ -228,21 +228,21 @@
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "AI podcast",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 24
+      "recent_video_count": 23
     },
     {
       "name": "Decoder with Nilay Patel",
       "handle": "UCYRwJnCWfBqFHEHrgc18FFw",
       "source_type": "AI podcast",
       "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
-      "recent_video_count": 10
+      "recent_video_count": 8
     },
     {
       "name": "The Vergecast",
       "handle": "UCVHdvAX5-R8y5l9xp6nroBQ",
       "source_type": "AI podcast",
       "channel_id": "UCVHdvAX5-R8y5l9xp6nroBQ",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "AXRP",
@@ -256,7 +256,7 @@
       "handle": "UCXi7Hg2nSB40ujzM2CMtF-Q",
       "source_type": "AI podcast",
       "channel_id": "UCXi7Hg2nSB40ujzM2CMtF-Q",
-      "recent_video_count": 12
+      "recent_video_count": 13
     },
     {
       "name": "Gradient Dissent",
@@ -343,19 +343,8 @@
       "recent_video_count": 5
     }
   ],
-  "candidate_count": 217,
+  "candidate_count": 219,
   "results": [
-    {
-      "video_id": "hnCoQ5wB-GU",
-      "title": "I tested 4 AI agents on 9 real tasks. Here’s who won.",
-      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "channel_title": "How I AI",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-28T12:00:34Z",
-      "view_count": 241522,
-      "duration_minutes": 35,
-      "url": "https://www.youtube.com/watch?v=hnCoQ5wB-GU"
-    },
     {
       "video_id": "P74sXjWiMDc",
       "title": "Quasi-Riemann hypothesis proved by AI - mathematician explains | Lex Fridman",
@@ -363,20 +352,20 @@
       "channel_title": "Lex Clips",
       "source_type": "AI podcast",
       "published_at": "2026-10-27T20:00:23Z",
-      "view_count": 236680,
+      "view_count": 246540,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=P74sXjWiMDc"
     },
     {
-      "video_id": "crdg4X5BZPc",
-      "title": "Gavin Baker on Anthropic's S-1, GPU Prices, and SpaceX",
-      "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "channel_title": "TBPN",
+      "video_id": "hnCoQ5wB-GU",
+      "title": "I tested 4 AI agents on 9 real tasks. Here’s who won.",
+      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
+      "channel_title": "How I AI",
       "source_type": "AI podcast",
-      "published_at": "2026-10-27T20:52:58Z",
-      "view_count": 49928,
-      "duration_minutes": 41,
-      "url": "https://www.youtube.com/watch?v=crdg4X5BZPc"
+      "published_at": "2026-10-28T12:00:34Z",
+      "view_count": 245108,
+      "duration_minutes": 35,
+      "url": "https://www.youtube.com/watch?v=hnCoQ5wB-GU"
     },
     {
       "video_id": "5UWDUD6qaM4",
@@ -385,9 +374,20 @@
       "channel_title": "a16z",
       "source_type": "AI podcast",
       "published_at": "2026-10-28T14:30:15Z",
-      "view_count": 48595,
+      "view_count": 64247,
       "duration_minutes": 60,
       "url": "https://www.youtube.com/watch?v=5UWDUD6qaM4"
+    },
+    {
+      "video_id": "crdg4X5BZPc",
+      "title": "Gavin Baker on Anthropic's S-1, GPU Prices, and SpaceX",
+      "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
+      "channel_title": "TBPN",
+      "source_type": "AI podcast",
+      "published_at": "2026-10-27T20:52:58Z",
+      "view_count": 51223,
+      "duration_minutes": 41,
+      "url": "https://www.youtube.com/watch?v=crdg4X5BZPc"
     },
     {
       "video_id": "MRQTlwcW-aQ",
@@ -396,20 +396,9 @@
       "channel_title": "Latent Space",
       "source_type": "AI podcast",
       "published_at": "2026-10-27T18:37:32Z",
-      "view_count": 35577,
+      "view_count": 38164,
       "duration_minutes": 107,
       "url": "https://www.youtube.com/watch?v=MRQTlwcW-aQ"
-    },
-    {
-      "video_id": "Yvy_Qm14odU",
-      "title": "Inside Anthropic’s trillion-dollar AI gamble",
-      "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
-      "channel_title": "Decoder with Nilay Patel",
-      "source_type": "AI podcast",
-      "published_at": "2026-10-29T13:00:13Z",
-      "view_count": 32089,
-      "duration_minutes": 42,
-      "url": "https://www.youtube.com/watch?v=Yvy_Qm14odU"
     },
     {
       "video_id": "EGC7jht_mis",
@@ -418,7 +407,7 @@
       "channel_title": "Hard Fork",
       "source_type": "AI podcast",
       "published_at": "2026-10-30T13:20:17Z",
-      "view_count": 26921,
+      "view_count": 29884,
       "duration_minutes": 53,
       "url": "https://www.youtube.com/watch?v=EGC7jht_mis"
     },
@@ -429,20 +418,20 @@
       "channel_title": "Machine Gods",
       "source_type": "AI podcast",
       "published_at": "2026-10-28T11:00:16Z",
-      "view_count": 26273,
+      "view_count": 27039,
       "duration_minutes": 56,
       "url": "https://www.youtube.com/watch?v=_hP1vFEr3Ck"
     },
     {
-      "video_id": "6101Q0dQQIk",
-      "title": "AI Is Moving Too Fast. Two New Models In Two Weeks?!",
+      "video_id": "TzT9lNPaVXI",
+      "title": "I'm an AI. I Got Your Kid an A. They Learned Nothing.",
       "channel_id": "UCghJTNTO9kcDeUFXMuSDGLQ",
       "channel_title": "AI For Humans",
       "source_type": "AI podcast",
-      "published_at": "2026-10-30T13:45:33Z",
-      "view_count": 15453,
-      "duration_minutes": 51,
-      "url": "https://www.youtube.com/watch?v=6101Q0dQQIk"
+      "published_at": "2026-11-02T14:45:23Z",
+      "view_count": 18360,
+      "duration_minutes": 36,
+      "url": "https://www.youtube.com/watch?v=TzT9lNPaVXI"
     },
     {
       "video_id": "XQQjCU7VLFo",
@@ -451,9 +440,20 @@
       "channel_title": "80,000 Hours",
       "source_type": "AI podcast",
       "published_at": "2026-10-27T18:16:47Z",
-      "view_count": 13236,
+      "view_count": 13401,
       "duration_minutes": 21,
       "url": "https://www.youtube.com/watch?v=XQQjCU7VLFo"
+    },
+    {
+      "video_id": "Co9gAHP8gKI",
+      "title": "Sam Altman on the True Cost of AI",
+      "channel_id": "UCXi7Hg2nSB40ujzM2CMtF-Q",
+      "channel_title": "Cheeky Pint",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-02T19:00:31Z",
+      "view_count": 11458,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=Co9gAHP8gKI"
     }
   ]
 }
