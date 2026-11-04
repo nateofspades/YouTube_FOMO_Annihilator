@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-03T16:39:28.883524Z",
+  "generated_at": "2026-11-04T16:38:44.493017Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,7 +18,7 @@
       "handle": "@veritasium",
       "source_type": "Independent creator",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "PBS Space Time",
@@ -53,14 +53,14 @@
       "handle": "@MarkRober",
       "source_type": "Independent creator",
       "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Hacksmith Industries",
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Boston Dynamics",
@@ -81,7 +81,7 @@
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Cleo Abram",
@@ -102,7 +102,7 @@
       "handle": "@fullychargedshow",
       "source_type": "Editorial/media",
       "channel_id": "UCzz4CoEgSgWNs9ZAvRMhW2A",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "IBM Research",
@@ -229,7 +229,7 @@
       "handle": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "source_type": "Additional curated source",
       "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "GreatScott!",
@@ -257,7 +257,7 @@
       "handle": "UC1LpsuAUaKoMzzJSEt5WImw",
       "source_type": "Additional curated source",
       "channel_id": "UC1LpsuAUaKoMzzJSEt5WImw",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "ColdFusion",
@@ -292,7 +292,7 @@
       "handle": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "source_type": "Additional curated source",
       "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "StarTalk",
@@ -306,7 +306,7 @@
       "handle": "UCogrSQkBJn1KF0N9I4oM7eQ",
       "source_type": "Additional curated source",
       "channel_id": "UCogrSQkBJn1KF0N9I4oM7eQ",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "The Royal Institution",
@@ -320,7 +320,7 @@
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 10
+      "recent_video_count": 8
     },
     {
       "name": "SpaceX",
@@ -341,7 +341,7 @@
       "handle": "UCxzC4EngIsMrPmbm6Nxvb-A",
       "source_type": "Additional curated source",
       "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "recent_video_count": 6
+      "recent_video_count": 4
     },
     {
       "name": "Primal Space",
@@ -358,19 +358,8 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 110,
+  "candidate_count": 107,
   "results": [
-    {
-      "video_id": "gNVj-FIxoe4",
-      "title": "We Used To Think The Sun Was Cold",
-      "channel_id": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
-      "channel_title": "Vsauce",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-27T23:49:28Z",
-      "view_count": 5423813,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=gNVj-FIxoe4"
-    },
     {
       "video_id": "I1rlK3BKmyA",
       "title": "Alkaline batteries are obsolete — but not for the reason you'd think",
@@ -378,7 +367,7 @@
       "channel_title": "Technology Connections",
       "source_type": "Additional curated source",
       "published_at": "2026-10-30T17:35:51Z",
-      "view_count": 2840421,
+      "view_count": 3093703,
       "duration_minutes": 30,
       "url": "https://www.youtube.com/watch?v=I1rlK3BKmyA"
     },
@@ -389,7 +378,7 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-10-30T14:00:38Z",
-      "view_count": 2658813,
+      "view_count": 2762363,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=zEmabFZvdqA"
     },
@@ -400,20 +389,9 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-30T12:46:36Z",
-      "view_count": 1787763,
+      "view_count": 1934595,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=Vna0hkq7U1g"
-    },
-    {
-      "video_id": "Q4nEdB1cfUk",
-      "title": "The Insane Science Hidden in These Toys",
-      "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
-      "channel_title": "Mark Rober",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-28T13:00:39Z",
-      "view_count": 1586865,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=Q4nEdB1cfUk"
     },
     {
       "video_id": "Z-2pTzSZtLU",
@@ -422,31 +400,9 @@
       "channel_title": "Steve Mould",
       "source_type": "Additional curated source",
       "published_at": "2026-10-31T12:50:48Z",
-      "view_count": 1168997,
+      "view_count": 1249101,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=Z-2pTzSZtLU"
-    },
-    {
-      "video_id": "BVaCZoWTZbo",
-      "title": "China's Super Secret Spaceplane Finally Revealed",
-      "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "channel_title": "Scott Manley",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-27T18:30:55Z",
-      "view_count": 1139567,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=BVaCZoWTZbo"
-    },
-    {
-      "video_id": "pZh5BWCNmmE",
-      "title": "Uranus: The Weirdest Planet in the Solar System",
-      "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
-      "channel_title": "Astrum",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-27T16:59:08Z",
-      "view_count": 1070382,
-      "duration_minutes": 40,
-      "url": "https://www.youtube.com/watch?v=pZh5BWCNmmE"
     },
     {
       "video_id": "25ckBnzay8Y",
@@ -455,9 +411,20 @@
       "channel_title": "ColdFusion",
       "source_type": "Additional curated source",
       "published_at": "2026-10-28T17:10:33Z",
-      "view_count": 1061689,
+      "view_count": 1121790,
       "duration_minutes": 22,
       "url": "https://www.youtube.com/watch?v=25ckBnzay8Y"
+    },
+    {
+      "video_id": "1nVwqDL3XCI",
+      "title": "AI Psychosis Is Killing People. It’s Time to Talk About It",
+      "channel_id": "UCZYTClx2T1of7BRZ86-8fow",
+      "channel_title": "SciShow",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-28T17:00:36Z",
+      "view_count": 836196,
+      "duration_minutes": 17,
+      "url": "https://www.youtube.com/watch?v=1nVwqDL3XCI"
     },
     {
       "video_id": "KBfIo9sZbC4",
@@ -466,9 +433,42 @@
       "channel_title": "Kurzgesagt – In a Nutshell",
       "source_type": "Independent creator",
       "published_at": "2026-10-29T15:30:29Z",
-      "view_count": 799559,
+      "view_count": 824408,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=KBfIo9sZbC4"
+    },
+    {
+      "video_id": "qB7d062jcNg",
+      "title": "The Physics Problem With Tesla's Flying Car",
+      "channel_id": "UC1VLQPn9cYSqx8plbk9RxxQ",
+      "channel_title": "The Action Lab",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-31T15:03:30Z",
+      "view_count": 812821,
+      "duration_minutes": 9,
+      "url": "https://www.youtube.com/watch?v=qB7d062jcNg"
+    },
+    {
+      "video_id": "HrH9eIsqgkw",
+      "title": "We Built a REAL Minecraft Train Inside Our Office",
+      "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
+      "channel_title": "Hacksmith Industries",
+      "source_type": "Official company",
+      "published_at": "2026-10-29T20:00:12Z",
+      "view_count": 707216,
+      "duration_minutes": 44,
+      "url": "https://www.youtube.com/watch?v=HrH9eIsqgkw"
+    },
+    {
+      "video_id": "PUa5i_U8yYE",
+      "title": "It’s Happening: AI Eats Physics",
+      "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
+      "channel_title": "Sabine Hossenfelder",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-02T16:00:37Z",
+      "view_count": 670520,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=PUa5i_U8yYE"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-11-03T16:39:28.883524Z",
+  "generated_at": "2026-11-04T16:38:44.493017Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,14 +11,14 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 13
+      "recent_video_count": 10
     },
     {
       "name": "TechCrunch",
       "handle": "@TechCrunch",
       "source_type": "Editorial/media",
       "channel_id": "UCCjyq_K1Xwfg8Lndy7lKMpA",
-      "recent_video_count": 22
+      "recent_video_count": 2
     },
     {
       "name": "a16z",
@@ -46,14 +46,14 @@
       "handle": "@LennysPodcast",
       "source_type": "Independent creator",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 5
+      "recent_video_count": 3
     },
     {
       "name": "20VC",
       "handle": "@20vc",
       "source_type": "Venture capital",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 10
+      "recent_video_count": 11
     },
     {
       "name": "Acquired",
@@ -67,14 +67,14 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "My First Million",
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "MicroConf",
@@ -88,7 +88,7 @@
       "handle": "@Saastr",
       "source_type": "Founder community",
       "channel_id": "UCwOILzAcxK5CM2M7oRBuWSg",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Slidebean",
@@ -137,14 +137,14 @@
       "handle": "StartupGrind",
       "source_type": "Founder community",
       "channel_id": "UCwB3HiWejAkml1UZ0Qo2bFg",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "David Senra / Founders",
       "handle": "@DavidSenra",
       "source_type": "Independent creator",
       "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "recent_video_count": 17
+      "recent_video_count": 13
     },
     {
       "name": "Starter Story",
@@ -165,7 +165,7 @@
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "Additional curated source",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 23
+      "recent_video_count": 22
     },
     {
       "name": "The Logan Bartlett Show",
@@ -200,7 +200,7 @@
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "Additional curated source",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 35
+      "recent_video_count": 30
     },
     {
       "name": "PitchBook",
@@ -242,21 +242,21 @@
       "handle": "UC_oji6l_-xwhmZqCxRGuAXw",
       "source_type": "Additional curated source",
       "channel_id": "UC_oji6l_-xwhmZqCxRGuAXw",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Lightspeed Venture Partners",
       "handle": "UCwBTFE_6Bsb_EtmXlW2aTlg",
       "source_type": "Additional curated source",
       "channel_id": "UCwBTFE_6Bsb_EtmXlW2aTlg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "General Catalyst",
       "handle": "UCRuWcJZWsga67HTE0fcCvbA",
       "source_type": "Additional curated source",
       "channel_id": "UCRuWcJZWsga67HTE0fcCvbA",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Accel",
@@ -270,7 +270,7 @@
       "handle": "UCFMxDWNYefVV3XmCdCBCFjQ",
       "source_type": "Additional curated source",
       "channel_id": "UCFMxDWNYefVV3XmCdCBCFjQ",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Greylock",
@@ -340,7 +340,7 @@
       "handle": "UCA-mWX9CvCTVFWRMb9bKc9w",
       "source_type": "Additional curated source",
       "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-      "recent_video_count": 16
+      "recent_video_count": 14
     },
     {
       "name": "Codie Sanchez",
@@ -350,19 +350,8 @@
       "recent_video_count": 8
     }
   ],
-  "candidate_count": 246,
+  "candidate_count": 210,
   "results": [
-    {
-      "video_id": "SJywU4UQryQ",
-      "title": "How to Build an AI Agent for Every Part of Your Life",
-      "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-      "channel_title": "Dan Martell",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-28T13:00:28Z",
-      "view_count": 314759,
-      "duration_minutes": 28,
-      "url": "https://www.youtube.com/watch?v=SJywU4UQryQ"
-    },
     {
       "video_id": "VS0WThvgfrE",
       "title": "Alexander Wang's Craziest Internship Story",
@@ -370,31 +359,9 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-31T03:35:42Z",
-      "view_count": 217421,
+      "view_count": 264516,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=VS0WThvgfrE"
-    },
-    {
-      "video_id": "a2wv9giz3vU",
-      "title": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
-      "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "channel_title": "Bloomberg Tech",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-27T18:21:02Z",
-      "view_count": 197701,
-      "duration_minutes": 15,
-      "url": "https://www.youtube.com/watch?v=a2wv9giz3vU"
-    },
-    {
-      "video_id": "0_hpTKQqKOQ",
-      "title": "Ex-Amazon VP: the RUTHLESS reality of working for Jeff Bezos",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-28T13:56:17Z",
-      "view_count": 140755,
-      "duration_minutes": 73,
-      "url": "https://www.youtube.com/watch?v=0_hpTKQqKOQ"
     },
     {
       "video_id": "pwvnH9S4j60",
@@ -403,20 +370,20 @@
       "channel_title": "Starter Story",
       "source_type": "Additional curated source",
       "published_at": "2026-10-28T17:00:22Z",
-      "view_count": 103980,
+      "view_count": 118007,
       "duration_minutes": 13,
       "url": "https://www.youtube.com/watch?v=pwvnH9S4j60"
     },
     {
-      "video_id": "vl7HiMdGfjo",
-      "title": "What Happens When Everyone Can Build Software",
-      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "channel_title": "Y Combinator",
-      "source_type": "Accelerator",
-      "published_at": "2026-10-30T14:30:00Z",
-      "view_count": 74825,
-      "duration_minutes": 49,
-      "url": "https://www.youtube.com/watch?v=vl7HiMdGfjo"
+      "video_id": "67BmkptgTms",
+      "title": "The $1M+ Solo Grok Bot Business (Full Course)",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "channel_title": "Greg Isenberg",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-02T19:15:08Z",
+      "view_count": 103383,
+      "duration_minutes": 50,
+      "url": "https://www.youtube.com/watch?v=67BmkptgTms"
     },
     {
       "video_id": "1hk_VMEeoPQ",
@@ -425,42 +392,75 @@
       "channel_title": "Codie Sanchez",
       "source_type": "Additional curated source",
       "published_at": "2026-11-01T16:00:08Z",
-      "view_count": 71340,
+      "view_count": 94114,
       "duration_minutes": 13,
       "url": "https://www.youtube.com/watch?v=1hk_VMEeoPQ"
     },
     {
-      "video_id": "AqqjH_uv-_w",
-      "title": "SaaS is dead?",
-      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "channel_title": "Greg Isenberg",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-29T19:25:16Z",
-      "view_count": 66146,
-      "duration_minutes": 11,
-      "url": "https://www.youtube.com/watch?v=AqqjH_uv-_w"
+      "video_id": "vl7HiMdGfjo",
+      "title": "What Happens When Everyone Can Build Software",
+      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "channel_title": "Y Combinator",
+      "source_type": "Accelerator",
+      "published_at": "2026-10-30T14:30:00Z",
+      "view_count": 82347,
+      "duration_minutes": 49,
+      "url": "https://www.youtube.com/watch?v=vl7HiMdGfjo"
     },
     {
-      "video_id": "5UWDUD6qaM4",
-      "title": "Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires",
+      "video_id": "_d83IiEU7_0",
+      "title": "Hip Hop’s Origin Story, Told by the Legends Who Lived It",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
       "channel_title": "a16z",
       "source_type": "Venture capital",
-      "published_at": "2026-10-28T14:30:15Z",
-      "view_count": 64247,
-      "duration_minutes": 60,
-      "url": "https://www.youtube.com/watch?v=5UWDUD6qaM4"
+      "published_at": "2026-10-31T14:30:17Z",
+      "view_count": 51074,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=_d83IiEU7_0"
     },
     {
-      "video_id": "qCuah_bCqaw",
-      "title": "How do you bring the power of the sun down to Earth?",
-      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "channel_title": "Antler Global",
+      "video_id": "OE32mgQCN6E",
+      "title": "$100M fund manager: how to stop living like a robot that just saves money",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-02T14:30:04Z",
+      "view_count": 43240,
+      "duration_minutes": 81,
+      "url": "https://www.youtube.com/watch?v=OE32mgQCN6E"
+    },
+    {
+      "video_id": "KzS5Qs7vSMg",
+      "title": "A UGC masterclass from the 22-year-old who built Wispr Flow’s growth machine | Hector Serrano",
+      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
+      "channel_title": "Lenny's Podcast",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-01T13:30:01Z",
+      "view_count": 43164,
+      "duration_minutes": 88,
+      "url": "https://www.youtube.com/watch?v=KzS5Qs7vSMg"
+    },
+    {
+      "video_id": "T_87i1iR9Xk",
+      "title": "CEO's AI Productivity Set Up",
+      "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+      "channel_title": "Dan Martell",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-03T16:03:20Z",
+      "view_count": 40263,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=T_87i1iR9Xk"
+    },
+    {
+      "video_id": "N8pMSBteR18",
+      "title": "Will AI Replace Software Engineers?",
+      "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
+      "channel_title": "20VC with Harry Stebbings",
       "source_type": "Venture capital",
-      "published_at": "2026-10-28T09:00:21Z",
-      "view_count": 50356,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=qCuah_bCqaw"
+      "published_at": "2026-11-03T06:00:30Z",
+      "view_count": 37704,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=N8pMSBteR18"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-11-03T16:39:28.883524Z",
+  "generated_at": "2026-11-04T16:38:44.493017Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@allaboutai",
       "source_type": "AI agent and automation",
       "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Alex Finn",
@@ -25,7 +25,7 @@
       "handle": "@matthew_berman",
       "source_type": "AI agent and automation",
       "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Cole Medin",
@@ -46,7 +46,7 @@
       "handle": "@NateHerk",
       "source_type": "AI agent and automation",
       "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "recent_video_count": 14
+      "recent_video_count": 16
     },
     {
       "name": "Krish Naik",
@@ -88,7 +88,7 @@
       "handle": "@TechWithTim",
       "source_type": "AI agent and automation",
       "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
-      "recent_video_count": 11
+      "recent_video_count": 12
     },
     {
       "name": "NetworkChuck",
@@ -109,7 +109,7 @@
       "handle": "@howiaipodcast",
       "source_type": "AI agent and automation",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "IBM Technology",
@@ -145,7 +145,7 @@
       "handle": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
       "source_type": "AI agent and automation",
       "channel_id": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "Tina Huang",
@@ -173,7 +173,7 @@
       "handle": "UC55ODQSvARtgSyc8ThfiepQ",
       "source_type": "AI agent and automation",
       "channel_id": "UC55ODQSvARtgSyc8ThfiepQ",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "AI Jason",
@@ -229,14 +229,14 @@
       "handle": "UCVC1GrIK_002p3V1D94VO9A",
       "source_type": "AI agent and automation",
       "channel_id": "UCVC1GrIK_002p3V1D94VO9A",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "OpenAI",
       "handle": "UCXZCJLdBC09xxGZ6gcdrc6A",
       "source_type": "AI agent and automation",
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "recent_video_count": 14
+      "recent_video_count": 13
     },
     {
       "name": "Anthropic",
@@ -257,7 +257,7 @@
       "handle": "UCgoJjdR6-7AMu9fDitb6nVw",
       "source_type": "AI agent and automation",
       "channel_id": "UCgoJjdR6-7AMu9fDitb6nVw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Supabase",
@@ -278,7 +278,7 @@
       "handle": "UCds72zs2EzQRmhqbLLCmD4A",
       "source_type": "AI agent and automation",
       "channel_id": "UCds72zs2EzQRmhqbLLCmD4A",
-      "recent_video_count": 0
+      "recent_video_count": 2
     },
     {
       "name": "Simon Willison",
@@ -306,7 +306,7 @@
       "handle": "UCxVxcTULO9cFU6SB9qVaisQ",
       "source_type": "AI agent and automation",
       "channel_id": "UCxVxcTULO9cFU6SB9qVaisQ",
-      "recent_video_count": 10
+      "recent_video_count": 11
     },
     {
       "name": "AI Foundations",
@@ -320,7 +320,7 @@
       "handle": "UCWTyktbw5JYoSBduu8LsBgQ",
       "source_type": "AI agent and automation",
       "channel_id": "UCWTyktbw5JYoSBduu8LsBgQ",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "AI Engineer",
@@ -334,14 +334,14 @@
       "handle": "UCiGWNa6QK6CiKPvv5-YPv8g",
       "source_type": "AI agent and automation",
       "channel_id": "UCiGWNa6QK6CiKPvv5-YPv8g",
-      "recent_video_count": 14
+      "recent_video_count": 12
     },
     {
       "name": "LowCode Agency",
       "handle": "UCT5Nq5woayDZTBqeVkczetg",
       "source_type": "AI agent and automation",
       "channel_id": "UCT5Nq5woayDZTBqeVkczetg",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "VoloBuilds",
@@ -355,33 +355,11 @@
       "handle": "UCDq7SjbgRKty5TgGafW8Clg",
       "source_type": "AI agent and automation",
       "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     }
   ],
-  "candidate_count": 208,
+  "candidate_count": 209,
   "results": [
-    {
-      "video_id": "kMpTBy3g1N0",
-      "title": "Gemini 4 Carbon: The New Frontier",
-      "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-      "channel_title": "Prompt Engineering",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-28T18:57:07Z",
-      "view_count": 475377,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=kMpTBy3g1N0"
-    },
-    {
-      "video_id": "hnCoQ5wB-GU",
-      "title": "I tested 4 AI agents on 9 real tasks. Here’s who won.",
-      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "channel_title": "How I AI",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-10-28T12:00:34Z",
-      "view_count": 245084,
-      "duration_minutes": 35,
-      "url": "https://www.youtube.com/watch?v=hnCoQ5wB-GU"
-    },
     {
       "video_id": "KDyPHt4lW60",
       "title": "31 Life-Changing Ways to Use Claude in 2027",
@@ -389,20 +367,20 @@
       "channel_title": "Nick Saraev",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-02T22:16:58Z",
-      "view_count": 181494,
+      "view_count": 495736,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=KDyPHt4lW60"
     },
     {
-      "video_id": "Nk242TnA7-8",
-      "title": "Grok Bot just released a MASSIVE update",
-      "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-      "channel_title": "Alex Finn",
+      "video_id": "kMpTBy3g1N0",
+      "title": "Gemini 4 Carbon: The New Frontier",
+      "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+      "channel_title": "Prompt Engineering",
       "source_type": "AI agent and automation",
-      "published_at": "2026-10-28T19:22:42Z",
-      "view_count": 147511,
-      "duration_minutes": 12,
-      "url": "https://www.youtube.com/watch?v=Nk242TnA7-8"
+      "published_at": "2026-10-28T18:57:07Z",
+      "view_count": 490433,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=kMpTBy3g1N0"
     },
     {
       "video_id": "vMvkR8WEOpE",
@@ -411,20 +389,31 @@
       "channel_title": "Riley Brown",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-31T14:00:02Z",
-      "view_count": 123688,
+      "view_count": 131987,
       "duration_minutes": 17,
       "url": "https://www.youtube.com/watch?v=vMvkR8WEOpE"
     },
     {
-      "video_id": "KlZDeqvD52A",
-      "title": "I Tested The Viral Reverse Engineering Repo",
-      "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
-      "channel_title": "Tech With Tim",
+      "video_id": "67BmkptgTms",
+      "title": "The $1M+ Solo Grok Bot Business (Full Course)",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "channel_title": "Greg Isenberg",
       "source_type": "AI agent and automation",
-      "published_at": "2026-10-28T14:00:32Z",
-      "view_count": 113044,
-      "duration_minutes": 12,
-      "url": "https://www.youtube.com/watch?v=KlZDeqvD52A"
+      "published_at": "2026-11-02T19:15:08Z",
+      "view_count": 103498,
+      "duration_minutes": 50,
+      "url": "https://www.youtube.com/watch?v=67BmkptgTms"
+    },
+    {
+      "video_id": "vSCYL8ySh9g",
+      "title": "Dory - NVIDIA's Looped Transformer",
+      "channel_id": "UC55ODQSvARtgSyc8ThfiepQ",
+      "channel_title": "Sam Witteveen",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-02T13:00:00Z",
+      "view_count": 95140,
+      "duration_minutes": 15,
+      "url": "https://www.youtube.com/watch?v=vSCYL8ySh9g"
     },
     {
       "video_id": "XzjSx7u9mGw",
@@ -433,9 +422,20 @@
       "channel_title": "Dave Ebbelaar",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-30T17:13:44Z",
-      "view_count": 76062,
+      "view_count": 84838,
       "duration_minutes": 190,
       "url": "https://www.youtube.com/watch?v=XzjSx7u9mGw"
+    },
+    {
+      "video_id": "g_NgCLTibiM",
+      "title": "Make Your AI Agents Predictable With Graph Engineering - Zachary Blumenfeld, Neo4j",
+      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channel_title": "AI Engineer",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-03T10:00:09Z",
+      "view_count": 82793,
+      "duration_minutes": 21,
+      "url": "https://www.youtube.com/watch?v=g_NgCLTibiM"
     },
     {
       "video_id": "ZbmfYMlrlII",
@@ -444,31 +444,31 @@
       "channel_title": "Jack Roberts",
       "source_type": "AI agent and automation",
       "published_at": "2026-10-30T18:46:51Z",
-      "view_count": 70535,
+      "view_count": 78842,
       "duration_minutes": 20,
       "url": "https://www.youtube.com/watch?v=ZbmfYMlrlII"
     },
     {
-      "video_id": "lEFFa0Z5BIE",
-      "title": "3,000 Tokens/Sec Locally: Testing the ZGX Fury",
-      "channel_id": "UC55ODQSvARtgSyc8ThfiepQ",
-      "channel_title": "Sam Witteveen",
+      "video_id": "EkdIZXDnRK8",
+      "title": "Context-Aware Coding: Give AI Agents the Right Context",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
-      "published_at": "2026-10-30T13:00:24Z",
-      "view_count": 69436,
-      "duration_minutes": 14,
-      "url": "https://www.youtube.com/watch?v=lEFFa0Z5BIE"
+      "published_at": "2026-11-02T12:00:35Z",
+      "view_count": 45611,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=EkdIZXDnRK8"
     },
     {
-      "video_id": "AqqjH_uv-_w",
-      "title": "SaaS is dead?",
-      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "channel_title": "Greg Isenberg",
+      "video_id": "tM0dwXhOv2o",
+      "title": "Claude 2.0 Is Here. EVERYTHING in 15 Minutes",
+      "channel_id": "UC_RovKmk0OCbuZjA8f08opw",
+      "channel_title": "Futurepedia",
       "source_type": "AI agent and automation",
-      "published_at": "2026-10-29T19:25:16Z",
-      "view_count": 66147,
-      "duration_minutes": 11,
-      "url": "https://www.youtube.com/watch?v=AqqjH_uv-_w"
+      "published_at": "2026-11-03T22:12:30Z",
+      "view_count": 39976,
+      "duration_minutes": 15,
+      "url": "https://www.youtube.com/watch?v=tM0dwXhOv2o"
     }
   ]
 }
