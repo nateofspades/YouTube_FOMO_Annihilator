@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-04T16:38:44.493017Z",
+  "generated_at": "2026-11-05T16:54:30.747936Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@kurzgesagt",
       "source_type": "Independent creator",
       "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Veritasium",
@@ -25,7 +25,7 @@
       "handle": "@pbsspacetime",
       "source_type": "Editorial/media",
       "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "SmarterEveryDay",
@@ -60,14 +60,14 @@
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Boston Dynamics",
       "handle": "@BostonDynamics",
       "source_type": "Official company",
       "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "NASA",
@@ -180,7 +180,7 @@
       "handle": "UCeiYXex_fwgYDonaTcSIk6w",
       "source_type": "Additional curated source",
       "channel_id": "UCeiYXex_fwgYDonaTcSIk6w",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "NileRed",
@@ -264,7 +264,7 @@
       "handle": "UC4QZ_LsYcvcq7qOsOhpAX4A",
       "source_type": "Additional curated source",
       "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Sabine Hossenfelder",
@@ -278,49 +278,49 @@
       "handle": "UCciQ8wFcVoIIMi-lfu8-cjQ",
       "source_type": "Additional curated source",
       "channel_id": "UCciQ8wFcVoIIMi-lfu8-cjQ",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Dr Becky",
       "handle": "UCYNbYGl89UUowy8oXkipC-Q",
       "source_type": "Additional curated source",
       "channel_id": "UCYNbYGl89UUowy8oXkipC-Q",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Astrum",
       "handle": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "source_type": "Additional curated source",
       "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "StarTalk",
       "handle": "UCqoAEDirJPjEUFcF2FklnBA",
       "source_type": "Additional curated source",
       "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "recent_video_count": 5
+      "recent_video_count": 3
     },
     {
       "name": "Fraser Cain",
       "handle": "UCogrSQkBJn1KF0N9I4oM7eQ",
       "source_type": "Additional curated source",
       "channel_id": "UCogrSQkBJn1KF0N9I4oM7eQ",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "The Royal Institution",
       "handle": "UCYeF244yNGuFefuFKqxIAXw",
       "source_type": "Additional curated source",
       "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "New Scientist",
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "SpaceX",
@@ -341,7 +341,7 @@
       "handle": "UCxzC4EngIsMrPmbm6Nxvb-A",
       "source_type": "Additional curated source",
       "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Primal Space",
@@ -358,8 +358,19 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 107,
+  "candidate_count": 108,
   "results": [
+    {
+      "video_id": "KfODG5REyss",
+      "title": "The Closest Thing We’ve Got To Real Perpetual Motion",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channel_title": "Veritasium",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-04T15:52:59Z",
+      "view_count": 3295810,
+      "duration_minutes": 66,
+      "url": "https://www.youtube.com/watch?v=KfODG5REyss"
+    },
     {
       "video_id": "I1rlK3BKmyA",
       "title": "Alkaline batteries are obsolete — but not for the reason you'd think",
@@ -367,20 +378,9 @@
       "channel_title": "Technology Connections",
       "source_type": "Additional curated source",
       "published_at": "2026-10-30T17:35:51Z",
-      "view_count": 3093703,
+      "view_count": 3261167,
       "duration_minutes": 30,
       "url": "https://www.youtube.com/watch?v=I1rlK3BKmyA"
-    },
-    {
-      "video_id": "zEmabFZvdqA",
-      "title": "What happens if I lower this weight into the water?",
-      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "channel_title": "Veritasium",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-30T14:00:38Z",
-      "view_count": 2762363,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=zEmabFZvdqA"
     },
     {
       "video_id": "Vna0hkq7U1g",
@@ -389,7 +389,7 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-10-30T12:46:36Z",
-      "view_count": 1934595,
+      "view_count": 2047465,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=Vna0hkq7U1g"
     },
@@ -400,42 +400,20 @@
       "channel_title": "Steve Mould",
       "source_type": "Additional curated source",
       "published_at": "2026-10-31T12:50:48Z",
-      "view_count": 1249101,
+      "view_count": 1306606,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=Z-2pTzSZtLU"
     },
     {
-      "video_id": "25ckBnzay8Y",
-      "title": "Why Everyone Stopped Buying GoPro",
+      "video_id": "Sb1_j9A25nQ",
+      "title": "Why Apple Seems Confused",
       "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
       "channel_title": "ColdFusion",
       "source_type": "Additional curated source",
-      "published_at": "2026-10-28T17:10:33Z",
-      "view_count": 1121790,
-      "duration_minutes": 22,
-      "url": "https://www.youtube.com/watch?v=25ckBnzay8Y"
-    },
-    {
-      "video_id": "1nVwqDL3XCI",
-      "title": "AI Psychosis Is Killing People. It’s Time to Talk About It",
-      "channel_id": "UCZYTClx2T1of7BRZ86-8fow",
-      "channel_title": "SciShow",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-28T17:00:36Z",
-      "view_count": 836196,
-      "duration_minutes": 17,
-      "url": "https://www.youtube.com/watch?v=1nVwqDL3XCI"
-    },
-    {
-      "video_id": "KBfIo9sZbC4",
-      "title": "How Does Ketamine Work?",
-      "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "channel_title": "Kurzgesagt – In a Nutshell",
-      "source_type": "Independent creator",
-      "published_at": "2026-10-29T15:30:29Z",
-      "view_count": 824408,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=KBfIo9sZbC4"
+      "published_at": "2026-11-02T14:49:00Z",
+      "view_count": 879463,
+      "duration_minutes": 12,
+      "url": "https://www.youtube.com/watch?v=Sb1_j9A25nQ"
     },
     {
       "video_id": "qB7d062jcNg",
@@ -444,7 +422,7 @@
       "channel_title": "The Action Lab",
       "source_type": "Additional curated source",
       "published_at": "2026-10-31T15:03:30Z",
-      "view_count": 812821,
+      "view_count": 862623,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=qB7d062jcNg"
     },
@@ -455,7 +433,7 @@
       "channel_title": "Hacksmith Industries",
       "source_type": "Official company",
       "published_at": "2026-10-29T20:00:12Z",
-      "view_count": 707216,
+      "view_count": 740897,
       "duration_minutes": 44,
       "url": "https://www.youtube.com/watch?v=HrH9eIsqgkw"
     },
@@ -466,9 +444,31 @@
       "channel_title": "Sabine Hossenfelder",
       "source_type": "Additional curated source",
       "published_at": "2026-11-02T16:00:37Z",
-      "view_count": 670520,
+      "view_count": 712282,
       "duration_minutes": 7,
       "url": "https://www.youtube.com/watch?v=PUa5i_U8yYE"
+    },
+    {
+      "video_id": "JsRiC6vGb1E",
+      "title": "Windows Are Absurd",
+      "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
+      "channel_title": "Practical Engineering",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-03T14:00:39Z",
+      "view_count": 673382,
+      "duration_minutes": 24,
+      "url": "https://www.youtube.com/watch?v=JsRiC6vGb1E"
+    },
+    {
+      "video_id": "QXXqSh5qAuA",
+      "title": "What if We Can't Detect Dark Matter?",
+      "channel_id": "UCUHW94eEFW7hkUMVaZz4eDg",
+      "channel_title": "minutephysics",
+      "source_type": "Additional curated source",
+      "published_at": "2026-10-29T18:52:56Z",
+      "view_count": 628036,
+      "duration_minutes": 13,
+      "url": "https://www.youtube.com/watch?v=QXXqSh5qAuA"
     }
   ]
 }

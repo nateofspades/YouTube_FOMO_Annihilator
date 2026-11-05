@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-11-04T16:38:44.493017Z",
+  "generated_at": "2026-11-05T16:54:30.747936Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,42 +11,42 @@
       "handle": "@GitHub",
       "source_type": "Official company",
       "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
-      "recent_video_count": 16
+      "recent_video_count": 14
     },
     {
       "name": "Google for Developers",
       "handle": "@GoogleDevelopers",
       "source_type": "Official company",
       "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
-      "recent_video_count": 3
+      "recent_video_count": 1
     },
     {
       "name": "Microsoft Developer",
       "handle": "@MicrosoftDeveloper",
       "source_type": "Official company",
       "channel_id": "UCsMica-v34Irf9KVTh6xx-g",
-      "recent_video_count": 12
+      "recent_video_count": 8
     },
     {
       "name": "AWS Developers",
       "handle": "@awsdevelopers",
       "source_type": "Official company",
       "channel_id": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Google Cloud Tech",
       "handle": "@googlecloudtech",
       "source_type": "Official company",
       "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "recent_video_count": 15
+      "recent_video_count": 17
     },
     {
       "name": "Cloudflare",
       "handle": "UCgv3xMy6kECn0boYP9d2o-g",
       "source_type": "Official company",
       "channel_id": "UCgv3xMy6kECn0boYP9d2o-g",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Docker",
@@ -67,14 +67,14 @@
       "handle": "@GitLab",
       "source_type": "Official company",
       "channel_id": "UCnMGQ8QHMAnVIsI3xJrihhg",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "JetBrains",
       "handle": "@JetBrainsTV",
       "source_type": "Official company",
       "channel_id": "UCGp4UBwpTNegd_4nCpuBcow",
-      "recent_video_count": 2
+      "recent_video_count": 4
     },
     {
       "name": "Fireship",
@@ -88,14 +88,14 @@
       "handle": "@freecodecamp",
       "source_type": "Research institution",
       "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Traversy Media",
       "handle": "@TraversyMedia",
       "source_type": "Independent creator",
       "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Web Dev Simplified",
@@ -123,7 +123,7 @@
       "handle": "@TechWorldwithNana",
       "source_type": "Independent creator",
       "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Hussein Nasser",
@@ -144,7 +144,7 @@
       "handle": "@LaravelPHP",
       "source_type": "Official company",
       "channel_id": "UCfO2GiQwb-cwJTb1CuRSkwg",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Programming with Mosh",
@@ -186,7 +186,7 @@
       "handle": "UC_mYaQAE6-71rjSN6CeCA-g",
       "source_type": "Additional curated source",
       "channel_id": "UC_mYaQAE6-71rjSN6CeCA-g",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "CS Dojo",
@@ -214,7 +214,7 @@
       "handle": "UCmEzz-dPBVrsy4ZluSsYHDg",
       "source_type": "Additional curated source",
       "channel_id": "UCmEzz-dPBVrsy4ZluSsYHDg",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Jack Herrington",
@@ -256,7 +256,7 @@
       "handle": "UCmXmlB4-HJytD7wek0Uo97A",
       "source_type": "Additional curated source",
       "channel_id": "UCmXmlB4-HJytD7wek0Uo97A",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "ArjanCodes",
@@ -319,7 +319,7 @@
       "handle": "UCRPMAqdtSgd0Ipeef7iFsKw",
       "source_type": "Additional curated source",
       "channel_id": "UCRPMAqdtSgd0Ipeef7iFsKw",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "CodeOpinion",
@@ -333,21 +333,21 @@
       "handle": "UC9-y-6csu5WGm29I7JiwpnA",
       "source_type": "Additional curated source",
       "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Low Level Learning",
       "handle": "UC6biysICWOJ-C3P4Tyeggzg",
       "source_type": "Additional curated source",
       "channel_id": "UC6biysICWOJ-C3P4Tyeggzg",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Syntax",
       "handle": "UCyU5wkjgQYGRB0hIHMwm2Sg",
       "source_type": "Additional curated source",
       "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
-      "recent_video_count": 3
+      "recent_video_count": 7
     },
     {
       "name": "Supabase",
@@ -357,19 +357,8 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 161,
+  "candidate_count": 154,
   "results": [
-    {
-      "video_id": "7h7FYGF7tuQ",
-      "title": "Reverse Engineering Proves What We Suspected All Along..",
-      "channel_id": "UC6biysICWOJ-C3P4Tyeggzg",
-      "channel_title": "Low Level",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-29T13:52:38Z",
-      "view_count": 1935010,
-      "duration_minutes": 12,
-      "url": "https://www.youtube.com/watch?v=7h7FYGF7tuQ"
-    },
     {
       "video_id": "k2ruCf_z75I",
       "title": "The worst week in cybersecurity history... so far",
@@ -377,7 +366,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-11-03T19:47:10Z",
-      "view_count": 1309258,
+      "view_count": 1720710,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=k2ruCf_z75I"
     },
@@ -388,20 +377,9 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-10-29T17:34:08Z",
-      "view_count": 409241,
+      "view_count": 416579,
       "duration_minutes": 42,
       "url": "https://www.youtube.com/watch?v=uLGxb4F3SyI"
-    },
-    {
-      "video_id": "cqfl38Ip1ho",
-      "title": "How Ethical Hackers Actually Break Into Systems",
-      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
-      "channel_title": "freeCodeCamp.org",
-      "source_type": "Research institution",
-      "published_at": "2026-10-28T16:45:00Z",
-      "view_count": 231154,
-      "duration_minutes": 157,
-      "url": "https://www.youtube.com/watch?v=cqfl38Ip1ho"
     },
     {
       "video_id": "7VfKiaGOZcA",
@@ -410,20 +388,42 @@
       "channel_title": "KodeKloud",
       "source_type": "Additional curated source",
       "published_at": "2026-11-02T13:45:22Z",
-      "view_count": 199970,
+      "view_count": 286841,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=7VfKiaGOZcA"
     },
     {
-      "video_id": "xbCa0aa4tRM",
-      "title": "Everything announced at GitHub Universe 2026: opening keynote recap",
-      "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
-      "channel_title": "GitHub",
-      "source_type": "Official company",
-      "published_at": "2026-10-29T13:57:25Z",
-      "view_count": 51748,
+      "video_id": "m4gx5YoRYfM",
+      "title": "This Isn't Possible...",
+      "channel_id": "UC6biysICWOJ-C3P4Tyeggzg",
+      "channel_title": "Low Level",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-02T13:46:54Z",
+      "view_count": 217526,
+      "duration_minutes": 13,
+      "url": "https://www.youtube.com/watch?v=m4gx5YoRYfM"
+    },
+    {
+      "video_id": "lR931Iz8Z6U",
+      "title": "Vector Databases Full Course for Beginners – Embeddings, Similarity Search & ChromaDB",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "channel_title": "freeCodeCamp.org",
+      "source_type": "Research institution",
+      "published_at": "2026-11-03T12:52:54Z",
+      "view_count": 88380,
+      "duration_minutes": 100,
+      "url": "https://www.youtube.com/watch?v=lR931Iz8Z6U"
+    },
+    {
+      "video_id": "CMa6nVtLVsk",
+      "title": "A Wake Up Call for Computer Science Students",
+      "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
+      "channel_title": "Amigoscode",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-03T17:00:25Z",
+      "view_count": 61054,
       "duration_minutes": 8,
-      "url": "https://www.youtube.com/watch?v=xbCa0aa4tRM"
+      "url": "https://www.youtube.com/watch?v=CMa6nVtLVsk"
     },
     {
       "video_id": "QeWX-XsCp3w",
@@ -432,42 +432,42 @@
       "channel_title": "Gaurav Sen",
       "source_type": "Additional curated source",
       "published_at": "2026-10-30T10:43:18Z",
-      "view_count": 50979,
+      "view_count": 53775,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=QeWX-XsCp3w"
     },
     {
-      "video_id": "ID6vEy94j7c",
-      "title": "Building real-time vision & edge navigation with Gemini Live",
-      "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
-      "channel_title": "Google for Developers",
-      "source_type": "Official company",
-      "published_at": "2026-10-28T21:00:32Z",
-      "view_count": 40485,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=ID6vEy94j7c"
-    },
-    {
-      "video_id": "6Au9_XNPAtw",
-      "title": "Java's Biggest Update in Decades",
-      "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
-      "channel_title": "Amigoscode",
+      "video_id": "feteUGx5020",
+      "title": "Reddit Locking its Doors ⟡ Agent Desktop is Cool ⟡ CSS Tricks is Back ⌁ Syntax Weekly ⌁",
+      "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
+      "channel_title": "Syntax",
       "source_type": "Additional curated source",
-      "published_at": "2026-10-29T17:30:06Z",
-      "view_count": 39165,
-      "duration_minutes": 9,
-      "url": "https://www.youtube.com/watch?v=6Au9_XNPAtw"
+      "published_at": "2026-11-02T19:45:38Z",
+      "view_count": 30598,
+      "duration_minutes": 97,
+      "url": "https://www.youtube.com/watch?v=feteUGx5020"
     },
     {
-      "video_id": "_x1GskHtJxo",
-      "title": "Give me 5 minutes and I'll show you what really happens when you type a URL and press Enter",
-      "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
-      "channel_title": "TechWorld with Nana",
+      "video_id": "0ivj5WKqi1I",
+      "title": "Docker Explained In Under 2 Minutes #docker #devops",
+      "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
+      "channel_title": "Traversy Media",
       "source_type": "Independent creator",
-      "published_at": "2026-10-29T14:11:03Z",
-      "view_count": 34281,
-      "duration_minutes": 4,
-      "url": "https://www.youtube.com/watch?v=_x1GskHtJxo"
+      "published_at": "2026-10-30T18:23:18Z",
+      "view_count": 20879,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=0ivj5WKqi1I"
+    },
+    {
+      "video_id": "dNGchf4InU0",
+      "title": "Real time vision for AI agents: Snapshots, streams & Gemini Live API",
+      "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
+      "channel_title": "Google Cloud Tech",
+      "source_type": "Official company",
+      "published_at": "2026-11-04T20:00:12Z",
+      "view_count": 16807,
+      "duration_minutes": 8,
+      "url": "https://www.youtube.com/watch?v=dNGchf4InU0"
     }
   ]
 }
