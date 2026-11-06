@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-11-05T16:54:30.747936Z",
+  "generated_at": "2026-11-06T16:21:53.086483Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 7
+      "recent_video_count": 4
     },
     {
       "name": "TechCrunch",
@@ -25,14 +25,14 @@
       "handle": "@a16z",
       "source_type": "Venture capital",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Sequoia Capital",
       "handle": "@sequoiacapital",
       "source_type": "Venture capital",
       "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
-      "recent_video_count": 10
+      "recent_video_count": 7
     },
     {
       "name": "This Week in Startups",
@@ -46,7 +46,7 @@
       "handle": "@LennysPodcast",
       "source_type": "Independent creator",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "20VC",
@@ -67,7 +67,7 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "My First Million",
@@ -102,7 +102,7 @@
       "handle": "@BessemerVenturePartners",
       "source_type": "Venture capital",
       "channel_id": "UCKuHAxZoh99t8uyPQhoDR3A",
-      "recent_video_count": 30
+      "recent_video_count": 31
     },
     {
       "name": "Antler Global",
@@ -144,28 +144,28 @@
       "handle": "@DavidSenra",
       "source_type": "Independent creator",
       "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "recent_video_count": 13
+      "recent_video_count": 15
     },
     {
       "name": "Starter Story",
       "handle": "UChhw6DlKKTQ9mYSpTfXUYqA",
       "source_type": "Additional curated source",
       "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "Greg Isenberg",
       "handle": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "source_type": "Additional curated source",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "TBPN",
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "Additional curated source",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 23
+      "recent_video_count": 25
     },
     {
       "name": "The Logan Bartlett Show",
@@ -179,7 +179,7 @@
       "handle": "UChpWgrkJY_i7F6wwI_TOnrg",
       "source_type": "Additional curated source",
       "channel_id": "UChpWgrkJY_i7F6wwI_TOnrg",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Entrepreneur",
@@ -193,21 +193,21 @@
       "handle": "UCH5_L3ytGbBziX0CLuYdQ1Q",
       "source_type": "Additional curated source",
       "channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Bloomberg Technology",
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "Additional curated source",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 26
+      "recent_video_count": 31
     },
     {
       "name": "PitchBook",
       "handle": "UC4rBao48na0v__j3Xvu0T-g",
       "source_type": "Additional curated source",
       "channel_id": "UC4rBao48na0v__j3Xvu0T-g",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Crunchbase",
@@ -242,14 +242,14 @@
       "handle": "UC_oji6l_-xwhmZqCxRGuAXw",
       "source_type": "Additional curated source",
       "channel_id": "UC_oji6l_-xwhmZqCxRGuAXw",
-      "recent_video_count": 4
+      "recent_video_count": 2
     },
     {
       "name": "Lightspeed Venture Partners",
       "handle": "UCwBTFE_6Bsb_EtmXlW2aTlg",
       "source_type": "Additional curated source",
       "channel_id": "UCwBTFE_6Bsb_EtmXlW2aTlg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "General Catalyst",
@@ -350,7 +350,7 @@
       "recent_video_count": 8
     }
   ],
-  "candidate_count": 232,
+  "candidate_count": 233,
   "results": [
     {
       "video_id": "VS0WThvgfrE",
@@ -359,20 +359,9 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-10-31T03:35:42Z",
-      "view_count": 312203,
+      "view_count": 350118,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=VS0WThvgfrE"
-    },
-    {
-      "video_id": "hnxn16HtLIk",
-      "title": "How I Built It: $400K/Month iOS App",
-      "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
-      "channel_title": "Starter Story",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-01T18:00:28Z",
-      "view_count": 128838,
-      "duration_minutes": 12,
-      "url": "https://www.youtube.com/watch?v=hnxn16HtLIk"
     },
     {
       "video_id": "67BmkptgTms",
@@ -381,9 +370,20 @@
       "channel_title": "Greg Isenberg",
       "source_type": "Additional curated source",
       "published_at": "2026-11-02T19:15:08Z",
-      "view_count": 123980,
+      "view_count": 137274,
       "duration_minutes": 50,
       "url": "https://www.youtube.com/watch?v=67BmkptgTms"
+    },
+    {
+      "video_id": "hnxn16HtLIk",
+      "title": "How I Built It: $400K/Month iOS App",
+      "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
+      "channel_title": "Starter Story",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-01T18:00:28Z",
+      "view_count": 136421,
+      "duration_minutes": 12,
+      "url": "https://www.youtube.com/watch?v=hnxn16HtLIk"
     },
     {
       "video_id": "1hk_VMEeoPQ",
@@ -392,31 +392,20 @@
       "channel_title": "Codie Sanchez",
       "source_type": "Additional curated source",
       "published_at": "2026-11-01T16:00:08Z",
-      "view_count": 108800,
+      "view_count": 118603,
       "duration_minutes": 13,
       "url": "https://www.youtube.com/watch?v=1hk_VMEeoPQ"
     },
     {
-      "video_id": "vl7HiMdGfjo",
-      "title": "What Happens When Everyone Can Build Software",
-      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "channel_title": "Y Combinator",
-      "source_type": "Accelerator",
-      "published_at": "2026-10-30T14:30:00Z",
-      "view_count": 87625,
-      "duration_minutes": 49,
-      "url": "https://www.youtube.com/watch?v=vl7HiMdGfjo"
-    },
-    {
-      "video_id": "T_87i1iR9Xk",
-      "title": "CEO's AI Productivity Set Up",
+      "video_id": "oMvaTK163HA",
+      "title": "How to prompt AI in 2027",
       "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
       "channel_title": "Dan Martell",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-03T16:03:20Z",
-      "view_count": 59907,
+      "published_at": "2026-11-04T22:01:14Z",
+      "view_count": 82846,
       "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=T_87i1iR9Xk"
+      "url": "https://www.youtube.com/watch?v=oMvaTK163HA"
     },
     {
       "video_id": "N8pMSBteR18",
@@ -425,7 +414,7 @@
       "channel_title": "20VC with Harry Stebbings",
       "source_type": "Venture capital",
       "published_at": "2026-11-03T06:00:30Z",
-      "view_count": 56046,
+      "view_count": 64567,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=N8pMSBteR18"
     },
@@ -436,18 +425,18 @@
       "channel_title": "a16z",
       "source_type": "Venture capital",
       "published_at": "2026-10-31T14:30:17Z",
-      "view_count": 54369,
+      "view_count": 56433,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=_d83IiEU7_0"
     },
     {
       "video_id": "OE32mgQCN6E",
-      "title": "$100M fund manager: how to stop living like a robot that just saves money",
+      "title": "$100M fund manager: how to live life so intensely that you die with zero regrets",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-11-02T14:30:04Z",
-      "view_count": 49206,
+      "view_count": 53892,
       "duration_minutes": 81,
       "url": "https://www.youtube.com/watch?v=OE32mgQCN6E"
     },
@@ -458,9 +447,20 @@
       "channel_title": "Lenny's Podcast",
       "source_type": "Independent creator",
       "published_at": "2026-11-01T13:30:01Z",
-      "view_count": 47120,
+      "view_count": 50552,
       "duration_minutes": 88,
       "url": "https://www.youtube.com/watch?v=KzS5Qs7vSMg"
+    },
+    {
+      "video_id": "RveQCVgxyjs",
+      "title": "I've made $3M with my 36 startups",
+      "channel_id": "UC12JO2IPlEViR-o6SLXKx1A",
+      "channel_title": "Marc Lou",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-02T12:15:09Z",
+      "view_count": 36898,
+      "duration_minutes": 12,
+      "url": "https://www.youtube.com/watch?v=RveQCVgxyjs"
     }
   ]
 }

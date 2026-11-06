@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-05T16:54:30.747936Z",
+  "generated_at": "2026-11-06T16:21:53.086483Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -39,7 +39,7 @@
       "handle": "@RealEngineering",
       "source_type": "Independent creator",
       "channel_id": "UCR1IuLEqb6UEA_zQ81kwXfg",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Practical Engineering",
@@ -53,14 +53,14 @@
       "handle": "@MarkRober",
       "source_type": "Independent creator",
       "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Hacksmith Industries",
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Boston Dynamics",
@@ -74,14 +74,14 @@
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "European Space Agency",
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 6
+      "recent_video_count": 4
     },
     {
       "name": "Cleo Abram",
@@ -102,7 +102,7 @@
       "handle": "@fullychargedshow",
       "source_type": "Editorial/media",
       "channel_id": "UCzz4CoEgSgWNs9ZAvRMhW2A",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "IBM Research",
@@ -117,7 +117,7 @@
       "handle": "@fermilab",
       "source_type": "Research institution",
       "channel_id": "UCD5B6VoXv41fJ-IW8Wrhz9A",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Applied Science",
@@ -173,14 +173,14 @@
       "handle": "UCUHW94eEFW7hkUMVaZz4eDg",
       "source_type": "Additional curated source",
       "channel_id": "UCUHW94eEFW7hkUMVaZz4eDg",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "MinuteEarth",
       "handle": "UCeiYXex_fwgYDonaTcSIk6w",
       "source_type": "Additional curated source",
       "channel_id": "UCeiYXex_fwgYDonaTcSIk6w",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "NileRed",
@@ -229,7 +229,7 @@
       "handle": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "source_type": "Additional curated source",
       "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "GreatScott!",
@@ -257,7 +257,7 @@
       "handle": "UC1LpsuAUaKoMzzJSEt5WImw",
       "source_type": "Additional curated source",
       "channel_id": "UC1LpsuAUaKoMzzJSEt5WImw",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "ColdFusion",
@@ -278,7 +278,7 @@
       "handle": "UCciQ8wFcVoIIMi-lfu8-cjQ",
       "source_type": "Additional curated source",
       "channel_id": "UCciQ8wFcVoIIMi-lfu8-cjQ",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Dr Becky",
@@ -292,14 +292,14 @@
       "handle": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "source_type": "Additional curated source",
       "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "StarTalk",
       "handle": "UCqoAEDirJPjEUFcF2FklnBA",
       "source_type": "Additional curated source",
       "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Fraser Cain",
@@ -320,7 +320,7 @@
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 9
+      "recent_video_count": 6
     },
     {
       "name": "SpaceX",
@@ -341,7 +341,7 @@
       "handle": "UCxzC4EngIsMrPmbm6Nxvb-A",
       "source_type": "Additional curated source",
       "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Primal Space",
@@ -358,16 +358,16 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 108,
+  "candidate_count": 101,
   "results": [
     {
       "video_id": "KfODG5REyss",
-      "title": "The Closest Thing We’ve Got To Real Perpetual Motion",
+      "title": "I finally saw quantum physics with my own eyes...",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-11-04T15:52:59Z",
-      "view_count": 3295810,
+      "view_count": 6016709,
       "duration_minutes": 66,
       "url": "https://www.youtube.com/watch?v=KfODG5REyss"
     },
@@ -378,20 +378,9 @@
       "channel_title": "Technology Connections",
       "source_type": "Additional curated source",
       "published_at": "2026-10-30T17:35:51Z",
-      "view_count": 3261167,
+      "view_count": 3384161,
       "duration_minutes": 30,
       "url": "https://www.youtube.com/watch?v=I1rlK3BKmyA"
-    },
-    {
-      "video_id": "Vna0hkq7U1g",
-      "title": "Neuralink’s Newest Brain Chip Isn’t What You Think",
-      "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "channel_title": "Cleo Abram",
-      "source_type": "Editorial/media",
-      "published_at": "2026-10-30T12:46:36Z",
-      "view_count": 2047465,
-      "duration_minutes": 18,
-      "url": "https://www.youtube.com/watch?v=Vna0hkq7U1g"
     },
     {
       "video_id": "Z-2pTzSZtLU",
@@ -400,9 +389,20 @@
       "channel_title": "Steve Mould",
       "source_type": "Additional curated source",
       "published_at": "2026-10-31T12:50:48Z",
-      "view_count": 1306606,
+      "view_count": 1364617,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=Z-2pTzSZtLU"
+    },
+    {
+      "video_id": "3Bc2UXVk5ug",
+      "title": "You’re Dead. What Next?",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-10-31T14:35:40Z",
+      "view_count": 1359075,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=3Bc2UXVk5ug"
     },
     {
       "video_id": "Sb1_j9A25nQ",
@@ -411,7 +411,7 @@
       "channel_title": "ColdFusion",
       "source_type": "Additional curated source",
       "published_at": "2026-11-02T14:49:00Z",
-      "view_count": 879463,
+      "view_count": 913552,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=Sb1_j9A25nQ"
     },
@@ -422,31 +422,9 @@
       "channel_title": "The Action Lab",
       "source_type": "Additional curated source",
       "published_at": "2026-10-31T15:03:30Z",
-      "view_count": 862623,
+      "view_count": 895168,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=qB7d062jcNg"
-    },
-    {
-      "video_id": "HrH9eIsqgkw",
-      "title": "We Built a REAL Minecraft Train Inside Our Office",
-      "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "channel_title": "Hacksmith Industries",
-      "source_type": "Official company",
-      "published_at": "2026-10-29T20:00:12Z",
-      "view_count": 740897,
-      "duration_minutes": 44,
-      "url": "https://www.youtube.com/watch?v=HrH9eIsqgkw"
-    },
-    {
-      "video_id": "PUa5i_U8yYE",
-      "title": "It’s Happening: AI Eats Physics",
-      "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
-      "channel_title": "Sabine Hossenfelder",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-02T16:00:37Z",
-      "view_count": 712282,
-      "duration_minutes": 7,
-      "url": "https://www.youtube.com/watch?v=PUa5i_U8yYE"
     },
     {
       "video_id": "JsRiC6vGb1E",
@@ -455,20 +433,42 @@
       "channel_title": "Practical Engineering",
       "source_type": "Independent creator",
       "published_at": "2026-11-03T14:00:39Z",
-      "view_count": 673382,
+      "view_count": 775115,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=JsRiC6vGb1E"
     },
     {
-      "video_id": "QXXqSh5qAuA",
-      "title": "What if We Can't Detect Dark Matter?",
-      "channel_id": "UCUHW94eEFW7hkUMVaZz4eDg",
-      "channel_title": "minutephysics",
+      "video_id": "PUa5i_U8yYE",
+      "title": "It’s Happening: AI Eats Physics",
+      "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
+      "channel_title": "Sabine Hossenfelder",
       "source_type": "Additional curated source",
-      "published_at": "2026-10-29T18:52:56Z",
-      "view_count": 628036,
-      "duration_minutes": 13,
-      "url": "https://www.youtube.com/watch?v=QXXqSh5qAuA"
+      "published_at": "2026-11-02T16:00:37Z",
+      "view_count": 726038,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=PUa5i_U8yYE"
+    },
+    {
+      "video_id": "aCZosHTmyPY",
+      "title": "We Found an Unknown Chemical Signature on Saturn’s Moon Titan",
+      "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
+      "channel_title": "Astrum",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-04T17:00:30Z",
+      "view_count": 567879,
+      "duration_minutes": 29,
+      "url": "https://www.youtube.com/watch?v=aCZosHTmyPY"
+    },
+    {
+      "video_id": "i7esSCr2UJk",
+      "title": "Why Is There No Vitamin F?",
+      "channel_id": "UCZYTClx2T1of7BRZ86-8fow",
+      "channel_title": "SciShow",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-04T18:00:29Z",
+      "view_count": 420383,
+      "duration_minutes": 15,
+      "url": "https://www.youtube.com/watch?v=i7esSCr2UJk"
     }
   ]
 }
