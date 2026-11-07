@@ -1,7 +1,7 @@
 {
   "slug": "ai",
   "title": "AI news",
-  "generated_at": "2026-11-06T16:21:53.086483Z",
+  "generated_at": "2026-11-07T15:14:09.147771Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 2,
@@ -95,7 +95,7 @@
       "handle": "UCqcbQf6yw5KzRoDDcZ_wBSw",
       "source_type": "AI-focused channel",
       "channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "The AI Daily Brief",
@@ -109,7 +109,7 @@
       "handle": "UC0C-17n9iuUQPylguM1d-lQ",
       "source_type": "AI-focused channel",
       "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "AI Search",
@@ -137,7 +137,7 @@
       "handle": "UCsBjURrPoezykLs9EqgamOA",
       "source_type": "AI-focused channel",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "IBM Technology",
@@ -179,28 +179,28 @@
       "handle": "UCOmcA3f_RrH6b9NmcNa4tdg",
       "source_type": "AI-focused channel",
       "channel_id": "UCOmcA3f_RrH6b9NmcNa4tdg",
-      "recent_video_count": 29
+      "recent_video_count": 30
     },
     {
       "name": "The Verge",
       "handle": "UCddiUEpeqJcYeBxX1IVBKvQ",
       "source_type": "AI-focused channel",
       "channel_id": "UCddiUEpeqJcYeBxX1IVBKvQ",
-      "recent_video_count": 23
+      "recent_video_count": 22
     },
     {
       "name": "Bloomberg Technology",
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "AI-focused channel",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 31
+      "recent_video_count": 34
     },
     {
       "name": "CNBC Television",
       "handle": "UCrp_UI8XtuYfpiqluWLD7Lw",
       "source_type": "AI-focused channel",
       "channel_id": "UCrp_UI8XtuYfpiqluWLD7Lw",
-      "recent_video_count": 237
+      "recent_video_count": 254
     },
     {
       "name": "TechCrunch",
@@ -221,14 +221,14 @@
       "handle": "UCFQDtftsHGzSh1-TReNT4lA",
       "source_type": "AI-focused channel",
       "channel_id": "UCFQDtftsHGzSh1-TReNT4lA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "The Rundown AI",
       "handle": "UC8LUzR34nNX8KH3Edd0un1g",
       "source_type": "AI-focused channel",
       "channel_id": "UC8LUzR34nNX8KH3Edd0un1g",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "The AI Epiphany",
@@ -249,7 +249,7 @@
       "handle": "UC00DrQVoCf9Liv4D0KV0rGw",
       "source_type": "AI-focused channel",
       "channel_id": "UC00DrQVoCf9Liv4D0KV0rGw",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Yannic Kilcher",
@@ -277,7 +277,7 @@
       "handle": "UCHuiy8bXnmK5nisYHUd1J5g",
       "source_type": "AI-focused channel",
       "channel_id": "UCHuiy8bXnmK5nisYHUd1J5g",
-      "recent_video_count": 7
+      "recent_video_count": 5
     },
     {
       "name": "Microsoft",
@@ -333,7 +333,7 @@
       "handle": "UCLKPca3kwwd-B59HNr-_lvA",
       "source_type": "AI-focused channel",
       "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
-      "recent_video_count": 40
+      "recent_video_count": 41
     },
     {
       "name": "David Shapiro",
@@ -350,7 +350,7 @@
       "recent_video_count": 4
     }
   ],
-  "candidate_count": 515,
+  "candidate_count": 534,
   "results": [
     {
       "video_id": "k2ruCf_z75I",
@@ -359,7 +359,7 @@
       "channel_title": "Fireship",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-03T19:47:10Z",
-      "view_count": 1905066,
+      "view_count": 1994978,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=k2ruCf_z75I"
     },
@@ -370,20 +370,20 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-03T18:30:30Z",
-      "view_count": 519283,
+      "view_count": 581116,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=NCxD-qsQcN0"
     },
     {
-      "video_id": "s6avdXZlnyo",
-      "title": "$6.3 BILLION, gone.",
+      "video_id": "mdlLCkLx9BI",
+      "title": "Uh, Google?",
       "channel_id": "UCeeFfhMcJa1kjtfZAGskOCA",
       "channel_title": "TechLinked",
       "source_type": "AI-focused channel",
-      "published_at": "2026-10-31T01:05:34Z",
-      "view_count": 516647,
+      "published_at": "2026-11-05T02:19:27Z",
+      "view_count": 534914,
       "duration_minutes": 11,
-      "url": "https://www.youtube.com/watch?v=s6avdXZlnyo"
+      "url": "https://www.youtube.com/watch?v=mdlLCkLx9BI"
     },
     {
       "video_id": "IGICYFyP_EI",
@@ -392,7 +392,7 @@
       "channel_title": "AI Search",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-01T03:27:10Z",
-      "view_count": 455040,
+      "view_count": 462376,
       "duration_minutes": 54,
       "url": "https://www.youtube.com/watch?v=IGICYFyP_EI"
     },
@@ -403,7 +403,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-03T23:00:28Z",
-      "view_count": 356242,
+      "view_count": 376206,
       "duration_minutes": 32,
       "url": "https://www.youtube.com/watch?v=xq0eB8vxeqk"
     },
@@ -414,7 +414,7 @@
       "channel_title": "TheAIGRID",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-01T03:30:28Z",
-      "view_count": 336384,
+      "view_count": 354526,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=KlG0VyhIzBU"
     },
@@ -425,7 +425,7 @@
       "channel_title": "CNET",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-03T22:23:28Z",
-      "view_count": 279059,
+      "view_count": 279487,
       "duration_minutes": 254,
       "url": "https://www.youtube.com/watch?v=qGb-JzQ3oYg"
     },
@@ -436,7 +436,7 @@
       "channel_title": "CNBC Television",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-05T21:17:15Z",
-      "view_count": 219361,
+      "view_count": 234009,
       "duration_minutes": 5,
       "url": "https://www.youtube.com/watch?v=gvAkhbw620o"
     },
@@ -447,20 +447,20 @@
       "channel_title": "Matthew Berman",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-03T16:51:59Z",
-      "view_count": 216574,
+      "view_count": 229117,
       "duration_minutes": 13,
       "url": "https://www.youtube.com/watch?v=r0cJOa9MZsE"
     },
     {
-      "video_id": "L7opnQdpdMY",
-      "title": "HUGE CLAUDE MYTHOS 5.5 LEAK! Fable 5.5 INSANE, GPT-6.2 Astra, Gemini 4 Xenon & Carbon-H! AI NEWS",
-      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
-      "channel_title": "WorldofAI",
+      "video_id": "rXFV1ivDe6c",
+      "title": "Are Vector Databases Still Needed? RAG, AI Agents & Search",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "channel_title": "IBM Technology",
       "source_type": "AI-focused channel",
-      "published_at": "2026-11-02T08:55:44Z",
-      "view_count": 152951,
-      "duration_minutes": 46,
-      "url": "https://www.youtube.com/watch?v=L7opnQdpdMY"
+      "published_at": "2026-11-05T12:00:09Z",
+      "view_count": 190784,
+      "duration_minutes": 10,
+      "url": "https://www.youtube.com/watch?v=rXFV1ivDe6c"
     }
   ]
 }

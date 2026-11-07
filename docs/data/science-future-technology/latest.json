@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-06T16:21:53.086483Z",
+  "generated_at": "2026-11-07T15:14:09.147771Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -60,7 +60,7 @@
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Boston Dynamics",
@@ -81,21 +81,21 @@
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Cleo Abram",
       "handle": "@CleoAbram",
       "source_type": "Editorial/media",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Undecided",
       "handle": "@UndecidedTechnology",
       "source_type": "Independent creator",
       "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Everything Electric",
@@ -117,7 +117,7 @@
       "handle": "@fermilab",
       "source_type": "Research institution",
       "channel_id": "UCD5B6VoXv41fJ-IW8Wrhz9A",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Applied Science",
@@ -138,7 +138,7 @@
       "handle": "@TwoBitDaVinci",
       "source_type": "Independent creator",
       "channel_id": "UCEgYhf84VjXDz-W7a9-rdCQ",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Branch Education",
@@ -152,7 +152,7 @@
       "handle": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "source_type": "Additional curated source",
       "channel_id": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "3Blue1Brown",
@@ -194,21 +194,21 @@
       "handle": "UC1VLQPn9cYSqx8plbk9RxxQ",
       "source_type": "Additional curated source",
       "channel_id": "UC1VLQPn9cYSqx8plbk9RxxQ",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Steve Mould",
       "handle": "UCEIwxahdLz7bap-VDs9h35A",
       "source_type": "Additional curated source",
       "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Technology Connections",
       "handle": "UCy0tKL1T7wFoYcxCe0xjN6Q",
       "source_type": "Additional curated source",
       "channel_id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Stuff Made Here",
@@ -257,7 +257,7 @@
       "handle": "UC1LpsuAUaKoMzzJSEt5WImw",
       "source_type": "Additional curated source",
       "channel_id": "UC1LpsuAUaKoMzzJSEt5WImw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "ColdFusion",
@@ -327,7 +327,7 @@
       "handle": "UCtI0Hodo5o5dUb67FeUjDeA",
       "source_type": "Additional curated source",
       "channel_id": "UCtI0Hodo5o5dUb67FeUjDeA",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Everyday Astronaut",
@@ -358,7 +358,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 101,
+  "candidate_count": 95,
   "results": [
     {
       "video_id": "KfODG5REyss",
@@ -367,42 +367,20 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-11-04T15:52:59Z",
-      "view_count": 6016709,
+      "view_count": 9037034,
       "duration_minutes": 66,
       "url": "https://www.youtube.com/watch?v=KfODG5REyss"
     },
     {
-      "video_id": "I1rlK3BKmyA",
-      "title": "Alkaline batteries are obsolete — but not for the reason you'd think",
+      "video_id": "qh44Mo3mRzg",
+      "title": "Why does a loose gas cap turn on the check engine light?",
       "channel_id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
       "channel_title": "Technology Connections",
       "source_type": "Additional curated source",
-      "published_at": "2026-10-30T17:35:51Z",
-      "view_count": 3384161,
-      "duration_minutes": 30,
-      "url": "https://www.youtube.com/watch?v=I1rlK3BKmyA"
-    },
-    {
-      "video_id": "Z-2pTzSZtLU",
-      "title": "This Material Sorts Itself",
-      "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
-      "channel_title": "Steve Mould",
-      "source_type": "Additional curated source",
-      "published_at": "2026-10-31T12:50:48Z",
-      "view_count": 1364617,
-      "duration_minutes": 19,
-      "url": "https://www.youtube.com/watch?v=Z-2pTzSZtLU"
-    },
-    {
-      "video_id": "3Bc2UXVk5ug",
-      "title": "You’re Dead. What Next?",
-      "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "channel_title": "Cleo Abram",
-      "source_type": "Editorial/media",
-      "published_at": "2026-10-31T14:35:40Z",
-      "view_count": 1359075,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=3Bc2UXVk5ug"
+      "published_at": "2026-11-03T15:00:35Z",
+      "view_count": 1068732,
+      "duration_minutes": 23,
+      "url": "https://www.youtube.com/watch?v=qh44Mo3mRzg"
     },
     {
       "video_id": "Sb1_j9A25nQ",
@@ -411,20 +389,31 @@
       "channel_title": "ColdFusion",
       "source_type": "Additional curated source",
       "published_at": "2026-11-02T14:49:00Z",
-      "view_count": 913552,
+      "view_count": 940947,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=Sb1_j9A25nQ"
     },
     {
-      "video_id": "qB7d062jcNg",
-      "title": "The Physics Problem With Tesla's Flying Car",
-      "channel_id": "UC1VLQPn9cYSqx8plbk9RxxQ",
-      "channel_title": "The Action Lab",
+      "video_id": "Xom0I1iQXHM",
+      "title": "It’s Not As Simple As Putting Data Centers in Space",
+      "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
+      "channel_title": "StarTalk",
       "source_type": "Additional curated source",
-      "published_at": "2026-10-31T15:03:30Z",
-      "view_count": 895168,
-      "duration_minutes": 9,
-      "url": "https://www.youtube.com/watch?v=qB7d062jcNg"
+      "published_at": "2026-11-06T00:30:02Z",
+      "view_count": 924391,
+      "duration_minutes": 18,
+      "url": "https://www.youtube.com/watch?v=Xom0I1iQXHM"
+    },
+    {
+      "video_id": "ZUirpasicHQ",
+      "title": "Your Map Shows Antarctica Wrong",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-11-03T16:15:20Z",
+      "view_count": 920196,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=ZUirpasicHQ"
     },
     {
       "video_id": "JsRiC6vGb1E",
@@ -433,7 +422,7 @@
       "channel_title": "Practical Engineering",
       "source_type": "Independent creator",
       "published_at": "2026-11-03T14:00:39Z",
-      "view_count": 775115,
+      "view_count": 832233,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=JsRiC6vGb1E"
     },
@@ -444,7 +433,7 @@
       "channel_title": "Sabine Hossenfelder",
       "source_type": "Additional curated source",
       "published_at": "2026-11-02T16:00:37Z",
-      "view_count": 726038,
+      "view_count": 735109,
       "duration_minutes": 7,
       "url": "https://www.youtube.com/watch?v=PUa5i_U8yYE"
     },
@@ -455,7 +444,7 @@
       "channel_title": "Astrum",
       "source_type": "Additional curated source",
       "published_at": "2026-11-04T17:00:30Z",
-      "view_count": 567879,
+      "view_count": 675522,
       "duration_minutes": 29,
       "url": "https://www.youtube.com/watch?v=aCZosHTmyPY"
     },
@@ -466,9 +455,20 @@
       "channel_title": "SciShow",
       "source_type": "Additional curated source",
       "published_at": "2026-11-04T18:00:29Z",
-      "view_count": 420383,
+      "view_count": 547852,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=i7esSCr2UJk"
+    },
+    {
+      "video_id": "GzlnPsXOHgw",
+      "title": "Sequel to Space Race Gets Real - Deep Space Updates November 3rd",
+      "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
+      "channel_title": "Scott Manley",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-04T18:02:01Z",
+      "view_count": 408833,
+      "duration_minutes": 34,
+      "url": "https://www.youtube.com/watch?v=GzlnPsXOHgw"
     }
   ]
 }

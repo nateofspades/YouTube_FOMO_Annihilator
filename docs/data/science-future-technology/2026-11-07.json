@@ -1,0 +1,474 @@
+{
+  "slug": "science-future-technology",
+  "title": "Science and future technology",
+  "generated_at": "2026-11-07T15:14:09.147771Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "Kurzgesagt",
+      "handle": "@kurzgesagt",
+      "source_type": "Independent creator",
+      "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Veritasium",
+      "handle": "@veritasium",
+      "source_type": "Independent creator",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "recent_video_count": 3
+    },
+    {
+      "name": "PBS Space Time",
+      "handle": "@pbsspacetime",
+      "source_type": "Editorial/media",
+      "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
+      "recent_video_count": 3
+    },
+    {
+      "name": "SmarterEveryDay",
+      "handle": "@smartereveryday",
+      "source_type": "Independent creator",
+      "channel_id": "UC6107grRI4m0o2-emgoDnAA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Real Engineering",
+      "handle": "@RealEngineering",
+      "source_type": "Independent creator",
+      "channel_id": "UCR1IuLEqb6UEA_zQ81kwXfg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Practical Engineering",
+      "handle": "@PracticalEngineeringChannel",
+      "source_type": "Independent creator",
+      "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Mark Rober",
+      "handle": "@MarkRober",
+      "source_type": "Independent creator",
+      "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Hacksmith Industries",
+      "handle": "@hacksmith",
+      "source_type": "Official company",
+      "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
+      "recent_video_count": 5
+    },
+    {
+      "name": "Boston Dynamics",
+      "handle": "@BostonDynamics",
+      "source_type": "Official company",
+      "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
+      "recent_video_count": 0
+    },
+    {
+      "name": "NASA",
+      "handle": "@NASA",
+      "source_type": "Government",
+      "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "recent_video_count": 3
+    },
+    {
+      "name": "European Space Agency",
+      "handle": "@EuropeanSpaceAgency",
+      "source_type": "Government",
+      "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
+      "recent_video_count": 5
+    },
+    {
+      "name": "Cleo Abram",
+      "handle": "@CleoAbram",
+      "source_type": "Editorial/media",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "recent_video_count": 5
+    },
+    {
+      "name": "Undecided",
+      "handle": "@UndecidedTechnology",
+      "source_type": "Independent creator",
+      "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Everything Electric",
+      "handle": "@fullychargedshow",
+      "source_type": "Editorial/media",
+      "channel_id": "UCzz4CoEgSgWNs9ZAvRMhW2A",
+      "recent_video_count": 1
+    },
+    {
+      "name": "IBM Research",
+      "handle": "ibmresearch",
+      "source_type": "Research institution",
+      "channel_id": null,
+      "recent_video_count": 0,
+      "status": "unavailable"
+    },
+    {
+      "name": "Fermilab",
+      "handle": "@fermilab",
+      "source_type": "Research institution",
+      "channel_id": "UCD5B6VoXv41fJ-IW8Wrhz9A",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Applied Science",
+      "handle": "@AppliedScience",
+      "source_type": "Independent creator",
+      "channel_id": "UCivA7_KLKWo43tFcCkFvydw",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Periodic Videos",
+      "handle": "@periodicvideos",
+      "source_type": "Editorial/media",
+      "channel_id": "UCtESv1e7ntJaLJYKIO1FoYw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Two Bit da Vinci",
+      "handle": "@TwoBitDaVinci",
+      "source_type": "Independent creator",
+      "channel_id": "UCEgYhf84VjXDz-W7a9-rdCQ",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Branch Education",
+      "handle": "@BranchEducation",
+      "source_type": "Independent creator",
+      "channel_id": "UCdp4_l1vPmpN-gDbUwhaRUQ",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Vsauce",
+      "handle": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
+      "source_type": "Additional curated source",
+      "channel_id": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "3Blue1Brown",
+      "handle": "UCYO_jab_esuFRV4b17AJtAw",
+      "source_type": "Additional curated source",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "SciShow",
+      "handle": "UCZYTClx2T1of7BRZ86-8fow",
+      "source_type": "Additional curated source",
+      "channel_id": "UCZYTClx2T1of7BRZ86-8fow",
+      "recent_video_count": 5
+    },
+    {
+      "name": "minutephysics",
+      "handle": "UCUHW94eEFW7hkUMVaZz4eDg",
+      "source_type": "Additional curated source",
+      "channel_id": "UCUHW94eEFW7hkUMVaZz4eDg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "MinuteEarth",
+      "handle": "UCeiYXex_fwgYDonaTcSIk6w",
+      "source_type": "Additional curated source",
+      "channel_id": "UCeiYXex_fwgYDonaTcSIk6w",
+      "recent_video_count": 1
+    },
+    {
+      "name": "NileRed",
+      "handle": "UCFhXFikryT4aFcLkLw2LBLA",
+      "source_type": "Additional curated source",
+      "channel_id": "UCFhXFikryT4aFcLkLw2LBLA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "The Action Lab",
+      "handle": "UC1VLQPn9cYSqx8plbk9RxxQ",
+      "source_type": "Additional curated source",
+      "channel_id": "UC1VLQPn9cYSqx8plbk9RxxQ",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Steve Mould",
+      "handle": "UCEIwxahdLz7bap-VDs9h35A",
+      "source_type": "Additional curated source",
+      "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Technology Connections",
+      "handle": "UCy0tKL1T7wFoYcxCe0xjN6Q",
+      "source_type": "Additional curated source",
+      "channel_id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Stuff Made Here",
+      "handle": "UCj1VqrHhDte54oLgPG4xpuQ",
+      "source_type": "Additional curated source",
+      "channel_id": "UCj1VqrHhDte54oLgPG4xpuQ",
+      "recent_video_count": 1
+    },
+    {
+      "name": "William Osman",
+      "handle": "UCfMJ2MchTSW2kWaT0kK94Yw",
+      "source_type": "Additional curated source",
+      "channel_id": "UCfMJ2MchTSW2kWaT0kK94Yw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "ElectroBOOM",
+      "handle": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "source_type": "Additional curated source",
+      "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "GreatScott!",
+      "handle": "UC6mIxFTvXkWQVEHPsEdflzQ",
+      "source_type": "Additional curated source",
+      "channel_id": "UC6mIxFTvXkWQVEHPsEdflzQ",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Ben Eater",
+      "handle": "UCS0N5baNlQWJCUrhCEo8WlA",
+      "source_type": "Additional curated source",
+      "channel_id": "UCS0N5baNlQWJCUrhCEo8WlA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "New Mind",
+      "handle": "UC5_Y-BKzq1uW_2rexWkUzlA",
+      "source_type": "Additional curated source",
+      "channel_id": "UC5_Y-BKzq1uW_2rexWkUzlA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Asianometry",
+      "handle": "UC1LpsuAUaKoMzzJSEt5WImw",
+      "source_type": "Additional curated source",
+      "channel_id": "UC1LpsuAUaKoMzzJSEt5WImw",
+      "recent_video_count": 6
+    },
+    {
+      "name": "ColdFusion",
+      "handle": "UC4QZ_LsYcvcq7qOsOhpAX4A",
+      "source_type": "Additional curated source",
+      "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Sabine Hossenfelder",
+      "handle": "UC1yNl2E66ZzKApQdRuTQ4tw",
+      "source_type": "Additional curated source",
+      "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
+      "recent_video_count": 4
+    },
+    {
+      "name": "Anton Petrov",
+      "handle": "UCciQ8wFcVoIIMi-lfu8-cjQ",
+      "source_type": "Additional curated source",
+      "channel_id": "UCciQ8wFcVoIIMi-lfu8-cjQ",
+      "recent_video_count": 7
+    },
+    {
+      "name": "Dr Becky",
+      "handle": "UCYNbYGl89UUowy8oXkipC-Q",
+      "source_type": "Additional curated source",
+      "channel_id": "UCYNbYGl89UUowy8oXkipC-Q",
+      "recent_video_count": 4
+    },
+    {
+      "name": "Astrum",
+      "handle": "UC-9b7aDP6ZN0coj9-xFnrtw",
+      "source_type": "Additional curated source",
+      "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
+      "recent_video_count": 1
+    },
+    {
+      "name": "StarTalk",
+      "handle": "UCqoAEDirJPjEUFcF2FklnBA",
+      "source_type": "Additional curated source",
+      "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
+      "recent_video_count": 4
+    },
+    {
+      "name": "Fraser Cain",
+      "handle": "UCogrSQkBJn1KF0N9I4oM7eQ",
+      "source_type": "Additional curated source",
+      "channel_id": "UCogrSQkBJn1KF0N9I4oM7eQ",
+      "recent_video_count": 6
+    },
+    {
+      "name": "The Royal Institution",
+      "handle": "UCYeF244yNGuFefuFKqxIAXw",
+      "source_type": "Additional curated source",
+      "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
+      "recent_video_count": 7
+    },
+    {
+      "name": "New Scientist",
+      "handle": "UCt5OA3LingpZBeEyPYmputQ",
+      "source_type": "Additional curated source",
+      "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
+      "recent_video_count": 6
+    },
+    {
+      "name": "SpaceX",
+      "handle": "UCtI0Hodo5o5dUb67FeUjDeA",
+      "source_type": "Additional curated source",
+      "channel_id": "UCtI0Hodo5o5dUb67FeUjDeA",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Everyday Astronaut",
+      "handle": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
+      "source_type": "Additional curated source",
+      "channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Scott Manley",
+      "handle": "UCxzC4EngIsMrPmbm6Nxvb-A",
+      "source_type": "Additional curated source",
+      "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
+      "recent_video_count": 6
+    },
+    {
+      "name": "Primal Space",
+      "handle": "UClZbmi9JzfnB2CEb0fG8iew",
+      "source_type": "Additional curated source",
+      "channel_id": "UClZbmi9JzfnB2CEb0fG8iew",
+      "recent_video_count": 0
+    },
+    {
+      "name": "TED-Ed",
+      "handle": "UCsooa4yRKGN_zEE8iknghZA",
+      "source_type": "Additional curated source",
+      "channel_id": "UCsooa4yRKGN_zEE8iknghZA",
+      "recent_video_count": 2
+    }
+  ],
+  "candidate_count": 95,
+  "results": [
+    {
+      "video_id": "KfODG5REyss",
+      "title": "I finally saw quantum physics with my own eyes...",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channel_title": "Veritasium",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-04T15:52:59Z",
+      "view_count": 9037034,
+      "duration_minutes": 66,
+      "url": "https://www.youtube.com/watch?v=KfODG5REyss"
+    },
+    {
+      "video_id": "qh44Mo3mRzg",
+      "title": "Why does a loose gas cap turn on the check engine light?",
+      "channel_id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
+      "channel_title": "Technology Connections",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-03T15:00:35Z",
+      "view_count": 1068732,
+      "duration_minutes": 23,
+      "url": "https://www.youtube.com/watch?v=qh44Mo3mRzg"
+    },
+    {
+      "video_id": "Sb1_j9A25nQ",
+      "title": "Why Apple Seems Confused",
+      "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
+      "channel_title": "ColdFusion",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-02T14:49:00Z",
+      "view_count": 940947,
+      "duration_minutes": 12,
+      "url": "https://www.youtube.com/watch?v=Sb1_j9A25nQ"
+    },
+    {
+      "video_id": "Xom0I1iQXHM",
+      "title": "It’s Not As Simple As Putting Data Centers in Space",
+      "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
+      "channel_title": "StarTalk",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-06T00:30:02Z",
+      "view_count": 924391,
+      "duration_minutes": 18,
+      "url": "https://www.youtube.com/watch?v=Xom0I1iQXHM"
+    },
+    {
+      "video_id": "ZUirpasicHQ",
+      "title": "Your Map Shows Antarctica Wrong",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-11-03T16:15:20Z",
+      "view_count": 920196,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=ZUirpasicHQ"
+    },
+    {
+      "video_id": "JsRiC6vGb1E",
+      "title": "Windows Are Absurd",
+      "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
+      "channel_title": "Practical Engineering",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-03T14:00:39Z",
+      "view_count": 832233,
+      "duration_minutes": 24,
+      "url": "https://www.youtube.com/watch?v=JsRiC6vGb1E"
+    },
+    {
+      "video_id": "PUa5i_U8yYE",
+      "title": "It’s Happening: AI Eats Physics",
+      "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
+      "channel_title": "Sabine Hossenfelder",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-02T16:00:37Z",
+      "view_count": 735109,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=PUa5i_U8yYE"
+    },
+    {
+      "video_id": "aCZosHTmyPY",
+      "title": "We Found an Unknown Chemical Signature on Saturn’s Moon Titan",
+      "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
+      "channel_title": "Astrum",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-04T17:00:30Z",
+      "view_count": 675522,
+      "duration_minutes": 29,
+      "url": "https://www.youtube.com/watch?v=aCZosHTmyPY"
+    },
+    {
+      "video_id": "i7esSCr2UJk",
+      "title": "Why Is There No Vitamin F?",
+      "channel_id": "UCZYTClx2T1of7BRZ86-8fow",
+      "channel_title": "SciShow",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-04T18:00:29Z",
+      "view_count": 547852,
+      "duration_minutes": 15,
+      "url": "https://www.youtube.com/watch?v=i7esSCr2UJk"
+    },
+    {
+      "video_id": "GzlnPsXOHgw",
+      "title": "Sequel to Space Race Gets Real - Deep Space Updates November 3rd",
+      "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
+      "channel_title": "Scott Manley",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-04T18:02:01Z",
+      "view_count": 408833,
+      "duration_minutes": 34,
+      "url": "https://www.youtube.com/watch?v=GzlnPsXOHgw"
+    }
+  ]
+}
