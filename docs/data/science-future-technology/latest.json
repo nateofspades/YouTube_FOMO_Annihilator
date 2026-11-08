@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-07T15:14:09.147771Z",
+  "generated_at": "2026-11-08T15:37:52.633238Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -39,7 +39,7 @@
       "handle": "@RealEngineering",
       "source_type": "Independent creator",
       "channel_id": "UCR1IuLEqb6UEA_zQ81kwXfg",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Practical Engineering",
@@ -60,7 +60,7 @@
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Boston Dynamics",
@@ -74,21 +74,21 @@
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 3
+      "recent_video_count": 6
     },
     {
       "name": "European Space Agency",
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Cleo Abram",
       "handle": "@CleoAbram",
       "source_type": "Editorial/media",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Undecided",
@@ -145,7 +145,7 @@
       "handle": "@BranchEducation",
       "source_type": "Independent creator",
       "channel_id": "UCdp4_l1vPmpN-gDbUwhaRUQ",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Vsauce",
@@ -194,7 +194,7 @@
       "handle": "UC1VLQPn9cYSqx8plbk9RxxQ",
       "source_type": "Additional curated source",
       "channel_id": "UC1VLQPn9cYSqx8plbk9RxxQ",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Steve Mould",
@@ -215,7 +215,7 @@
       "handle": "UCj1VqrHhDte54oLgPG4xpuQ",
       "source_type": "Additional curated source",
       "channel_id": "UCj1VqrHhDte54oLgPG4xpuQ",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "William Osman",
@@ -257,7 +257,7 @@
       "handle": "UC1LpsuAUaKoMzzJSEt5WImw",
       "source_type": "Additional curated source",
       "channel_id": "UC1LpsuAUaKoMzzJSEt5WImw",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "ColdFusion",
@@ -271,7 +271,7 @@
       "handle": "UC1yNl2E66ZzKApQdRuTQ4tw",
       "source_type": "Additional curated source",
       "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Anton Petrov",
@@ -299,7 +299,7 @@
       "handle": "UCqoAEDirJPjEUFcF2FklnBA",
       "source_type": "Additional curated source",
       "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "recent_video_count": 4
+      "recent_video_count": 6
     },
     {
       "name": "Fraser Cain",
@@ -320,7 +320,7 @@
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "SpaceX",
@@ -341,7 +341,7 @@
       "handle": "UCxzC4EngIsMrPmbm6Nxvb-A",
       "source_type": "Additional curated source",
       "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Primal Space",
@@ -358,40 +358,18 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 95,
+  "candidate_count": 103,
   "results": [
     {
       "video_id": "KfODG5REyss",
-      "title": "I finally saw quantum physics with my own eyes...",
+      "title": "I finally saw quantum mechanics with my own eyes... (It's spookier than I expected)",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-11-04T15:52:59Z",
-      "view_count": 9037034,
+      "view_count": 11815442,
       "duration_minutes": 66,
       "url": "https://www.youtube.com/watch?v=KfODG5REyss"
-    },
-    {
-      "video_id": "qh44Mo3mRzg",
-      "title": "Why does a loose gas cap turn on the check engine light?",
-      "channel_id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
-      "channel_title": "Technology Connections",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-03T15:00:35Z",
-      "view_count": 1068732,
-      "duration_minutes": 23,
-      "url": "https://www.youtube.com/watch?v=qh44Mo3mRzg"
-    },
-    {
-      "video_id": "Sb1_j9A25nQ",
-      "title": "Why Apple Seems Confused",
-      "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
-      "channel_title": "ColdFusion",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-02T14:49:00Z",
-      "view_count": 940947,
-      "duration_minutes": 12,
-      "url": "https://www.youtube.com/watch?v=Sb1_j9A25nQ"
     },
     {
       "video_id": "Xom0I1iQXHM",
@@ -400,9 +378,31 @@
       "channel_title": "StarTalk",
       "source_type": "Additional curated source",
       "published_at": "2026-11-06T00:30:02Z",
-      "view_count": 924391,
+      "view_count": 1408146,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=Xom0I1iQXHM"
+    },
+    {
+      "video_id": "8ySMdUIF3cY",
+      "title": "Starship - Go For Orbit",
+      "channel_id": "UCtI0Hodo5o5dUb67FeUjDeA",
+      "channel_title": "SpaceX",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-07T15:00:36Z",
+      "view_count": 1202832,
+      "duration_minutes": 21,
+      "url": "https://www.youtube.com/watch?v=8ySMdUIF3cY"
+    },
+    {
+      "video_id": "qh44Mo3mRzg",
+      "title": "Why does a loose gas cap turn on the check engine light?",
+      "channel_id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
+      "channel_title": "Technology Connections",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-03T15:00:35Z",
+      "view_count": 1123729,
+      "duration_minutes": 23,
+      "url": "https://www.youtube.com/watch?v=qh44Mo3mRzg"
     },
     {
       "video_id": "ZUirpasicHQ",
@@ -411,9 +411,20 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-11-03T16:15:20Z",
-      "view_count": 920196,
+      "view_count": 976376,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=ZUirpasicHQ"
+    },
+    {
+      "video_id": "Sb1_j9A25nQ",
+      "title": "Why Apple Seems Confused",
+      "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
+      "channel_title": "ColdFusion",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-02T14:49:00Z",
+      "view_count": 967563,
+      "duration_minutes": 12,
+      "url": "https://www.youtube.com/watch?v=Sb1_j9A25nQ"
     },
     {
       "video_id": "JsRiC6vGb1E",
@@ -422,20 +433,9 @@
       "channel_title": "Practical Engineering",
       "source_type": "Independent creator",
       "published_at": "2026-11-03T14:00:39Z",
-      "view_count": 832233,
+      "view_count": 884889,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=JsRiC6vGb1E"
-    },
-    {
-      "video_id": "PUa5i_U8yYE",
-      "title": "It’s Happening: AI Eats Physics",
-      "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
-      "channel_title": "Sabine Hossenfelder",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-02T16:00:37Z",
-      "view_count": 735109,
-      "duration_minutes": 7,
-      "url": "https://www.youtube.com/watch?v=PUa5i_U8yYE"
     },
     {
       "video_id": "aCZosHTmyPY",
@@ -444,9 +444,20 @@
       "channel_title": "Astrum",
       "source_type": "Additional curated source",
       "published_at": "2026-11-04T17:00:30Z",
-      "view_count": 675522,
+      "view_count": 760865,
       "duration_minutes": 29,
       "url": "https://www.youtube.com/watch?v=aCZosHTmyPY"
+    },
+    {
+      "video_id": "PUa5i_U8yYE",
+      "title": "It’s Happening: AI Eats Physics",
+      "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
+      "channel_title": "Sabine Hossenfelder",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-02T16:00:37Z",
+      "view_count": 743054,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=PUa5i_U8yYE"
     },
     {
       "video_id": "i7esSCr2UJk",
@@ -455,20 +466,9 @@
       "channel_title": "SciShow",
       "source_type": "Additional curated source",
       "published_at": "2026-11-04T18:00:29Z",
-      "view_count": 547852,
+      "view_count": 663350,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=i7esSCr2UJk"
-    },
-    {
-      "video_id": "GzlnPsXOHgw",
-      "title": "Sequel to Space Race Gets Real - Deep Space Updates November 3rd",
-      "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "channel_title": "Scott Manley",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-04T18:02:01Z",
-      "view_count": 408833,
-      "duration_minutes": 34,
-      "url": "https://www.youtube.com/watch?v=GzlnPsXOHgw"
     }
   ]
 }

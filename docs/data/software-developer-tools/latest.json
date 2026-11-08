@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-11-07T15:14:09.147771Z",
+  "generated_at": "2026-11-08T15:37:52.633238Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@GitHub",
       "source_type": "Official company",
       "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
-      "recent_video_count": 14
+      "recent_video_count": 16
     },
     {
       "name": "Google for Developers",
@@ -60,7 +60,7 @@
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 39
+      "recent_video_count": 37
     },
     {
       "name": "GitLab",
@@ -186,7 +186,7 @@
       "handle": "UC_mYaQAE6-71rjSN6CeCA-g",
       "source_type": "Additional curated source",
       "channel_id": "UC_mYaQAE6-71rjSN6CeCA-g",
-      "recent_video_count": 0
+      "recent_video_count": 2
     },
     {
       "name": "CS Dojo",
@@ -354,10 +354,10 @@
       "handle": "UCNTVzV1InxHV-YR0fSajqPQ",
       "source_type": "Additional curated source",
       "channel_id": "UCNTVzV1InxHV-YR0fSajqPQ",
-      "recent_video_count": 2
+      "recent_video_count": 3
     }
   ],
-  "candidate_count": 148,
+  "candidate_count": 151,
   "results": [
     {
       "video_id": "k2ruCf_z75I",
@@ -366,7 +366,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-11-03T19:47:10Z",
-      "view_count": 1994978,
+      "view_count": 2052564,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=k2ruCf_z75I"
     },
@@ -377,7 +377,7 @@
       "channel_title": "KodeKloud",
       "source_type": "Additional curated source",
       "published_at": "2026-11-02T13:45:22Z",
-      "view_count": 409032,
+      "view_count": 469344,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=7VfKiaGOZcA"
     },
@@ -388,7 +388,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-11-03T23:00:28Z",
-      "view_count": 376245,
+      "view_count": 392482,
       "duration_minutes": 32,
       "url": "https://www.youtube.com/watch?v=xq0eB8vxeqk"
     },
@@ -399,7 +399,7 @@
       "channel_title": "Low Level",
       "source_type": "Additional curated source",
       "published_at": "2026-11-02T13:46:54Z",
-      "view_count": 256038,
+      "view_count": 269747,
       "duration_minutes": 13,
       "url": "https://www.youtube.com/watch?v=m4gx5YoRYfM"
     },
@@ -410,18 +410,18 @@
       "channel_title": "Computerphile",
       "source_type": "Additional curated source",
       "published_at": "2026-11-05T14:00:16Z",
-      "view_count": 113497,
+      "view_count": 135591,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=BmBw827GgFA"
     },
     {
       "video_id": "CMa6nVtLVsk",
-      "title": "A Wake Up Call for Computer Science Students",
+      "title": "The Art Of Winning In Tech",
       "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
       "channel_title": "Amigoscode",
       "source_type": "Additional curated source",
       "published_at": "2026-11-03T17:00:25Z",
-      "view_count": 110153,
+      "view_count": 127281,
       "duration_minutes": 8,
       "url": "https://www.youtube.com/watch?v=CMa6nVtLVsk"
     },
@@ -432,20 +432,9 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-11-03T12:52:54Z",
-      "view_count": 104680,
+      "view_count": 110736,
       "duration_minutes": 100,
       "url": "https://www.youtube.com/watch?v=lR931Iz8Z6U"
-    },
-    {
-      "video_id": "kKD3iC0mM_w",
-      "title": "Software Career is dead? #ai",
-      "channel_id": "UCRPMAqdtSgd0Ipeef7iFsKw",
-      "channel_title": "Gaurav Sen",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-03T18:40:24Z",
-      "view_count": 57897,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=kKD3iC0mM_w"
     },
     {
       "video_id": "czosBPhFnDI",
@@ -454,9 +443,20 @@
       "channel_title": "Google Cloud Tech",
       "source_type": "Official company",
       "published_at": "2026-11-05T17:00:05Z",
-      "view_count": 45990,
+      "view_count": 69651,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=czosBPhFnDI"
+    },
+    {
+      "video_id": "kKD3iC0mM_w",
+      "title": "Software Career is dead? #ai",
+      "channel_id": "UCRPMAqdtSgd0Ipeef7iFsKw",
+      "channel_title": "Gaurav Sen",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-03T18:40:24Z",
+      "view_count": 62874,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=kKD3iC0mM_w"
     },
     {
       "video_id": "rhPdfVTA2r0",
@@ -465,7 +465,7 @@
       "channel_title": "Traversy Media",
       "source_type": "Independent creator",
       "published_at": "2026-11-05T18:08:29Z",
-      "view_count": 33938,
+      "view_count": 40055,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=rhPdfVTA2r0"
     }
