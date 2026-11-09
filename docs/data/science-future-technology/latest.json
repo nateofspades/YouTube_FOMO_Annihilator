@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-08T15:37:52.633238Z",
+  "generated_at": "2026-11-09T19:14:34.843498Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,7 +18,7 @@
       "handle": "@veritasium",
       "source_type": "Independent creator",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "PBS Space Time",
@@ -60,21 +60,21 @@
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Boston Dynamics",
       "handle": "@BostonDynamics",
       "source_type": "Official company",
       "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "NASA",
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "European Space Agency",
@@ -88,7 +88,7 @@
       "handle": "@CleoAbram",
       "source_type": "Editorial/media",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Undecided",
@@ -264,14 +264,14 @@
       "handle": "UC4QZ_LsYcvcq7qOsOhpAX4A",
       "source_type": "Additional curated source",
       "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Sabine Hossenfelder",
       "handle": "UC1yNl2E66ZzKApQdRuTQ4tw",
       "source_type": "Additional curated source",
       "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Anton Petrov",
@@ -285,7 +285,7 @@
       "handle": "UCYNbYGl89UUowy8oXkipC-Q",
       "source_type": "Additional curated source",
       "channel_id": "UCYNbYGl89UUowy8oXkipC-Q",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Astrum",
@@ -320,7 +320,7 @@
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "SpaceX",
@@ -334,7 +334,7 @@
       "handle": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "source_type": "Additional curated source",
       "channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Scott Manley",
@@ -358,7 +358,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 103,
+  "candidate_count": 101,
   "results": [
     {
       "video_id": "KfODG5REyss",
@@ -367,20 +367,9 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-11-04T15:52:59Z",
-      "view_count": 11815442,
+      "view_count": 14572603,
       "duration_minutes": 66,
       "url": "https://www.youtube.com/watch?v=KfODG5REyss"
-    },
-    {
-      "video_id": "Xom0I1iQXHM",
-      "title": "It’s Not As Simple As Putting Data Centers in Space",
-      "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "channel_title": "StarTalk",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-06T00:30:02Z",
-      "view_count": 1408146,
-      "duration_minutes": 18,
-      "url": "https://www.youtube.com/watch?v=Xom0I1iQXHM"
     },
     {
       "video_id": "8ySMdUIF3cY",
@@ -389,9 +378,20 @@
       "channel_title": "SpaceX",
       "source_type": "Additional curated source",
       "published_at": "2026-11-07T15:00:36Z",
-      "view_count": 1202832,
+      "view_count": 2131094,
       "duration_minutes": 21,
       "url": "https://www.youtube.com/watch?v=8ySMdUIF3cY"
+    },
+    {
+      "video_id": "Xom0I1iQXHM",
+      "title": "It’s Not As Simple As Putting Data Centers in Space",
+      "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
+      "channel_title": "StarTalk",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-06T00:30:02Z",
+      "view_count": 2106745,
+      "duration_minutes": 18,
+      "url": "https://www.youtube.com/watch?v=Xom0I1iQXHM"
     },
     {
       "video_id": "qh44Mo3mRzg",
@@ -400,7 +400,7 @@
       "channel_title": "Technology Connections",
       "source_type": "Additional curated source",
       "published_at": "2026-11-03T15:00:35Z",
-      "view_count": 1123729,
+      "view_count": 1169465,
       "duration_minutes": 23,
       "url": "https://www.youtube.com/watch?v=qh44Mo3mRzg"
     },
@@ -411,20 +411,9 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-11-03T16:15:20Z",
-      "view_count": 976376,
+      "view_count": 1024978,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=ZUirpasicHQ"
-    },
-    {
-      "video_id": "Sb1_j9A25nQ",
-      "title": "Why Apple Seems Confused",
-      "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
-      "channel_title": "ColdFusion",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-02T14:49:00Z",
-      "view_count": 967563,
-      "duration_minutes": 12,
-      "url": "https://www.youtube.com/watch?v=Sb1_j9A25nQ"
     },
     {
       "video_id": "JsRiC6vGb1E",
@@ -433,7 +422,7 @@
       "channel_title": "Practical Engineering",
       "source_type": "Independent creator",
       "published_at": "2026-11-03T14:00:39Z",
-      "view_count": 884889,
+      "view_count": 921020,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=JsRiC6vGb1E"
     },
@@ -444,20 +433,9 @@
       "channel_title": "Astrum",
       "source_type": "Additional curated source",
       "published_at": "2026-11-04T17:00:30Z",
-      "view_count": 760865,
+      "view_count": 822049,
       "duration_minutes": 29,
       "url": "https://www.youtube.com/watch?v=aCZosHTmyPY"
-    },
-    {
-      "video_id": "PUa5i_U8yYE",
-      "title": "It’s Happening: AI Eats Physics",
-      "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
-      "channel_title": "Sabine Hossenfelder",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-02T16:00:37Z",
-      "view_count": 743054,
-      "duration_minutes": 7,
-      "url": "https://www.youtube.com/watch?v=PUa5i_U8yYE"
     },
     {
       "video_id": "i7esSCr2UJk",
@@ -466,9 +444,31 @@
       "channel_title": "SciShow",
       "source_type": "Additional curated source",
       "published_at": "2026-11-04T18:00:29Z",
-      "view_count": 663350,
+      "view_count": 775881,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=i7esSCr2UJk"
+    },
+    {
+      "video_id": "xod_mCN-K38",
+      "title": "What Is Worth Saving Before the ISS Deorbits?",
+      "channel_id": "UCR1IuLEqb6UEA_zQ81kwXfg",
+      "channel_title": "Real Engineering",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-07T16:32:11Z",
+      "view_count": 475492,
+      "duration_minutes": 21,
+      "url": "https://www.youtube.com/watch?v=xod_mCN-K38"
+    },
+    {
+      "video_id": "GzlnPsXOHgw",
+      "title": "Sequel to Space Race Gets Real - Deep Space Updates November 3rd",
+      "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
+      "channel_title": "Scott Manley",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-04T18:02:01Z",
+      "view_count": 454765,
+      "duration_minutes": 34,
+      "url": "https://www.youtube.com/watch?v=GzlnPsXOHgw"
     }
   ]
 }

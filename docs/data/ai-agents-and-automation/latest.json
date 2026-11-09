@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-11-08T15:37:52.633238Z",
+  "generated_at": "2026-11-09T19:14:34.843498Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,21 +11,21 @@
       "handle": "@allaboutai",
       "source_type": "AI agent and automation",
       "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Alex Finn",
       "handle": "@AlexFinnOfficial",
       "source_type": "AI agent and automation",
       "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Matthew Berman",
       "handle": "@matthew_berman",
       "source_type": "AI agent and automation",
       "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "Cole Medin",
@@ -46,14 +46,14 @@
       "handle": "@NateHerk",
       "source_type": "AI agent and automation",
       "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "recent_video_count": 13
+      "recent_video_count": 11
     },
     {
       "name": "Krish Naik",
       "handle": "@krishnaik06",
       "source_type": "AI agent and automation",
       "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "AI Code King",
@@ -88,7 +88,7 @@
       "handle": "@TechWithTim",
       "source_type": "AI agent and automation",
       "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
-      "recent_video_count": 11
+      "recent_video_count": 12
     },
     {
       "name": "NetworkChuck",
@@ -102,14 +102,14 @@
       "handle": "@GregIsenberg",
       "source_type": "AI agent and automation",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "How I AI",
       "handle": "@howiaipodcast",
       "source_type": "AI agent and automation",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "IBM Technology",
@@ -131,14 +131,14 @@
       "handle": "@huggingface",
       "source_type": "AI agent and automation",
       "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Liam Ottley",
       "handle": "UCui4jxDaMb53Gdh-AZUTPAg",
       "source_type": "AI agent and automation",
       "channel_id": "UCui4jxDaMb53Gdh-AZUTPAg",
-      "recent_video_count": 2
+      "recent_video_count": 0
     },
     {
       "name": "Nick Saraev",
@@ -166,7 +166,7 @@
       "handle": "UCMcoud_ZW7cfxeIugBflSBw",
       "source_type": "AI agent and automation",
       "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Sam Witteveen",
@@ -194,21 +194,21 @@
       "handle": "UC8KWRrf8wqyowmWhXJ9DRjQ",
       "source_type": "AI agent and automation",
       "channel_id": "UC8KWRrf8wqyowmWhXJ9DRjQ",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Zapier",
       "handle": "UCEvsxF4Z12vwpwDUaU02yiA",
       "source_type": "AI agent and automation",
       "channel_id": "UCEvsxF4Z12vwpwDUaU02yiA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "LangChain",
       "handle": "UCC-lyoTfSrcJzA1ab3APAgw",
       "source_type": "AI agent and automation",
       "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
-      "recent_video_count": 3
+      "recent_video_count": 5
     },
     {
       "name": "LlamaIndex",
@@ -229,14 +229,14 @@
       "handle": "UCVC1GrIK_002p3V1D94VO9A",
       "source_type": "AI agent and automation",
       "channel_id": "UCVC1GrIK_002p3V1D94VO9A",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "OpenAI",
       "handle": "UCXZCJLdBC09xxGZ6gcdrc6A",
       "source_type": "AI agent and automation",
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "recent_video_count": 14
+      "recent_video_count": 13
     },
     {
       "name": "Anthropic",
@@ -257,7 +257,7 @@
       "handle": "UCgoJjdR6-7AMu9fDitb6nVw",
       "source_type": "AI agent and automation",
       "channel_id": "UCgoJjdR6-7AMu9fDitb6nVw",
-      "recent_video_count": 3
+      "recent_video_count": 5
     },
     {
       "name": "Supabase",
@@ -306,28 +306,28 @@
       "handle": "UCxVxcTULO9cFU6SB9qVaisQ",
       "source_type": "AI agent and automation",
       "channel_id": "UCxVxcTULO9cFU6SB9qVaisQ",
-      "recent_video_count": 14
+      "recent_video_count": 15
     },
     {
       "name": "AI Foundations",
       "handle": "UCWZwfV3ICOt3uEPpW6hYK4g",
       "source_type": "AI agent and automation",
       "channel_id": "UCWZwfV3ICOt3uEPpW6hYK4g",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Mervin Praison",
       "handle": "UCWTyktbw5JYoSBduu8LsBgQ",
       "source_type": "AI agent and automation",
       "channel_id": "UCWTyktbw5JYoSBduu8LsBgQ",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "AI Engineer",
       "handle": "UCLKPca3kwwd-B59HNr-_lvA",
       "source_type": "AI agent and automation",
       "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
-      "recent_video_count": 42
+      "recent_video_count": 57
     },
     {
       "name": "Sabrina Ramonov",
@@ -358,7 +358,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 199,
+  "candidate_count": 218,
   "results": [
     {
       "video_id": "KDyPHt4lW60",
@@ -367,7 +367,7 @@
       "channel_title": "Nick Saraev",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-02T22:16:58Z",
-      "view_count": 1004863,
+      "view_count": 1079654,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=KDyPHt4lW60"
     },
@@ -378,7 +378,7 @@
       "channel_title": "NetworkChuck",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-06T17:10:45Z",
-      "view_count": 436879,
+      "view_count": 518536,
       "duration_minutes": 21,
       "url": "https://www.youtube.com/watch?v=9_FzA-J9S2E"
     },
@@ -389,7 +389,7 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-05T12:00:09Z",
-      "view_count": 274629,
+      "view_count": 366921,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=rXFV1ivDe6c"
     },
@@ -400,20 +400,9 @@
       "channel_title": "Sam Witteveen",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-03T14:30:33Z",
-      "view_count": 166814,
+      "view_count": 186542,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=OrcsMi2-IcM"
-    },
-    {
-      "video_id": "-M62vWrZh54",
-      "title": "Kimi K3.1 weights OUT, open source computer use, SOTA image model, science model, Pika H3: AI NEWS",
-      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "channel_title": "Matthew Berman",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-11-05T16:51:09Z",
-      "view_count": 161790,
-      "duration_minutes": 20,
-      "url": "https://www.youtube.com/watch?v=-M62vWrZh54"
     },
     {
       "video_id": "67BmkptgTms",
@@ -422,20 +411,20 @@
       "channel_title": "Greg Isenberg",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-02T19:15:08Z",
-      "view_count": 160634,
+      "view_count": 172886,
       "duration_minutes": 50,
       "url": "https://www.youtube.com/watch?v=67BmkptgTms"
     },
     {
-      "video_id": "g_NgCLTibiM",
-      "title": "Make Your AI Agents Predictable With Graph Engineering - Zachary Blumenfeld, Neo4j",
-      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
-      "channel_title": "AI Engineer",
+      "video_id": "-M62vWrZh54",
+      "title": "Kimi K3.1 weights OUT, open source computer use, SOTA image model, science model, Pika H3: AI NEWS",
+      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "channel_title": "Matthew Berman",
       "source_type": "AI agent and automation",
-      "published_at": "2026-11-03T10:00:09Z",
-      "view_count": 144799,
-      "duration_minutes": 21,
-      "url": "https://www.youtube.com/watch?v=g_NgCLTibiM"
+      "published_at": "2026-11-05T16:51:09Z",
+      "view_count": 167177,
+      "duration_minutes": 20,
+      "url": "https://www.youtube.com/watch?v=-M62vWrZh54"
     },
     {
       "video_id": "v5FYtD1hy6w",
@@ -444,9 +433,20 @@
       "channel_title": "Tech With Tim",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-04T13:00:38Z",
-      "view_count": 136566,
+      "view_count": 156173,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=v5FYtD1hy6w"
+    },
+    {
+      "video_id": "g_NgCLTibiM",
+      "title": "Make Your AI Agents Predictable With Graph Engineering - Zachary Blumenfeld, Neo4j",
+      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channel_title": "AI Engineer",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-03T10:00:09Z",
+      "view_count": 150228,
+      "duration_minutes": 21,
+      "url": "https://www.youtube.com/watch?v=g_NgCLTibiM"
     },
     {
       "video_id": "J5fqR-TRebI",
@@ -455,20 +455,20 @@
       "channel_title": "Krish Naik",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-04T07:48:07Z",
-      "view_count": 115030,
+      "view_count": 132020,
       "duration_minutes": 16,
       "url": "https://www.youtube.com/watch?v=J5fqR-TRebI"
     },
     {
-      "video_id": "tM0dwXhOv2o",
-      "title": "Claude 2.0 Is Here. EVERYTHING in 15 Minutes",
-      "channel_id": "UC_RovKmk0OCbuZjA8f08opw",
-      "channel_title": "Futurepedia",
+      "video_id": "bc7QaDmLmoA",
+      "title": "I Tested Uncensored AI... It Should Probably Be Illegal…",
+      "channel_id": "UCxVxcTULO9cFU6SB9qVaisQ",
+      "channel_title": "Jack Roberts",
       "source_type": "AI agent and automation",
-      "published_at": "2026-11-03T22:12:30Z",
-      "view_count": 109912,
-      "duration_minutes": 15,
-      "url": "https://www.youtube.com/watch?v=tM0dwXhOv2o"
+      "published_at": "2026-11-07T20:15:19Z",
+      "view_count": 120638,
+      "duration_minutes": 23,
+      "url": "https://www.youtube.com/watch?v=bc7QaDmLmoA"
     }
   ]
 }

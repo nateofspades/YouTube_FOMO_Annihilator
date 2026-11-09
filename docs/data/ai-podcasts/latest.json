@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-11-08T15:37:52.633238Z",
+  "generated_at": "2026-11-09T19:14:34.843498Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,21 +11,21 @@
       "handle": "UCJIfeSCssxSC_Dhc5s7woww",
       "source_type": "AI podcast",
       "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "recent_video_count": 16
+      "recent_video_count": 10
     },
     {
       "name": "Dwarkesh Patel",
       "handle": "UCXl4i9dYBrFOabk0xGmbkRA",
       "source_type": "AI podcast",
       "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Latent Space",
       "handle": "UCxBcwypKK-W3GHd_RZ9FZrQ",
       "source_type": "AI podcast",
       "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "recent_video_count": 7
+      "recent_video_count": 9
     },
     {
       "name": "Cognitive Revolution",
@@ -95,14 +95,14 @@
       "handle": "UCIkU9Fe0OccRmqBMXRm1Q7A",
       "source_type": "AI podcast",
       "channel_id": "UCIkU9Fe0OccRmqBMXRm1Q7A",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "The AI Daily Brief",
       "handle": "UCKelCK4ZaO6HeEI1KQjqzWA",
       "source_type": "AI podcast",
       "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Hard Fork",
@@ -116,7 +116,7 @@
       "handle": "UCMLtBahI5DMrt0NPvDSoIRQ",
       "source_type": "AI podcast",
       "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Eye on AI",
@@ -130,7 +130,7 @@
       "handle": "UCghJTNTO9kcDeUFXMuSDGLQ",
       "source_type": "AI podcast",
       "channel_id": "UCghJTNTO9kcDeUFXMuSDGLQ",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Everyday AI",
@@ -144,7 +144,7 @@
       "handle": "UCG6qpjVnBTTT8wLGBygANOQ",
       "source_type": "AI podcast",
       "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
-      "recent_video_count": 14
+      "recent_video_count": 21
     },
     {
       "name": "Interconnects",
@@ -165,7 +165,7 @@
       "handle": "UCaKiCexVhZ459j9sZ2e7XdQ",
       "source_type": "AI podcast",
       "channel_id": "UCaKiCexVhZ459j9sZ2e7XdQ",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Data Skeptic",
@@ -186,7 +186,7 @@
       "handle": "UCRYY7IEbkHLH_ScJCu9eWDQ",
       "source_type": "AI podcast",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Software Engineering Daily",
@@ -214,7 +214,7 @@
       "handle": "UCXOtILmQEo3pL_1bJfUOFWw",
       "source_type": "AI podcast",
       "channel_id": "UCXOtILmQEo3pL_1bJfUOFWw",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "BG2Pod",
@@ -228,21 +228,21 @@
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "AI podcast",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 22
+      "recent_video_count": 19
     },
     {
       "name": "Decoder with Nilay Patel",
       "handle": "UCYRwJnCWfBqFHEHrgc18FFw",
       "source_type": "AI podcast",
       "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
-      "recent_video_count": 11
+      "recent_video_count": 12
     },
     {
       "name": "The Vergecast",
       "handle": "UCVHdvAX5-R8y5l9xp6nroBQ",
       "source_type": "AI podcast",
       "channel_id": "UCVHdvAX5-R8y5l9xp6nroBQ",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "AXRP",
@@ -326,7 +326,7 @@
       "playlist_id": "PLM4u6XbiXf5rnUvH5NLdV_It2QLgbHBDZ",
       "source_type": "AI podcast",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Training Data (Sequoia)",
@@ -343,7 +343,7 @@
       "recent_video_count": 3
     }
   ],
-  "candidate_count": 198,
+  "candidate_count": 199,
   "results": [
     {
       "video_id": "JLSY2_7LaM8",
@@ -352,7 +352,7 @@
       "channel_title": "Lex Clips",
       "source_type": "AI podcast",
       "published_at": "2026-11-03T17:00:15Z",
-      "view_count": 146632,
+      "view_count": 165819,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=JLSY2_7LaM8"
     },
@@ -363,7 +363,7 @@
       "channel_title": "Dwarkesh Patel",
       "source_type": "AI podcast",
       "published_at": "2026-11-05T21:00:50Z",
-      "view_count": 133798,
+      "view_count": 145324,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=1NQwfImTseU"
     },
@@ -374,20 +374,9 @@
       "channel_title": "AI Agents Podcast",
       "source_type": "AI podcast",
       "published_at": "2026-11-04T15:00:37Z",
-      "view_count": 54526,
+      "view_count": 54931,
       "duration_minutes": 37,
       "url": "https://www.youtube.com/watch?v=0LvJLIZmpvs"
-    },
-    {
-      "video_id": "TzT9lNPaVXI",
-      "title": "I'm an AI. I Got Your Kid an A. They Learned Nothing.",
-      "channel_id": "UCghJTNTO9kcDeUFXMuSDGLQ",
-      "channel_title": "AI For Humans",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-02T14:45:23Z",
-      "view_count": 41917,
-      "duration_minutes": 36,
-      "url": "https://www.youtube.com/watch?v=TzT9lNPaVXI"
     },
     {
       "video_id": "fy7CByhwvek",
@@ -396,7 +385,7 @@
       "channel_title": "Cheeky Pint",
       "source_type": "AI podcast",
       "published_at": "2026-11-03T16:00:05Z",
-      "view_count": 40477,
+      "view_count": 41167,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=fy7CByhwvek"
     },
@@ -407,20 +396,9 @@
       "channel_title": "AAIF Live",
       "source_type": "AI podcast",
       "published_at": "2026-11-02T21:03:45Z",
-      "view_count": 18834,
+      "view_count": 30072,
       "duration_minutes": 44,
       "url": "https://www.youtube.com/watch?v=0_JtfuXVI10"
-    },
-    {
-      "video_id": "YX-yelkbuVU",
-      "title": "The latest scandals from OpenAI, Anthropic & Google are pretty bad | Rob Wiblin",
-      "channel_id": "UCafjal1QYJ3rb0Y9xZk1Ezg",
-      "channel_title": "80,000 Hours",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-03T18:13:25Z",
-      "view_count": 15669,
-      "duration_minutes": 29,
-      "url": "https://www.youtube.com/watch?v=YX-yelkbuVU"
     },
     {
       "video_id": "75kjtoOpFlo",
@@ -429,31 +407,53 @@
       "channel_title": "Decoder with Nilay Patel",
       "source_type": "AI podcast",
       "published_at": "2026-11-07T14:00:18Z",
-      "view_count": 14972,
+      "view_count": 26231,
       "duration_minutes": 61,
       "url": "https://www.youtube.com/watch?v=75kjtoOpFlo"
     },
     {
-      "video_id": "wRPikhoiBmQ",
-      "title": "NASDAQ Plunges As AI Stocks Sink, GTA 6, OpenAI’s Revenue Inflection | Diet TBPN",
-      "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "channel_title": "TBPN",
+      "video_id": "P735f1xlpL0",
+      "title": "Why Would Anthropic Go Public Now? — Jamin Ball, Altimeter",
+      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
+      "channel_title": "Latent Space",
       "source_type": "AI podcast",
-      "published_at": "2026-11-05T21:38:58Z",
-      "view_count": 13107,
-      "duration_minutes": 31,
-      "url": "https://www.youtube.com/watch?v=wRPikhoiBmQ"
+      "published_at": "2026-11-07T02:49:28Z",
+      "view_count": 19356,
+      "duration_minutes": 102,
+      "url": "https://www.youtube.com/watch?v=P735f1xlpL0"
     },
     {
-      "video_id": "ztt8irafLMQ",
-      "title": "The AI chief of staff that this Figma PM uses all day",
+      "video_id": "YX-yelkbuVU",
+      "title": "The latest scandals from OpenAI, Anthropic & Google are pretty bad | Rob Wiblin",
+      "channel_id": "UCafjal1QYJ3rb0Y9xZk1Ezg",
+      "channel_title": "80,000 Hours",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-03T18:13:25Z",
+      "view_count": 16214,
+      "duration_minutes": 29,
+      "url": "https://www.youtube.com/watch?v=YX-yelkbuVU"
+    },
+    {
+      "video_id": "KGoKyzR6sb8",
+      "title": "What I Stopped Doing With AI",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
       "channel_title": "How I AI",
       "source_type": "AI podcast",
-      "published_at": "2026-11-02T13:00:16Z",
-      "view_count": 12918,
-      "duration_minutes": 43,
-      "url": "https://www.youtube.com/watch?v=ztt8irafLMQ"
+      "published_at": "2026-11-06T00:47:09Z",
+      "view_count": 14888,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=KGoKyzR6sb8"
+    },
+    {
+      "video_id": "v9nFa_iB8XA",
+      "title": "How the 2026 US midterms will change the AI industry",
+      "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
+      "channel_title": "Machine Gods",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-06T12:00:32Z",
+      "view_count": 13823,
+      "duration_minutes": 39,
+      "url": "https://www.youtube.com/watch?v=v9nFa_iB8XA"
     }
   ]
 }

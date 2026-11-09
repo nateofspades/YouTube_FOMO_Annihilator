@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-11-08T15:37:52.633238Z",
+  "generated_at": "2026-11-09T19:14:34.843498Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "TechCrunch",
@@ -25,14 +25,14 @@
       "handle": "@a16z",
       "source_type": "Venture capital",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Sequoia Capital",
       "handle": "@sequoiacapital",
       "source_type": "Venture capital",
       "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
-      "recent_video_count": 7
+      "recent_video_count": 5
     },
     {
       "name": "This Week in Startups",
@@ -53,7 +53,7 @@
       "handle": "@20vc",
       "source_type": "Venture capital",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "Acquired",
@@ -67,14 +67,14 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 10
+      "recent_video_count": 8
     },
     {
       "name": "My First Million",
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "MicroConf",
@@ -109,7 +109,7 @@
       "handle": "@Antlerglobal",
       "source_type": "Venture capital",
       "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Khosla Ventures",
@@ -130,7 +130,7 @@
       "handle": "UC6hlQ0x6kPbAGjYkoz53cvA",
       "source_type": "Official company",
       "channel_id": "UC6hlQ0x6kPbAGjYkoz53cvA",
-      "recent_video_count": 4
+      "recent_video_count": 2
     },
     {
       "name": "Startup Grind",
@@ -158,14 +158,14 @@
       "handle": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "source_type": "Additional curated source",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "TBPN",
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "Additional curated source",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 22
+      "recent_video_count": 19
     },
     {
       "name": "The Logan Bartlett Show",
@@ -179,7 +179,7 @@
       "handle": "UChpWgrkJY_i7F6wwI_TOnrg",
       "source_type": "Additional curated source",
       "channel_id": "UChpWgrkJY_i7F6wwI_TOnrg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Entrepreneur",
@@ -200,7 +200,7 @@
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "Additional curated source",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 34
+      "recent_video_count": 40
     },
     {
       "name": "PitchBook",
@@ -249,7 +249,7 @@
       "handle": "UCwBTFE_6Bsb_EtmXlW2aTlg",
       "source_type": "Additional curated source",
       "channel_id": "UCwBTFE_6Bsb_EtmXlW2aTlg",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "General Catalyst",
@@ -312,7 +312,7 @@
       "handle": "UCHoBKQDRkJcOY2BO47q5Ruw",
       "source_type": "Additional curated source",
       "channel_id": "UCHoBKQDRkJcOY2BO47q5Ruw",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "TK Kader",
@@ -326,7 +326,7 @@
       "handle": "UC12JO2IPlEViR-o6SLXKx1A",
       "source_type": "Additional curated source",
       "channel_id": "UC12JO2IPlEViR-o6SLXKx1A",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Arvid Kahl",
@@ -340,40 +340,18 @@
       "handle": "UCA-mWX9CvCTVFWRMb9bKc9w",
       "source_type": "Additional curated source",
       "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-      "recent_video_count": 17
+      "recent_video_count": 16
     },
     {
       "name": "Codie Sanchez",
       "handle": "UC5fI3kxC-ewZ6ZXEYgznM7g",
       "source_type": "Additional curated source",
       "channel_id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
-      "recent_video_count": 8
+      "recent_video_count": 7
     }
   ],
-  "candidate_count": 235,
+  "candidate_count": 230,
   "results": [
-    {
-      "video_id": "67BmkptgTms",
-      "title": "The $1M+ Solo Grok Bot Business (Full Course)",
-      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "channel_title": "Greg Isenberg",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-02T19:15:08Z",
-      "view_count": 160634,
-      "duration_minutes": 50,
-      "url": "https://www.youtube.com/watch?v=67BmkptgTms"
-    },
-    {
-      "video_id": "hnxn16HtLIk",
-      "title": "How I Built It: $400K/Month iOS App",
-      "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
-      "channel_title": "Starter Story",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-01T18:00:28Z",
-      "view_count": 151905,
-      "duration_minutes": 12,
-      "url": "https://www.youtube.com/watch?v=hnxn16HtLIk"
-    },
     {
       "video_id": "ao-BzLbFObI",
       "title": "I’m A Dumpster Diver – And I Bring In $140K/Year",
@@ -381,20 +359,20 @@
       "channel_title": "CNBC Make It",
       "source_type": "Additional curated source",
       "published_at": "2026-11-07T15:00:09Z",
-      "view_count": 150844,
+      "view_count": 296702,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=ao-BzLbFObI"
     },
     {
-      "video_id": "1hk_VMEeoPQ",
-      "title": "It’s Never Been Easier To Be In The Top 1% (Do This NOW)",
-      "channel_id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
-      "channel_title": "Codie Sanchez",
+      "video_id": "67BmkptgTms",
+      "title": "The $1M+ Solo Grok Bot Business (Full Course)",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "channel_title": "Greg Isenberg",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-01T16:00:08Z",
-      "view_count": 138512,
-      "duration_minutes": 13,
-      "url": "https://www.youtube.com/watch?v=1hk_VMEeoPQ"
+      "published_at": "2026-11-02T19:15:08Z",
+      "view_count": 172830,
+      "duration_minutes": 50,
+      "url": "https://www.youtube.com/watch?v=67BmkptgTms"
     },
     {
       "video_id": "nsFKkeQg-V0",
@@ -403,31 +381,9 @@
       "channel_title": "Dan Martell",
       "source_type": "Additional curated source",
       "published_at": "2026-11-04T14:00:18Z",
-      "view_count": 87315,
+      "view_count": 97353,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=nsFKkeQg-V0"
-    },
-    {
-      "video_id": "zgl78CyHJT4",
-      "title": "The Art of Relentless Follow-Up",
-      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "channel_title": "David Senra",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-03T17:05:58Z",
-      "view_count": 70958,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=zgl78CyHJT4"
-    },
-    {
-      "video_id": "OE32mgQCN6E",
-      "title": "$100M fund manager: how to live life so intensely that you die with zero regrets",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-02T14:30:04Z",
-      "view_count": 64674,
-      "duration_minutes": 81,
-      "url": "https://www.youtube.com/watch?v=OE32mgQCN6E"
     },
     {
       "video_id": "_F9haWjwsRY",
@@ -436,9 +392,20 @@
       "channel_title": "Antler Global",
       "source_type": "Venture capital",
       "published_at": "2026-11-03T15:00:33Z",
-      "view_count": 52228,
+      "view_count": 93198,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=_F9haWjwsRY"
+    },
+    {
+      "video_id": "zgl78CyHJT4",
+      "title": "The Art of Relentless Follow-Up",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "channel_title": "David Senra",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-03T17:05:58Z",
+      "view_count": 77582,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=zgl78CyHJT4"
     },
     {
       "video_id": "Q78dJ0vkWe8",
@@ -447,20 +414,53 @@
       "channel_title": "Y Combinator",
       "source_type": "Accelerator",
       "published_at": "2026-11-07T15:00:14Z",
-      "view_count": 50587,
+      "view_count": 68220,
       "duration_minutes": 44,
       "url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8"
     },
     {
-      "video_id": "RveQCVgxyjs",
-      "title": "I've made $3M with my 36 startups",
-      "channel_id": "UC12JO2IPlEViR-o6SLXKx1A",
-      "channel_title": "Marc Lou",
+      "video_id": "Sd_Vn1j8qrI",
+      "title": "AI proof businesses worth building in 2027",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-04T14:30:39Z",
+      "view_count": 64162,
+      "duration_minutes": 30,
+      "url": "https://www.youtube.com/watch?v=Sd_Vn1j8qrI"
+    },
+    {
+      "video_id": "KgS3hbpxTzE",
+      "title": "I turned a viral idea into a $25K/month app",
+      "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
+      "channel_title": "Starter Story",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-02T12:15:09Z",
-      "view_count": 39685,
+      "published_at": "2026-11-04T18:00:08Z",
+      "view_count": 46292,
       "duration_minutes": 12,
-      "url": "https://www.youtube.com/watch?v=RveQCVgxyjs"
+      "url": "https://www.youtube.com/watch?v=KgS3hbpxTzE"
+    },
+    {
+      "video_id": "x7Z_1miRWB8",
+      "title": "Google DeepMind's Demis Hassabis: How AI could become dangerous (with Reid Hoffman) | Summit '26",
+      "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
+      "channel_title": "Masters of Scale",
+      "source_type": "Editorial/media",
+      "published_at": "2026-11-05T15:03:17Z",
+      "view_count": 46109,
+      "duration_minutes": 26,
+      "url": "https://www.youtube.com/watch?v=x7Z_1miRWB8"
+    },
+    {
+      "video_id": "4nKt18AZDsQ",
+      "title": "Google Loses $500B in 12 Hours | DoorDash Buys Instacart for $17B | Kalshi Raises $1B",
+      "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
+      "channel_title": "20VC with Harry Stebbings",
+      "source_type": "Venture capital",
+      "published_at": "2026-11-05T15:14:25Z",
+      "view_count": 37967,
+      "duration_minutes": 69,
+      "url": "https://www.youtube.com/watch?v=4nKt18AZDsQ"
     }
   ]
 }
