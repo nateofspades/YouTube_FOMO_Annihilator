@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-11-09T19:14:34.843498Z",
+  "generated_at": "2026-11-10T16:38:12.003476Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,35 +18,35 @@
       "handle": "@AlexFinnOfficial",
       "source_type": "AI agent and automation",
       "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Matthew Berman",
       "handle": "@matthew_berman",
       "source_type": "AI agent and automation",
       "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "Cole Medin",
       "handle": "@ColeMedin",
       "source_type": "AI agent and automation",
       "channel_id": "UCMwVTLZIRRUyyVrkjDpn4pA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Futurepedia",
       "handle": "@Futurepedia_io",
       "source_type": "AI agent and automation",
       "channel_id": "UC_RovKmk0OCbuZjA8f08opw",
-      "recent_video_count": 6
+      "recent_video_count": 8
     },
     {
       "name": "Nate Herk",
       "handle": "@NateHerk",
       "source_type": "AI agent and automation",
       "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "recent_video_count": 11
+      "recent_video_count": 9
     },
     {
       "name": "Krish Naik",
@@ -81,14 +81,14 @@
       "handle": "@Fireship",
       "source_type": "AI agent and automation",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Tech With Tim",
       "handle": "@TechWithTim",
       "source_type": "AI agent and automation",
       "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
-      "recent_video_count": 12
+      "recent_video_count": 10
     },
     {
       "name": "NetworkChuck",
@@ -102,14 +102,14 @@
       "handle": "@GregIsenberg",
       "source_type": "AI agent and automation",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "How I AI",
       "handle": "@howiaipodcast",
       "source_type": "AI agent and automation",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "IBM Technology",
@@ -201,14 +201,14 @@
       "handle": "UCEvsxF4Z12vwpwDUaU02yiA",
       "source_type": "AI agent and automation",
       "channel_id": "UCEvsxF4Z12vwpwDUaU02yiA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "LangChain",
       "handle": "UCC-lyoTfSrcJzA1ab3APAgw",
       "source_type": "AI agent and automation",
       "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "LlamaIndex",
@@ -222,7 +222,7 @@
       "handle": "UCTulKzR5sldNq2eAxxdaEuA",
       "source_type": "AI agent and automation",
       "channel_id": "UCTulKzR5sldNq2eAxxdaEuA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Pydantic",
@@ -236,7 +236,7 @@
       "handle": "UCXZCJLdBC09xxGZ6gcdrc6A",
       "source_type": "AI agent and automation",
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "recent_video_count": 13
+      "recent_video_count": 16
     },
     {
       "name": "Anthropic",
@@ -257,7 +257,7 @@
       "handle": "UCgoJjdR6-7AMu9fDitb6nVw",
       "source_type": "AI agent and automation",
       "channel_id": "UCgoJjdR6-7AMu9fDitb6nVw",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Supabase",
@@ -320,7 +320,7 @@
       "handle": "UCWTyktbw5JYoSBduu8LsBgQ",
       "source_type": "AI agent and automation",
       "channel_id": "UCWTyktbw5JYoSBduu8LsBgQ",
-      "recent_video_count": 6
+      "recent_video_count": 9
     },
     {
       "name": "AI Engineer",
@@ -334,7 +334,7 @@
       "handle": "UCiGWNa6QK6CiKPvv5-YPv8g",
       "source_type": "AI agent and automation",
       "channel_id": "UCiGWNa6QK6CiKPvv5-YPv8g",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "LowCode Agency",
@@ -355,22 +355,11 @@
       "handle": "UCDq7SjbgRKty5TgGafW8Clg",
       "source_type": "AI agent and automation",
       "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     }
   ],
-  "candidate_count": 218,
+  "candidate_count": 226,
   "results": [
-    {
-      "video_id": "KDyPHt4lW60",
-      "title": "31 Life-Changing Ways to Use Claude in 2027",
-      "channel_id": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
-      "channel_title": "Nick Saraev",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-11-02T22:16:58Z",
-      "view_count": 1079654,
-      "duration_minutes": 14,
-      "url": "https://www.youtube.com/watch?v=KDyPHt4lW60"
-    },
     {
       "video_id": "9_FzA-J9S2E",
       "title": "you need to use Herdr RIGHT NOW!!",
@@ -378,9 +367,20 @@
       "channel_title": "NetworkChuck",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-06T17:10:45Z",
-      "view_count": 518536,
+      "view_count": 565601,
       "duration_minutes": 21,
       "url": "https://www.youtube.com/watch?v=9_FzA-J9S2E"
+    },
+    {
+      "video_id": "3wCkFtIz88g",
+      "title": "How The #1 AI Engineer in The World Actually Uses AI",
+      "channel_id": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+      "channel_title": "Nick Saraev",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-05T14:00:01Z",
+      "view_count": 540113,
+      "duration_minutes": 5,
+      "url": "https://www.youtube.com/watch?v=3wCkFtIz88g"
     },
     {
       "video_id": "rXFV1ivDe6c",
@@ -389,31 +389,9 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-05T12:00:09Z",
-      "view_count": 366921,
+      "view_count": 430207,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=rXFV1ivDe6c"
-    },
-    {
-      "video_id": "OrcsMi2-IcM",
-      "title": "NEW DeepSeek Harness -  Super Agent!",
-      "channel_id": "UC55ODQSvARtgSyc8ThfiepQ",
-      "channel_title": "Sam Witteveen",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-11-03T14:30:33Z",
-      "view_count": 186542,
-      "duration_minutes": 18,
-      "url": "https://www.youtube.com/watch?v=OrcsMi2-IcM"
-    },
-    {
-      "video_id": "67BmkptgTms",
-      "title": "The $1M+ Solo Grok Bot Business (Full Course)",
-      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "channel_title": "Greg Isenberg",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-11-02T19:15:08Z",
-      "view_count": 172886,
-      "duration_minutes": 50,
-      "url": "https://www.youtube.com/watch?v=67BmkptgTms"
     },
     {
       "video_id": "-M62vWrZh54",
@@ -422,7 +400,7 @@
       "channel_title": "Matthew Berman",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-05T16:51:09Z",
-      "view_count": 167177,
+      "view_count": 170154,
       "duration_minutes": 20,
       "url": "https://www.youtube.com/watch?v=-M62vWrZh54"
     },
@@ -433,31 +411,9 @@
       "channel_title": "Tech With Tim",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-04T13:00:38Z",
-      "view_count": 156173,
+      "view_count": 164733,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=v5FYtD1hy6w"
-    },
-    {
-      "video_id": "g_NgCLTibiM",
-      "title": "Make Your AI Agents Predictable With Graph Engineering - Zachary Blumenfeld, Neo4j",
-      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
-      "channel_title": "AI Engineer",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-11-03T10:00:09Z",
-      "view_count": 150228,
-      "duration_minutes": 21,
-      "url": "https://www.youtube.com/watch?v=g_NgCLTibiM"
-    },
-    {
-      "video_id": "J5fqR-TRebI",
-      "title": "AI in 2027-What Should You Learn to Stay Ahead?",
-      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
-      "channel_title": "Krish Naik",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-11-04T07:48:07Z",
-      "view_count": 132020,
-      "duration_minutes": 16,
-      "url": "https://www.youtube.com/watch?v=J5fqR-TRebI"
     },
     {
       "video_id": "bc7QaDmLmoA",
@@ -466,9 +422,53 @@
       "channel_title": "Jack Roberts",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-07T20:15:19Z",
-      "view_count": 120638,
+      "view_count": 144406,
       "duration_minutes": 23,
       "url": "https://www.youtube.com/watch?v=bc7QaDmLmoA"
+    },
+    {
+      "video_id": "J5fqR-TRebI",
+      "title": "AI in 2027-What Should You Learn to Stay Ahead?",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "channel_title": "Krish Naik",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-04T07:48:07Z",
+      "view_count": 142537,
+      "duration_minutes": 16,
+      "url": "https://www.youtube.com/watch?v=J5fqR-TRebI"
+    },
+    {
+      "video_id": "tM0dwXhOv2o",
+      "title": "Claude 2.0 Is Here. EVERYTHING in 15 Minutes",
+      "channel_id": "UC_RovKmk0OCbuZjA8f08opw",
+      "channel_title": "Futurepedia",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-03T22:12:30Z",
+      "view_count": 126539,
+      "duration_minutes": 15,
+      "url": "https://www.youtube.com/watch?v=tM0dwXhOv2o"
+    },
+    {
+      "video_id": "2dD4HXg-YJ4",
+      "title": "Ripple 65B: A Chip Design Lab Just Beat Every US Open Model",
+      "channel_id": "UC55ODQSvARtgSyc8ThfiepQ",
+      "channel_title": "Sam Witteveen",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-05T16:01:13Z",
+      "view_count": 117376,
+      "duration_minutes": 20,
+      "url": "https://www.youtube.com/watch?v=2dD4HXg-YJ4"
+    },
+    {
+      "video_id": "JGtkTjn4120",
+      "title": "Why AI Makes You 100x Faster but Not Your Company - Mitchell Troyanovsky, Basis",
+      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channel_title": "AI Engineer",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-04T00:00:29Z",
+      "view_count": 98106,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=JGtkTjn4120"
     }
   ]
 }

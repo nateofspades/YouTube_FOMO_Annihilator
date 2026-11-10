@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-09T19:14:34.843498Z",
+  "generated_at": "2026-11-10T16:38:12.003476Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@kurzgesagt",
       "source_type": "Independent creator",
       "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Veritasium",
@@ -60,7 +60,7 @@
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Boston Dynamics",
@@ -81,14 +81,14 @@
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Cleo Abram",
       "handle": "@CleoAbram",
       "source_type": "Editorial/media",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Undecided",
@@ -152,7 +152,7 @@
       "handle": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "source_type": "Additional curated source",
       "channel_id": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "3Blue1Brown",
@@ -208,7 +208,7 @@
       "handle": "UCy0tKL1T7wFoYcxCe0xjN6Q",
       "source_type": "Additional curated source",
       "channel_id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Stuff Made Here",
@@ -257,7 +257,7 @@
       "handle": "UC1LpsuAUaKoMzzJSEt5WImw",
       "source_type": "Additional curated source",
       "channel_id": "UC1LpsuAUaKoMzzJSEt5WImw",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "ColdFusion",
@@ -271,7 +271,7 @@
       "handle": "UC1yNl2E66ZzKApQdRuTQ4tw",
       "source_type": "Additional curated source",
       "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Anton Petrov",
@@ -306,21 +306,21 @@
       "handle": "UCogrSQkBJn1KF0N9I4oM7eQ",
       "source_type": "Additional curated source",
       "channel_id": "UCogrSQkBJn1KF0N9I4oM7eQ",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "The Royal Institution",
       "handle": "UCYeF244yNGuFefuFKqxIAXw",
       "source_type": "Additional curated source",
       "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "New Scientist",
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "SpaceX",
@@ -341,7 +341,7 @@
       "handle": "UCxzC4EngIsMrPmbm6Nxvb-A",
       "source_type": "Additional curated source",
       "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Primal Space",
@@ -358,7 +358,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 101,
+  "candidate_count": 97,
   "results": [
     {
       "video_id": "KfODG5REyss",
@@ -367,20 +367,9 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-11-04T15:52:59Z",
-      "view_count": 14572603,
+      "view_count": 16241438,
       "duration_minutes": 66,
       "url": "https://www.youtube.com/watch?v=KfODG5REyss"
-    },
-    {
-      "video_id": "8ySMdUIF3cY",
-      "title": "Starship - Go For Orbit",
-      "channel_id": "UCtI0Hodo5o5dUb67FeUjDeA",
-      "channel_title": "SpaceX",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-07T15:00:36Z",
-      "view_count": 2131094,
-      "duration_minutes": 21,
-      "url": "https://www.youtube.com/watch?v=8ySMdUIF3cY"
     },
     {
       "video_id": "Xom0I1iQXHM",
@@ -389,53 +378,20 @@
       "channel_title": "StarTalk",
       "source_type": "Additional curated source",
       "published_at": "2026-11-06T00:30:02Z",
-      "view_count": 2106745,
+      "view_count": 2629283,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=Xom0I1iQXHM"
     },
     {
-      "video_id": "qh44Mo3mRzg",
-      "title": "Why does a loose gas cap turn on the check engine light?",
-      "channel_id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
-      "channel_title": "Technology Connections",
+      "video_id": "8ySMdUIF3cY",
+      "title": "Starship - Go For Orbit",
+      "channel_id": "UCtI0Hodo5o5dUb67FeUjDeA",
+      "channel_title": "SpaceX",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-03T15:00:35Z",
-      "view_count": 1169465,
-      "duration_minutes": 23,
-      "url": "https://www.youtube.com/watch?v=qh44Mo3mRzg"
-    },
-    {
-      "video_id": "ZUirpasicHQ",
-      "title": "Your Map Shows Antarctica Wrong",
-      "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "channel_title": "Cleo Abram",
-      "source_type": "Editorial/media",
-      "published_at": "2026-11-03T16:15:20Z",
-      "view_count": 1024978,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=ZUirpasicHQ"
-    },
-    {
-      "video_id": "JsRiC6vGb1E",
-      "title": "Windows Are Absurd",
-      "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
-      "channel_title": "Practical Engineering",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-03T14:00:39Z",
-      "view_count": 921020,
-      "duration_minutes": 24,
-      "url": "https://www.youtube.com/watch?v=JsRiC6vGb1E"
-    },
-    {
-      "video_id": "aCZosHTmyPY",
-      "title": "We Found an Unknown Chemical Signature on Saturn’s Moon Titan",
-      "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
-      "channel_title": "Astrum",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-04T17:00:30Z",
-      "view_count": 822049,
-      "duration_minutes": 29,
-      "url": "https://www.youtube.com/watch?v=aCZosHTmyPY"
+      "published_at": "2026-11-07T15:00:36Z",
+      "view_count": 2537880,
+      "duration_minutes": 21,
+      "url": "https://www.youtube.com/watch?v=8ySMdUIF3cY"
     },
     {
       "video_id": "i7esSCr2UJk",
@@ -444,9 +400,31 @@
       "channel_title": "SciShow",
       "source_type": "Additional curated source",
       "published_at": "2026-11-04T18:00:29Z",
-      "view_count": 775881,
+      "view_count": 876567,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=i7esSCr2UJk"
+    },
+    {
+      "video_id": "aCZosHTmyPY",
+      "title": "We Found an Unknown Chemical Signature on Saturn’s Moon Titan",
+      "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
+      "channel_title": "Astrum",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-04T17:00:30Z",
+      "view_count": 871384,
+      "duration_minutes": 29,
+      "url": "https://www.youtube.com/watch?v=aCZosHTmyPY"
+    },
+    {
+      "video_id": "JKu-fdhvbB8",
+      "title": "How Laparoscopic Surgery Works",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-11-04T15:19:24Z",
+      "view_count": 847721,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=JKu-fdhvbB8"
     },
     {
       "video_id": "xod_mCN-K38",
@@ -455,9 +433,20 @@
       "channel_title": "Real Engineering",
       "source_type": "Independent creator",
       "published_at": "2026-11-07T16:32:11Z",
-      "view_count": 475492,
+      "view_count": 557110,
       "duration_minutes": 21,
       "url": "https://www.youtube.com/watch?v=xod_mCN-K38"
+    },
+    {
+      "video_id": "NL65Awuv8gU",
+      "title": "Atlas on a Roll | Classical Motor Controls and Whole-Body RL | Boston Dynamics",
+      "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
+      "channel_title": "Boston Dynamics",
+      "source_type": "Official company",
+      "published_at": "2026-11-09T15:00:35Z",
+      "view_count": 527665,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=NL65Awuv8gU"
     },
     {
       "video_id": "GzlnPsXOHgw",
@@ -466,9 +455,20 @@
       "channel_title": "Scott Manley",
       "source_type": "Additional curated source",
       "published_at": "2026-11-04T18:02:01Z",
-      "view_count": 454765,
+      "view_count": 465548,
       "duration_minutes": 34,
       "url": "https://www.youtube.com/watch?v=GzlnPsXOHgw"
+    },
+    {
+      "video_id": "mh-e78kaQ8o",
+      "title": "Physicists Can’t Explain This, And Now It’s a Problem",
+      "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
+      "channel_title": "Sabine Hossenfelder",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-04T16:00:46Z",
+      "view_count": 438415,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=mh-e78kaQ8o"
     }
   ]
 }

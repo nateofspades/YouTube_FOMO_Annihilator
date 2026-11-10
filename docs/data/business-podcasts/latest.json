@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-11-09T19:14:34.843498Z",
+  "generated_at": "2026-11-10T16:38:12.003476Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,14 +11,14 @@
       "handle": "@TheDiaryOfACEO",
       "source_type": "Business podcast",
       "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "My First Million",
       "handle": "@MyFirstMillionPod",
       "source_type": "Business podcast",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "Acquired",
@@ -32,7 +32,7 @@
       "handle": "@allin",
       "source_type": "Business podcast",
       "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "Guy Raz / How I Built This",
@@ -60,28 +60,28 @@
       "handle": "@MastersofScale_",
       "source_type": "Business podcast",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 8
+      "recent_video_count": 11
     },
     {
       "name": "Invest Like The Best",
       "handle": "@ILTB_Podcast",
       "source_type": "Business podcast",
       "channel_id": "UCpQBb0fToph3jrDulwz1iUQ",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "The Knowledge Project Podcast",
       "handle": "@tkppodcast",
       "source_type": "Business podcast",
       "channel_id": "UCLtTf_uKt0Itd0NG7txrwXA",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "This Week in Startups",
       "handle": "@startups",
       "source_type": "Business podcast",
       "channel_id": "UCkkhmBWfS7pILYIk0izkc3A",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "20VC with Harry Stebbings",
@@ -102,21 +102,21 @@
       "handle": "@TheProfGPod",
       "source_type": "Business podcast",
       "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "recent_video_count": 12
+      "recent_video_count": 13
     },
     {
       "name": "Pivot with Kara Swisher and Scott Galloway",
       "handle": "@pivot",
       "source_type": "Business podcast",
       "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "recent_video_count": 40
+      "recent_video_count": 38
     },
     {
       "name": "Tim Ferriss",
       "handle": "@timferriss",
       "source_type": "Business podcast",
       "channel_id": "UCznv7Vf9nBdJYvBagFdAHWw",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Young and Profiting",
@@ -130,7 +130,7 @@
       "handle": "@AlexHormozi",
       "source_type": "Business podcast",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "recent_video_count": 41
+      "recent_video_count": 38
     },
     {
       "name": "Startups for the Rest of Us",
@@ -144,7 +144,7 @@
       "handle": "@ycombinator",
       "source_type": "Business podcast",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "The Logan Bartlett Show",
@@ -158,7 +158,7 @@
       "handle": "UCGX7nGXpz-CmO_Arg-cgJ7A",
       "source_type": "Business podcast",
       "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
-      "recent_video_count": 33
+      "recent_video_count": 32
     },
     {
       "name": "The Jordan Harbinger Show",
@@ -193,14 +193,14 @@
       "handle": "UCncFI0XEvTu7k4er6BgVN9g",
       "source_type": "Business podcast",
       "channel_id": "UCncFI0XEvTu7k4er6BgVN9g",
-      "recent_video_count": 11
+      "recent_video_count": 10
     },
     {
       "name": "Smart Passive Income",
       "handle": "UCcVgQ0ziCT3cIYSfs6uaHQg",
       "source_type": "Business podcast",
       "channel_id": "UCcVgQ0ziCT3cIYSfs6uaHQg",
-      "recent_video_count": 13
+      "recent_video_count": 12
     },
     {
       "name": "Entrepreneurs on Fire",
@@ -214,21 +214,21 @@
       "handle": "UC4g1niWj3_eXiBPERvatsFA",
       "source_type": "Business podcast",
       "channel_id": "UC4g1niWj3_eXiBPERvatsFA",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "The Best One Yet",
       "handle": "UCly3md3CbnTFJP83lVUEcjw",
       "source_type": "Business podcast",
       "channel_id": "UCly3md3CbnTFJP83lVUEcjw",
-      "recent_video_count": 15
+      "recent_video_count": 14
     },
     {
       "name": "Marketing Against the Grain",
       "handle": "UCGtXqPiNV8YC0GMUzY-EUFg",
       "source_type": "Business podcast",
       "channel_id": "UCGtXqPiNV8YC0GMUzY-EUFg",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Marketing School",
@@ -270,7 +270,7 @@
       "playlist_id": "PLe4PRejZgr0OJbRzA6nWybYiThLJd_ouz",
       "source_type": "Business podcast",
       "channel_id": "UChF5O40UBqAc82I7-i5ig6A",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "The Compound and Friends",
@@ -291,14 +291,14 @@
       "playlist_id": "PLe4PRejZgr0PzN7r8NikAnOqP70DHhoJ0",
       "source_type": "Business podcast",
       "channel_id": "UChF5O40UBqAc82I7-i5ig6A",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "The Startup Ideas Podcast",
       "playlist_id": "PLQHTakJAwGLMQxKVlKUVpC7aiYTZ2j2J9",
       "source_type": "Business podcast",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "The Futur Podcast",
@@ -350,7 +350,7 @@
       "recent_video_count": 0
     }
   ],
-  "candidate_count": 302,
+  "candidate_count": 289,
   "results": [
     {
       "video_id": "a1mI-ozLyYM",
@@ -359,7 +359,7 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-11-05T08:00:22Z",
-      "view_count": 5215137,
+      "view_count": 5470811,
       "duration_minutes": 89,
       "url": "https://www.youtube.com/watch?v=a1mI-ozLyYM"
     },
@@ -370,7 +370,7 @@
       "channel_title": "PBD Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-11-04T04:55:34Z",
-      "view_count": 1204009,
+      "view_count": 1207094,
       "duration_minutes": 281,
       "url": "https://www.youtube.com/watch?v=mtjsW9r4g_s"
     },
@@ -381,7 +381,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-11-07T18:32:58Z",
-      "view_count": 762136,
+      "view_count": 850062,
       "duration_minutes": 93,
       "url": "https://www.youtube.com/watch?v=2v8b062QzTI"
     },
@@ -392,20 +392,9 @@
       "channel_title": "Alex Hormozi",
       "source_type": "Business podcast",
       "published_at": "2026-11-08T03:00:36Z",
-      "view_count": 442233,
+      "view_count": 726565,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=pwZJcLZc3_Y"
-    },
-    {
-      "video_id": "pijDwJt93qE",
-      "title": "Hillary Clinton Warns About Trump’s Next Move After the Midterms",
-      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
-      "source_type": "Business podcast",
-      "published_at": "2026-11-03T17:07:19Z",
-      "view_count": 237908,
-      "duration_minutes": 77,
-      "url": "https://www.youtube.com/watch?v=pijDwJt93qE"
     },
     {
       "video_id": "DbJSzlO9VM0",
@@ -414,9 +403,20 @@
       "channel_title": "The Iced Coffee Hour",
       "source_type": "Business podcast",
       "published_at": "2026-11-03T20:00:20Z",
-      "view_count": 210730,
+      "view_count": 240984,
       "duration_minutes": 0,
       "url": "https://www.youtube.com/watch?v=DbJSzlO9VM0"
+    },
+    {
+      "video_id": "pijDwJt93qE",
+      "title": "Hillary Clinton Warns About Trump’s Next Move After the Midterms",
+      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
+      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
+      "source_type": "Business podcast",
+      "published_at": "2026-11-03T17:07:19Z",
+      "view_count": 239399,
+      "duration_minutes": 77,
+      "url": "https://www.youtube.com/watch?v=pijDwJt93qE"
     },
     {
       "video_id": "_R0GjIwVe0U",
@@ -425,20 +425,9 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-11-05T21:00:20Z",
-      "view_count": 206696,
+      "view_count": 222406,
       "duration_minutes": 54,
       "url": "https://www.youtube.com/watch?v=_R0GjIwVe0U"
-    },
-    {
-      "video_id": "67BmkptgTms",
-      "title": "The $1M+ Solo Grok Bot Business (Full Course)",
-      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "channel_title": "Greg Isenberg",
-      "source_type": "Business podcast",
-      "published_at": "2026-11-02T19:15:08Z",
-      "view_count": 172886,
-      "duration_minutes": 50,
-      "url": "https://www.youtube.com/watch?v=67BmkptgTms"
     },
     {
       "video_id": "RY-JBHWDKec",
@@ -447,9 +436,20 @@
       "channel_title": "The Compound",
       "source_type": "Business podcast",
       "published_at": "2026-11-06T11:00:24Z",
-      "view_count": 111412,
+      "view_count": 116628,
       "duration_minutes": 71,
       "url": "https://www.youtube.com/watch?v=RY-JBHWDKec"
+    },
+    {
+      "video_id": "VyqLmiZSLG4",
+      "title": "The Life You Want Will Cost You Everything - Bugzy Malone (4K)",
+      "channel_id": "UCIaH-gZIVC432YRjNVvnyCA",
+      "channel_title": "Chris Williamson",
+      "source_type": "Business podcast",
+      "published_at": "2026-11-09T16:00:18Z",
+      "view_count": 93574,
+      "duration_minutes": 127,
+      "url": "https://www.youtube.com/watch?v=VyqLmiZSLG4"
     },
     {
       "video_id": "Q78dJ0vkWe8",
@@ -458,7 +458,7 @@
       "channel_title": "Y Combinator",
       "source_type": "Business podcast",
       "published_at": "2026-11-07T15:00:14Z",
-      "view_count": 68220,
+      "view_count": 75435,
       "duration_minutes": 44,
       "url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8"
     }

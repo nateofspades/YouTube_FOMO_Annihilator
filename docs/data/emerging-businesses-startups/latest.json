@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-11-09T19:14:34.843498Z",
+  "generated_at": "2026-11-10T16:38:12.003476Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "TechCrunch",
@@ -32,7 +32,7 @@
       "handle": "@sequoiacapital",
       "source_type": "Venture capital",
       "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
-      "recent_video_count": 5
+      "recent_video_count": 3
     },
     {
       "name": "This Week in Startups",
@@ -67,14 +67,14 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 8
+      "recent_video_count": 11
     },
     {
       "name": "My First Million",
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "MicroConf",
@@ -130,7 +130,7 @@
       "handle": "UC6hlQ0x6kPbAGjYkoz53cvA",
       "source_type": "Official company",
       "channel_id": "UC6hlQ0x6kPbAGjYkoz53cvA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Startup Grind",
@@ -144,7 +144,7 @@
       "handle": "@DavidSenra",
       "source_type": "Independent creator",
       "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "recent_video_count": 13
+      "recent_video_count": 11
     },
     {
       "name": "Starter Story",
@@ -158,7 +158,7 @@
       "handle": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "source_type": "Additional curated source",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "TBPN",
@@ -179,7 +179,7 @@
       "handle": "UChpWgrkJY_i7F6wwI_TOnrg",
       "source_type": "Additional curated source",
       "channel_id": "UChpWgrkJY_i7F6wwI_TOnrg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Entrepreneur",
@@ -200,7 +200,7 @@
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "Additional curated source",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 40
+      "recent_video_count": 38
     },
     {
       "name": "PitchBook",
@@ -235,7 +235,7 @@
       "handle": "UCsFOY-wGT9IOC4Okrq6UBfA",
       "source_type": "Additional curated source",
       "channel_id": "UCsFOY-wGT9IOC4Okrq6UBfA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "First Round Capital",
@@ -277,7 +277,7 @@
       "handle": "UCZ7x7yDBbEFCGztD8BYvRhA",
       "source_type": "Additional curated source",
       "channel_id": "UCZ7x7yDBbEFCGztD8BYvRhA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Insight Partners",
@@ -305,7 +305,7 @@
       "handle": "UCJ4E393uI8mWRlSqgoeUKKw",
       "source_type": "Additional curated source",
       "channel_id": "UCJ4E393uI8mWRlSqgoeUKKw",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Rob Walling",
@@ -347,10 +347,10 @@
       "handle": "UC5fI3kxC-ewZ6ZXEYgznM7g",
       "source_type": "Additional curated source",
       "channel_id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
-      "recent_video_count": 7
+      "recent_video_count": 5
     }
   ],
-  "candidate_count": 230,
+  "candidate_count": 219,
   "results": [
     {
       "video_id": "ao-BzLbFObI",
@@ -359,20 +359,9 @@
       "channel_title": "CNBC Make It",
       "source_type": "Additional curated source",
       "published_at": "2026-11-07T15:00:09Z",
-      "view_count": 296702,
+      "view_count": 379649,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=ao-BzLbFObI"
-    },
-    {
-      "video_id": "67BmkptgTms",
-      "title": "The $1M+ Solo Grok Bot Business (Full Course)",
-      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "channel_title": "Greg Isenberg",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-02T19:15:08Z",
-      "view_count": 172830,
-      "duration_minutes": 50,
-      "url": "https://www.youtube.com/watch?v=67BmkptgTms"
     },
     {
       "video_id": "nsFKkeQg-V0",
@@ -381,20 +370,20 @@
       "channel_title": "Dan Martell",
       "source_type": "Additional curated source",
       "published_at": "2026-11-04T14:00:18Z",
-      "view_count": 97353,
+      "view_count": 104711,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=nsFKkeQg-V0"
     },
     {
-      "video_id": "_F9haWjwsRY",
-      "title": "Colder than space is the bare minimum to make quantum computing work.",
-      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "channel_title": "Antler Global",
-      "source_type": "Venture capital",
-      "published_at": "2026-11-03T15:00:33Z",
-      "view_count": 93198,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=_F9haWjwsRY"
+      "video_id": "iysKmXT4DUo",
+      "title": "Ex-Intelligence Analyst on Jensen Huang Investigation",
+      "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
+      "channel_title": "Bloomberg Tech",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-09T14:14:56Z",
+      "view_count": 92276,
+      "duration_minutes": 11,
+      "url": "https://www.youtube.com/watch?v=iysKmXT4DUo"
     },
     {
       "video_id": "zgl78CyHJT4",
@@ -403,7 +392,7 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-11-03T17:05:58Z",
-      "view_count": 77582,
+      "view_count": 79871,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=zgl78CyHJT4"
     },
@@ -414,7 +403,7 @@
       "channel_title": "Y Combinator",
       "source_type": "Accelerator",
       "published_at": "2026-11-07T15:00:14Z",
-      "view_count": 68220,
+      "view_count": 75409,
       "duration_minutes": 44,
       "url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8"
     },
@@ -425,20 +414,20 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-11-04T14:30:39Z",
-      "view_count": 64162,
+      "view_count": 67075,
       "duration_minutes": 30,
       "url": "https://www.youtube.com/watch?v=Sd_Vn1j8qrI"
     },
     {
-      "video_id": "KgS3hbpxTzE",
-      "title": "I turned a viral idea into a $25K/month app",
+      "video_id": "X2T92MVx7xs",
+      "title": "How I Made $1M Building 30 Micro-Apps",
       "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
       "channel_title": "Starter Story",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-04T18:00:08Z",
-      "view_count": 46292,
-      "duration_minutes": 12,
-      "url": "https://www.youtube.com/watch?v=KgS3hbpxTzE"
+      "published_at": "2026-11-08T18:00:14Z",
+      "view_count": 61817,
+      "duration_minutes": 17,
+      "url": "https://www.youtube.com/watch?v=X2T92MVx7xs"
     },
     {
       "video_id": "x7Z_1miRWB8",
@@ -447,9 +436,20 @@
       "channel_title": "Masters of Scale",
       "source_type": "Editorial/media",
       "published_at": "2026-11-05T15:03:17Z",
-      "view_count": 46109,
+      "view_count": 55279,
       "duration_minutes": 26,
       "url": "https://www.youtube.com/watch?v=x7Z_1miRWB8"
+    },
+    {
+      "video_id": "b3tMAOFB71o",
+      "title": "8 Businesses for the AI Age",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "channel_title": "Greg Isenberg",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-04T20:30:20Z",
+      "view_count": 51685,
+      "duration_minutes": 22,
+      "url": "https://www.youtube.com/watch?v=b3tMAOFB71o"
     },
     {
       "video_id": "4nKt18AZDsQ",
@@ -458,7 +458,7 @@
       "channel_title": "20VC with Harry Stebbings",
       "source_type": "Venture capital",
       "published_at": "2026-11-05T15:14:25Z",
-      "view_count": 37967,
+      "view_count": 38813,
       "duration_minutes": 69,
       "url": "https://www.youtube.com/watch?v=4nKt18AZDsQ"
     }
