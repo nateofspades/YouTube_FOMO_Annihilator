@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-11-10T16:38:12.003476Z",
+  "generated_at": "2026-11-12T17:09:53.338263Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,35 +11,35 @@
       "handle": "@GitHub",
       "source_type": "Official company",
       "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
-      "recent_video_count": 16
+      "recent_video_count": 17
     },
     {
       "name": "Google for Developers",
       "handle": "@GoogleDevelopers",
       "source_type": "Official company",
       "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Microsoft Developer",
       "handle": "@MicrosoftDeveloper",
       "source_type": "Official company",
       "channel_id": "UCsMica-v34Irf9KVTh6xx-g",
-      "recent_video_count": 4
+      "recent_video_count": 6
     },
     {
       "name": "AWS Developers",
       "handle": "@awsdevelopers",
       "source_type": "Official company",
       "channel_id": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "recent_video_count": 2
+      "recent_video_count": 4
     },
     {
       "name": "Google Cloud Tech",
       "handle": "@googlecloudtech",
       "source_type": "Official company",
       "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "recent_video_count": 21
+      "recent_video_count": 16
     },
     {
       "name": "Cloudflare",
@@ -60,21 +60,21 @@
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 28
+      "recent_video_count": 89
     },
     {
       "name": "GitLab",
       "handle": "@GitLab",
       "source_type": "Official company",
       "channel_id": "UCnMGQ8QHMAnVIsI3xJrihhg",
-      "recent_video_count": 4
+      "recent_video_count": 2
     },
     {
       "name": "JetBrains",
       "handle": "@JetBrainsTV",
       "source_type": "Official company",
       "channel_id": "UCGp4UBwpTNegd_4nCpuBcow",
-      "recent_video_count": 3
+      "recent_video_count": 5
     },
     {
       "name": "Fireship",
@@ -123,7 +123,7 @@
       "handle": "@TechWorldwithNana",
       "source_type": "Independent creator",
       "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Hussein Nasser",
@@ -144,7 +144,7 @@
       "handle": "@LaravelPHP",
       "source_type": "Official company",
       "channel_id": "UCfO2GiQwb-cwJTb1CuRSkwg",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Programming with Mosh",
@@ -158,7 +158,7 @@
       "handle": "UCW5YeuERMmlnqo4oq8vwUpg",
       "source_type": "Additional curated source",
       "channel_id": "UCW5YeuERMmlnqo4oq8vwUpg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Academind",
@@ -256,7 +256,7 @@
       "handle": "UCmXmlB4-HJytD7wek0Uo97A",
       "source_type": "Additional curated source",
       "channel_id": "UCmXmlB4-HJytD7wek0Uo97A",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "ArjanCodes",
@@ -284,7 +284,7 @@
       "handle": "UCSWj8mqQCcrcBlXPi4ThRDQ",
       "source_type": "Additional curated source",
       "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
-      "recent_video_count": 11
+      "recent_video_count": 15
     },
     {
       "name": "Bret Fisher Docker and DevOps",
@@ -319,7 +319,7 @@
       "handle": "UCRPMAqdtSgd0Ipeef7iFsKw",
       "source_type": "Additional curated source",
       "channel_id": "UCRPMAqdtSgd0Ipeef7iFsKw",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "CodeOpinion",
@@ -347,7 +347,7 @@
       "handle": "UCyU5wkjgQYGRB0hIHMwm2Sg",
       "source_type": "Additional curated source",
       "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
-      "recent_video_count": 7
+      "recent_video_count": 3
     },
     {
       "name": "Supabase",
@@ -357,106 +357,73 @@
       "recent_video_count": 3
     }
   ],
-  "candidate_count": 141,
+  "candidate_count": 200,
   "results": [
     {
-      "video_id": "k2ruCf_z75I",
-      "title": "The worst week in cybersecurity history... so far",
+      "video_id": "iw9SZgyahqg",
+      "title": "The one thing holding theoretical CS together just broke... kinda",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
       "channel_title": "Fireship",
       "source_type": "Independent creator",
-      "published_at": "2026-11-03T19:47:10Z",
-      "view_count": 2120587,
+      "published_at": "2026-11-06T16:42:38Z",
+      "view_count": 2077627,
       "duration_minutes": 6,
-      "url": "https://www.youtube.com/watch?v=k2ruCf_z75I"
+      "url": "https://www.youtube.com/watch?v=iw9SZgyahqg"
     },
     {
-      "video_id": "xq0eB8vxeqk",
-      "title": "Agents Sucked At UI (Until Today)",
+      "video_id": "yh5IAUow4Hc",
+      "title": "Nobody Is Competing With Anthropic",
       "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
-      "published_at": "2026-11-03T23:00:28Z",
-      "view_count": 412072,
-      "duration_minutes": 32,
-      "url": "https://www.youtube.com/watch?v=xq0eB8vxeqk"
+      "published_at": "2026-11-10T19:38:40Z",
+      "view_count": 261917,
+      "duration_minutes": 48,
+      "url": "https://www.youtube.com/watch?v=yh5IAUow4Hc"
     },
     {
-      "video_id": "BmBw827GgFA",
-      "title": "Mutex Explained - Computerphile",
-      "channel_id": "UC9-y-6csu5WGm29I7JiwpnA",
-      "channel_title": "Computerphile",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-05T14:00:16Z",
-      "view_count": 158486,
-      "duration_minutes": 12,
-      "url": "https://www.youtube.com/watch?v=BmBw827GgFA"
-    },
-    {
-      "video_id": "CMa6nVtLVsk",
-      "title": "The Art Of Winning In Tech",
-      "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
-      "channel_title": "Amigoscode",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-03T17:00:25Z",
-      "view_count": 150236,
-      "duration_minutes": 8,
-      "url": "https://www.youtube.com/watch?v=CMa6nVtLVsk"
-    },
-    {
-      "video_id": "hxqfjFl-M08",
-      "title": "How Can We Make Sure AI Generated Code is Secure? @snyksec #sponsored #AISecurity",
-      "channel_id": "UC6biysICWOJ-C3P4Tyeggzg",
-      "channel_title": "Low Level",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-04T15:16:19Z",
-      "view_count": 98792,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=hxqfjFl-M08"
-    },
-    {
-      "video_id": "czosBPhFnDI",
-      "title": "3 ways to design your agentic system",
+      "video_id": "pabDkNR7jIs",
+      "title": "The Future of AI Infrastructure",
       "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
       "channel_title": "Google Cloud Tech",
       "source_type": "Official company",
-      "published_at": "2026-11-05T17:00:05Z",
-      "view_count": 97148,
-      "duration_minutes": 9,
-      "url": "https://www.youtube.com/watch?v=czosBPhFnDI"
+      "published_at": "2026-11-09T17:45:50Z",
+      "view_count": 124511,
+      "duration_minutes": 40,
+      "url": "https://www.youtube.com/watch?v=pabDkNR7jIs"
     },
     {
-      "video_id": "zWFj0_C2a2w",
-      "title": "Linux Directory Structure Explained for Beginners🐧",
-      "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
-      "channel_title": "KodeKloud",
+      "video_id": "KrlaBpyWH_k",
+      "title": "The #1 Skill You Need to Survive the AI Era | OpenAI Engineer",
+      "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
+      "channel_title": "Amigoscode",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-04T20:00:16Z",
-      "view_count": 88259,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=zWFj0_C2a2w"
+      "published_at": "2026-11-06T18:00:24Z",
+      "view_count": 117475,
+      "duration_minutes": 10,
+      "url": "https://www.youtube.com/watch?v=KrlaBpyWH_k"
     },
     {
-      "video_id": "eHHxRJulX74",
-      "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
+      "video_id": "ajfQWhGQGLE",
+      "title": "Codex & AI Coding Agents - Learn Agentic Coding",
       "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
-      "published_at": "2026-11-06T15:22:02Z",
-      "view_count": 79383,
-      "duration_minutes": 594,
-      "url": "https://www.youtube.com/watch?v=eHHxRJulX74"
+      "published_at": "2026-11-10T12:00:39Z",
+      "view_count": 100303,
+      "duration_minutes": 111,
+      "url": "https://www.youtube.com/watch?v=ajfQWhGQGLE"
     },
     {
-      "video_id": "kKD3iC0mM_w",
-      "title": "Software Career is dead? #ai",
-      "channel_id": "UCRPMAqdtSgd0Ipeef7iFsKw",
-      "channel_title": "Gaurav Sen",
+      "video_id": "cH88SXCQZEQ",
+      "title": "Claude Fable 5.2 Explained",
+      "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
+      "channel_title": "KodeKloud",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-03T18:40:24Z",
-      "view_count": 68383,
+      "published_at": "2026-11-09T20:54:44Z",
+      "view_count": 98298,
       "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=kKD3iC0mM_w"
+      "url": "https://www.youtube.com/watch?v=cH88SXCQZEQ"
     },
     {
       "video_id": "hjzApFpPB54",
@@ -465,9 +432,42 @@
       "channel_title": "NeetCode",
       "source_type": "Additional curated source",
       "published_at": "2026-11-08T15:30:01Z",
-      "view_count": 62613,
+      "view_count": 84128,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=hjzApFpPB54"
+    },
+    {
+      "video_id": "-GpxKKgoWWg",
+      "title": "17 agents, one SDLC: How Levi Strauss reimagined development on GitHub",
+      "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "channel_title": "GitHub",
+      "source_type": "Official company",
+      "published_at": "2026-11-08T15:01:59Z",
+      "view_count": 70976,
+      "duration_minutes": 30,
+      "url": "https://www.youtube.com/watch?v=-GpxKKgoWWg"
+    },
+    {
+      "video_id": "RIDJ9zfvnyg",
+      "title": "HPE ML350 Gen10 Review // Tower Server for a HomeLab?",
+      "channel_id": "UCZNhwA1B5YqiY1nLzmM0ZRg",
+      "channel_title": "Christian Lempa",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-06T15:00:38Z",
+      "view_count": 63624,
+      "duration_minutes": 34,
+      "url": "https://www.youtube.com/watch?v=RIDJ9zfvnyg"
+    },
+    {
+      "video_id": "rhPdfVTA2r0",
+      "title": "Does Your Framework Still Matter?",
+      "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
+      "channel_title": "Traversy Media",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-05T18:08:29Z",
+      "view_count": 49165,
+      "duration_minutes": 14,
+      "url": "https://www.youtube.com/watch?v=rhPdfVTA2r0"
     }
   ]
 }
