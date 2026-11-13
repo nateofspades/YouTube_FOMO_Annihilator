@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-11-12T17:09:53.338263Z",
+  "generated_at": "2026-11-13T16:48:20.977898Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,49 +11,49 @@
       "handle": "UCJIfeSCssxSC_Dhc5s7woww",
       "source_type": "AI podcast",
       "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "recent_video_count": 8
+      "recent_video_count": 12
     },
     {
       "name": "Dwarkesh Patel",
       "handle": "UCXl4i9dYBrFOabk0xGmbkRA",
       "source_type": "AI podcast",
       "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
-      "recent_video_count": 5
+      "recent_video_count": 3
     },
     {
       "name": "Latent Space",
       "handle": "UCxBcwypKK-W3GHd_RZ9FZrQ",
       "source_type": "AI podcast",
       "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "recent_video_count": 7
+      "recent_video_count": 5
     },
     {
       "name": "Cognitive Revolution",
       "handle": "UCjNRVMBVI30Sak_p6HRWhIA",
       "source_type": "AI podcast",
       "channel_id": "UCjNRVMBVI30Sak_p6HRWhIA",
-      "recent_video_count": 6
+      "recent_video_count": 4
     },
     {
       "name": "No Priors",
       "handle": "UCSI7h9hydQ40K5MJHnCrQvw",
       "source_type": "AI podcast",
       "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "The TWIML AI Podcast",
       "handle": "UC7kjWIK1H8tfmFlzZO-wHMw",
       "source_type": "AI podcast",
       "channel_id": "UC7kjWIK1H8tfmFlzZO-wHMw",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Practical AI",
       "handle": "UC9tpZnMLKv5vbZIGuIIPmNg",
       "source_type": "AI podcast",
       "channel_id": "UC9tpZnMLKv5vbZIGuIIPmNg",
-      "recent_video_count": 3
+      "recent_video_count": 1
     },
     {
       "name": "The AI Breakdown",
@@ -67,7 +67,7 @@
       "handle": "UCdHpbfqjELZmhqY3k0ELGcQ",
       "source_type": "AI podcast",
       "channel_id": "UCdHpbfqjELZmhqY3k0ELGcQ",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "The Gradient",
@@ -88,7 +88,7 @@
       "handle": "UCgx8lqX3QsHgH0bQq7-EHVg",
       "source_type": "AI podcast",
       "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
-      "recent_video_count": 9
+      "recent_video_count": 12
     },
     {
       "name": "AI Agents Podcast",
@@ -109,7 +109,7 @@
       "handle": "UCZcR2SVWaGWNlMqPxvQS3vw",
       "source_type": "AI podcast",
       "channel_id": "UCZcR2SVWaGWNlMqPxvQS3vw",
-      "recent_video_count": 6
+      "recent_video_count": 8
     },
     {
       "name": "Machine Learning Street Talk",
@@ -123,7 +123,7 @@
       "handle": "UC-o9u9QL4zXzBwjvT1gmzNg",
       "source_type": "AI podcast",
       "channel_id": "UC-o9u9QL4zXzBwjvT1gmzNg",
-      "recent_video_count": 16
+      "recent_video_count": 18
     },
     {
       "name": "AI For Humans",
@@ -144,7 +144,7 @@
       "handle": "UCG6qpjVnBTTT8wLGBygANOQ",
       "source_type": "AI podcast",
       "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
-      "recent_video_count": 24
+      "recent_video_count": 19
     },
     {
       "name": "Interconnects",
@@ -214,7 +214,7 @@
       "handle": "UCXOtILmQEo3pL_1bJfUOFWw",
       "source_type": "AI podcast",
       "channel_id": "UCXOtILmQEo3pL_1bJfUOFWw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "BG2Pod",
@@ -235,14 +235,14 @@
       "handle": "UCYRwJnCWfBqFHEHrgc18FFw",
       "source_type": "AI podcast",
       "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
-      "recent_video_count": 12
+      "recent_video_count": 14
     },
     {
       "name": "The Vergecast",
       "handle": "UCVHdvAX5-R8y5l9xp6nroBQ",
       "source_type": "AI podcast",
       "channel_id": "UCVHdvAX5-R8y5l9xp6nroBQ",
-      "recent_video_count": 13
+      "recent_video_count": 12
     },
     {
       "name": "AXRP",
@@ -343,19 +343,8 @@
       "recent_video_count": 3
     }
   ],
-  "candidate_count": 217,
+  "candidate_count": 220,
   "results": [
-    {
-      "video_id": "1NQwfImTseU",
-      "title": "Which AI is the best liar?",
-      "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
-      "channel_title": "Dwarkesh Patel",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-05T21:00:50Z",
-      "view_count": 160207,
-      "duration_minutes": 18,
-      "url": "https://www.youtube.com/watch?v=1NQwfImTseU"
-    },
     {
       "video_id": "P735f1xlpL0",
       "title": "Why Would Anthropic Go Public Now? — Jamin Ball, Altimeter",
@@ -363,75 +352,53 @@
       "channel_title": "Latent Space",
       "source_type": "AI podcast",
       "published_at": "2026-11-07T02:49:28Z",
-      "view_count": 38911,
+      "view_count": 45969,
       "duration_minutes": 102,
       "url": "https://www.youtube.com/watch?v=P735f1xlpL0"
     },
     {
-      "video_id": "KGoKyzR6sb8",
-      "title": "What I Stopped Doing With AI",
-      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "channel_title": "How I AI",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-06T00:47:09Z",
-      "view_count": 17924,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=KGoKyzR6sb8"
-    },
-    {
-      "video_id": "v9nFa_iB8XA",
-      "title": "How the 2026 US midterms will change the AI industry",
-      "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
-      "channel_title": "Machine Gods",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-06T12:00:32Z",
-      "view_count": 16764,
-      "duration_minutes": 39,
-      "url": "https://www.youtube.com/watch?v=v9nFa_iB8XA"
-    },
-    {
-      "video_id": "s5WNy6X_2FI",
-      "title": "The U.S. Builds the Smartest AI. China Is Doing Something Else.",
-      "channel_id": "UCafjal1QYJ3rb0Y9xZk1Ezg",
-      "channel_title": "80,000 Hours",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-10T19:04:05Z",
-      "view_count": 14954,
-      "duration_minutes": 26,
-      "url": "https://www.youtube.com/watch?v=s5WNy6X_2FI"
-    },
-    {
-      "video_id": "y4BdOtm40SA",
-      "title": "Inside Salesforce’s Acquisition Strategy for the AI Era",
-      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "channel_title": "a16z",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-06T15:30:09Z",
-      "view_count": 14186,
-      "duration_minutes": 49,
-      "url": "https://www.youtube.com/watch?v=y4BdOtm40SA"
-    },
-    {
-      "video_id": "wRPikhoiBmQ",
-      "title": "NASDAQ Plunges As AI Stocks Sink, GTA 6, OpenAI’s Revenue Inflection | Diet TBPN",
+      "video_id": "z8_hlGA51ck",
+      "title": "\"Jensen Huang's Exit Could Change the AI Industry Forever\" - Dylan Patel",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "channel_title": "TBPN",
       "source_type": "AI podcast",
-      "published_at": "2026-11-05T21:38:58Z",
-      "view_count": 13996,
+      "published_at": "2026-11-12T21:18:11Z",
+      "view_count": 44419,
       "duration_minutes": 31,
-      "url": "https://www.youtube.com/watch?v=wRPikhoiBmQ"
+      "url": "https://www.youtube.com/watch?v=z8_hlGA51ck"
     },
     {
-      "video_id": "4fZApLHnLFU",
-      "title": "AI Just Lost The Election. Bigger Models Are Coming Anyway.",
-      "channel_id": "UCghJTNTO9kcDeUFXMuSDGLQ",
-      "channel_title": "AI For Humans",
+      "video_id": "P6-_knLbuuk",
+      "title": "The Scariest AI Report I’ve Ever Seen. Anthropic Redacted Parts of It.",
+      "channel_id": "UCafjal1QYJ3rb0Y9xZk1Ezg",
+      "channel_title": "80,000 Hours",
       "source_type": "AI podcast",
-      "published_at": "2026-11-06T14:45:03Z",
-      "view_count": 13758,
-      "duration_minutes": 52,
-      "url": "https://www.youtube.com/watch?v=4fZApLHnLFU"
+      "published_at": "2026-11-12T18:39:38Z",
+      "view_count": 26265,
+      "duration_minutes": 15,
+      "url": "https://www.youtube.com/watch?v=P6-_knLbuuk"
+    },
+    {
+      "video_id": "GVP-bqBAStw",
+      "title": "Why the AI World Will Never Be the Same",
+      "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
+      "channel_title": "Machine Gods",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-13T02:32:15Z",
+      "view_count": 18004,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=GVP-bqBAStw"
+    },
+    {
+      "video_id": "LI3lxzHfRrU",
+      "title": "Mike Volpi on Why AI Infrastructure Will Outlast the Hype Cycle",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-11T15:30:22Z",
+      "view_count": 13817,
+      "duration_minutes": 56,
+      "url": "https://www.youtube.com/watch?v=LI3lxzHfRrU"
     },
     {
       "video_id": "DgpQ9h05WKk",
@@ -440,20 +407,53 @@
       "channel_title": "Decoder with Nilay Patel",
       "source_type": "AI podcast",
       "published_at": "2026-11-06T21:04:59Z",
-      "view_count": 11424,
+      "view_count": 11602,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=DgpQ9h05WKk"
     },
     {
-      "video_id": "INC89yHLexM",
-      "title": "Companies Are Spending 5x More on AI Now",
+      "video_id": "wdyOjcCj2hw",
+      "title": "Claude Code + Obsidian: My family’s AI brain",
+      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
+      "channel_title": "How I AI",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-11T13:00:06Z",
+      "view_count": 10321,
+      "duration_minutes": 34,
+      "url": "https://www.youtube.com/watch?v=wdyOjcCj2hw"
+    },
+    {
+      "video_id": "Dt7Q_VQxGHc",
+      "title": "Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.",
       "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
       "channel_title": "The AI Daily Brief: Artificial Intelligence News",
       "source_type": "AI podcast",
-      "published_at": "2026-11-06T21:24:30Z",
-      "view_count": 8151,
-      "duration_minutes": 31,
-      "url": "https://www.youtube.com/watch?v=INC89yHLexM"
+      "published_at": "2026-11-12T18:44:15Z",
+      "view_count": 9001,
+      "duration_minutes": 29,
+      "url": "https://www.youtube.com/watch?v=Dt7Q_VQxGHc"
+    },
+    {
+      "video_id": "BnA4i_vjcV4",
+      "title": "LLMs Cosplay Understanding (Jeremy Howard)",
+      "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+      "channel_title": "Machine Learning Street Talk",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-11T13:50:12Z",
+      "view_count": 7084,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=BnA4i_vjcV4"
+    },
+    {
+      "video_id": "LDcRdpVvmgQ",
+      "title": "The value of AI is not doing the same thing faster",
+      "channel_id": "UCPbwhExawYrn9xxI21TFfyw",
+      "channel_title": "The Pragmatic Engineer",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-10T16:00:02Z",
+      "view_count": 3754,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=LDcRdpVvmgQ"
     }
   ]
 }

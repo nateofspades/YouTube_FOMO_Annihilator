@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-11-12T17:09:53.338263Z",
+  "generated_at": "2026-11-13T16:48:20.977898Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "TechCrunch",
@@ -32,7 +32,7 @@
       "handle": "@sequoiacapital",
       "source_type": "Venture capital",
       "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "This Week in Startups",
@@ -53,7 +53,7 @@
       "handle": "@20vc",
       "source_type": "Venture capital",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "Acquired",
@@ -74,7 +74,7 @@
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 6
+      "recent_video_count": 8
     },
     {
       "name": "MicroConf",
@@ -88,21 +88,21 @@
       "handle": "@Saastr",
       "source_type": "Founder community",
       "channel_id": "UCwOILzAcxK5CM2M7oRBuWSg",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Slidebean",
       "handle": "@Slidebean",
       "source_type": "Official company",
       "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Bessemer Venture Partners",
       "handle": "@BessemerVenturePartners",
       "source_type": "Venture capital",
       "channel_id": "UCKuHAxZoh99t8uyPQhoDR3A",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Antler Global",
@@ -130,7 +130,7 @@
       "handle": "UC6hlQ0x6kPbAGjYkoz53cvA",
       "source_type": "Official company",
       "channel_id": "UC6hlQ0x6kPbAGjYkoz53cvA",
-      "recent_video_count": 3
+      "recent_video_count": 7
     },
     {
       "name": "Startup Grind",
@@ -144,7 +144,7 @@
       "handle": "@DavidSenra",
       "source_type": "Independent creator",
       "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "recent_video_count": 11
+      "recent_video_count": 10
     },
     {
       "name": "Starter Story",
@@ -179,14 +179,14 @@
       "handle": "UChpWgrkJY_i7F6wwI_TOnrg",
       "source_type": "Additional curated source",
       "channel_id": "UChpWgrkJY_i7F6wwI_TOnrg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Entrepreneur",
       "handle": "UCNFGSWVOdVWEe9XJNnfTdyQ",
       "source_type": "Additional curated source",
       "channel_id": "UCNFGSWVOdVWEe9XJNnfTdyQ",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "CNBC Make It",
@@ -200,7 +200,7 @@
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "Additional curated source",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 38
+      "recent_video_count": 43
     },
     {
       "name": "PitchBook",
@@ -228,7 +228,7 @@
       "handle": "UClebMzrpRNTWVfZXw2jfsSw",
       "source_type": "Additional curated source",
       "channel_id": "UClebMzrpRNTWVfZXw2jfsSw",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "500 Global",
@@ -340,7 +340,7 @@
       "handle": "UCA-mWX9CvCTVFWRMb9bKc9w",
       "source_type": "Additional curated source",
       "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-      "recent_video_count": 15
+      "recent_video_count": 14
     },
     {
       "name": "Codie Sanchez",
@@ -350,7 +350,7 @@
       "recent_video_count": 7
     }
   ],
-  "candidate_count": 196,
+  "candidate_count": 206,
   "results": [
     {
       "video_id": "ao-BzLbFObI",
@@ -359,7 +359,7 @@
       "channel_title": "CNBC Make It",
       "source_type": "Additional curated source",
       "published_at": "2026-11-07T15:00:09Z",
-      "view_count": 688245,
+      "view_count": 759380,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=ao-BzLbFObI"
     },
@@ -370,7 +370,7 @@
       "channel_title": "Codie Sanchez",
       "source_type": "Additional curated source",
       "published_at": "2026-11-11T16:34:43Z",
-      "view_count": 159906,
+      "view_count": 273369,
       "duration_minutes": 35,
       "url": "https://www.youtube.com/watch?v=yO5O_ngyA_8"
     },
@@ -381,7 +381,7 @@
       "channel_title": "Bloomberg Tech",
       "source_type": "Additional curated source",
       "published_at": "2026-11-09T14:14:56Z",
-      "view_count": 128069,
+      "view_count": 133117,
       "duration_minutes": 11,
       "url": "https://www.youtube.com/watch?v=iysKmXT4DUo"
     },
@@ -392,7 +392,7 @@
       "channel_title": "Starter Story",
       "source_type": "Additional curated source",
       "published_at": "2026-11-08T18:00:14Z",
-      "view_count": 102202,
+      "view_count": 115289,
       "duration_minutes": 17,
       "url": "https://www.youtube.com/watch?v=X2T92MVx7xs"
     },
@@ -403,7 +403,7 @@
       "channel_title": "Greg Isenberg",
       "source_type": "Additional curated source",
       "published_at": "2026-11-09T18:15:17Z",
-      "view_count": 96128,
+      "view_count": 108001,
       "duration_minutes": 52,
       "url": "https://www.youtube.com/watch?v=uJuxenfe-NU"
     },
@@ -414,7 +414,7 @@
       "channel_title": "Y Combinator",
       "source_type": "Accelerator",
       "published_at": "2026-11-07T15:00:14Z",
-      "view_count": 83366,
+      "view_count": 85498,
       "duration_minutes": 44,
       "url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8"
     },
@@ -425,20 +425,9 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-11-09T14:30:01Z",
-      "view_count": 59031,
+      "view_count": 62645,
       "duration_minutes": 38,
       "url": "https://www.youtube.com/watch?v=scmf3gd9ZjI"
-    },
-    {
-      "video_id": "BKz2Dy-mKEM",
-      "title": "How to Win Deals & Grow a $250B Business | Nikesh Arora, Palo Alto Networks",
-      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "channel_title": "David Senra",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-08T13:00:32Z",
-      "view_count": 51498,
-      "duration_minutes": 63,
-      "url": "https://www.youtube.com/watch?v=BKz2Dy-mKEM"
     },
     {
       "video_id": "qGf2Yvan4Wg",
@@ -447,9 +436,20 @@
       "channel_title": "Lenny's Podcast",
       "source_type": "Independent creator",
       "published_at": "2026-11-08T13:30:30Z",
-      "view_count": 49710,
+      "view_count": 55643,
       "duration_minutes": 59,
       "url": "https://www.youtube.com/watch?v=qGf2Yvan4Wg"
+    },
+    {
+      "video_id": "BKz2Dy-mKEM",
+      "title": "How to Win Deals & Grow a $250B Business | Nikesh Arora, Palo Alto Networks",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "channel_title": "David Senra",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-08T13:00:32Z",
+      "view_count": 55614,
+      "duration_minutes": 63,
+      "url": "https://www.youtube.com/watch?v=BKz2Dy-mKEM"
     },
     {
       "video_id": "KotQbLX8pOw",
@@ -458,7 +458,7 @@
       "channel_title": "20VC with Harry Stebbings",
       "source_type": "Venture capital",
       "published_at": "2026-11-09T15:00:02Z",
-      "view_count": 43939,
+      "view_count": 54151,
       "duration_minutes": 50,
       "url": "https://www.youtube.com/watch?v=KotQbLX8pOw"
     }

@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-11-12T17:09:53.338263Z",
+  "generated_at": "2026-11-13T16:48:20.977898Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -39,21 +39,21 @@
       "handle": "@Futurepedia_io",
       "source_type": "AI agent and automation",
       "channel_id": "UC_RovKmk0OCbuZjA8f08opw",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "Nate Herk",
       "handle": "@NateHerk",
       "source_type": "AI agent and automation",
       "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "recent_video_count": 6
+      "recent_video_count": 4
     },
     {
       "name": "Krish Naik",
       "handle": "@krishnaik06",
       "source_type": "AI agent and automation",
       "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "AI Code King",
@@ -88,7 +88,7 @@
       "handle": "@TechWithTim",
       "source_type": "AI agent and automation",
       "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "NetworkChuck",
@@ -123,14 +123,14 @@
       "handle": "@WeightsBiases",
       "source_type": "AI agent and automation",
       "channel_id": "UCAoex7Afqs1bWf5Xy8xaSfQ",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Hugging Face",
       "handle": "@huggingface",
       "source_type": "AI agent and automation",
       "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "recent_video_count": 4
+      "recent_video_count": 2
     },
     {
       "name": "Liam Ottley",
@@ -165,14 +165,14 @@
       "handle": "UCMcoud_ZW7cfxeIugBflSBw",
       "source_type": "AI agent and automation",
       "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Sam Witteveen",
       "handle": "UC55ODQSvARtgSyc8ThfiepQ",
       "source_type": "AI agent and automation",
       "channel_id": "UC55ODQSvARtgSyc8ThfiepQ",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "AI Jason",
@@ -193,21 +193,21 @@
       "handle": "UC8KWRrf8wqyowmWhXJ9DRjQ",
       "source_type": "AI agent and automation",
       "channel_id": "UC8KWRrf8wqyowmWhXJ9DRjQ",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Zapier",
       "handle": "UCEvsxF4Z12vwpwDUaU02yiA",
       "source_type": "AI agent and automation",
       "channel_id": "UCEvsxF4Z12vwpwDUaU02yiA",
-      "recent_video_count": 1
+      "recent_video_count": 3
     },
     {
       "name": "LangChain",
       "handle": "UCC-lyoTfSrcJzA1ab3APAgw",
       "source_type": "AI agent and automation",
       "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "LlamaIndex",
@@ -228,7 +228,7 @@
       "handle": "UCVC1GrIK_002p3V1D94VO9A",
       "source_type": "AI agent and automation",
       "channel_id": "UCVC1GrIK_002p3V1D94VO9A",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "OpenAI",
@@ -305,14 +305,14 @@
       "handle": "UCxVxcTULO9cFU6SB9qVaisQ",
       "source_type": "AI agent and automation",
       "channel_id": "UCxVxcTULO9cFU6SB9qVaisQ",
-      "recent_video_count": 13
+      "recent_video_count": 12
     },
     {
       "name": "AI Foundations",
       "handle": "UCWZwfV3ICOt3uEPpW6hYK4g",
       "source_type": "AI agent and automation",
       "channel_id": "UCWZwfV3ICOt3uEPpW6hYK4g",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Mervin Praison",
@@ -326,14 +326,14 @@
       "handle": "UCLKPca3kwwd-B59HNr-_lvA",
       "source_type": "AI agent and automation",
       "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
-      "recent_video_count": 63
+      "recent_video_count": 56
     },
     {
       "name": "Sabrina Ramonov",
       "handle": "UCiGWNa6QK6CiKPvv5-YPv8g",
       "source_type": "AI agent and automation",
       "channel_id": "UCiGWNa6QK6CiKPvv5-YPv8g",
-      "recent_video_count": 12
+      "recent_video_count": 14
     },
     {
       "name": "LowCode Agency",
@@ -354,10 +354,10 @@
       "handle": "UCDq7SjbgRKty5TgGafW8Clg",
       "source_type": "AI agent and automation",
       "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
-      "recent_video_count": 4
+      "recent_video_count": 5
     }
   ],
-  "candidate_count": 250,
+  "candidate_count": 249,
   "results": [
     {
       "video_id": "pz74r-4dGfQ",
@@ -366,7 +366,7 @@
       "channel_title": "AI Engineer",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-06T22:00:01Z",
-      "view_count": 108490,
+      "view_count": 117975,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=pz74r-4dGfQ"
     },
@@ -377,7 +377,7 @@
       "channel_title": "Greg Isenberg",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-09T18:15:17Z",
-      "view_count": 96163,
+      "view_count": 108033,
       "duration_minutes": 52,
       "url": "https://www.youtube.com/watch?v=uJuxenfe-NU"
     },
@@ -388,9 +388,20 @@
       "channel_title": "Tech With Tim",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-09T15:11:46Z",
-      "view_count": 39651,
+      "view_count": 40987,
       "duration_minutes": 17,
       "url": "https://www.youtube.com/watch?v=5z5aoqMURFM"
+    },
+    {
+      "video_id": "hvnPWgfmvyI",
+      "title": "Why AI Agents Need RAG + Observability",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "channel_title": "IBM Technology",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-12T12:00:39Z",
+      "view_count": 36538,
+      "duration_minutes": 9,
+      "url": "https://www.youtube.com/watch?v=hvnPWgfmvyI"
     },
     {
       "video_id": "nAubbmlhPfI",
@@ -399,7 +410,7 @@
       "channel_title": "OpenAI",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-11T01:24:07Z",
-      "view_count": 29956,
+      "view_count": 35704,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=nAubbmlhPfI"
     },
@@ -410,31 +421,20 @@
       "channel_title": "n8n",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-11T13:26:02Z",
-      "view_count": 17887,
+      "view_count": 29203,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=cjEK7V9GucQ"
     },
     {
-      "video_id": "bH9jjQL9DB0",
-      "title": "OpenAI Just Dropped Dots, Your Own AI Agent That Works for You 24/7",
-      "channel_id": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
-      "channel_title": "Nick Saraev",
+      "video_id": "HCJvnek8zZM",
+      "title": "My ASUS AI Agent Computer: Local LLMs, Coding & Agent Demos",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "channel_title": "Krish Naik",
       "source_type": "AI agent and automation",
-      "published_at": "2026-11-05T21:34:39Z",
-      "view_count": 14179,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=bH9jjQL9DB0"
-    },
-    {
-      "video_id": "hvnPWgfmvyI",
-      "title": "Why AI Agents Need RAG + Observability",
-      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
-      "channel_title": "IBM Technology",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-11-12T12:00:39Z",
-      "view_count": 10364,
-      "duration_minutes": 9,
-      "url": "https://www.youtube.com/watch?v=hvnPWgfmvyI"
+      "published_at": "2026-11-13T04:55:46Z",
+      "view_count": 14772,
+      "duration_minutes": 22,
+      "url": "https://www.youtube.com/watch?v=HCJvnek8zZM"
     },
     {
       "video_id": "NUgaWmws0XQ",
@@ -443,7 +443,7 @@
       "channel_title": "LangChain",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-09T13:53:26Z",
-      "view_count": 4979,
+      "view_count": 5184,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=NUgaWmws0XQ"
     },
@@ -454,20 +454,20 @@
       "channel_title": "All About AI",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-10T18:06:19Z",
-      "view_count": 2506,
+      "view_count": 2688,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=3FKdVJf-tUk"
     },
     {
-      "video_id": "KkyuaRdqsqU",
-      "title": "The BEST MCP Tooling, Authentication, and Integration!",
-      "channel_id": "UCEvsxF4Z12vwpwDUaU02yiA",
-      "channel_title": "Zapier",
+      "video_id": "FYIDMJT16_o",
+      "title": "Build Your First AI Agent Around 1 Weekly Task",
+      "channel_id": "UCiGWNa6QK6CiKPvv5-YPv8g",
+      "channel_title": "Sabrina Ramonov 🍄",
       "source_type": "AI agent and automation",
-      "published_at": "2026-11-09T21:30:19Z",
-      "view_count": 231,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=KkyuaRdqsqU"
+      "published_at": "2026-11-13T15:45:27Z",
+      "view_count": 332,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=FYIDMJT16_o"
     }
   ]
 }

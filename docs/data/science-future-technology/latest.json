@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-12T17:09:53.338263Z",
+  "generated_at": "2026-11-13T16:48:20.977898Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -53,14 +53,14 @@
       "handle": "@MarkRober",
       "source_type": "Independent creator",
       "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Hacksmith Industries",
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Boston Dynamics",
@@ -74,14 +74,14 @@
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "European Space Agency",
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Cleo Abram",
@@ -117,7 +117,7 @@
       "handle": "@fermilab",
       "source_type": "Research institution",
       "channel_id": "UCD5B6VoXv41fJ-IW8Wrhz9A",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Applied Science",
@@ -152,7 +152,7 @@
       "handle": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "source_type": "Additional curated source",
       "channel_id": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "3Blue1Brown",
@@ -166,14 +166,14 @@
       "handle": "UCZYTClx2T1of7BRZ86-8fow",
       "source_type": "Additional curated source",
       "channel_id": "UCZYTClx2T1of7BRZ86-8fow",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "minutephysics",
       "handle": "UCUHW94eEFW7hkUMVaZz4eDg",
       "source_type": "Additional curated source",
       "channel_id": "UCUHW94eEFW7hkUMVaZz4eDg",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "MinuteEarth",
@@ -229,7 +229,7 @@
       "handle": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "source_type": "Additional curated source",
       "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "GreatScott!",
@@ -264,14 +264,14 @@
       "handle": "UC4QZ_LsYcvcq7qOsOhpAX4A",
       "source_type": "Additional curated source",
       "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Sabine Hossenfelder",
       "handle": "UC1yNl2E66ZzKApQdRuTQ4tw",
       "source_type": "Additional curated source",
       "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Anton Petrov",
@@ -285,7 +285,7 @@
       "handle": "UCYNbYGl89UUowy8oXkipC-Q",
       "source_type": "Additional curated source",
       "channel_id": "UCYNbYGl89UUowy8oXkipC-Q",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Astrum",
@@ -313,14 +313,14 @@
       "handle": "UCYeF244yNGuFefuFKqxIAXw",
       "source_type": "Additional curated source",
       "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "New Scientist",
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "SpaceX",
@@ -334,14 +334,14 @@
       "handle": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "source_type": "Additional curated source",
       "channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
-      "recent_video_count": 1
+      "recent_video_count": 3
     },
     {
       "name": "Scott Manley",
       "handle": "UCxzC4EngIsMrPmbm6Nxvb-A",
       "source_type": "Additional curated source",
       "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "recent_video_count": 6
+      "recent_video_count": 4
     },
     {
       "name": "Primal Space",
@@ -358,27 +358,16 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 91,
+  "candidate_count": 97,
   "results": [
     {
-      "video_id": "Xom0I1iQXHM",
-      "title": "It’s Not As Simple As Putting Data Centers in Space",
-      "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "channel_title": "StarTalk",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-06T00:30:02Z",
-      "view_count": 3288171,
-      "duration_minutes": 18,
-      "url": "https://www.youtube.com/watch?v=Xom0I1iQXHM"
-    },
-    {
       "video_id": "fEjvSbI_PT4",
-      "title": "What Actually Happens When You Die?",
+      "title": "Dying Is Complicated",
       "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
       "channel_title": "Kurzgesagt – In a Nutshell",
       "source_type": "Independent creator",
       "published_at": "2026-11-10T15:00:01Z",
-      "view_count": 3230893,
+      "view_count": 3683509,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=fEjvSbI_PT4"
     },
@@ -389,7 +378,7 @@
       "channel_title": "SpaceX",
       "source_type": "Additional curated source",
       "published_at": "2026-11-07T15:00:36Z",
-      "view_count": 2951309,
+      "view_count": 3065870,
       "duration_minutes": 21,
       "url": "https://www.youtube.com/watch?v=8ySMdUIF3cY"
     },
@@ -400,20 +389,20 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-11-10T17:05:16Z",
-      "view_count": 2162904,
+      "view_count": 2723984,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=kCD532ylVGc"
     },
     {
-      "video_id": "rL0qEmTRI-I",
-      "title": "Why do deserts get cold at night?",
+      "video_id": "2QSkkhbl3v4",
+      "title": "Why you can't trust a test that's 99% accurate",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
-      "published_at": "2026-11-06T14:00:17Z",
-      "view_count": 1859574,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=rL0qEmTRI-I"
+      "published_at": "2026-11-11T14:00:12Z",
+      "view_count": 1405325,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=2QSkkhbl3v4"
     },
     {
       "video_id": "uALjsKI-ceE",
@@ -422,9 +411,20 @@
       "channel_title": "SciShow",
       "source_type": "Additional curated source",
       "published_at": "2026-11-10T18:00:12Z",
-      "view_count": 819763,
+      "view_count": 1260482,
       "duration_minutes": 8,
       "url": "https://www.youtube.com/watch?v=uALjsKI-ceE"
+    },
+    {
+      "video_id": "4Id5aTlYkHg",
+      "title": "The AI Alignment Problem & Its Solutions, with Aza Raskin",
+      "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
+      "channel_title": "StarTalk",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-07T16:00:29Z",
+      "view_count": 881644,
+      "duration_minutes": 83,
+      "url": "https://www.youtube.com/watch?v=4Id5aTlYkHg"
     },
     {
       "video_id": "NL65Awuv8gU",
@@ -433,7 +433,7 @@
       "channel_title": "Boston Dynamics",
       "source_type": "Official company",
       "published_at": "2026-11-09T15:00:35Z",
-      "view_count": 758769,
+      "view_count": 790736,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=NL65Awuv8gU"
     },
@@ -444,9 +444,20 @@
       "channel_title": "Real Engineering",
       "source_type": "Independent creator",
       "published_at": "2026-11-07T16:32:11Z",
-      "view_count": 640489,
+      "view_count": 663940,
       "duration_minutes": 21,
       "url": "https://www.youtube.com/watch?v=xod_mCN-K38"
+    },
+    {
+      "video_id": "XqQ19mdaXbc",
+      "title": "How Flat Is “Flat”? We Went Nano #microscope #engineering #science #ad",
+      "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
+      "channel_title": "Hacksmith Industries",
+      "source_type": "Official company",
+      "published_at": "2026-11-12T17:00:08Z",
+      "view_count": 661312,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=XqQ19mdaXbc"
     },
     {
       "video_id": "ujfF_SnxvZQ",
@@ -455,20 +466,9 @@
       "channel_title": "Everyday Astronaut",
       "source_type": "Additional curated source",
       "published_at": "2026-11-09T16:00:35Z",
-      "view_count": 542294,
+      "view_count": 584906,
       "duration_minutes": 46,
       "url": "https://www.youtube.com/watch?v=ujfF_SnxvZQ"
-    },
-    {
-      "video_id": "RG5WhPmwGgk",
-      "title": "So You Want To Understand Black Holes...",
-      "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
-      "channel_title": "PBS Space Time",
-      "source_type": "Editorial/media",
-      "published_at": "2026-11-05T21:15:12Z",
-      "view_count": 445397,
-      "duration_minutes": 118,
-      "url": "https://www.youtube.com/watch?v=RG5WhPmwGgk"
     }
   ]
 }

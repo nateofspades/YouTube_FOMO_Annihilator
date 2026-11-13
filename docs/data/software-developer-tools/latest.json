@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-11-12T17:09:53.338263Z",
+  "generated_at": "2026-11-13T16:48:20.977898Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@GitHub",
       "source_type": "Official company",
       "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
-      "recent_video_count": 17
+      "recent_video_count": 18
     },
     {
       "name": "Google for Developers",
@@ -25,7 +25,7 @@
       "handle": "@MicrosoftDeveloper",
       "source_type": "Official company",
       "channel_id": "UCsMica-v34Irf9KVTh6xx-g",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "AWS Developers",
@@ -60,7 +60,7 @@
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 89
+      "recent_video_count": 112
     },
     {
       "name": "GitLab",
@@ -74,7 +74,7 @@
       "handle": "@JetBrainsTV",
       "source_type": "Official company",
       "channel_id": "UCGp4UBwpTNegd_4nCpuBcow",
-      "recent_video_count": 5
+      "recent_video_count": 7
     },
     {
       "name": "Fireship",
@@ -88,14 +88,14 @@
       "handle": "@freecodecamp",
       "source_type": "Research institution",
       "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Traversy Media",
       "handle": "@TraversyMedia",
       "source_type": "Independent creator",
       "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Web Dev Simplified",
@@ -109,7 +109,7 @@
       "handle": "@t3dotgg",
       "source_type": "Independent creator",
       "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "ThePrimeagen",
@@ -256,7 +256,7 @@
       "handle": "UCmXmlB4-HJytD7wek0Uo97A",
       "source_type": "Additional curated source",
       "channel_id": "UCmXmlB4-HJytD7wek0Uo97A",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "ArjanCodes",
@@ -298,7 +298,7 @@
       "handle": "UCZNhwA1B5YqiY1nLzmM0ZRg",
       "source_type": "Additional curated source",
       "channel_id": "UCZNhwA1B5YqiY1nLzmM0ZRg",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "DevOps Directive",
@@ -340,14 +340,14 @@
       "handle": "UC6biysICWOJ-C3P4Tyeggzg",
       "source_type": "Additional curated source",
       "channel_id": "UC6biysICWOJ-C3P4Tyeggzg",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Syntax",
       "handle": "UCyU5wkjgQYGRB0hIHMwm2Sg",
       "source_type": "Additional curated source",
       "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Supabase",
@@ -357,18 +357,29 @@
       "recent_video_count": 3
     }
   ],
-  "candidate_count": 200,
+  "candidate_count": 224,
   "results": [
     {
-      "video_id": "iw9SZgyahqg",
-      "title": "The one thing holding theoretical CS together just broke... kinda",
+      "video_id": "pf5tXJZM1Rw",
+      "title": "OpenAI spent $1.2 million hacking Linux... and it was a bargain",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
       "channel_title": "Fireship",
       "source_type": "Independent creator",
-      "published_at": "2026-11-06T16:42:38Z",
-      "view_count": 2077627,
-      "duration_minutes": 6,
-      "url": "https://www.youtube.com/watch?v=iw9SZgyahqg"
+      "published_at": "2026-11-09T21:04:16Z",
+      "view_count": 1815280,
+      "duration_minutes": 7,
+      "url": "https://www.youtube.com/watch?v=pf5tXJZM1Rw"
+    },
+    {
+      "video_id": "Z3xvjzlDWd8",
+      "title": "they found 1000 vulnerabilities in the linux kernel..",
+      "channel_id": "UC6biysICWOJ-C3P4Tyeggzg",
+      "channel_title": "Low Level",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-12T14:08:52Z",
+      "view_count": 363975,
+      "duration_minutes": 14,
+      "url": "https://www.youtube.com/watch?v=Z3xvjzlDWd8"
     },
     {
       "video_id": "yh5IAUow4Hc",
@@ -377,7 +388,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-11-10T19:38:40Z",
-      "view_count": 261917,
+      "view_count": 273532,
       "duration_minutes": 48,
       "url": "https://www.youtube.com/watch?v=yh5IAUow4Hc"
     },
@@ -388,7 +399,7 @@
       "channel_title": "Google Cloud Tech",
       "source_type": "Official company",
       "published_at": "2026-11-09T17:45:50Z",
-      "view_count": 124511,
+      "view_count": 139840,
       "duration_minutes": 40,
       "url": "https://www.youtube.com/watch?v=pabDkNR7jIs"
     },
@@ -399,7 +410,7 @@
       "channel_title": "Amigoscode",
       "source_type": "Additional curated source",
       "published_at": "2026-11-06T18:00:24Z",
-      "view_count": 117475,
+      "view_count": 122180,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=KrlaBpyWH_k"
     },
@@ -410,7 +421,7 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-11-10T12:00:39Z",
-      "view_count": 100303,
+      "view_count": 114173,
       "duration_minutes": 111,
       "url": "https://www.youtube.com/watch?v=ajfQWhGQGLE"
     },
@@ -421,7 +432,7 @@
       "channel_title": "KodeKloud",
       "source_type": "Additional curated source",
       "published_at": "2026-11-09T20:54:44Z",
-      "view_count": 98298,
+      "view_count": 101035,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=cH88SXCQZEQ"
     },
@@ -432,7 +443,7 @@
       "channel_title": "NeetCode",
       "source_type": "Additional curated source",
       "published_at": "2026-11-08T15:30:01Z",
-      "view_count": 84128,
+      "view_count": 89191,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=hjzApFpPB54"
     },
@@ -443,31 +454,20 @@
       "channel_title": "GitHub",
       "source_type": "Official company",
       "published_at": "2026-11-08T15:01:59Z",
-      "view_count": 70976,
+      "view_count": 87635,
       "duration_minutes": 30,
       "url": "https://www.youtube.com/watch?v=-GpxKKgoWWg"
     },
     {
-      "video_id": "RIDJ9zfvnyg",
-      "title": "HPE ML350 Gen10 Review // Tower Server for a HomeLab?",
-      "channel_id": "UCZNhwA1B5YqiY1nLzmM0ZRg",
-      "channel_title": "Christian Lempa",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-06T15:00:38Z",
-      "view_count": 63624,
-      "duration_minutes": 34,
-      "url": "https://www.youtube.com/watch?v=RIDJ9zfvnyg"
-    },
-    {
-      "video_id": "rhPdfVTA2r0",
-      "title": "Does Your Framework Still Matter?",
-      "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
-      "channel_title": "Traversy Media",
+      "video_id": "8944biinHgE",
+      "title": "Git Explained in 25 Mins | Git and GitHub Tutorial",
+      "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
+      "channel_title": "TechWorld with Nana",
       "source_type": "Independent creator",
-      "published_at": "2026-11-05T18:08:29Z",
-      "view_count": 49165,
-      "duration_minutes": 14,
-      "url": "https://www.youtube.com/watch?v=rhPdfVTA2r0"
+      "published_at": "2026-11-09T15:00:21Z",
+      "view_count": 44285,
+      "duration_minutes": 26,
+      "url": "https://www.youtube.com/watch?v=8944biinHgE"
     }
   ]
 }
