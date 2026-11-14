@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-13T16:48:20.977898Z",
+  "generated_at": "2026-11-14T15:23:14.158293Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@kurzgesagt",
       "source_type": "Independent creator",
       "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Veritasium",
@@ -81,14 +81,14 @@
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 6
+      "recent_video_count": 4
     },
     {
       "name": "Cleo Abram",
       "handle": "@CleoAbram",
       "source_type": "Editorial/media",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Undecided",
@@ -138,7 +138,7 @@
       "handle": "@TwoBitDaVinci",
       "source_type": "Independent creator",
       "channel_id": "UCEgYhf84VjXDz-W7a9-rdCQ",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Branch Education",
@@ -166,7 +166,7 @@
       "handle": "UCZYTClx2T1of7BRZ86-8fow",
       "source_type": "Additional curated source",
       "channel_id": "UCZYTClx2T1of7BRZ86-8fow",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "minutephysics",
@@ -180,7 +180,7 @@
       "handle": "UCeiYXex_fwgYDonaTcSIk6w",
       "source_type": "Additional curated source",
       "channel_id": "UCeiYXex_fwgYDonaTcSIk6w",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "NileRed",
@@ -250,14 +250,14 @@
       "handle": "UC5_Y-BKzq1uW_2rexWkUzlA",
       "source_type": "Additional curated source",
       "channel_id": "UC5_Y-BKzq1uW_2rexWkUzlA",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Asianometry",
       "handle": "UC1LpsuAUaKoMzzJSEt5WImw",
       "source_type": "Additional curated source",
       "channel_id": "UC1LpsuAUaKoMzzJSEt5WImw",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "ColdFusion",
@@ -285,7 +285,7 @@
       "handle": "UCYNbYGl89UUowy8oXkipC-Q",
       "source_type": "Additional curated source",
       "channel_id": "UCYNbYGl89UUowy8oXkipC-Q",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Astrum",
@@ -313,21 +313,21 @@
       "handle": "UCYeF244yNGuFefuFKqxIAXw",
       "source_type": "Additional curated source",
       "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
-      "recent_video_count": 6
+      "recent_video_count": 4
     },
     {
       "name": "New Scientist",
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "SpaceX",
       "handle": "UCtI0Hodo5o5dUb67FeUjDeA",
       "source_type": "Additional curated source",
       "channel_id": "UCtI0Hodo5o5dUb67FeUjDeA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Everyday Astronaut",
@@ -341,14 +341,14 @@
       "handle": "UCxzC4EngIsMrPmbm6Nxvb-A",
       "source_type": "Additional curated source",
       "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "recent_video_count": 4
+      "recent_video_count": 6
     },
     {
       "name": "Primal Space",
       "handle": "UClZbmi9JzfnB2CEb0fG8iew",
       "source_type": "Additional curated source",
       "channel_id": "UClZbmi9JzfnB2CEb0fG8iew",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "TED-Ed",
@@ -358,7 +358,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 97,
+  "candidate_count": 98,
   "results": [
     {
       "video_id": "fEjvSbI_PT4",
@@ -367,20 +367,9 @@
       "channel_title": "Kurzgesagt – In a Nutshell",
       "source_type": "Independent creator",
       "published_at": "2026-11-10T15:00:01Z",
-      "view_count": 3683509,
+      "view_count": 3990616,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=fEjvSbI_PT4"
-    },
-    {
-      "video_id": "8ySMdUIF3cY",
-      "title": "Starship - Go For Orbit",
-      "channel_id": "UCtI0Hodo5o5dUb67FeUjDeA",
-      "channel_title": "SpaceX",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-07T15:00:36Z",
-      "view_count": 3065870,
-      "duration_minutes": 21,
-      "url": "https://www.youtube.com/watch?v=8ySMdUIF3cY"
     },
     {
       "video_id": "kCD532ylVGc",
@@ -389,20 +378,9 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-11-10T17:05:16Z",
-      "view_count": 2723984,
+      "view_count": 3085161,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=kCD532ylVGc"
-    },
-    {
-      "video_id": "2QSkkhbl3v4",
-      "title": "Why you can't trust a test that's 99% accurate",
-      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "channel_title": "Veritasium",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-11T14:00:12Z",
-      "view_count": 1405325,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=2QSkkhbl3v4"
     },
     {
       "video_id": "uALjsKI-ceE",
@@ -411,9 +389,42 @@
       "channel_title": "SciShow",
       "source_type": "Additional curated source",
       "published_at": "2026-11-10T18:00:12Z",
-      "view_count": 1260482,
+      "view_count": 1584209,
       "duration_minutes": 8,
       "url": "https://www.youtube.com/watch?v=uALjsKI-ceE"
+    },
+    {
+      "video_id": "2QSkkhbl3v4",
+      "title": "Why you can't trust a test that's 99% accurate",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channel_title": "Veritasium",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-11T14:00:12Z",
+      "view_count": 1489381,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=2QSkkhbl3v4"
+    },
+    {
+      "video_id": "XqQ19mdaXbc",
+      "title": "How Flat Is “Flat”? We Went Nano #microscope #engineering #science #ad",
+      "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
+      "channel_title": "Hacksmith Industries",
+      "source_type": "Official company",
+      "published_at": "2026-11-12T17:00:08Z",
+      "view_count": 1207714,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=XqQ19mdaXbc"
+    },
+    {
+      "video_id": "QJFdKoKNn2M",
+      "title": "[4K] Watch Starship's First DOUBLE CATCH!!!",
+      "channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
+      "channel_title": "Everyday Astronaut",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-14T01:10:04Z",
+      "view_count": 966005,
+      "duration_minutes": 170,
+      "url": "https://www.youtube.com/watch?v=QJFdKoKNn2M"
     },
     {
       "video_id": "4Id5aTlYkHg",
@@ -422,7 +433,7 @@
       "channel_title": "StarTalk",
       "source_type": "Additional curated source",
       "published_at": "2026-11-07T16:00:29Z",
-      "view_count": 881644,
+      "view_count": 920997,
       "duration_minutes": 83,
       "url": "https://www.youtube.com/watch?v=4Id5aTlYkHg"
     },
@@ -433,7 +444,7 @@
       "channel_title": "Boston Dynamics",
       "source_type": "Official company",
       "published_at": "2026-11-09T15:00:35Z",
-      "view_count": 790736,
+      "view_count": 799509,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=NL65Awuv8gU"
     },
@@ -444,31 +455,20 @@
       "channel_title": "Real Engineering",
       "source_type": "Independent creator",
       "published_at": "2026-11-07T16:32:11Z",
-      "view_count": 663940,
+      "view_count": 681567,
       "duration_minutes": 21,
       "url": "https://www.youtube.com/watch?v=xod_mCN-K38"
     },
     {
-      "video_id": "XqQ19mdaXbc",
-      "title": "How Flat Is “Flat”? We Went Nano #microscope #engineering #science #ad",
-      "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "channel_title": "Hacksmith Industries",
-      "source_type": "Official company",
-      "published_at": "2026-11-12T17:00:08Z",
-      "view_count": 661312,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=XqQ19mdaXbc"
-    },
-    {
-      "video_id": "ujfF_SnxvZQ",
-      "title": "See the Artemis III Rocket w/ NASA Administrator Jared Isaacman",
-      "channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
-      "channel_title": "Everyday Astronaut",
+      "video_id": "FsEbLPqeo7k",
+      "title": "The Man Who Refused to be a Trillionaire",
+      "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
+      "channel_title": "ColdFusion",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-09T16:00:35Z",
-      "view_count": 584906,
-      "duration_minutes": 46,
-      "url": "https://www.youtube.com/watch?v=ujfF_SnxvZQ"
+      "published_at": "2026-11-11T13:49:23Z",
+      "view_count": 457193,
+      "duration_minutes": 26,
+      "url": "https://www.youtube.com/watch?v=FsEbLPqeo7k"
     }
   ]
 }

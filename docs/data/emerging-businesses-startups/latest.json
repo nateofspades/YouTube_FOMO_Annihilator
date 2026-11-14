@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-11-13T16:48:20.977898Z",
+  "generated_at": "2026-11-14T15:23:14.158293Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,7 +18,7 @@
       "handle": "@TechCrunch",
       "source_type": "Editorial/media",
       "channel_id": "UCCjyq_K1Xwfg8Lndy7lKMpA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "a16z",
@@ -46,7 +46,7 @@
       "handle": "@LennysPodcast",
       "source_type": "Independent creator",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "20VC",
@@ -67,7 +67,7 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "My First Million",
@@ -88,7 +88,7 @@
       "handle": "@Saastr",
       "source_type": "Founder community",
       "channel_id": "UCwOILzAcxK5CM2M7oRBuWSg",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Slidebean",
@@ -130,7 +130,7 @@
       "handle": "UC6hlQ0x6kPbAGjYkoz53cvA",
       "source_type": "Official company",
       "channel_id": "UC6hlQ0x6kPbAGjYkoz53cvA",
-      "recent_video_count": 7
+      "recent_video_count": 9
     },
     {
       "name": "Startup Grind",
@@ -165,7 +165,7 @@
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "Additional curated source",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 22
+      "recent_video_count": 24
     },
     {
       "name": "The Logan Bartlett Show",
@@ -179,7 +179,7 @@
       "handle": "UChpWgrkJY_i7F6wwI_TOnrg",
       "source_type": "Additional curated source",
       "channel_id": "UChpWgrkJY_i7F6wwI_TOnrg",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Entrepreneur",
@@ -193,21 +193,21 @@
       "handle": "UCH5_L3ytGbBziX0CLuYdQ1Q",
       "source_type": "Additional curated source",
       "channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Bloomberg Technology",
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "Additional curated source",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 43
+      "recent_video_count": 40
     },
     {
       "name": "PitchBook",
       "handle": "UC4rBao48na0v__j3Xvu0T-g",
       "source_type": "Additional curated source",
       "channel_id": "UC4rBao48na0v__j3Xvu0T-g",
-      "recent_video_count": 0
+      "recent_video_count": 2
     },
     {
       "name": "Crunchbase",
@@ -228,7 +228,7 @@
       "handle": "UClebMzrpRNTWVfZXw2jfsSw",
       "source_type": "Additional curated source",
       "channel_id": "UClebMzrpRNTWVfZXw2jfsSw",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "500 Global",
@@ -249,7 +249,7 @@
       "handle": "UCwBTFE_6Bsb_EtmXlW2aTlg",
       "source_type": "Additional curated source",
       "channel_id": "UCwBTFE_6Bsb_EtmXlW2aTlg",
-      "recent_video_count": 7
+      "recent_video_count": 5
     },
     {
       "name": "General Catalyst",
@@ -350,19 +350,8 @@
       "recent_video_count": 7
     }
   ],
-  "candidate_count": 206,
+  "candidate_count": 204,
   "results": [
-    {
-      "video_id": "ao-BzLbFObI",
-      "title": "I’m A Dumpster Diver – And I Bring In $140K/Year",
-      "channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
-      "channel_title": "CNBC Make It",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-07T15:00:09Z",
-      "view_count": 759380,
-      "duration_minutes": 9,
-      "url": "https://www.youtube.com/watch?v=ao-BzLbFObI"
-    },
     {
       "video_id": "yO5O_ngyA_8",
       "title": "I Tried The “Easiest” Ways To Make Money With AI",
@@ -370,9 +359,20 @@
       "channel_title": "Codie Sanchez",
       "source_type": "Additional curated source",
       "published_at": "2026-11-11T16:34:43Z",
-      "view_count": 273369,
+      "view_count": 344912,
       "duration_minutes": 35,
       "url": "https://www.youtube.com/watch?v=yO5O_ngyA_8"
+    },
+    {
+      "video_id": "C89c0fsHYIQ",
+      "title": "Why Tech Workers Are Flocking To NYC",
+      "channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
+      "channel_title": "CNBC Make It",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-09T17:00:35Z",
+      "view_count": 223416,
+      "duration_minutes": 8,
+      "url": "https://www.youtube.com/watch?v=C89c0fsHYIQ"
     },
     {
       "video_id": "iysKmXT4DUo",
@@ -381,7 +381,7 @@
       "channel_title": "Bloomberg Tech",
       "source_type": "Additional curated source",
       "published_at": "2026-11-09T14:14:56Z",
-      "view_count": 133117,
+      "view_count": 134799,
       "duration_minutes": 11,
       "url": "https://www.youtube.com/watch?v=iysKmXT4DUo"
     },
@@ -392,7 +392,7 @@
       "channel_title": "Starter Story",
       "source_type": "Additional curated source",
       "published_at": "2026-11-08T18:00:14Z",
-      "view_count": 115289,
+      "view_count": 127166,
       "duration_minutes": 17,
       "url": "https://www.youtube.com/watch?v=X2T92MVx7xs"
     },
@@ -403,20 +403,9 @@
       "channel_title": "Greg Isenberg",
       "source_type": "Additional curated source",
       "published_at": "2026-11-09T18:15:17Z",
-      "view_count": 108001,
+      "view_count": 117003,
       "duration_minutes": 52,
       "url": "https://www.youtube.com/watch?v=uJuxenfe-NU"
-    },
-    {
-      "video_id": "Q78dJ0vkWe8",
-      "title": "How To Build The Future: Paul Graham & Amjad Masad",
-      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "channel_title": "Y Combinator",
-      "source_type": "Accelerator",
-      "published_at": "2026-11-07T15:00:14Z",
-      "view_count": 85498,
-      "duration_minutes": 44,
-      "url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8"
     },
     {
       "video_id": "scmf3gd9ZjI",
@@ -425,9 +414,20 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-11-09T14:30:01Z",
-      "view_count": 62645,
+      "view_count": 65540,
       "duration_minutes": 38,
       "url": "https://www.youtube.com/watch?v=scmf3gd9ZjI"
+    },
+    {
+      "video_id": "KotQbLX8pOw",
+      "title": "Mistral CEO: Why OpenAI & Anthropic Will Come for Your Business | Are Chinese Models Truly Safe?",
+      "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
+      "channel_title": "20VC with Harry Stebbings",
+      "source_type": "Venture capital",
+      "published_at": "2026-11-09T15:00:02Z",
+      "view_count": 62045,
+      "duration_minutes": 50,
+      "url": "https://www.youtube.com/watch?v=KotQbLX8pOw"
     },
     {
       "video_id": "qGf2Yvan4Wg",
@@ -436,7 +436,7 @@
       "channel_title": "Lenny's Podcast",
       "source_type": "Independent creator",
       "published_at": "2026-11-08T13:30:30Z",
-      "view_count": 55643,
+      "view_count": 60006,
       "duration_minutes": 59,
       "url": "https://www.youtube.com/watch?v=qGf2Yvan4Wg"
     },
@@ -447,20 +447,20 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-11-08T13:00:32Z",
-      "view_count": 55614,
+      "view_count": 58801,
       "duration_minutes": 63,
       "url": "https://www.youtube.com/watch?v=BKz2Dy-mKEM"
     },
     {
-      "video_id": "KotQbLX8pOw",
-      "title": "Mistral CEO: Why OpenAI & Anthropic Will Come for Your Business | Are Chinese Models Truly Safe?",
-      "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "channel_title": "20VC with Harry Stebbings",
-      "source_type": "Venture capital",
-      "published_at": "2026-11-09T15:00:02Z",
-      "view_count": 54151,
-      "duration_minutes": 50,
-      "url": "https://www.youtube.com/watch?v=KotQbLX8pOw"
+      "video_id": "z8_hlGA51ck",
+      "title": "\"Jensen Huang's Exit Could Change the AI Industry Forever\" - Dylan Patel",
+      "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
+      "channel_title": "TBPN",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-12T21:18:11Z",
+      "view_count": 56148,
+      "duration_minutes": 31,
+      "url": "https://www.youtube.com/watch?v=z8_hlGA51ck"
     }
   ]
 }

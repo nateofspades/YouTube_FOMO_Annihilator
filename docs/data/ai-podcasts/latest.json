@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-11-13T16:48:20.977898Z",
+  "generated_at": "2026-11-14T15:23:14.158293Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,21 +11,21 @@
       "handle": "UCJIfeSCssxSC_Dhc5s7woww",
       "source_type": "AI podcast",
       "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "recent_video_count": 12
+      "recent_video_count": 17
     },
     {
       "name": "Dwarkesh Patel",
       "handle": "UCXl4i9dYBrFOabk0xGmbkRA",
       "source_type": "AI podcast",
       "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
-      "recent_video_count": 3
+      "recent_video_count": 5
     },
     {
       "name": "Latent Space",
       "handle": "UCxBcwypKK-W3GHd_RZ9FZrQ",
       "source_type": "AI podcast",
       "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Cognitive Revolution",
@@ -39,7 +39,7 @@
       "handle": "UCSI7h9hydQ40K5MJHnCrQvw",
       "source_type": "AI podcast",
       "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "The TWIML AI Podcast",
@@ -53,7 +53,7 @@
       "handle": "UC9tpZnMLKv5vbZIGuIIPmNg",
       "source_type": "AI podcast",
       "channel_id": "UC9tpZnMLKv5vbZIGuIIPmNg",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "The AI Breakdown",
@@ -67,7 +67,7 @@
       "handle": "UCdHpbfqjELZmhqY3k0ELGcQ",
       "source_type": "AI podcast",
       "channel_id": "UCdHpbfqjELZmhqY3k0ELGcQ",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "The Gradient",
@@ -179,7 +179,7 @@
       "handle": "UCMbtqTGdSsxYYhhTpV4lSTQ",
       "source_type": "AI podcast",
       "channel_id": "UCMbtqTGdSsxYYhhTpV4lSTQ",
-      "recent_video_count": 12
+      "recent_video_count": 10
     },
     {
       "name": "How I AI",
@@ -214,7 +214,7 @@
       "handle": "UCXOtILmQEo3pL_1bJfUOFWw",
       "source_type": "AI podcast",
       "channel_id": "UCXOtILmQEo3pL_1bJfUOFWw",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "BG2Pod",
@@ -228,21 +228,21 @@
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "AI podcast",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 22
+      "recent_video_count": 24
     },
     {
       "name": "Decoder with Nilay Patel",
       "handle": "UCYRwJnCWfBqFHEHrgc18FFw",
       "source_type": "AI podcast",
       "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
-      "recent_video_count": 14
+      "recent_video_count": 13
     },
     {
       "name": "The Vergecast",
       "handle": "UCVHdvAX5-R8y5l9xp6nroBQ",
       "source_type": "AI podcast",
       "channel_id": "UCVHdvAX5-R8y5l9xp6nroBQ",
-      "recent_video_count": 12
+      "recent_video_count": 11
     },
     {
       "name": "AXRP",
@@ -277,7 +277,7 @@
       "playlist_id": "PLnTmH22EvTFTtWJRPTNzosDIDblnSg0PD",
       "source_type": "AI podcast",
       "channel_id": "UCibEcNJENpWRshGjcfMndcw",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "The Changelog",
@@ -343,19 +343,8 @@
       "recent_video_count": 3
     }
   ],
-  "candidate_count": 220,
+  "candidate_count": 226,
   "results": [
-    {
-      "video_id": "P735f1xlpL0",
-      "title": "Why Would Anthropic Go Public Now? — Jamin Ball, Altimeter",
-      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "channel_title": "Latent Space",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-07T02:49:28Z",
-      "view_count": 45969,
-      "duration_minutes": 102,
-      "url": "https://www.youtube.com/watch?v=P735f1xlpL0"
-    },
     {
       "video_id": "z8_hlGA51ck",
       "title": "\"Jensen Huang's Exit Could Change the AI Industry Forever\" - Dylan Patel",
@@ -363,7 +352,7 @@
       "channel_title": "TBPN",
       "source_type": "AI podcast",
       "published_at": "2026-11-12T21:18:11Z",
-      "view_count": 44419,
+      "view_count": 56148,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=z8_hlGA51ck"
     },
@@ -374,9 +363,20 @@
       "channel_title": "80,000 Hours",
       "source_type": "AI podcast",
       "published_at": "2026-11-12T18:39:38Z",
-      "view_count": 26265,
+      "view_count": 38970,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=P6-_knLbuuk"
+    },
+    {
+      "video_id": "v5IJwVnTxzg",
+      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
+      "channel_title": "Latent Space",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-09T16:18:21Z",
+      "view_count": 34938,
+      "duration_minutes": 164,
+      "url": "https://www.youtube.com/watch?v=v5IJwVnTxzg"
     },
     {
       "video_id": "GVP-bqBAStw",
@@ -385,7 +385,7 @@
       "channel_title": "Machine Gods",
       "source_type": "AI podcast",
       "published_at": "2026-11-13T02:32:15Z",
-      "view_count": 18004,
+      "view_count": 25968,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=GVP-bqBAStw"
     },
@@ -396,20 +396,9 @@
       "channel_title": "a16z",
       "source_type": "AI podcast",
       "published_at": "2026-11-11T15:30:22Z",
-      "view_count": 13817,
+      "view_count": 15048,
       "duration_minutes": 56,
       "url": "https://www.youtube.com/watch?v=LI3lxzHfRrU"
-    },
-    {
-      "video_id": "DgpQ9h05WKk",
-      "title": "The AI industry does not have a marketing problem",
-      "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
-      "channel_title": "Decoder with Nilay Patel",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-06T21:04:59Z",
-      "view_count": 11602,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=DgpQ9h05WKk"
     },
     {
       "video_id": "wdyOjcCj2hw",
@@ -418,7 +407,7 @@
       "channel_title": "How I AI",
       "source_type": "AI podcast",
       "published_at": "2026-11-11T13:00:06Z",
-      "view_count": 10321,
+      "view_count": 11447,
       "duration_minutes": 34,
       "url": "https://www.youtube.com/watch?v=wdyOjcCj2hw"
     },
@@ -429,20 +418,31 @@
       "channel_title": "The AI Daily Brief: Artificial Intelligence News",
       "source_type": "AI podcast",
       "published_at": "2026-11-12T18:44:15Z",
-      "view_count": 9001,
+      "view_count": 10729,
       "duration_minutes": 29,
       "url": "https://www.youtube.com/watch?v=Dt7Q_VQxGHc"
     },
     {
-      "video_id": "BnA4i_vjcV4",
-      "title": "LLMs Cosplay Understanding (Jeremy Howard)",
-      "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
-      "channel_title": "Machine Learning Street Talk",
+      "video_id": "sQKvJbzgFRU",
+      "title": "Claude Just Leveled Up AI Again. Nvidia CEO Jensen Huang Did Not.",
+      "channel_id": "UCghJTNTO9kcDeUFXMuSDGLQ",
+      "channel_title": "AI For Humans",
       "source_type": "AI podcast",
-      "published_at": "2026-11-11T13:50:12Z",
-      "view_count": 7084,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=BnA4i_vjcV4"
+      "published_at": "2026-11-13T14:45:36Z",
+      "view_count": 8592,
+      "duration_minutes": 56,
+      "url": "https://www.youtube.com/watch?v=sQKvJbzgFRU"
+    },
+    {
+      "video_id": "ncz5aYl385k",
+      "title": "AI is overhyped: The reality of autonomy in drone warfare | Russia-Ukraine War - Military Analysis",
+      "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
+      "channel_title": "Lex Clips",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-13T21:00:10Z",
+      "view_count": 5659,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=ncz5aYl385k"
     },
     {
       "video_id": "LDcRdpVvmgQ",
@@ -451,7 +451,7 @@
       "channel_title": "The Pragmatic Engineer",
       "source_type": "AI podcast",
       "published_at": "2026-11-10T16:00:02Z",
-      "view_count": 3754,
+      "view_count": 4019,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=LDcRdpVvmgQ"
     }

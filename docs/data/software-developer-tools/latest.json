@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-11-13T16:48:20.977898Z",
+  "generated_at": "2026-11-14T15:23:14.158293Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -25,21 +25,21 @@
       "handle": "@MicrosoftDeveloper",
       "source_type": "Official company",
       "channel_id": "UCsMica-v34Irf9KVTh6xx-g",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "AWS Developers",
       "handle": "@awsdevelopers",
       "source_type": "Official company",
       "channel_id": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Google Cloud Tech",
       "handle": "@googlecloudtech",
       "source_type": "Official company",
       "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "recent_video_count": 16
+      "recent_video_count": 17
     },
     {
       "name": "Cloudflare",
@@ -74,7 +74,7 @@
       "handle": "@JetBrainsTV",
       "source_type": "Official company",
       "channel_id": "UCGp4UBwpTNegd_4nCpuBcow",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "Fireship",
@@ -284,7 +284,7 @@
       "handle": "UCSWj8mqQCcrcBlXPi4ThRDQ",
       "source_type": "Additional curated source",
       "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
-      "recent_video_count": 15
+      "recent_video_count": 16
     },
     {
       "name": "Bret Fisher Docker and DevOps",
@@ -347,14 +347,14 @@
       "handle": "UCyU5wkjgQYGRB0hIHMwm2Sg",
       "source_type": "Additional curated source",
       "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
-      "recent_video_count": 4
+      "recent_video_count": 2
     },
     {
       "name": "Supabase",
       "handle": "UCNTVzV1InxHV-YR0fSajqPQ",
       "source_type": "Additional curated source",
       "channel_id": "UCNTVzV1InxHV-YR0fSajqPQ",
-      "recent_video_count": 3
+      "recent_video_count": 2
     }
   ],
   "candidate_count": 224,
@@ -366,7 +366,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-11-09T21:04:16Z",
-      "view_count": 1815280,
+      "view_count": 1834896,
       "duration_minutes": 7,
       "url": "https://www.youtube.com/watch?v=pf5tXJZM1Rw"
     },
@@ -377,7 +377,7 @@
       "channel_title": "Low Level",
       "source_type": "Additional curated source",
       "published_at": "2026-11-12T14:08:52Z",
-      "view_count": 363975,
+      "view_count": 417215,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=Z3xvjzlDWd8"
     },
@@ -388,7 +388,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "Independent creator",
       "published_at": "2026-11-10T19:38:40Z",
-      "view_count": 273532,
+      "view_count": 275410,
       "duration_minutes": 48,
       "url": "https://www.youtube.com/watch?v=yh5IAUow4Hc"
     },
@@ -399,20 +399,9 @@
       "channel_title": "Google Cloud Tech",
       "source_type": "Official company",
       "published_at": "2026-11-09T17:45:50Z",
-      "view_count": 139840,
+      "view_count": 146196,
       "duration_minutes": 40,
       "url": "https://www.youtube.com/watch?v=pabDkNR7jIs"
-    },
-    {
-      "video_id": "KrlaBpyWH_k",
-      "title": "The #1 Skill You Need to Survive the AI Era | OpenAI Engineer",
-      "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
-      "channel_title": "Amigoscode",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-06T18:00:24Z",
-      "view_count": 122180,
-      "duration_minutes": 10,
-      "url": "https://www.youtube.com/watch?v=KrlaBpyWH_k"
     },
     {
       "video_id": "ajfQWhGQGLE",
@@ -421,7 +410,7 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-11-10T12:00:39Z",
-      "view_count": 114173,
+      "view_count": 122477,
       "duration_minutes": 111,
       "url": "https://www.youtube.com/watch?v=ajfQWhGQGLE"
     },
@@ -432,20 +421,9 @@
       "channel_title": "KodeKloud",
       "source_type": "Additional curated source",
       "published_at": "2026-11-09T20:54:44Z",
-      "view_count": 101035,
+      "view_count": 101886,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=cH88SXCQZEQ"
-    },
-    {
-      "video_id": "hjzApFpPB54",
-      "title": "How I Did Programming at Google",
-      "channel_id": "UC_mYaQAE6-71rjSN6CeCA-g",
-      "channel_title": "NeetCode",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-08T15:30:01Z",
-      "view_count": 89191,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=hjzApFpPB54"
     },
     {
       "video_id": "-GpxKKgoWWg",
@@ -454,9 +432,20 @@
       "channel_title": "GitHub",
       "source_type": "Official company",
       "published_at": "2026-11-08T15:01:59Z",
-      "view_count": 87635,
+      "view_count": 100008,
       "duration_minutes": 30,
       "url": "https://www.youtube.com/watch?v=-GpxKKgoWWg"
+    },
+    {
+      "video_id": "hjzApFpPB54",
+      "title": "How I Did Programming at Google",
+      "channel_id": "UC_mYaQAE6-71rjSN6CeCA-g",
+      "channel_title": "NeetCode",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-08T15:30:01Z",
+      "view_count": 91746,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=hjzApFpPB54"
     },
     {
       "video_id": "8944biinHgE",
@@ -465,9 +454,20 @@
       "channel_title": "TechWorld with Nana",
       "source_type": "Independent creator",
       "published_at": "2026-11-09T15:00:21Z",
-      "view_count": 44285,
+      "view_count": 48709,
       "duration_minutes": 26,
       "url": "https://www.youtube.com/watch?v=8944biinHgE"
+    },
+    {
+      "video_id": "TteBRlCeqz0",
+      "title": "What I'd Learn Instead of Coding in 2027",
+      "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
+      "channel_title": "Amigoscode",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-12T15:00:18Z",
+      "view_count": 47361,
+      "duration_minutes": 11,
+      "url": "https://www.youtube.com/watch?v=TteBRlCeqz0"
     }
   ]
 }
