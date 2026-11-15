@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-14T15:23:14.158293Z",
+  "generated_at": "2026-11-15T15:54:46.275965Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -39,7 +39,7 @@
       "handle": "@RealEngineering",
       "source_type": "Independent creator",
       "channel_id": "UCR1IuLEqb6UEA_zQ81kwXfg",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Practical Engineering",
@@ -60,7 +60,7 @@
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Boston Dynamics",
@@ -74,21 +74,21 @@
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 5
+      "recent_video_count": 1
     },
     {
       "name": "European Space Agency",
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 4
+      "recent_video_count": 2
     },
     {
       "name": "Cleo Abram",
       "handle": "@CleoAbram",
       "source_type": "Editorial/media",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Undecided",
@@ -131,7 +131,7 @@
       "handle": "@periodicvideos",
       "source_type": "Editorial/media",
       "channel_id": "UCtESv1e7ntJaLJYKIO1FoYw",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Two Bit da Vinci",
@@ -145,7 +145,7 @@
       "handle": "@BranchEducation",
       "source_type": "Independent creator",
       "channel_id": "UCdp4_l1vPmpN-gDbUwhaRUQ",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Vsauce",
@@ -236,7 +236,7 @@
       "handle": "UC6mIxFTvXkWQVEHPsEdflzQ",
       "source_type": "Additional curated source",
       "channel_id": "UC6mIxFTvXkWQVEHPsEdflzQ",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Ben Eater",
@@ -271,7 +271,7 @@
       "handle": "UC1yNl2E66ZzKApQdRuTQ4tw",
       "source_type": "Additional curated source",
       "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Anton Petrov",
@@ -299,7 +299,7 @@
       "handle": "UCqoAEDirJPjEUFcF2FklnBA",
       "source_type": "Additional curated source",
       "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "recent_video_count": 5
+      "recent_video_count": 3
     },
     {
       "name": "Fraser Cain",
@@ -313,14 +313,14 @@
       "handle": "UCYeF244yNGuFefuFKqxIAXw",
       "source_type": "Additional curated source",
       "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "New Scientist",
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "SpaceX",
@@ -334,7 +334,7 @@
       "handle": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "source_type": "Additional curated source",
       "channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
-      "recent_video_count": 3
+      "recent_video_count": 5
     },
     {
       "name": "Scott Manley",
@@ -358,7 +358,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 98,
+  "candidate_count": 87,
   "results": [
     {
       "video_id": "fEjvSbI_PT4",
@@ -367,7 +367,7 @@
       "channel_title": "Kurzgesagt – In a Nutshell",
       "source_type": "Independent creator",
       "published_at": "2026-11-10T15:00:01Z",
-      "view_count": 3990616,
+      "view_count": 4298925,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=fEjvSbI_PT4"
     },
@@ -378,7 +378,7 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-11-10T17:05:16Z",
-      "view_count": 3085161,
+      "view_count": 3345314,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=kCD532ylVGc"
     },
@@ -389,20 +389,9 @@
       "channel_title": "SciShow",
       "source_type": "Additional curated source",
       "published_at": "2026-11-10T18:00:12Z",
-      "view_count": 1584209,
+      "view_count": 1819151,
       "duration_minutes": 8,
       "url": "https://www.youtube.com/watch?v=uALjsKI-ceE"
-    },
-    {
-      "video_id": "2QSkkhbl3v4",
-      "title": "Why you can't trust a test that's 99% accurate",
-      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "channel_title": "Veritasium",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-11T14:00:12Z",
-      "view_count": 1489381,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=2QSkkhbl3v4"
     },
     {
       "video_id": "XqQ19mdaXbc",
@@ -411,31 +400,42 @@
       "channel_title": "Hacksmith Industries",
       "source_type": "Official company",
       "published_at": "2026-11-12T17:00:08Z",
-      "view_count": 1207714,
+      "view_count": 1710228,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=XqQ19mdaXbc"
     },
     {
-      "video_id": "QJFdKoKNn2M",
-      "title": "[4K] Watch Starship's First DOUBLE CATCH!!!",
+      "video_id": "AQFrpZaOpcQ",
+      "title": "[4K] Watch the FIRST Orbital Starship Catch!!!",
       "channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "channel_title": "Everyday Astronaut",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-14T01:10:04Z",
-      "view_count": 966005,
-      "duration_minutes": 170,
-      "url": "https://www.youtube.com/watch?v=QJFdKoKNn2M"
+      "published_at": "2026-11-14T22:24:11Z",
+      "view_count": 1627919,
+      "duration_minutes": 222,
+      "url": "https://www.youtube.com/watch?v=AQFrpZaOpcQ"
     },
     {
-      "video_id": "4Id5aTlYkHg",
-      "title": "The AI Alignment Problem & Its Solutions, with Aza Raskin",
-      "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "channel_title": "StarTalk",
+      "video_id": "2QSkkhbl3v4",
+      "title": "Why you can't trust a test that's 99% accurate",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channel_title": "Veritasium",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-11T14:00:12Z",
+      "view_count": 1545268,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=2QSkkhbl3v4"
+    },
+    {
+      "video_id": "m2oGDCvDmdE",
+      "title": "Why Did SpaceX's Superheavy Booster Not Return To Tower?",
+      "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
+      "channel_title": "Scott Manley",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-07T16:00:29Z",
-      "view_count": 920997,
-      "duration_minutes": 83,
-      "url": "https://www.youtube.com/watch?v=4Id5aTlYkHg"
+      "published_at": "2026-11-14T06:01:52Z",
+      "view_count": 1026072,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=m2oGDCvDmdE"
     },
     {
       "video_id": "NL65Awuv8gU",
@@ -444,31 +444,31 @@
       "channel_title": "Boston Dynamics",
       "source_type": "Official company",
       "published_at": "2026-11-09T15:00:35Z",
-      "view_count": 799509,
+      "view_count": 817320,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=NL65Awuv8gU"
     },
     {
-      "video_id": "xod_mCN-K38",
-      "title": "What Is Worth Saving Before the ISS Deorbits?",
-      "channel_id": "UCR1IuLEqb6UEA_zQ81kwXfg",
-      "channel_title": "Real Engineering",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-07T16:32:11Z",
-      "view_count": 681567,
-      "duration_minutes": 21,
-      "url": "https://www.youtube.com/watch?v=xod_mCN-K38"
+      "video_id": "wfGo-1kM9OQ",
+      "title": "Why Do We Have 3 Or 4 Holes?",
+      "channel_id": "UCeiYXex_fwgYDonaTcSIk6w",
+      "channel_title": "MinuteEarth",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-13T18:32:06Z",
+      "view_count": 623205,
+      "duration_minutes": 5,
+      "url": "https://www.youtube.com/watch?v=wfGo-1kM9OQ"
     },
     {
-      "video_id": "FsEbLPqeo7k",
-      "title": "The Man Who Refused to be a Trillionaire",
+      "video_id": "pjNnDQgAvOw",
+      "title": "Paraguay’s Banking Disaster",
       "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
       "channel_title": "ColdFusion",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-11T13:49:23Z",
-      "view_count": 457193,
-      "duration_minutes": 26,
-      "url": "https://www.youtube.com/watch?v=FsEbLPqeo7k"
+      "published_at": "2026-11-13T14:17:26Z",
+      "view_count": 611568,
+      "duration_minutes": 16,
+      "url": "https://www.youtube.com/watch?v=pjNnDQgAvOw"
     }
   ]
 }

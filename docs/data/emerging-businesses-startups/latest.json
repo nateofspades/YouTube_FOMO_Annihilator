@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-11-14T15:23:14.158293Z",
+  "generated_at": "2026-11-15T15:54:46.275965Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "TechCrunch",
@@ -46,7 +46,7 @@
       "handle": "@LennysPodcast",
       "source_type": "Independent creator",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "20VC",
@@ -67,7 +67,7 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "My First Million",
@@ -102,7 +102,7 @@
       "handle": "@BessemerVenturePartners",
       "source_type": "Venture capital",
       "channel_id": "UCKuHAxZoh99t8uyPQhoDR3A",
-      "recent_video_count": 5
+      "recent_video_count": 0
     },
     {
       "name": "Antler Global",
@@ -130,7 +130,7 @@
       "handle": "UC6hlQ0x6kPbAGjYkoz53cvA",
       "source_type": "Official company",
       "channel_id": "UC6hlQ0x6kPbAGjYkoz53cvA",
-      "recent_video_count": 9
+      "recent_video_count": 11
     },
     {
       "name": "Startup Grind",
@@ -144,7 +144,7 @@
       "handle": "@DavidSenra",
       "source_type": "Independent creator",
       "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "Starter Story",
@@ -179,7 +179,7 @@
       "handle": "UChpWgrkJY_i7F6wwI_TOnrg",
       "source_type": "Additional curated source",
       "channel_id": "UChpWgrkJY_i7F6wwI_TOnrg",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Entrepreneur",
@@ -228,7 +228,7 @@
       "handle": "UClebMzrpRNTWVfZXw2jfsSw",
       "source_type": "Additional curated source",
       "channel_id": "UClebMzrpRNTWVfZXw2jfsSw",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "500 Global",
@@ -350,7 +350,7 @@
       "recent_video_count": 7
     }
   ],
-  "candidate_count": 204,
+  "candidate_count": 197,
   "results": [
     {
       "video_id": "yO5O_ngyA_8",
@@ -359,7 +359,7 @@
       "channel_title": "Codie Sanchez",
       "source_type": "Additional curated source",
       "published_at": "2026-11-11T16:34:43Z",
-      "view_count": 344912,
+      "view_count": 434384,
       "duration_minutes": 35,
       "url": "https://www.youtube.com/watch?v=yO5O_ngyA_8"
     },
@@ -370,20 +370,9 @@
       "channel_title": "CNBC Make It",
       "source_type": "Additional curated source",
       "published_at": "2026-11-09T17:00:35Z",
-      "view_count": 223416,
+      "view_count": 228259,
       "duration_minutes": 8,
       "url": "https://www.youtube.com/watch?v=C89c0fsHYIQ"
-    },
-    {
-      "video_id": "iysKmXT4DUo",
-      "title": "Ex-Intelligence Analyst on Jensen Huang Investigation",
-      "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "channel_title": "Bloomberg Tech",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-09T14:14:56Z",
-      "view_count": 134799,
-      "duration_minutes": 11,
-      "url": "https://www.youtube.com/watch?v=iysKmXT4DUo"
     },
     {
       "video_id": "X2T92MVx7xs",
@@ -392,9 +381,20 @@
       "channel_title": "Starter Story",
       "source_type": "Additional curated source",
       "published_at": "2026-11-08T18:00:14Z",
-      "view_count": 127166,
+      "view_count": 138797,
       "duration_minutes": 17,
       "url": "https://www.youtube.com/watch?v=X2T92MVx7xs"
+    },
+    {
+      "video_id": "iysKmXT4DUo",
+      "title": "Ex-Intelligence Analyst on Jensen Huang Investigation",
+      "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
+      "channel_title": "Bloomberg Tech",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-09T14:14:56Z",
+      "view_count": 135519,
+      "duration_minutes": 11,
+      "url": "https://www.youtube.com/watch?v=iysKmXT4DUo"
     },
     {
       "video_id": "uJuxenfe-NU",
@@ -403,20 +403,9 @@
       "channel_title": "Greg Isenberg",
       "source_type": "Additional curated source",
       "published_at": "2026-11-09T18:15:17Z",
-      "view_count": 117003,
+      "view_count": 126700,
       "duration_minutes": 52,
       "url": "https://www.youtube.com/watch?v=uJuxenfe-NU"
-    },
-    {
-      "video_id": "scmf3gd9ZjI",
-      "title": "Building easy AI apps is a bad idea. Here's 8 better bets",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-09T14:30:01Z",
-      "view_count": 65540,
-      "duration_minutes": 38,
-      "url": "https://www.youtube.com/watch?v=scmf3gd9ZjI"
     },
     {
       "video_id": "KotQbLX8pOw",
@@ -425,31 +414,20 @@
       "channel_title": "20VC with Harry Stebbings",
       "source_type": "Venture capital",
       "published_at": "2026-11-09T15:00:02Z",
-      "view_count": 62045,
+      "view_count": 74513,
       "duration_minutes": 50,
       "url": "https://www.youtube.com/watch?v=KotQbLX8pOw"
     },
     {
-      "video_id": "qGf2Yvan4Wg",
-      "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
-      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "channel_title": "Lenny's Podcast",
+      "video_id": "scmf3gd9ZjI",
+      "title": "Building easy AI apps is a bad idea. Here's 8 better bets",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
       "source_type": "Independent creator",
-      "published_at": "2026-11-08T13:30:30Z",
-      "view_count": 60006,
-      "duration_minutes": 59,
-      "url": "https://www.youtube.com/watch?v=qGf2Yvan4Wg"
-    },
-    {
-      "video_id": "BKz2Dy-mKEM",
-      "title": "How to Win Deals & Grow a $250B Business | Nikesh Arora, Palo Alto Networks",
-      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "channel_title": "David Senra",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-08T13:00:32Z",
-      "view_count": 58801,
-      "duration_minutes": 63,
-      "url": "https://www.youtube.com/watch?v=BKz2Dy-mKEM"
+      "published_at": "2026-11-09T14:30:01Z",
+      "view_count": 69803,
+      "duration_minutes": 38,
+      "url": "https://www.youtube.com/watch?v=scmf3gd9ZjI"
     },
     {
       "video_id": "z8_hlGA51ck",
@@ -458,9 +436,31 @@
       "channel_title": "TBPN",
       "source_type": "Additional curated source",
       "published_at": "2026-11-12T21:18:11Z",
-      "view_count": 56148,
+      "view_count": 62398,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=z8_hlGA51ck"
+    },
+    {
+      "video_id": "cOR50k1hOjU",
+      "title": "Building the Future of Real Estate Investing | Rosenthal, Index Industries",
+      "channel_id": "UCwBTFE_6Bsb_EtmXlW2aTlg",
+      "channel_title": "Lightspeed Venture Partners",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-11T20:38:13Z",
+      "view_count": 49819,
+      "duration_minutes": 21,
+      "url": "https://www.youtube.com/watch?v=cOR50k1hOjU"
+    },
+    {
+      "video_id": "y1-9yeYLJUo",
+      "title": "The Rise Of AI Coworkers",
+      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "channel_title": "Y Combinator",
+      "source_type": "Accelerator",
+      "published_at": "2026-11-14T23:21:16Z",
+      "view_count": 45185,
+      "duration_minutes": 60,
+      "url": "https://www.youtube.com/watch?v=y1-9yeYLJUo"
     }
   ]
 }

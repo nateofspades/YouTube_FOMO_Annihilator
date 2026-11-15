@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-11-14T15:23:14.158293Z",
+  "generated_at": "2026-11-15T15:54:46.275965Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@TheDiaryOfACEO",
       "source_type": "Business podcast",
       "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "My First Million",
@@ -53,28 +53,28 @@
       "handle": "@LennysPodcast",
       "source_type": "Business podcast",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Masters of Scale",
       "handle": "@MastersofScale_",
       "source_type": "Business podcast",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "Invest Like The Best",
       "handle": "@ILTB_Podcast",
       "source_type": "Business podcast",
       "channel_id": "UCpQBb0fToph3jrDulwz1iUQ",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "The Knowledge Project Podcast",
       "handle": "@tkppodcast",
       "source_type": "Business podcast",
       "channel_id": "UCLtTf_uKt0Itd0NG7txrwXA",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "This Week in Startups",
@@ -102,14 +102,14 @@
       "handle": "@TheProfGPod",
       "source_type": "Business podcast",
       "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "recent_video_count": 16
+      "recent_video_count": 18
     },
     {
       "name": "Pivot with Kara Swisher and Scott Galloway",
       "handle": "@pivot",
       "source_type": "Business podcast",
       "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "recent_video_count": 21
+      "recent_video_count": 16
     },
     {
       "name": "Tim Ferriss",
@@ -123,14 +123,14 @@
       "handle": "@youngandprofiting",
       "source_type": "Business podcast",
       "channel_id": "UCtz8s6nPLvrVQ4YhOJz6DSg",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Alex Hormozi / The Game",
       "handle": "@AlexHormozi",
       "source_type": "Business podcast",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "recent_video_count": 35
+      "recent_video_count": 32
     },
     {
       "name": "Startups for the Rest of Us",
@@ -144,7 +144,7 @@
       "handle": "@ycombinator",
       "source_type": "Business podcast",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "The Logan Bartlett Show",
@@ -165,14 +165,14 @@
       "handle": "UCGLcx_fFZ3GlLXO5anHSm9w",
       "source_type": "Business podcast",
       "channel_id": "UCGLcx_fFZ3GlLXO5anHSm9w",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "The Iced Coffee Hour",
       "handle": "UCMSYZVlQmyG8_2MkIKzg0kw",
       "source_type": "Business podcast",
       "channel_id": "UCMSYZVlQmyG8_2MkIKzg0kw",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "The Money Mondays",
@@ -235,7 +235,7 @@
       "handle": "UCTJmkA2-u7Kyblm5_P6tKdA",
       "source_type": "Business podcast",
       "channel_id": "UCTJmkA2-u7Kyblm5_P6tKdA",
-      "recent_video_count": 21
+      "recent_video_count": 23
     },
     {
       "name": "The Colin and Samir Show",
@@ -350,7 +350,7 @@
       "recent_video_count": 0
     }
   ],
-  "candidate_count": 272,
+  "candidate_count": 263,
   "results": [
     {
       "video_id": "-6PuYw92m1c",
@@ -359,31 +359,20 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-11-09T08:00:33Z",
-      "view_count": 5760971,
+      "view_count": 6114063,
       "duration_minutes": 110,
       "url": "https://www.youtube.com/watch?v=-6PuYw92m1c"
     },
     {
-      "video_id": "pwZJcLZc3_Y",
-      "title": "How To Make More Money Than You Deserve (My 2027 Framework)",
-      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "channel_title": "Alex Hormozi",
-      "source_type": "Business podcast",
-      "published_at": "2026-11-08T03:00:36Z",
-      "view_count": 1671800,
-      "duration_minutes": 18,
-      "url": "https://www.youtube.com/watch?v=pwZJcLZc3_Y"
-    },
-    {
-      "video_id": "2v8b062QzTI",
-      "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What’s Next for Trump",
+      "video_id": "Uv2w4VTU-iQ",
+      "title": "Jensen OUT as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
       "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
-      "published_at": "2026-11-07T18:32:58Z",
-      "view_count": 969407,
-      "duration_minutes": 93,
-      "url": "https://www.youtube.com/watch?v=2v8b062QzTI"
+      "published_at": "2026-11-14T02:50:18Z",
+      "view_count": 832657,
+      "duration_minutes": 85,
+      "url": "https://www.youtube.com/watch?v=Uv2w4VTU-iQ"
     },
     {
       "video_id": "FjsymwltS6k",
@@ -392,20 +381,9 @@
       "channel_title": "PBD Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-11-09T16:32:52Z",
-      "view_count": 516019,
+      "view_count": 519088,
       "duration_minutes": 131,
       "url": "https://www.youtube.com/watch?v=FjsymwltS6k"
-    },
-    {
-      "video_id": "DtDcCQCwEzY",
-      "title": "Jensen Huang will soon resign",
-      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "channel_title": "The Prof G Pod – Scott Galloway",
-      "source_type": "Business podcast",
-      "published_at": "2026-11-11T23:44:43Z",
-      "view_count": 318078,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=DtDcCQCwEzY"
     },
     {
       "video_id": "WsQ92ngfTRQ",
@@ -414,20 +392,9 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-11-12T19:50:43Z",
-      "view_count": 317646,
+      "view_count": 351387,
       "duration_minutes": 32,
       "url": "https://www.youtube.com/watch?v=WsQ92ngfTRQ"
-    },
-    {
-      "video_id": "NcEnNQRVKx8",
-      "title": "The Bitcoin Expert: America’s $40 Trillion Financial Reset Has Begun - Do This Now!",
-      "channel_id": "UCMSYZVlQmyG8_2MkIKzg0kw",
-      "channel_title": "The Iced Coffee Hour",
-      "source_type": "Business podcast",
-      "published_at": "2026-11-08T17:00:30Z",
-      "view_count": 275827,
-      "duration_minutes": 106,
-      "url": "https://www.youtube.com/watch?v=NcEnNQRVKx8"
     },
     {
       "video_id": "pRXMqm5bMFk",
@@ -436,9 +403,20 @@
       "channel_title": "The Knowledge Project Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-11-10T11:00:09Z",
-      "view_count": 261007,
+      "view_count": 321047,
       "duration_minutes": 106,
       "url": "https://www.youtube.com/watch?v=pRXMqm5bMFk"
+    },
+    {
+      "video_id": "DtDcCQCwEzY",
+      "title": "Jensen Huang will soon resign",
+      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
+      "channel_title": "The Prof G Pod – Scott Galloway",
+      "source_type": "Business podcast",
+      "published_at": "2026-11-11T23:44:43Z",
+      "view_count": 318060,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=DtDcCQCwEzY"
     },
     {
       "video_id": "SH-G1q2MvXU",
@@ -447,9 +425,20 @@
       "channel_title": "Lewis Howes",
       "source_type": "Business podcast",
       "published_at": "2026-11-09T14:30:19Z",
-      "view_count": 250274,
+      "view_count": 292018,
       "duration_minutes": 68,
       "url": "https://www.youtube.com/watch?v=SH-G1q2MvXU"
+    },
+    {
+      "video_id": "NcEnNQRVKx8",
+      "title": "The Bitcoin Expert: America’s $40 Trillion Financial Reset Has Begun - Do This Now!",
+      "channel_id": "UCMSYZVlQmyG8_2MkIKzg0kw",
+      "channel_title": "The Iced Coffee Hour",
+      "source_type": "Business podcast",
+      "published_at": "2026-11-08T17:00:30Z",
+      "view_count": 288709,
+      "duration_minutes": 106,
+      "url": "https://www.youtube.com/watch?v=NcEnNQRVKx8"
     },
     {
       "video_id": "VyqLmiZSLG4",
@@ -458,9 +447,20 @@
       "channel_title": "Chris Williamson",
       "source_type": "Business podcast",
       "published_at": "2026-11-09T16:00:18Z",
-      "view_count": 200301,
+      "view_count": 213419,
       "duration_minutes": 127,
       "url": "https://www.youtube.com/watch?v=VyqLmiZSLG4"
+    },
+    {
+      "video_id": "uJuxenfe-NU",
+      "title": "AI Agents are too good at marketing now",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "channel_title": "Greg Isenberg",
+      "source_type": "Business podcast",
+      "published_at": "2026-11-09T18:15:17Z",
+      "view_count": 126753,
+      "duration_minutes": 52,
+      "url": "https://www.youtube.com/watch?v=uJuxenfe-NU"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-11-14T15:23:14.158293Z",
+  "generated_at": "2026-11-15T15:54:46.275965Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "UCJIfeSCssxSC_Dhc5s7woww",
       "source_type": "AI podcast",
       "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "recent_video_count": 17
+      "recent_video_count": 22
     },
     {
       "name": "Dwarkesh Patel",
@@ -25,14 +25,14 @@
       "handle": "UCxBcwypKK-W3GHd_RZ9FZrQ",
       "source_type": "AI podcast",
       "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Cognitive Revolution",
       "handle": "UCjNRVMBVI30Sak_p6HRWhIA",
       "source_type": "AI podcast",
       "channel_id": "UCjNRVMBVI30Sak_p6HRWhIA",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "No Priors",
@@ -53,7 +53,7 @@
       "handle": "UC9tpZnMLKv5vbZIGuIIPmNg",
       "source_type": "AI podcast",
       "channel_id": "UC9tpZnMLKv5vbZIGuIIPmNg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "The AI Breakdown",
@@ -123,7 +123,7 @@
       "handle": "UC-o9u9QL4zXzBwjvT1gmzNg",
       "source_type": "AI podcast",
       "channel_id": "UC-o9u9QL4zXzBwjvT1gmzNg",
-      "recent_video_count": 18
+      "recent_video_count": 17
     },
     {
       "name": "AI For Humans",
@@ -144,7 +144,7 @@
       "handle": "UCG6qpjVnBTTT8wLGBygANOQ",
       "source_type": "AI podcast",
       "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
-      "recent_video_count": 19
+      "recent_video_count": 16
     },
     {
       "name": "Interconnects",
@@ -179,7 +179,7 @@
       "handle": "UCMbtqTGdSsxYYhhTpV4lSTQ",
       "source_type": "AI podcast",
       "channel_id": "UCMbtqTGdSsxYYhhTpV4lSTQ",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "How I AI",
@@ -242,7 +242,7 @@
       "handle": "UCVHdvAX5-R8y5l9xp6nroBQ",
       "source_type": "AI podcast",
       "channel_id": "UCVHdvAX5-R8y5l9xp6nroBQ",
-      "recent_video_count": 11
+      "recent_video_count": 10
     },
     {
       "name": "AXRP",
@@ -256,7 +256,7 @@
       "handle": "UCXi7Hg2nSB40ujzM2CMtF-Q",
       "source_type": "AI podcast",
       "channel_id": "UCXi7Hg2nSB40ujzM2CMtF-Q",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "Gradient Dissent",
@@ -343,7 +343,7 @@
       "recent_video_count": 3
     }
   ],
-  "candidate_count": 226,
+  "candidate_count": 225,
   "results": [
     {
       "video_id": "z8_hlGA51ck",
@@ -352,7 +352,7 @@
       "channel_title": "TBPN",
       "source_type": "AI podcast",
       "published_at": "2026-11-12T21:18:11Z",
-      "view_count": 56148,
+      "view_count": 62418,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=z8_hlGA51ck"
     },
@@ -363,7 +363,7 @@
       "channel_title": "80,000 Hours",
       "source_type": "AI podcast",
       "published_at": "2026-11-12T18:39:38Z",
-      "view_count": 38970,
+      "view_count": 51858,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=P6-_knLbuuk"
     },
@@ -374,9 +374,20 @@
       "channel_title": "Latent Space",
       "source_type": "AI podcast",
       "published_at": "2026-11-09T16:18:21Z",
-      "view_count": 34938,
+      "view_count": 47127,
       "duration_minutes": 164,
       "url": "https://www.youtube.com/watch?v=v5IJwVnTxzg"
+    },
+    {
+      "video_id": "SeGUXN8XIu8",
+      "title": "The Next 4 Years of AI Will Look Nothing Like the Last 4",
+      "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+      "channel_title": "Dwarkesh Patel",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-15T01:05:37Z",
+      "view_count": 37382,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=SeGUXN8XIu8"
     },
     {
       "video_id": "GVP-bqBAStw",
@@ -385,9 +396,20 @@
       "channel_title": "Machine Gods",
       "source_type": "AI podcast",
       "published_at": "2026-11-13T02:32:15Z",
-      "view_count": 25968,
+      "view_count": 31262,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=GVP-bqBAStw"
+    },
+    {
+      "video_id": "dOwqsYtXp6k",
+      "title": "Is AI safety solvable in the time we have left? | Decoder",
+      "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
+      "channel_title": "Decoder with Nilay Patel",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-14T14:00:26Z",
+      "view_count": 18770,
+      "duration_minutes": 70,
+      "url": "https://www.youtube.com/watch?v=dOwqsYtXp6k"
     },
     {
       "video_id": "LI3lxzHfRrU",
@@ -396,7 +418,7 @@
       "channel_title": "a16z",
       "source_type": "AI podcast",
       "published_at": "2026-11-11T15:30:22Z",
-      "view_count": 15048,
+      "view_count": 16246,
       "duration_minutes": 56,
       "url": "https://www.youtube.com/watch?v=LI3lxzHfRrU"
     },
@@ -407,7 +429,7 @@
       "channel_title": "How I AI",
       "source_type": "AI podcast",
       "published_at": "2026-11-11T13:00:06Z",
-      "view_count": 11447,
+      "view_count": 12147,
       "duration_minutes": 34,
       "url": "https://www.youtube.com/watch?v=wdyOjcCj2hw"
     },
@@ -418,7 +440,7 @@
       "channel_title": "The AI Daily Brief: Artificial Intelligence News",
       "source_type": "AI podcast",
       "published_at": "2026-11-12T18:44:15Z",
-      "view_count": 10729,
+      "view_count": 11295,
       "duration_minutes": 29,
       "url": "https://www.youtube.com/watch?v=Dt7Q_VQxGHc"
     },
@@ -429,31 +451,9 @@
       "channel_title": "AI For Humans",
       "source_type": "AI podcast",
       "published_at": "2026-11-13T14:45:36Z",
-      "view_count": 8592,
+      "view_count": 10683,
       "duration_minutes": 56,
       "url": "https://www.youtube.com/watch?v=sQKvJbzgFRU"
-    },
-    {
-      "video_id": "ncz5aYl385k",
-      "title": "AI is overhyped: The reality of autonomy in drone warfare | Russia-Ukraine War - Military Analysis",
-      "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "channel_title": "Lex Clips",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-13T21:00:10Z",
-      "view_count": 5659,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=ncz5aYl385k"
-    },
-    {
-      "video_id": "LDcRdpVvmgQ",
-      "title": "The value of AI is not doing the same thing faster",
-      "channel_id": "UCPbwhExawYrn9xxI21TFfyw",
-      "channel_title": "The Pragmatic Engineer",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-10T16:00:02Z",
-      "view_count": 4019,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=LDcRdpVvmgQ"
     }
   ]
 }

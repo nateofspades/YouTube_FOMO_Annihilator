@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-11-14T15:23:14.158293Z",
+  "generated_at": "2026-11-15T15:54:46.275965Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -39,7 +39,7 @@
       "handle": "@googlecloudtech",
       "source_type": "Official company",
       "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "recent_video_count": 17
+      "recent_video_count": 18
     },
     {
       "name": "Cloudflare",
@@ -108,8 +108,9 @@
       "name": "Theo",
       "handle": "@t3dotgg",
       "source_type": "Independent creator",
-      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
-      "recent_video_count": 5
+      "channel_id": null,
+      "recent_video_count": 0,
+      "status": "unavailable"
     },
     {
       "name": "ThePrimeagen",
@@ -186,7 +187,7 @@
       "handle": "UC_mYaQAE6-71rjSN6CeCA-g",
       "source_type": "Additional curated source",
       "channel_id": "UC_mYaQAE6-71rjSN6CeCA-g",
-      "recent_video_count": 3
+      "recent_video_count": 1
     },
     {
       "name": "CS Dojo",
@@ -298,7 +299,7 @@
       "handle": "UCZNhwA1B5YqiY1nLzmM0ZRg",
       "source_type": "Additional curated source",
       "channel_id": "UCZNhwA1B5YqiY1nLzmM0ZRg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "DevOps Directive",
@@ -319,7 +320,7 @@
       "handle": "UCRPMAqdtSgd0Ipeef7iFsKw",
       "source_type": "Additional curated source",
       "channel_id": "UCRPMAqdtSgd0Ipeef7iFsKw",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "CodeOpinion",
@@ -354,10 +355,10 @@
       "handle": "UCNTVzV1InxHV-YR0fSajqPQ",
       "source_type": "Additional curated source",
       "channel_id": "UCNTVzV1InxHV-YR0fSajqPQ",
-      "recent_video_count": 2
+      "recent_video_count": 1
     }
   ],
-  "candidate_count": 224,
+  "candidate_count": 219,
   "results": [
     {
       "video_id": "pf5tXJZM1Rw",
@@ -366,7 +367,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-11-09T21:04:16Z",
-      "view_count": 1834896,
+      "view_count": 1856729,
       "duration_minutes": 7,
       "url": "https://www.youtube.com/watch?v=pf5tXJZM1Rw"
     },
@@ -377,20 +378,9 @@
       "channel_title": "Low Level",
       "source_type": "Additional curated source",
       "published_at": "2026-11-12T14:08:52Z",
-      "view_count": 417215,
+      "view_count": 437391,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=Z3xvjzlDWd8"
-    },
-    {
-      "video_id": "yh5IAUow4Hc",
-      "title": "Nobody Is Competing With Anthropic",
-      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
-      "channel_title": "Theo - t3․gg",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-10T19:38:40Z",
-      "view_count": 275410,
-      "duration_minutes": 48,
-      "url": "https://www.youtube.com/watch?v=yh5IAUow4Hc"
     },
     {
       "video_id": "pabDkNR7jIs",
@@ -399,7 +389,7 @@
       "channel_title": "Google Cloud Tech",
       "source_type": "Official company",
       "published_at": "2026-11-09T17:45:50Z",
-      "view_count": 146196,
+      "view_count": 152518,
       "duration_minutes": 40,
       "url": "https://www.youtube.com/watch?v=pabDkNR7jIs"
     },
@@ -410,7 +400,7 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-11-10T12:00:39Z",
-      "view_count": 122477,
+      "view_count": 130210,
       "duration_minutes": 111,
       "url": "https://www.youtube.com/watch?v=ajfQWhGQGLE"
     },
@@ -421,31 +411,9 @@
       "channel_title": "KodeKloud",
       "source_type": "Additional curated source",
       "published_at": "2026-11-09T20:54:44Z",
-      "view_count": 101886,
+      "view_count": 103309,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=cH88SXCQZEQ"
-    },
-    {
-      "video_id": "-GpxKKgoWWg",
-      "title": "17 agents, one SDLC: How Levi Strauss reimagined development on GitHub",
-      "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
-      "channel_title": "GitHub",
-      "source_type": "Official company",
-      "published_at": "2026-11-08T15:01:59Z",
-      "view_count": 100008,
-      "duration_minutes": 30,
-      "url": "https://www.youtube.com/watch?v=-GpxKKgoWWg"
-    },
-    {
-      "video_id": "hjzApFpPB54",
-      "title": "How I Did Programming at Google",
-      "channel_id": "UC_mYaQAE6-71rjSN6CeCA-g",
-      "channel_title": "NeetCode",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-08T15:30:01Z",
-      "view_count": 91746,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=hjzApFpPB54"
     },
     {
       "video_id": "8944biinHgE",
@@ -454,7 +422,7 @@
       "channel_title": "TechWorld with Nana",
       "source_type": "Independent creator",
       "published_at": "2026-11-09T15:00:21Z",
-      "view_count": 48709,
+      "view_count": 53009,
       "duration_minutes": 26,
       "url": "https://www.youtube.com/watch?v=8944biinHgE"
     },
@@ -465,9 +433,42 @@
       "channel_title": "Amigoscode",
       "source_type": "Additional curated source",
       "published_at": "2026-11-12T15:00:18Z",
-      "view_count": 47361,
+      "view_count": 51351,
       "duration_minutes": 11,
       "url": "https://www.youtube.com/watch?v=TteBRlCeqz0"
+    },
+    {
+      "video_id": "WFyJ-xyJ58M",
+      "title": "Can I Manage My HomeLab as Code? Pulumi Explained",
+      "channel_id": "UCZNhwA1B5YqiY1nLzmM0ZRg",
+      "channel_title": "Christian Lempa",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-10T15:00:40Z",
+      "view_count": 35652,
+      "duration_minutes": 35,
+      "url": "https://www.youtube.com/watch?v=WFyJ-xyJ58M"
+    },
+    {
+      "video_id": "-oBIZFzkqIU",
+      "title": "How Are People Making Games Like This?",
+      "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
+      "channel_title": "Traversy Media",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-09T18:15:31Z",
+      "view_count": 32241,
+      "duration_minutes": 38,
+      "url": "https://www.youtube.com/watch?v=-oBIZFzkqIU"
+    },
+    {
+      "video_id": "bcdZlYPn3BA",
+      "title": "Functional Programming Will Make You a Better Python Developer",
+      "channel_id": "UCVhQ2NnY5Rskt6UjCUkJ_DA",
+      "channel_title": "ArjanCodes",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-13T16:00:38Z",
+      "view_count": 25200,
+      "duration_minutes": 14,
+      "url": "https://www.youtube.com/watch?v=bcdZlYPn3BA"
     }
   ]
 }
