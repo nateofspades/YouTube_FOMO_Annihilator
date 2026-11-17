@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-11-15T15:54:46.275965Z",
+  "generated_at": "2026-11-17T19:05:30.322378Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,14 +11,14 @@
       "handle": "@GitHub",
       "source_type": "Official company",
       "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
-      "recent_video_count": 18
+      "recent_video_count": 17
     },
     {
       "name": "Google for Developers",
       "handle": "@GoogleDevelopers",
       "source_type": "Official company",
       "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Microsoft Developer",
@@ -39,7 +39,7 @@
       "handle": "@googlecloudtech",
       "source_type": "Official company",
       "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "recent_video_count": 18
+      "recent_video_count": 17
     },
     {
       "name": "Cloudflare",
@@ -60,35 +60,35 @@
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 112
+      "recent_video_count": 93
     },
     {
       "name": "GitLab",
       "handle": "@GitLab",
       "source_type": "Official company",
       "channel_id": "UCnMGQ8QHMAnVIsI3xJrihhg",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "JetBrains",
       "handle": "@JetBrainsTV",
       "source_type": "Official company",
       "channel_id": "UCGp4UBwpTNegd_4nCpuBcow",
-      "recent_video_count": 8
+      "recent_video_count": 6
     },
     {
       "name": "Fireship",
       "handle": "@Fireship",
       "source_type": "Independent creator",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "freeCodeCamp.org",
       "handle": "@freecodecamp",
       "source_type": "Research institution",
       "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Traversy Media",
@@ -102,15 +102,16 @@
       "handle": "@WebDevSimplified",
       "source_type": "Independent creator",
       "channel_id": "UCFbNIlppjAuEX4znoulh0Cw",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Theo",
       "handle": "@t3dotgg",
       "source_type": "Independent creator",
-      "channel_id": null,
+      "channel_id": "UCIftlCAyhF8R1WnsgPPjI6Q",
       "recent_video_count": 0,
-      "status": "unavailable"
+      "status": "unavailable",
+      "error": "YouTube API playlistItems failed (404): playlistNotFound"
     },
     {
       "name": "ThePrimeagen",
@@ -124,7 +125,7 @@
       "handle": "@TechWorldwithNana",
       "source_type": "Independent creator",
       "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Hussein Nasser",
@@ -145,7 +146,7 @@
       "handle": "@LaravelPHP",
       "source_type": "Official company",
       "channel_id": "UCfO2GiQwb-cwJTb1CuRSkwg",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Programming with Mosh",
@@ -187,7 +188,7 @@
       "handle": "UC_mYaQAE6-71rjSN6CeCA-g",
       "source_type": "Additional curated source",
       "channel_id": "UC_mYaQAE6-71rjSN6CeCA-g",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "CS Dojo",
@@ -285,7 +286,7 @@
       "handle": "UCSWj8mqQCcrcBlXPi4ThRDQ",
       "source_type": "Additional curated source",
       "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
-      "recent_video_count": 16
+      "recent_video_count": 14
     },
     {
       "name": "Bret Fisher Docker and DevOps",
@@ -299,14 +300,14 @@
       "handle": "UCZNhwA1B5YqiY1nLzmM0ZRg",
       "source_type": "Additional curated source",
       "channel_id": "UCZNhwA1B5YqiY1nLzmM0ZRg",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "DevOps Directive",
       "handle": "UC4MdpjzjPuop_qWNAvR23JA",
       "source_type": "Additional curated source",
       "channel_id": "UC4MdpjzjPuop_qWNAvR23JA",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Be A Better Dev",
@@ -320,14 +321,14 @@
       "handle": "UCRPMAqdtSgd0Ipeef7iFsKw",
       "source_type": "Additional curated source",
       "channel_id": "UCRPMAqdtSgd0Ipeef7iFsKw",
-      "recent_video_count": 1
+      "recent_video_count": 3
     },
     {
       "name": "CodeOpinion",
       "handle": "UC3RKA4vunFAfrfxiJhPEplw",
       "source_type": "Additional curated source",
       "channel_id": "UC3RKA4vunFAfrfxiJhPEplw",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Computerphile",
@@ -341,14 +342,14 @@
       "handle": "UC6biysICWOJ-C3P4Tyeggzg",
       "source_type": "Additional curated source",
       "channel_id": "UC6biysICWOJ-C3P4Tyeggzg",
-      "recent_video_count": 1
+      "recent_video_count": 3
     },
     {
       "name": "Syntax",
       "handle": "UCyU5wkjgQYGRB0hIHMwm2Sg",
       "source_type": "Additional curated source",
       "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Supabase",
@@ -358,18 +359,18 @@
       "recent_video_count": 1
     }
   ],
-  "candidate_count": 219,
+  "candidate_count": 198,
   "results": [
     {
-      "video_id": "pf5tXJZM1Rw",
-      "title": "OpenAI spent $1.2 million hacking Linux... and it was a bargain",
+      "video_id": "ytmawkPTP24",
+      "title": "Why Microsoft couldn’t fix its own servers for 36 hours...",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
       "channel_title": "Fireship",
       "source_type": "Independent creator",
-      "published_at": "2026-11-09T21:04:16Z",
-      "view_count": 1856729,
-      "duration_minutes": 7,
-      "url": "https://www.youtube.com/watch?v=pf5tXJZM1Rw"
+      "published_at": "2026-11-16T20:18:59Z",
+      "view_count": 1453405,
+      "duration_minutes": 6,
+      "url": "https://www.youtube.com/watch?v=ytmawkPTP24"
     },
     {
       "video_id": "Z3xvjzlDWd8",
@@ -378,53 +379,20 @@
       "channel_title": "Low Level",
       "source_type": "Additional curated source",
       "published_at": "2026-11-12T14:08:52Z",
-      "view_count": 437391,
+      "view_count": 462864,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=Z3xvjzlDWd8"
     },
     {
-      "video_id": "pabDkNR7jIs",
-      "title": "The Future of AI Infrastructure",
-      "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "channel_title": "Google Cloud Tech",
-      "source_type": "Official company",
-      "published_at": "2026-11-09T17:45:50Z",
-      "view_count": 152518,
-      "duration_minutes": 40,
-      "url": "https://www.youtube.com/watch?v=pabDkNR7jIs"
-    },
-    {
-      "video_id": "ajfQWhGQGLE",
-      "title": "Codex & AI Coding Agents - Learn Agentic Coding",
-      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
-      "channel_title": "freeCodeCamp.org",
-      "source_type": "Research institution",
-      "published_at": "2026-11-10T12:00:39Z",
-      "view_count": 130210,
-      "duration_minutes": 111,
-      "url": "https://www.youtube.com/watch?v=ajfQWhGQGLE"
-    },
-    {
-      "video_id": "cH88SXCQZEQ",
-      "title": "Claude Fable 5.2 Explained",
+      "video_id": "ukxwB7tHY64",
+      "title": "Why Do You Need a VPN If You Already Have HTTPS?",
       "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
       "channel_title": "KodeKloud",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-09T20:54:44Z",
-      "view_count": 103309,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=cH88SXCQZEQ"
-    },
-    {
-      "video_id": "8944biinHgE",
-      "title": "Git Explained in 25 Mins | Git and GitHub Tutorial",
-      "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
-      "channel_title": "TechWorld with Nana",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-09T15:00:21Z",
-      "view_count": 53009,
-      "duration_minutes": 26,
-      "url": "https://www.youtube.com/watch?v=8944biinHgE"
+      "published_at": "2026-11-13T12:39:25Z",
+      "view_count": 108576,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=ukxwB7tHY64"
     },
     {
       "video_id": "TteBRlCeqz0",
@@ -433,31 +401,31 @@
       "channel_title": "Amigoscode",
       "source_type": "Additional curated source",
       "published_at": "2026-11-12T15:00:18Z",
-      "view_count": 51351,
+      "view_count": 60131,
       "duration_minutes": 11,
       "url": "https://www.youtube.com/watch?v=TteBRlCeqz0"
     },
     {
-      "video_id": "WFyJ-xyJ58M",
-      "title": "Can I Manage My HomeLab as Code? Pulumi Explained",
+      "video_id": "lAviK2euc9Y",
+      "title": "LLD is dead. So I made the course free.",
+      "channel_id": "UCRPMAqdtSgd0Ipeef7iFsKw",
+      "channel_title": "Gaurav Sen",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-17T12:42:53Z",
+      "view_count": 36099,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=lAviK2euc9Y"
+    },
+    {
+      "video_id": "6R27sCZAYa0",
+      "title": "Herdr vs Orca vs Zed - What's my choice?",
       "channel_id": "UCZNhwA1B5YqiY1nLzmM0ZRg",
       "channel_title": "Christian Lempa",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-10T15:00:40Z",
-      "view_count": 35652,
-      "duration_minutes": 35,
-      "url": "https://www.youtube.com/watch?v=WFyJ-xyJ58M"
-    },
-    {
-      "video_id": "-oBIZFzkqIU",
-      "title": "How Are People Making Games Like This?",
-      "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
-      "channel_title": "Traversy Media",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-09T18:15:31Z",
-      "view_count": 32241,
-      "duration_minutes": 38,
-      "url": "https://www.youtube.com/watch?v=-oBIZFzkqIU"
+      "published_at": "2026-11-15T15:00:30Z",
+      "view_count": 33847,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=6R27sCZAYa0"
     },
     {
       "video_id": "bcdZlYPn3BA",
@@ -466,9 +434,42 @@
       "channel_title": "ArjanCodes",
       "source_type": "Additional curated source",
       "published_at": "2026-11-13T16:00:38Z",
-      "view_count": 25200,
+      "view_count": 32380,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=bcdZlYPn3BA"
+    },
+    {
+      "video_id": "HYUNbJMe5Hc",
+      "title": "the cure for ai burnout",
+      "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
+      "channel_title": "Syntax",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-13T13:00:06Z",
+      "view_count": 31833,
+      "duration_minutes": 8,
+      "url": "https://www.youtube.com/watch?v=HYUNbJMe5Hc"
+    },
+    {
+      "video_id": "PjYcrCEzV6M",
+      "title": "MCP Crash Course: Everything You Need to Know",
+      "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
+      "channel_title": "Traversy Media",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-16T15:30:10Z",
+      "view_count": 28015,
+      "duration_minutes": 35,
+      "url": "https://www.youtube.com/watch?v=PjYcrCEzV6M"
+    },
+    {
+      "video_id": "UYgFF47blb0",
+      "title": "Let CSS figure out the layout",
+      "channel_id": "UCJZv4d5rbIKd4QHMPkcABCw",
+      "channel_title": "Kevin Powell",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-11T14:00:15Z",
+      "view_count": 22195,
+      "duration_minutes": 4,
+      "url": "https://www.youtube.com/watch?v=UYgFF47blb0"
     }
   ]
 }

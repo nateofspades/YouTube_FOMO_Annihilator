@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-11-15T15:54:46.275965Z",
+  "generated_at": "2026-11-17T19:05:30.322378Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -25,7 +25,7 @@
       "handle": "@a16z",
       "source_type": "Venture capital",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 6
+      "recent_video_count": 8
     },
     {
       "name": "Sequoia Capital",
@@ -53,7 +53,7 @@
       "handle": "@20vc",
       "source_type": "Venture capital",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "Acquired",
@@ -74,7 +74,7 @@
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "MicroConf",
@@ -116,7 +116,7 @@
       "handle": "@KhoslaVentures1",
       "source_type": "Venture capital",
       "channel_id": "UCF92qR15QflJFGO7c_PeT-g",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "NFX",
@@ -130,7 +130,7 @@
       "handle": "UC6hlQ0x6kPbAGjYkoz53cvA",
       "source_type": "Official company",
       "channel_id": "UC6hlQ0x6kPbAGjYkoz53cvA",
-      "recent_video_count": 11
+      "recent_video_count": 9
     },
     {
       "name": "Startup Grind",
@@ -151,21 +151,21 @@
       "handle": "UChhw6DlKKTQ9mYSpTfXUYqA",
       "source_type": "Additional curated source",
       "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "Greg Isenberg",
       "handle": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "source_type": "Additional curated source",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "recent_video_count": 5
+      "recent_video_count": 3
     },
     {
       "name": "TBPN",
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "Additional curated source",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 24
+      "recent_video_count": 28
     },
     {
       "name": "The Logan Bartlett Show",
@@ -179,14 +179,14 @@
       "handle": "UChpWgrkJY_i7F6wwI_TOnrg",
       "source_type": "Additional curated source",
       "channel_id": "UChpWgrkJY_i7F6wwI_TOnrg",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Entrepreneur",
       "handle": "UCNFGSWVOdVWEe9XJNnfTdyQ",
       "source_type": "Additional curated source",
       "channel_id": "UCNFGSWVOdVWEe9XJNnfTdyQ",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "CNBC Make It",
@@ -200,7 +200,7 @@
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "Additional curated source",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 40
+      "recent_video_count": 44
     },
     {
       "name": "PitchBook",
@@ -242,7 +242,7 @@
       "handle": "UC_oji6l_-xwhmZqCxRGuAXw",
       "source_type": "Additional curated source",
       "channel_id": "UC_oji6l_-xwhmZqCxRGuAXw",
-      "recent_video_count": 0
+      "recent_video_count": 2
     },
     {
       "name": "Lightspeed Venture Partners",
@@ -277,7 +277,7 @@
       "handle": "UCZ7x7yDBbEFCGztD8BYvRhA",
       "source_type": "Additional curated source",
       "channel_id": "UCZ7x7yDBbEFCGztD8BYvRhA",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Insight Partners",
@@ -312,7 +312,7 @@
       "handle": "UCHoBKQDRkJcOY2BO47q5Ruw",
       "source_type": "Additional curated source",
       "channel_id": "UCHoBKQDRkJcOY2BO47q5Ruw",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "TK Kader",
@@ -340,17 +340,17 @@
       "handle": "UCA-mWX9CvCTVFWRMb9bKc9w",
       "source_type": "Additional curated source",
       "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-      "recent_video_count": 14
+      "recent_video_count": 17
     },
     {
       "name": "Codie Sanchez",
       "handle": "UC5fI3kxC-ewZ6ZXEYgznM7g",
       "source_type": "Additional curated source",
       "channel_id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
-      "recent_video_count": 7
+      "recent_video_count": 6
     }
   ],
-  "candidate_count": 197,
+  "candidate_count": 207,
   "results": [
     {
       "video_id": "yO5O_ngyA_8",
@@ -359,97 +359,9 @@
       "channel_title": "Codie Sanchez",
       "source_type": "Additional curated source",
       "published_at": "2026-11-11T16:34:43Z",
-      "view_count": 434384,
+      "view_count": 613698,
       "duration_minutes": 35,
       "url": "https://www.youtube.com/watch?v=yO5O_ngyA_8"
-    },
-    {
-      "video_id": "C89c0fsHYIQ",
-      "title": "Why Tech Workers Are Flocking To NYC",
-      "channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
-      "channel_title": "CNBC Make It",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-09T17:00:35Z",
-      "view_count": 228259,
-      "duration_minutes": 8,
-      "url": "https://www.youtube.com/watch?v=C89c0fsHYIQ"
-    },
-    {
-      "video_id": "X2T92MVx7xs",
-      "title": "How I Made $1M Building 30 Micro-Apps",
-      "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
-      "channel_title": "Starter Story",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-08T18:00:14Z",
-      "view_count": 138797,
-      "duration_minutes": 17,
-      "url": "https://www.youtube.com/watch?v=X2T92MVx7xs"
-    },
-    {
-      "video_id": "iysKmXT4DUo",
-      "title": "Ex-Intelligence Analyst on Jensen Huang Investigation",
-      "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "channel_title": "Bloomberg Tech",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-09T14:14:56Z",
-      "view_count": 135519,
-      "duration_minutes": 11,
-      "url": "https://www.youtube.com/watch?v=iysKmXT4DUo"
-    },
-    {
-      "video_id": "uJuxenfe-NU",
-      "title": "AI Agents are too good at marketing now",
-      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "channel_title": "Greg Isenberg",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-09T18:15:17Z",
-      "view_count": 126700,
-      "duration_minutes": 52,
-      "url": "https://www.youtube.com/watch?v=uJuxenfe-NU"
-    },
-    {
-      "video_id": "KotQbLX8pOw",
-      "title": "Mistral CEO: Why OpenAI & Anthropic Will Come for Your Business | Are Chinese Models Truly Safe?",
-      "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "channel_title": "20VC with Harry Stebbings",
-      "source_type": "Venture capital",
-      "published_at": "2026-11-09T15:00:02Z",
-      "view_count": 74513,
-      "duration_minutes": 50,
-      "url": "https://www.youtube.com/watch?v=KotQbLX8pOw"
-    },
-    {
-      "video_id": "scmf3gd9ZjI",
-      "title": "Building easy AI apps is a bad idea. Here's 8 better bets",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-09T14:30:01Z",
-      "view_count": 69803,
-      "duration_minutes": 38,
-      "url": "https://www.youtube.com/watch?v=scmf3gd9ZjI"
-    },
-    {
-      "video_id": "z8_hlGA51ck",
-      "title": "\"Jensen Huang's Exit Could Change the AI Industry Forever\" - Dylan Patel",
-      "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "channel_title": "TBPN",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-12T21:18:11Z",
-      "view_count": 62398,
-      "duration_minutes": 31,
-      "url": "https://www.youtube.com/watch?v=z8_hlGA51ck"
-    },
-    {
-      "video_id": "cOR50k1hOjU",
-      "title": "Building the Future of Real Estate Investing | Rosenthal, Index Industries",
-      "channel_id": "UCwBTFE_6Bsb_EtmXlW2aTlg",
-      "channel_title": "Lightspeed Venture Partners",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-11T20:38:13Z",
-      "view_count": 49819,
-      "duration_minutes": 21,
-      "url": "https://www.youtube.com/watch?v=cOR50k1hOjU"
     },
     {
       "video_id": "y1-9yeYLJUo",
@@ -458,9 +370,97 @@
       "channel_title": "Y Combinator",
       "source_type": "Accelerator",
       "published_at": "2026-11-14T23:21:16Z",
-      "view_count": 45185,
+      "view_count": 128504,
       "duration_minutes": 60,
       "url": "https://www.youtube.com/watch?v=y1-9yeYLJUo"
+    },
+    {
+      "video_id": "1cWZ7Ekff6E",
+      "title": "Use Grok Bot Better Than 99% of People (Full Course)",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "channel_title": "Greg Isenberg",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-11T18:00:16Z",
+      "view_count": 125234,
+      "duration_minutes": 49,
+      "url": "https://www.youtube.com/watch?v=1cWZ7Ekff6E"
+    },
+    {
+      "video_id": "cSq66DDPsyY",
+      "title": "What We Know About Nvidia's Interim CEO Colette Kress",
+      "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
+      "channel_title": "Bloomberg Tech",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-12T16:40:02Z",
+      "view_count": 83466,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=cSq66DDPsyY"
+    },
+    {
+      "video_id": "cOR50k1hOjU",
+      "title": "Building the Future of Real Estate Investing | Rosenthal, Index Industries",
+      "channel_id": "UCwBTFE_6Bsb_EtmXlW2aTlg",
+      "channel_title": "Lightspeed Venture Partners",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-11T20:38:13Z",
+      "view_count": 81200,
+      "duration_minutes": 21,
+      "url": "https://www.youtube.com/watch?v=cOR50k1hOjU"
+    },
+    {
+      "video_id": "z8_hlGA51ck",
+      "title": "\"Jensen Huang's Exit Could Change the AI Industry Forever\" - Dylan Patel",
+      "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
+      "channel_title": "TBPN",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-12T21:18:11Z",
+      "view_count": 68728,
+      "duration_minutes": 31,
+      "url": "https://www.youtube.com/watch?v=z8_hlGA51ck"
+    },
+    {
+      "video_id": "TSr_qLZ-8YY",
+      "title": "It took me 30 harsh years to learn what I’ll teach you in just 27 minutes",
+      "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+      "channel_title": "Dan Martell",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-11T13:00:02Z",
+      "view_count": 52726,
+      "duration_minutes": 27,
+      "url": "https://www.youtube.com/watch?v=TSr_qLZ-8YY"
+    },
+    {
+      "video_id": "B7b_2LaWOzs",
+      "title": "I built this app on the side for fun. It just hit $100K",
+      "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
+      "channel_title": "Starter Story",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-15T18:00:33Z",
+      "view_count": 52508,
+      "duration_minutes": 13,
+      "url": "https://www.youtube.com/watch?v=B7b_2LaWOzs"
+    },
+    {
+      "video_id": "2BZ38nJ9ItY",
+      "title": "The billion-dollar app built around one addictive loop",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-12T18:54:51Z",
+      "view_count": 46688,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=2BZ38nJ9ItY"
+    },
+    {
+      "video_id": "cU9uOHRWDmE",
+      "title": "Explosive Growth & Near-Death Survival | Vlad Tenev, Robinhood",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "channel_title": "David Senra",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-11T13:00:26Z",
+      "view_count": 39066,
+      "duration_minutes": 71,
+      "url": "https://www.youtube.com/watch?v=cU9uOHRWDmE"
     }
   ]
 }

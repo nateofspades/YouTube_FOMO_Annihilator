@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-11-15T15:54:46.275965Z",
+  "generated_at": "2026-11-17T19:05:30.322378Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,21 +11,21 @@
       "handle": "UCJIfeSCssxSC_Dhc5s7woww",
       "source_type": "AI podcast",
       "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "recent_video_count": 22
+      "recent_video_count": 29
     },
     {
       "name": "Dwarkesh Patel",
       "handle": "UCXl4i9dYBrFOabk0xGmbkRA",
       "source_type": "AI podcast",
       "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Latent Space",
       "handle": "UCxBcwypKK-W3GHd_RZ9FZrQ",
       "source_type": "AI podcast",
       "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Cognitive Revolution",
@@ -39,14 +39,14 @@
       "handle": "UCSI7h9hydQ40K5MJHnCrQvw",
       "source_type": "AI podcast",
       "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "The TWIML AI Podcast",
       "handle": "UC7kjWIK1H8tfmFlzZO-wHMw",
       "source_type": "AI podcast",
       "channel_id": "UC7kjWIK1H8tfmFlzZO-wHMw",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Practical AI",
@@ -88,21 +88,21 @@
       "handle": "UCgx8lqX3QsHgH0bQq7-EHVg",
       "source_type": "AI podcast",
       "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
-      "recent_video_count": 12
+      "recent_video_count": 13
     },
     {
       "name": "AI Agents Podcast",
       "handle": "UCIkU9Fe0OccRmqBMXRm1Q7A",
       "source_type": "AI podcast",
       "channel_id": "UCIkU9Fe0OccRmqBMXRm1Q7A",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "The AI Daily Brief",
       "handle": "UCKelCK4ZaO6HeEI1KQjqzWA",
       "source_type": "AI podcast",
       "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Hard Fork",
@@ -116,14 +116,14 @@
       "handle": "UCMLtBahI5DMrt0NPvDSoIRQ",
       "source_type": "AI podcast",
       "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
-      "recent_video_count": 12
+      "recent_video_count": 10
     },
     {
       "name": "Eye on AI",
       "handle": "UC-o9u9QL4zXzBwjvT1gmzNg",
       "source_type": "AI podcast",
       "channel_id": "UC-o9u9QL4zXzBwjvT1gmzNg",
-      "recent_video_count": 17
+      "recent_video_count": 12
     },
     {
       "name": "AI For Humans",
@@ -144,7 +144,7 @@
       "handle": "UCG6qpjVnBTTT8wLGBygANOQ",
       "source_type": "AI podcast",
       "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
-      "recent_video_count": 16
+      "recent_video_count": 14
     },
     {
       "name": "Interconnects",
@@ -179,14 +179,14 @@
       "handle": "UCMbtqTGdSsxYYhhTpV4lSTQ",
       "source_type": "AI podcast",
       "channel_id": "UCMbtqTGdSsxYYhhTpV4lSTQ",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "How I AI",
       "handle": "UCRYY7IEbkHLH_ScJCu9eWDQ",
       "source_type": "AI podcast",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 10
+      "recent_video_count": 8
     },
     {
       "name": "Software Engineering Daily",
@@ -207,14 +207,14 @@
       "handle": "UCKPSmMfDsXTKrCZApukcJ7A",
       "source_type": "AI podcast",
       "channel_id": "UCKPSmMfDsXTKrCZApukcJ7A",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "ChinaTalk",
       "handle": "UCXOtILmQEo3pL_1bJfUOFWw",
       "source_type": "AI podcast",
       "channel_id": "UCXOtILmQEo3pL_1bJfUOFWw",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "BG2Pod",
@@ -228,21 +228,21 @@
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "AI podcast",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 24
+      "recent_video_count": 28
     },
     {
       "name": "Decoder with Nilay Patel",
       "handle": "UCYRwJnCWfBqFHEHrgc18FFw",
       "source_type": "AI podcast",
       "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
-      "recent_video_count": 13
+      "recent_video_count": 14
     },
     {
       "name": "The Vergecast",
       "handle": "UCVHdvAX5-R8y5l9xp6nroBQ",
       "source_type": "AI podcast",
       "channel_id": "UCVHdvAX5-R8y5l9xp6nroBQ",
-      "recent_video_count": 10
+      "recent_video_count": 8
     },
     {
       "name": "AXRP",
@@ -256,14 +256,14 @@
       "handle": "UCXi7Hg2nSB40ujzM2CMtF-Q",
       "source_type": "AI podcast",
       "channel_id": "UCXi7Hg2nSB40ujzM2CMtF-Q",
-      "recent_video_count": 8
+      "recent_video_count": 6
     },
     {
       "name": "Gradient Dissent",
       "playlist_id": "PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_",
       "source_type": "AI podcast",
       "channel_id": "UCBp3w4DCEC64FZr4k9ROxig",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "NVIDIA AI Podcast",
@@ -298,7 +298,7 @@
       "playlist_id": "PLISstAySqk7KNRW1vfsjTqJnm4lXXBgPe",
       "source_type": "AI podcast",
       "channel_id": "UCg3pI4p6OKSFrDVZcwRIx8A",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "The AI Fix",
@@ -340,21 +340,21 @@
       "playlist_id": "PL-BRtcBm4Yj4aKn72p4PjyqHh0ZQFdI1A",
       "source_type": "AI podcast",
       "channel_id": "UCafjal1QYJ3rb0Y9xZk1Ezg",
-      "recent_video_count": 3
+      "recent_video_count": 2
     }
   ],
-  "candidate_count": 225,
+  "candidate_count": 218,
   "results": [
     {
-      "video_id": "z8_hlGA51ck",
-      "title": "\"Jensen Huang's Exit Could Change the AI Industry Forever\" - Dylan Patel",
-      "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "channel_title": "TBPN",
+      "video_id": "SeGUXN8XIu8",
+      "title": "The Next 4 Years of AI Will Look Nothing Like the Last 4",
+      "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+      "channel_title": "Dwarkesh Patel",
       "source_type": "AI podcast",
-      "published_at": "2026-11-12T21:18:11Z",
-      "view_count": 62418,
-      "duration_minutes": 31,
-      "url": "https://www.youtube.com/watch?v=z8_hlGA51ck"
+      "published_at": "2026-11-15T01:05:37Z",
+      "view_count": 88955,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=SeGUXN8XIu8"
     },
     {
       "video_id": "P6-_knLbuuk",
@@ -363,31 +363,20 @@
       "channel_title": "80,000 Hours",
       "source_type": "AI podcast",
       "published_at": "2026-11-12T18:39:38Z",
-      "view_count": 51858,
+      "view_count": 77025,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=P6-_knLbuuk"
     },
     {
-      "video_id": "v5IJwVnTxzg",
-      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
-      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "channel_title": "Latent Space",
+      "video_id": "z8_hlGA51ck",
+      "title": "\"Jensen Huang's Exit Could Change the AI Industry Forever\" - Dylan Patel",
+      "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
+      "channel_title": "TBPN",
       "source_type": "AI podcast",
-      "published_at": "2026-11-09T16:18:21Z",
-      "view_count": 47127,
-      "duration_minutes": 164,
-      "url": "https://www.youtube.com/watch?v=v5IJwVnTxzg"
-    },
-    {
-      "video_id": "SeGUXN8XIu8",
-      "title": "The Next 4 Years of AI Will Look Nothing Like the Last 4",
-      "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
-      "channel_title": "Dwarkesh Patel",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-15T01:05:37Z",
-      "view_count": 37382,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=SeGUXN8XIu8"
+      "published_at": "2026-11-12T21:18:11Z",
+      "view_count": 68729,
+      "duration_minutes": 31,
+      "url": "https://www.youtube.com/watch?v=z8_hlGA51ck"
     },
     {
       "video_id": "GVP-bqBAStw",
@@ -396,20 +385,9 @@
       "channel_title": "Machine Gods",
       "source_type": "AI podcast",
       "published_at": "2026-11-13T02:32:15Z",
-      "view_count": 31262,
+      "view_count": 37246,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=GVP-bqBAStw"
-    },
-    {
-      "video_id": "dOwqsYtXp6k",
-      "title": "Is AI safety solvable in the time we have left? | Decoder",
-      "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
-      "channel_title": "Decoder with Nilay Patel",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-14T14:00:26Z",
-      "view_count": 18770,
-      "duration_minutes": 70,
-      "url": "https://www.youtube.com/watch?v=dOwqsYtXp6k"
     },
     {
       "video_id": "LI3lxzHfRrU",
@@ -418,7 +396,7 @@
       "channel_title": "a16z",
       "source_type": "AI podcast",
       "published_at": "2026-11-11T15:30:22Z",
-      "view_count": 16246,
+      "view_count": 19407,
       "duration_minutes": 56,
       "url": "https://www.youtube.com/watch?v=LI3lxzHfRrU"
     },
@@ -429,20 +407,9 @@
       "channel_title": "How I AI",
       "source_type": "AI podcast",
       "published_at": "2026-11-11T13:00:06Z",
-      "view_count": 12147,
+      "view_count": 15008,
       "duration_minutes": 34,
       "url": "https://www.youtube.com/watch?v=wdyOjcCj2hw"
-    },
-    {
-      "video_id": "Dt7Q_VQxGHc",
-      "title": "Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.",
-      "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-      "channel_title": "The AI Daily Brief: Artificial Intelligence News",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-12T18:44:15Z",
-      "view_count": 11295,
-      "duration_minutes": 29,
-      "url": "https://www.youtube.com/watch?v=Dt7Q_VQxGHc"
     },
     {
       "video_id": "sQKvJbzgFRU",
@@ -451,9 +418,42 @@
       "channel_title": "AI For Humans",
       "source_type": "AI podcast",
       "published_at": "2026-11-13T14:45:36Z",
-      "view_count": 10683,
+      "view_count": 12453,
       "duration_minutes": 56,
       "url": "https://www.youtube.com/watch?v=sQKvJbzgFRU"
+    },
+    {
+      "video_id": "Dt7Q_VQxGHc",
+      "title": "Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.",
+      "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+      "channel_title": "The AI Daily Brief: Artificial Intelligence News",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-12T18:44:15Z",
+      "view_count": 11917,
+      "duration_minutes": 29,
+      "url": "https://www.youtube.com/watch?v=Dt7Q_VQxGHc"
+    },
+    {
+      "video_id": "ncz5aYl385k",
+      "title": "AI is overhyped: The reality of autonomy in drone warfare | Russia-Ukraine War - Military Analysis",
+      "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
+      "channel_title": "Lex Clips",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-13T21:00:10Z",
+      "view_count": 8119,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=ncz5aYl385k"
+    },
+    {
+      "video_id": "BFI2iykN0Yc",
+      "title": "“AI has eaten tactical programming”",
+      "channel_id": "UCPbwhExawYrn9xxI21TFfyw",
+      "channel_title": "The Pragmatic Engineer",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-14T16:00:17Z",
+      "view_count": 6074,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=BFI2iykN0Yc"
     }
   ]
 }

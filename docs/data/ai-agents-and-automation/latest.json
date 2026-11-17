@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-11-15T15:54:46.275965Z",
+  "generated_at": "2026-11-17T19:05:30.322378Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@allaboutai",
       "source_type": "AI agent and automation",
       "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Alex Finn",
@@ -25,14 +25,14 @@
       "handle": "@matthew_berman",
       "source_type": "AI agent and automation",
       "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "Cole Medin",
       "handle": "@ColeMedin",
       "source_type": "AI agent and automation",
       "channel_id": "UCMwVTLZIRRUyyVrkjDpn4pA",
-      "recent_video_count": 4
+      "recent_video_count": 6
     },
     {
       "name": "Futurepedia",
@@ -46,14 +46,14 @@
       "handle": "@NateHerk",
       "source_type": "AI agent and automation",
       "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "recent_video_count": 3
+      "recent_video_count": 8
     },
     {
       "name": "Krish Naik",
       "handle": "@krishnaik06",
       "source_type": "AI agent and automation",
       "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "AI Code King",
@@ -81,7 +81,7 @@
       "handle": "@Fireship",
       "source_type": "AI agent and automation",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Tech With Tim",
@@ -102,14 +102,14 @@
       "handle": "@GregIsenberg",
       "source_type": "AI agent and automation",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "recent_video_count": 5
+      "recent_video_count": 3
     },
     {
       "name": "How I AI",
       "handle": "@howiaipodcast",
       "source_type": "AI agent and automation",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 10
+      "recent_video_count": 8
     },
     {
       "name": "IBM Technology",
@@ -123,7 +123,7 @@
       "handle": "@WeightsBiases",
       "source_type": "AI agent and automation",
       "channel_id": "UCAoex7Afqs1bWf5Xy8xaSfQ",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Hugging Face",
@@ -165,7 +165,7 @@
       "handle": "UCMcoud_ZW7cfxeIugBflSBw",
       "source_type": "AI agent and automation",
       "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Sam Witteveen",
@@ -186,7 +186,7 @@
       "handle": "UCiHVTkJtWSdc9N3h0nUGWLg",
       "source_type": "AI agent and automation",
       "channel_id": "UCiHVTkJtWSdc9N3h0nUGWLg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Make",
@@ -235,7 +235,7 @@
       "handle": "UCXZCJLdBC09xxGZ6gcdrc6A",
       "source_type": "AI agent and automation",
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "recent_video_count": 22
+      "recent_video_count": 27
     },
     {
       "name": "Anthropic",
@@ -256,7 +256,7 @@
       "handle": "UCgoJjdR6-7AMu9fDitb6nVw",
       "source_type": "AI agent and automation",
       "channel_id": "UCgoJjdR6-7AMu9fDitb6nVw",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Supabase",
@@ -277,7 +277,7 @@
       "handle": "UCds72zs2EzQRmhqbLLCmD4A",
       "source_type": "AI agent and automation",
       "channel_id": "UCds72zs2EzQRmhqbLLCmD4A",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Simon Willison",
@@ -319,28 +319,28 @@
       "handle": "UCWTyktbw5JYoSBduu8LsBgQ",
       "source_type": "AI agent and automation",
       "channel_id": "UCWTyktbw5JYoSBduu8LsBgQ",
-      "recent_video_count": 9
+      "recent_video_count": 7
     },
     {
       "name": "AI Engineer",
       "handle": "UCLKPca3kwwd-B59HNr-_lvA",
       "source_type": "AI agent and automation",
       "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
-      "recent_video_count": 45
+      "recent_video_count": 16
     },
     {
       "name": "Sabrina Ramonov",
       "handle": "UCiGWNa6QK6CiKPvv5-YPv8g",
       "source_type": "AI agent and automation",
       "channel_id": "UCiGWNa6QK6CiKPvv5-YPv8g",
-      "recent_video_count": 17
+      "recent_video_count": 18
     },
     {
       "name": "LowCode Agency",
       "handle": "UCT5Nq5woayDZTBqeVkczetg",
       "source_type": "AI agent and automation",
       "channel_id": "UCT5Nq5woayDZTBqeVkczetg",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "VoloBuilds",
@@ -357,18 +357,18 @@
       "recent_video_count": 6
     }
   ],
-  "candidate_count": 243,
+  "candidate_count": 221,
   "results": [
     {
-      "video_id": "uJuxenfe-NU",
-      "title": "AI Agents are too good at marketing now",
-      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "channel_title": "Greg Isenberg",
+      "video_id": "cjEK7V9GucQ",
+      "title": "Introducing Nod: An Open-Source Personal AI Agent from n8n",
+      "channel_id": "UCiHVTkJtWSdc9N3h0nUGWLg",
+      "channel_title": "n8n",
       "source_type": "AI agent and automation",
-      "published_at": "2026-11-09T18:15:17Z",
-      "view_count": 126753,
-      "duration_minutes": 52,
-      "url": "https://www.youtube.com/watch?v=uJuxenfe-NU"
+      "published_at": "2026-11-11T13:26:02Z",
+      "view_count": 79426,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=cjEK7V9GucQ"
     },
     {
       "video_id": "nAubbmlhPfI",
@@ -377,7 +377,7 @@
       "channel_title": "OpenAI",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-11T01:24:07Z",
-      "view_count": 48403,
+      "view_count": 64741,
       "duration_minutes": 24,
       "url": "https://www.youtube.com/watch?v=nAubbmlhPfI"
     },
@@ -388,31 +388,9 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-12T12:00:39Z",
-      "view_count": 47359,
+      "view_count": 54048,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=hvnPWgfmvyI"
-    },
-    {
-      "video_id": "cjEK7V9GucQ",
-      "title": "Introducing Nod: An Open-Source Personal AI Agent from n8n",
-      "channel_id": "UCiHVTkJtWSdc9N3h0nUGWLg",
-      "channel_title": "n8n",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-11-11T13:26:02Z",
-      "view_count": 46305,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=cjEK7V9GucQ"
-    },
-    {
-      "video_id": "5z5aoqMURFM",
-      "title": "Why Your AI Agent Needs an IDE (Real Experiment, Not Hype)",
-      "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
-      "channel_title": "Tech With Tim",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-11-09T15:11:46Z",
-      "view_count": 42683,
-      "duration_minutes": 17,
-      "url": "https://www.youtube.com/watch?v=5z5aoqMURFM"
     },
     {
       "video_id": "HCJvnek8zZM",
@@ -421,42 +399,20 @@
       "channel_title": "Krish Naik",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-13T04:55:46Z",
-      "view_count": 28066,
+      "view_count": 31859,
       "duration_minutes": 22,
       "url": "https://www.youtube.com/watch?v=HCJvnek8zZM"
     },
     {
-      "video_id": "WWIFiQi9U4w",
-      "title": "The One Thing Every AI Agent Framework Agrees On - Mislav Ivanda, Daytona",
-      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
-      "channel_title": "AI Engineer",
+      "video_id": "DfAOBID70Q0",
+      "title": "5 Concepts to Know for Coding with AI Agents",
+      "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+      "channel_title": "Tech With Tim",
       "source_type": "AI agent and automation",
-      "published_at": "2026-11-09T08:00:27Z",
-      "view_count": 20757,
-      "duration_minutes": 16,
-      "url": "https://www.youtube.com/watch?v=WWIFiQi9U4w"
-    },
-    {
-      "video_id": "NUgaWmws0XQ",
-      "title": "How Airbnb builds Trust for Guests and Hosts using AI Agents with LangGraph",
-      "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
-      "channel_title": "LangChain",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-11-09T13:53:26Z",
-      "view_count": 5395,
-      "duration_minutes": 19,
-      "url": "https://www.youtube.com/watch?v=NUgaWmws0XQ"
-    },
-    {
-      "video_id": "3FKdVJf-tUk",
-      "title": "AI Agentic Trading Will Change EVERYTHING About Investing | Public",
-      "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
-      "channel_title": "All About AI",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-11-10T18:06:19Z",
-      "view_count": 2923,
-      "duration_minutes": 18,
-      "url": "https://www.youtube.com/watch?v=3FKdVJf-tUk"
+      "published_at": "2026-11-17T13:00:33Z",
+      "view_count": 11904,
+      "duration_minutes": 20,
+      "url": "https://www.youtube.com/watch?v=DfAOBID70Q0"
     },
     {
       "video_id": "mAlsfafDW-U",
@@ -465,9 +421,53 @@
       "channel_title": "Cole Medin",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-13T14:42:41Z",
-      "view_count": 2210,
+      "view_count": 3216,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=mAlsfafDW-U"
+    },
+    {
+      "video_id": "t1s_wjsUSsg",
+      "title": "3 Ways to Run an AI Agent on Cloud Run",
+      "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+      "channel_title": "Prompt Engineering",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-16T06:37:15Z",
+      "view_count": 2004,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=t1s_wjsUSsg"
+    },
+    {
+      "video_id": "SLmYPP5QQGc",
+      "title": "Top 5 AI agent builder platforms for 2026",
+      "channel_id": "UCEvsxF4Z12vwpwDUaU02yiA",
+      "channel_title": "Zapier",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-16T05:00:30Z",
+      "view_count": 327,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=SLmYPP5QQGc"
+    },
+    {
+      "video_id": "fGrNKIaQQZs",
+      "title": "We built an AI agent that interviews your whole team",
+      "channel_id": "UCT5Nq5woayDZTBqeVkczetg",
+      "channel_title": "LowCode Agency",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-16T16:54:29Z",
+      "view_count": 72,
+      "duration_minutes": 6,
+      "url": "https://www.youtube.com/watch?v=fGrNKIaQQZs"
+    },
+    {
+      "video_id": "eHIvUQN_Gkk",
+      "title": "The World War of AI Agents: Why Attackers & Defenders Run Abliterated Models",
+      "channel_id": "UCAoex7Afqs1bWf5Xy8xaSfQ",
+      "channel_title": "Weights&Biases",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-12T00:54:26Z",
+      "view_count": 53,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=eHIvUQN_Gkk"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-11-15T15:54:46.275965Z",
+  "generated_at": "2026-11-17T19:05:30.322378Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,14 +11,14 @@
       "handle": "@TheDiaryOfACEO",
       "source_type": "Business podcast",
       "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "recent_video_count": 5
+      "recent_video_count": 7
     },
     {
       "name": "My First Million",
       "handle": "@MyFirstMillionPod",
       "source_type": "Business podcast",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "Acquired",
@@ -32,7 +32,7 @@
       "handle": "@allin",
       "source_type": "Business podcast",
       "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "recent_video_count": 5
+      "recent_video_count": 9
     },
     {
       "name": "Guy Raz / How I Built This",
@@ -67,7 +67,7 @@
       "handle": "@ILTB_Podcast",
       "source_type": "Business podcast",
       "channel_id": "UCpQBb0fToph3jrDulwz1iUQ",
-      "recent_video_count": 2
+      "recent_video_count": 4
     },
     {
       "name": "The Knowledge Project Podcast",
@@ -88,28 +88,28 @@
       "handle": "@20VC",
       "source_type": "Business podcast",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "a16z",
       "handle": "@a16z",
       "source_type": "Business podcast",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 6
+      "recent_video_count": 8
     },
     {
       "name": "The Prof G Pod – Scott Galloway",
       "handle": "@TheProfGPod",
       "source_type": "Business podcast",
       "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "recent_video_count": 18
+      "recent_video_count": 17
     },
     {
       "name": "Pivot with Kara Swisher and Scott Galloway",
       "handle": "@pivot",
       "source_type": "Business podcast",
       "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "recent_video_count": 16
+      "recent_video_count": 9
     },
     {
       "name": "Tim Ferriss",
@@ -130,7 +130,7 @@
       "handle": "@AlexHormozi",
       "source_type": "Business podcast",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "recent_video_count": 32
+      "recent_video_count": 26
     },
     {
       "name": "Startups for the Rest of Us",
@@ -158,21 +158,21 @@
       "handle": "UCGX7nGXpz-CmO_Arg-cgJ7A",
       "source_type": "Business podcast",
       "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
-      "recent_video_count": 41
+      "recent_video_count": 42
     },
     {
       "name": "The Jordan Harbinger Show",
       "handle": "UCGLcx_fFZ3GlLXO5anHSm9w",
       "source_type": "Business podcast",
       "channel_id": "UCGLcx_fFZ3GlLXO5anHSm9w",
-      "recent_video_count": 2
+      "recent_video_count": 0
     },
     {
       "name": "The Iced Coffee Hour",
       "handle": "UCMSYZVlQmyG8_2MkIKzg0kw",
       "source_type": "Business podcast",
       "channel_id": "UCMSYZVlQmyG8_2MkIKzg0kw",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "The Money Mondays",
@@ -214,7 +214,7 @@
       "handle": "UC4g1niWj3_eXiBPERvatsFA",
       "source_type": "Business podcast",
       "channel_id": "UC4g1niWj3_eXiBPERvatsFA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "The Best One Yet",
@@ -235,7 +235,7 @@
       "handle": "UCTJmkA2-u7Kyblm5_P6tKdA",
       "source_type": "Business podcast",
       "channel_id": "UCTJmkA2-u7Kyblm5_P6tKdA",
-      "recent_video_count": 23
+      "recent_video_count": 22
     },
     {
       "name": "The Colin and Samir Show",
@@ -298,7 +298,7 @@
       "playlist_id": "PLQHTakJAwGLMQxKVlKUVpC7aiYTZ2j2J9",
       "source_type": "Business podcast",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "recent_video_count": 3
+      "recent_video_count": 1
     },
     {
       "name": "The Futur Podcast",
@@ -319,7 +319,7 @@
       "playlist_id": "PLx2VRNuTQZgbxunK7mZD3FY1IhKxCbs5b",
       "source_type": "Business podcast",
       "channel_id": "UChpWgrkJY_i7F6wwI_TOnrg",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "The SaaS Podcast",
@@ -340,7 +340,7 @@
       "playlist_id": "PLj561ehA3vjbTzFM3ToFMzjgk2eStZF4X",
       "source_type": "Business podcast",
       "channel_id": "UCzOAAJUiSO2uyu1xyxw__2Q",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "HBR IdeaCast",
@@ -350,18 +350,18 @@
       "recent_video_count": 0
     }
   ],
-  "candidate_count": 263,
+  "candidate_count": 258,
   "results": [
     {
-      "video_id": "-6PuYw92m1c",
-      "title": "Katt Williams: They Tied Me To A Pole And Beat Me Bloody Every Week!",
+      "video_id": "1mDHHi398ig",
+      "title": "Russian Sex Spy: I Was Trained To Control A Man's Mind With Sex! | John Kiriakou & Aliia Roza",
       "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
-      "published_at": "2026-11-09T08:00:33Z",
-      "view_count": 6114063,
-      "duration_minutes": 110,
-      "url": "https://www.youtube.com/watch?v=-6PuYw92m1c"
+      "published_at": "2026-11-16T08:00:26Z",
+      "view_count": 3670862,
+      "duration_minutes": 124,
+      "url": "https://www.youtube.com/watch?v=1mDHHi398ig"
     },
     {
       "video_id": "Uv2w4VTU-iQ",
@@ -370,20 +370,20 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-11-14T02:50:18Z",
-      "view_count": 832657,
+      "view_count": 1107928,
       "duration_minutes": 85,
       "url": "https://www.youtube.com/watch?v=Uv2w4VTU-iQ"
     },
     {
-      "video_id": "FjsymwltS6k",
-      "title": "NVIDIA’s CEO China Spy Scandal & Liberal Hosts Mock Charlie Kirk’s Death | PBD Podcast #887",
+      "video_id": "HpCaV_uw0Uc",
+      "title": "“England Is Done” - Dominik Tarczyński on Mass Immigration & Europe’s Future | PBD Podcast #889",
       "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
       "channel_title": "PBD Podcast",
       "source_type": "Business podcast",
-      "published_at": "2026-11-09T16:32:52Z",
-      "view_count": 519088,
-      "duration_minutes": 131,
-      "url": "https://www.youtube.com/watch?v=FjsymwltS6k"
+      "published_at": "2026-11-12T16:23:02Z",
+      "view_count": 585689,
+      "duration_minutes": 86,
+      "url": "https://www.youtube.com/watch?v=HpCaV_uw0Uc"
     },
     {
       "video_id": "WsQ92ngfTRQ",
@@ -392,20 +392,9 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-11-12T19:50:43Z",
-      "view_count": 351387,
+      "view_count": 379775,
       "duration_minutes": 32,
       "url": "https://www.youtube.com/watch?v=WsQ92ngfTRQ"
-    },
-    {
-      "video_id": "pRXMqm5bMFk",
-      "title": "The Impossible Speed of Elon Musk -  Ex-Tesla President",
-      "channel_id": "UCLtTf_uKt0Itd0NG7txrwXA",
-      "channel_title": "The Knowledge Project Podcast",
-      "source_type": "Business podcast",
-      "published_at": "2026-11-10T11:00:09Z",
-      "view_count": 321047,
-      "duration_minutes": 106,
-      "url": "https://www.youtube.com/watch?v=pRXMqm5bMFk"
     },
     {
       "video_id": "DtDcCQCwEzY",
@@ -414,53 +403,64 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-11-11T23:44:43Z",
-      "view_count": 318060,
+      "view_count": 318254,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=DtDcCQCwEzY"
     },
     {
-      "video_id": "SH-G1q2MvXU",
-      "title": "If You’re Stressed About Money, Start Doing This | Tiffany Aliche",
-      "channel_id": "UCKsP3v2JeT2hWI_HzkxWiMA",
-      "channel_title": "Lewis Howes",
-      "source_type": "Business podcast",
-      "published_at": "2026-11-09T14:30:19Z",
-      "view_count": 292018,
-      "duration_minutes": 68,
-      "url": "https://www.youtube.com/watch?v=SH-G1q2MvXU"
-    },
-    {
-      "video_id": "NcEnNQRVKx8",
-      "title": "The Bitcoin Expert: America’s $40 Trillion Financial Reset Has Begun - Do This Now!",
+      "video_id": "EfnyQtt0Qgk",
+      "title": "Housing Expert: Here's EXACTLY When To Buy A Home — And What To AVOID! | Jason Oppenheim",
       "channel_id": "UCMSYZVlQmyG8_2MkIKzg0kw",
       "channel_title": "The Iced Coffee Hour",
       "source_type": "Business podcast",
-      "published_at": "2026-11-08T17:00:30Z",
-      "view_count": 288709,
-      "duration_minutes": 106,
-      "url": "https://www.youtube.com/watch?v=NcEnNQRVKx8"
+      "published_at": "2026-11-15T17:00:37Z",
+      "view_count": 135267,
+      "duration_minutes": 98,
+      "url": "https://www.youtube.com/watch?v=EfnyQtt0Qgk"
     },
     {
-      "video_id": "VyqLmiZSLG4",
-      "title": "The Life You Want Will Cost You Everything - Bugzy Malone (4K)",
-      "channel_id": "UCIaH-gZIVC432YRjNVvnyCA",
-      "channel_title": "Chris Williamson",
+      "video_id": "oVPXgRs0IdI",
+      "title": "The Most Valuable Sales Training You’ll Ever Watch [$100M Sales Team System]",
+      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
+      "channel_title": "Alex Hormozi",
       "source_type": "Business podcast",
-      "published_at": "2026-11-09T16:00:18Z",
-      "view_count": 213419,
-      "duration_minutes": 127,
-      "url": "https://www.youtube.com/watch?v=VyqLmiZSLG4"
+      "published_at": "2026-11-16T22:13:05Z",
+      "view_count": 132870,
+      "duration_minutes": 202,
+      "url": "https://www.youtube.com/watch?v=oVPXgRs0IdI"
     },
     {
-      "video_id": "uJuxenfe-NU",
-      "title": "AI Agents are too good at marketing now",
+      "video_id": "y1-9yeYLJUo",
+      "title": "The Rise Of AI Coworkers",
+      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "channel_title": "Y Combinator",
+      "source_type": "Business podcast",
+      "published_at": "2026-11-14T23:21:16Z",
+      "view_count": 128586,
+      "duration_minutes": 60,
+      "url": "https://www.youtube.com/watch?v=y1-9yeYLJUo"
+    },
+    {
+      "video_id": "1cWZ7Ekff6E",
+      "title": "Use Grok Bot Better Than 99% of People (Full Course)",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "channel_title": "Greg Isenberg",
       "source_type": "Business podcast",
-      "published_at": "2026-11-09T18:15:17Z",
-      "view_count": 126753,
-      "duration_minutes": 52,
-      "url": "https://www.youtube.com/watch?v=uJuxenfe-NU"
+      "published_at": "2026-11-11T18:00:16Z",
+      "view_count": 125256,
+      "duration_minutes": 49,
+      "url": "https://www.youtube.com/watch?v=1cWZ7Ekff6E"
+    },
+    {
+      "video_id": "V8yOSpJ6D1c",
+      "title": "Why a $2 Billion Law Firm Suddenly Collapsed | Odd Lots",
+      "channel_id": "UChF5O40UBqAc82I7-i5ig6A",
+      "channel_title": "Bloomberg Podcasts",
+      "source_type": "Business podcast",
+      "published_at": "2026-11-13T09:10:46Z",
+      "view_count": 113441,
+      "duration_minutes": 59,
+      "url": "https://www.youtube.com/watch?v=V8yOSpJ6D1c"
     }
   ]
 }
