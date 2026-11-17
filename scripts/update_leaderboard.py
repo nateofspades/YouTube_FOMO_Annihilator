@@ -6,6 +6,7 @@ from __future__ import annotations
 import json
 import os
 import sys
+import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.error import HTTPError, URLError
@@ -21,6 +22,10 @@ from app.leaderboard import AI_TERMS, filter_and_rank_videos, merge_archive_inde
 API_BASE = "https://www.googleapis.com/youtube/v3"
 WINDOW_DAYS = 7
 RESULT_LIMIT = 10
+
+
+class SourceUnavailable(RuntimeError):
+    """One curated channel or playlist cannot currently be read."""
 
 
 def load_categories() -> list[dict]:
@@ -41,15 +46,33 @@ def load_categories() -> list[dict]:
 
 
 def youtube_get(resource: str, parameters: dict[str, str], api_key: str) -> dict:
+    """Retry transient failures, but never hide quota or credential errors."""
     query = urlencode({**parameters, "key": api_key})
-    try:
-        with urlopen(f"{API_BASE}/{resource}?{query}", timeout=30) as response:
-            return json.load(response)
-    except HTTPError as exc:
-        detail = exc.read().decode("utf-8", errors="replace")
-        raise RuntimeError(f"YouTube API request failed ({exc.code}): {detail}") from exc
-    except URLError as exc:
-        raise RuntimeError(f"YouTube API request could not be completed: {exc.reason}") from exc
+    for attempt in range(4):
+        try:
+            with urlopen(f"{API_BASE}/{resource}?{query}", timeout=30) as response:
+                return json.load(response)
+        except HTTPError as exc:
+            with exc:
+                detail = exc.read().decode("utf-8", errors="replace")
+            try:
+                reasons = {error.get("reason", "") for error in json.loads(detail).get("error", {}).get("errors", [])}
+            except (ValueError, AttributeError, TypeError):
+                reasons = set()
+            message = f"YouTube API {resource} failed ({exc.code}): {', '.join(sorted(reasons)) or 'unknown error'}"
+            if (exc.code == 404 and reasons == {"playlistNotFound"}) or (exc.code == 403 and reasons == {"playlistItemsNotAccessible"}):
+                raise SourceUnavailable(message) from None
+            if exc.code not in {408, 429, 500, 502, 503, 504} and not (exc.code == 403 and reasons and reasons <= {"rateLimitExceeded", "userRateLimitExceeded"}):
+                raise RuntimeError(message) from None
+        except (URLError, TimeoutError, ConnectionError) as exc:
+            # Exception messages/tracebacks can contain the URL and API key.
+            message = f"YouTube API {resource} request could not be completed ({type(exc).__name__})"
+        if attempt == 3:
+            raise RuntimeError(f"{message}; exhausted 4 attempts") from None
+        delay = 2 ** attempt
+        print(f"{message}; retrying in {delay}s (attempt {attempt + 2}/4).", flush=True)
+        time.sleep(delay)
+    raise AssertionError("Unreachable retry state")
 
 
 def resolve_channel(handle: str, api_key: str) -> dict:
@@ -63,7 +86,7 @@ def resolve_channel(handle: str, api_key: str) -> dict:
     payload = youtube_get("channels", lookup, api_key)
     items = payload.get("items", [])
     if not items:
-        raise RuntimeError(f"No YouTube channel found for handle {handle}")
+        raise SourceUnavailable(f"No YouTube channel found for handle {handle}")
     channel = items[0]
     return {"id": channel["id"], "uploads_playlist": channel["contentDetails"]["relatedPlaylists"]["uploads"]}
 
@@ -73,7 +96,7 @@ def resolve_playlist(playlist_id: str, api_key: str) -> dict:
     payload = youtube_get("playlists", {"part": "snippet", "id": playlist_id}, api_key)
     items = payload.get("items", [])
     if not items:
-        raise RuntimeError(f"No public YouTube playlist found for {playlist_id}")
+        raise SourceUnavailable(f"No public YouTube playlist found for {playlist_id}")
     return {"id": items[0]["snippet"]["channelId"], "uploads_playlist": playlist_id}
 
 
@@ -166,19 +189,24 @@ def collect_leaderboard(api_key: str, now: datetime, *, slug: str, title: str, t
     source_types: dict[str, str] = {}
 
     for source in [*channels, *(playlist_sources or [])]:
+        resolved = None
         try:
             resolved = resolve_playlist(source["playlist_id"], api_key) if source.get("playlist_id") else resolve_channel(source["handle"], api_key)
-        except RuntimeError as exc:
+            ids = recent_video_ids(resolved["uploads_playlist"], cutoff, api_key, stop_at_cutoff=not source.get("playlist_id"))
+            source_videos = videos_by_id(ids, api_key)
+        except SourceUnavailable as exc:
             print(f"Skipping unavailable source {source['name']}: {exc}")
-            sources.append({**source, "channel_id": None, "recent_video_count": 0, "status": "unavailable"})
+            sources.append({**source, "channel_id": resolved["id"] if resolved else None, "recent_video_count": 0, "status": "unavailable", "error": str(exc)})
             continue
-        ids = recent_video_ids(resolved["uploads_playlist"], cutoff, api_key, stop_at_cutoff=not source.get("playlist_id"))
         if source.get("playlist_id"):
             source_types.setdefault(resolved["id"], source["source_type"])
         else:
             source_types[resolved["id"]] = source["source_type"]
         sources.append({**source, "channel_id": resolved["id"], "recent_video_count": len(ids)})
-        candidates.extend(videos_by_id(ids, api_key))
+        candidates.extend(source_videos)
+
+    if not any(source.get("status") != "unavailable" for source in sources):
+        raise RuntimeError(f"No available sources for category {slug}; refusing to publish an empty snapshot")
 
     unique_candidates = {video["id"]: video for video in candidates}
     ranked = rank_category_videos(
