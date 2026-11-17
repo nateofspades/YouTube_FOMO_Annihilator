@@ -64,6 +64,8 @@ GitHub Actions targets 04:00 every day in `America/New_York`, starting October 2
 
 An independent Hermes watchdog runs at 22:30 UTC. It verifies that every category has a valid date-stamped JSON file with exactly 10 results. If anything is missing, it dispatches the GitHub workflow, waits for it to finish, and verifies the result again. If recovery fails, it opens one GitHub issue for that date. This removes reliance on GitHub's best-effort schedule alone, but fresh data still depends on the YouTube API, GitHub availability, and the watchdog service.
 
+Collection isolates unavailable channels and playlists: a missing or private playlist is recorded in that day's JSON under `source_channels` with `status: "unavailable"` and a diagnostic reason, then the other sources continue. It is not removed from the configured source list and is tried again on the next run. Temporary network failures, server errors, and rate limits get up to four attempts with exponential backoff. Quota, credential, and other unexpected errors still fail the run instead of silently publishing incomplete data; a category with no available sources also fails. A working category can still have fewer than ten eligible channels under the ranking rules above.
+
 Every successful run:
 
 1. Runs the unit tests.
