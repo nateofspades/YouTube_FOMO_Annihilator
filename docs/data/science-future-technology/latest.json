@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-17T19:05:30.322378Z",
+  "generated_at": "2026-11-18T17:38:24.052681Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,14 +18,14 @@
       "handle": "@veritasium",
       "source_type": "Independent creator",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "PBS Space Time",
       "handle": "@pbsspacetime",
       "source_type": "Editorial/media",
       "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "SmarterEveryDay",
@@ -67,14 +67,14 @@
       "handle": "@BostonDynamics",
       "source_type": "Official company",
       "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "NASA",
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "European Space Agency",
@@ -88,7 +88,7 @@
       "handle": "@CleoAbram",
       "source_type": "Editorial/media",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Undecided",
@@ -265,7 +265,7 @@
       "handle": "UC4QZ_LsYcvcq7qOsOhpAX4A",
       "source_type": "Additional curated source",
       "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Sabine Hossenfelder",
@@ -293,21 +293,21 @@
       "handle": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "source_type": "Additional curated source",
       "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "StarTalk",
       "handle": "UCqoAEDirJPjEUFcF2FklnBA",
       "source_type": "Additional curated source",
       "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Fraser Cain",
       "handle": "UCogrSQkBJn1KF0N9I4oM7eQ",
       "source_type": "Additional curated source",
       "channel_id": "UCogrSQkBJn1KF0N9I4oM7eQ",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "The Royal Institution",
@@ -321,7 +321,7 @@
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 5
+      "recent_video_count": 7
     },
     {
       "name": "SpaceX",
@@ -335,7 +335,7 @@
       "handle": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "source_type": "Additional curated source",
       "channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
-      "recent_video_count": 6
+      "recent_video_count": 9
     },
     {
       "name": "Scott Manley",
@@ -359,8 +359,19 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 102,
+  "candidate_count": 110,
   "results": [
+    {
+      "video_id": "mtPYKd1kX4I",
+      "title": "Animals in Chornobyl Aren't Mutating, Something Stranger Is Happening",
+      "channel_id": "UCciQ8wFcVoIIMi-lfu8-cjQ",
+      "channel_title": "Anton Petrov",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-13T22:00:26Z",
+      "view_count": 2887182,
+      "duration_minutes": 18,
+      "url": "https://www.youtube.com/watch?v=mtPYKd1kX4I"
+    },
     {
       "video_id": "PptRrzYY61w",
       "title": "The NVIDIA Scandal Goes Deeper than You Think",
@@ -368,7 +379,7 @@
       "channel_title": "ColdFusion",
       "source_type": "Additional curated source",
       "published_at": "2026-11-15T16:06:25Z",
-      "view_count": 2578388,
+      "view_count": 2734564,
       "duration_minutes": 26,
       "url": "https://www.youtube.com/watch?v=PptRrzYY61w"
     },
@@ -379,20 +390,9 @@
       "channel_title": "Hacksmith Industries",
       "source_type": "Official company",
       "published_at": "2026-11-12T17:00:08Z",
-      "view_count": 2135713,
+      "view_count": 2266108,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=XqQ19mdaXbc"
-    },
-    {
-      "video_id": "mtPYKd1kX4I",
-      "title": "Animals in Chornobyl Aren't Mutating, Something Stranger Is Happening",
-      "channel_id": "UCciQ8wFcVoIIMi-lfu8-cjQ",
-      "channel_title": "Anton Petrov",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-13T22:00:26Z",
-      "view_count": 2116118,
-      "duration_minutes": 18,
-      "url": "https://www.youtube.com/watch?v=mtPYKd1kX4I"
     },
     {
       "video_id": "AQFrpZaOpcQ",
@@ -401,20 +401,9 @@
       "channel_title": "Everyday Astronaut",
       "source_type": "Additional curated source",
       "published_at": "2026-11-14T22:24:11Z",
-      "view_count": 1687127,
+      "view_count": 1680461,
       "duration_minutes": 222,
       "url": "https://www.youtube.com/watch?v=AQFrpZaOpcQ"
-    },
-    {
-      "video_id": "2QSkkhbl3v4",
-      "title": "Why you can't trust a test that's 99% accurate",
-      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "channel_title": "Veritasium",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-11T14:00:12Z",
-      "view_count": 1659793,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=2QSkkhbl3v4"
     },
     {
       "video_id": "wfGo-1kM9OQ",
@@ -423,7 +412,7 @@
       "channel_title": "MinuteEarth",
       "source_type": "Additional curated source",
       "published_at": "2026-11-13T18:32:06Z",
-      "view_count": 1400981,
+      "view_count": 1625982,
       "duration_minutes": 5,
       "url": "https://www.youtube.com/watch?v=wfGo-1kM9OQ"
     },
@@ -434,7 +423,7 @@
       "channel_title": "Scott Manley",
       "source_type": "Additional curated source",
       "published_at": "2026-11-14T06:01:52Z",
-      "view_count": 1137155,
+      "view_count": 1145466,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=m2oGDCvDmdE"
     },
@@ -445,9 +434,20 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-11-13T15:44:28Z",
-      "view_count": 919885,
+      "view_count": 1028694,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=yXJFIm-VBVU"
+    },
+    {
+      "video_id": "V8rT6UI3Crg",
+      "title": "Making Gunpowder From Scratch",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channel_title": "Veritasium",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-13T14:00:08Z",
+      "view_count": 936509,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=V8rT6UI3Crg"
     },
     {
       "video_id": "hUU_OzfHN9k",
@@ -456,20 +456,20 @@
       "channel_title": "StarTalk",
       "source_type": "Additional curated source",
       "published_at": "2026-11-11T21:41:25Z",
-      "view_count": 726040,
+      "view_count": 787214,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=hUU_OzfHN9k"
     },
     {
-      "video_id": "0qqDlqXxzQ8",
-      "title": "Physicists Finally Solve Mystery of Universe’s Existence",
-      "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
-      "channel_title": "Sabine Hossenfelder",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-15T16:00:37Z",
-      "view_count": 456573,
-      "duration_minutes": 6,
-      "url": "https://www.youtube.com/watch?v=0qqDlqXxzQ8"
+      "video_id": "rj-G_gmFWtE",
+      "title": "Why Are There So Many Different Transmission Towers?",
+      "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
+      "channel_title": "Practical Engineering",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-17T14:00:10Z",
+      "view_count": 658691,
+      "duration_minutes": 23,
+      "url": "https://www.youtube.com/watch?v=rj-G_gmFWtE"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-11-17T19:05:30.322378Z",
+  "generated_at": "2026-11-18T17:38:24.052681Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,7 +18,7 @@
       "handle": "@MyFirstMillionPod",
       "source_type": "Business podcast",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "Acquired",
@@ -32,7 +32,7 @@
       "handle": "@allin",
       "source_type": "Business podcast",
       "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "Guy Raz / How I Built This",
@@ -60,21 +60,21 @@
       "handle": "@MastersofScale_",
       "source_type": "Business podcast",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "Invest Like The Best",
       "handle": "@ILTB_Podcast",
       "source_type": "Business podcast",
       "channel_id": "UCpQBb0fToph3jrDulwz1iUQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "The Knowledge Project Podcast",
       "handle": "@tkppodcast",
       "source_type": "Business podcast",
       "channel_id": "UCLtTf_uKt0Itd0NG7txrwXA",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "This Week in Startups",
@@ -88,28 +88,28 @@
       "handle": "@20VC",
       "source_type": "Business podcast",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 7
+      "recent_video_count": 5
     },
     {
       "name": "a16z",
       "handle": "@a16z",
       "source_type": "Business podcast",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 8
+      "recent_video_count": 11
     },
     {
       "name": "The Prof G Pod – Scott Galloway",
       "handle": "@TheProfGPod",
       "source_type": "Business podcast",
       "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "recent_video_count": 17
+      "recent_video_count": 18
     },
     {
       "name": "Pivot with Kara Swisher and Scott Galloway",
       "handle": "@pivot",
       "source_type": "Business podcast",
       "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "recent_video_count": 9
+      "recent_video_count": 11
     },
     {
       "name": "Tim Ferriss",
@@ -130,7 +130,7 @@
       "handle": "@AlexHormozi",
       "source_type": "Business podcast",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "recent_video_count": 26
+      "recent_video_count": 25
     },
     {
       "name": "Startups for the Rest of Us",
@@ -144,7 +144,7 @@
       "handle": "@ycombinator",
       "source_type": "Business podcast",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "The Logan Bartlett Show",
@@ -158,7 +158,7 @@
       "handle": "UCGX7nGXpz-CmO_Arg-cgJ7A",
       "source_type": "Business podcast",
       "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
-      "recent_video_count": 42
+      "recent_video_count": 41
     },
     {
       "name": "The Jordan Harbinger Show",
@@ -172,7 +172,7 @@
       "handle": "UCMSYZVlQmyG8_2MkIKzg0kw",
       "source_type": "Business podcast",
       "channel_id": "UCMSYZVlQmyG8_2MkIKzg0kw",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "The Money Mondays",
@@ -200,7 +200,7 @@
       "handle": "UCcVgQ0ziCT3cIYSfs6uaHQg",
       "source_type": "Business podcast",
       "channel_id": "UCcVgQ0ziCT3cIYSfs6uaHQg",
-      "recent_video_count": 12
+      "recent_video_count": 11
     },
     {
       "name": "Entrepreneurs on Fire",
@@ -214,28 +214,28 @@
       "handle": "UC4g1niWj3_eXiBPERvatsFA",
       "source_type": "Business podcast",
       "channel_id": "UC4g1niWj3_eXiBPERvatsFA",
-      "recent_video_count": 3
+      "recent_video_count": 5
     },
     {
       "name": "The Best One Yet",
       "handle": "UCly3md3CbnTFJP83lVUEcjw",
       "source_type": "Business podcast",
       "channel_id": "UCly3md3CbnTFJP83lVUEcjw",
-      "recent_video_count": 13
+      "recent_video_count": 12
     },
     {
       "name": "Marketing Against the Grain",
       "handle": "UCGtXqPiNV8YC0GMUzY-EUFg",
       "source_type": "Business podcast",
       "channel_id": "UCGtXqPiNV8YC0GMUzY-EUFg",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Marketing School",
       "handle": "UCTJmkA2-u7Kyblm5_P6tKdA",
       "source_type": "Business podcast",
       "channel_id": "UCTJmkA2-u7Kyblm5_P6tKdA",
-      "recent_video_count": 22
+      "recent_video_count": 24
     },
     {
       "name": "The Colin and Samir Show",
@@ -256,7 +256,7 @@
       "playlist_id": "PLMG5w22POeeykqONbfGi00m4AqxhnzmWc",
       "source_type": "Business podcast",
       "channel_id": "UCKsP3v2JeT2hWI_HzkxWiMA",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Impact Theory",
@@ -326,7 +326,7 @@
       "playlist_id": "PLgKRhGFL8PHP9P7fpWCG9jHp-abyK2GG4",
       "source_type": "Business podcast",
       "channel_id": "UCZbyAKrrtV87PywXc9vydng",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "The Startup Chat",
@@ -340,7 +340,7 @@
       "playlist_id": "PLj561ehA3vjbTzFM3ToFMzjgk2eStZF4X",
       "source_type": "Business podcast",
       "channel_id": "UCzOAAJUiSO2uyu1xyxw__2Q",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "HBR IdeaCast",
@@ -350,7 +350,7 @@
       "recent_video_count": 0
     }
   ],
-  "candidate_count": 258,
+  "candidate_count": 260,
   "results": [
     {
       "video_id": "1mDHHi398ig",
@@ -359,7 +359,7 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-11-16T08:00:26Z",
-      "view_count": 3670862,
+      "view_count": 4713568,
       "duration_minutes": 124,
       "url": "https://www.youtube.com/watch?v=1mDHHi398ig"
     },
@@ -370,7 +370,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-11-14T02:50:18Z",
-      "view_count": 1107928,
+      "view_count": 1146415,
       "duration_minutes": 85,
       "url": "https://www.youtube.com/watch?v=Uv2w4VTU-iQ"
     },
@@ -381,7 +381,7 @@
       "channel_title": "PBD Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-11-12T16:23:02Z",
-      "view_count": 585689,
+      "view_count": 618873,
       "duration_minutes": 86,
       "url": "https://www.youtube.com/watch?v=HpCaV_uw0Uc"
     },
@@ -392,7 +392,7 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-11-12T19:50:43Z",
-      "view_count": 379775,
+      "view_count": 382087,
       "duration_minutes": 32,
       "url": "https://www.youtube.com/watch?v=WsQ92ngfTRQ"
     },
@@ -403,9 +403,20 @@
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-11-11T23:44:43Z",
-      "view_count": 318254,
+      "view_count": 318382,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=DtDcCQCwEzY"
+    },
+    {
+      "video_id": "oVPXgRs0IdI",
+      "title": "The Most Valuable Sales Training You’ll Ever Watch - $100M Sales Team",
+      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
+      "channel_title": "Alex Hormozi",
+      "source_type": "Business podcast",
+      "published_at": "2026-11-16T22:13:05Z",
+      "view_count": 202921,
+      "duration_minutes": 202,
+      "url": "https://www.youtube.com/watch?v=oVPXgRs0IdI"
     },
     {
       "video_id": "EfnyQtt0Qgk",
@@ -414,20 +425,9 @@
       "channel_title": "The Iced Coffee Hour",
       "source_type": "Business podcast",
       "published_at": "2026-11-15T17:00:37Z",
-      "view_count": 135267,
+      "view_count": 150531,
       "duration_minutes": 98,
       "url": "https://www.youtube.com/watch?v=EfnyQtt0Qgk"
-    },
-    {
-      "video_id": "oVPXgRs0IdI",
-      "title": "The Most Valuable Sales Training You’ll Ever Watch [$100M Sales Team System]",
-      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "channel_title": "Alex Hormozi",
-      "source_type": "Business podcast",
-      "published_at": "2026-11-16T22:13:05Z",
-      "view_count": 132870,
-      "duration_minutes": 202,
-      "url": "https://www.youtube.com/watch?v=oVPXgRs0IdI"
     },
     {
       "video_id": "y1-9yeYLJUo",
@@ -436,7 +436,7 @@
       "channel_title": "Y Combinator",
       "source_type": "Business podcast",
       "published_at": "2026-11-14T23:21:16Z",
-      "view_count": 128586,
+      "view_count": 145806,
       "duration_minutes": 60,
       "url": "https://www.youtube.com/watch?v=y1-9yeYLJUo"
     },
@@ -447,7 +447,7 @@
       "channel_title": "Greg Isenberg",
       "source_type": "Business podcast",
       "published_at": "2026-11-11T18:00:16Z",
-      "view_count": 125256,
+      "view_count": 132587,
       "duration_minutes": 49,
       "url": "https://www.youtube.com/watch?v=1cWZ7Ekff6E"
     },
@@ -458,7 +458,7 @@
       "channel_title": "Bloomberg Podcasts",
       "source_type": "Business podcast",
       "published_at": "2026-11-13T09:10:46Z",
-      "view_count": 113441,
+      "view_count": 117700,
       "duration_minutes": 59,
       "url": "https://www.youtube.com/watch?v=V8yOSpJ6D1c"
     }

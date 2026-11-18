@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-11-17T19:05:30.322378Z",
+  "generated_at": "2026-11-18T17:38:24.052681Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "TechCrunch",
@@ -25,14 +25,14 @@
       "handle": "@a16z",
       "source_type": "Venture capital",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 8
+      "recent_video_count": 11
     },
     {
       "name": "Sequoia Capital",
       "handle": "@sequoiacapital",
       "source_type": "Venture capital",
       "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "This Week in Startups",
@@ -53,7 +53,7 @@
       "handle": "@20vc",
       "source_type": "Venture capital",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 7
+      "recent_video_count": 5
     },
     {
       "name": "Acquired",
@@ -67,14 +67,14 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "My First Million",
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "MicroConf",
@@ -95,7 +95,7 @@
       "handle": "@Slidebean",
       "source_type": "Official company",
       "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Bessemer Venture Partners",
@@ -144,14 +144,14 @@
       "handle": "@DavidSenra",
       "source_type": "Independent creator",
       "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "recent_video_count": 9
+      "recent_video_count": 7
     },
     {
       "name": "Starter Story",
       "handle": "UChhw6DlKKTQ9mYSpTfXUYqA",
       "source_type": "Additional curated source",
       "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "Greg Isenberg",
@@ -165,7 +165,7 @@
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "Additional curated source",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 28
+      "recent_video_count": 27
     },
     {
       "name": "The Logan Bartlett Show",
@@ -179,14 +179,14 @@
       "handle": "UChpWgrkJY_i7F6wwI_TOnrg",
       "source_type": "Additional curated source",
       "channel_id": "UChpWgrkJY_i7F6wwI_TOnrg",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Entrepreneur",
       "handle": "UCNFGSWVOdVWEe9XJNnfTdyQ",
       "source_type": "Additional curated source",
       "channel_id": "UCNFGSWVOdVWEe9XJNnfTdyQ",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "CNBC Make It",
@@ -200,7 +200,7 @@
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "Additional curated source",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 44
+      "recent_video_count": 45
     },
     {
       "name": "PitchBook",
@@ -242,14 +242,14 @@
       "handle": "UC_oji6l_-xwhmZqCxRGuAXw",
       "source_type": "Additional curated source",
       "channel_id": "UC_oji6l_-xwhmZqCxRGuAXw",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Lightspeed Venture Partners",
       "handle": "UCwBTFE_6Bsb_EtmXlW2aTlg",
       "source_type": "Additional curated source",
       "channel_id": "UCwBTFE_6Bsb_EtmXlW2aTlg",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "General Catalyst",
@@ -277,7 +277,7 @@
       "handle": "UCZ7x7yDBbEFCGztD8BYvRhA",
       "source_type": "Additional curated source",
       "channel_id": "UCZ7x7yDBbEFCGztD8BYvRhA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Insight Partners",
@@ -350,19 +350,8 @@
       "recent_video_count": 6
     }
   ],
-  "candidate_count": 207,
+  "candidate_count": 209,
   "results": [
-    {
-      "video_id": "yO5O_ngyA_8",
-      "title": "I Tried The “Easiest” Ways To Make Money With AI",
-      "channel_id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
-      "channel_title": "Codie Sanchez",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-11T16:34:43Z",
-      "view_count": 613698,
-      "duration_minutes": 35,
-      "url": "https://www.youtube.com/watch?v=yO5O_ngyA_8"
-    },
     {
       "video_id": "y1-9yeYLJUo",
       "title": "The Rise Of AI Coworkers",
@@ -370,7 +359,7 @@
       "channel_title": "Y Combinator",
       "source_type": "Accelerator",
       "published_at": "2026-11-14T23:21:16Z",
-      "view_count": 128504,
+      "view_count": 145806,
       "duration_minutes": 60,
       "url": "https://www.youtube.com/watch?v=y1-9yeYLJUo"
     },
@@ -381,7 +370,7 @@
       "channel_title": "Greg Isenberg",
       "source_type": "Additional curated source",
       "published_at": "2026-11-11T18:00:16Z",
-      "view_count": 125234,
+      "view_count": 132587,
       "duration_minutes": 49,
       "url": "https://www.youtube.com/watch?v=1cWZ7Ekff6E"
     },
@@ -392,7 +381,7 @@
       "channel_title": "Bloomberg Tech",
       "source_type": "Additional curated source",
       "published_at": "2026-11-12T16:40:02Z",
-      "view_count": 83466,
+      "view_count": 86260,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=cSq66DDPsyY"
     },
@@ -403,7 +392,7 @@
       "channel_title": "Lightspeed Venture Partners",
       "source_type": "Additional curated source",
       "published_at": "2026-11-11T20:38:13Z",
-      "view_count": 81200,
+      "view_count": 83442,
       "duration_minutes": 21,
       "url": "https://www.youtube.com/watch?v=cOR50k1hOjU"
     },
@@ -414,20 +403,9 @@
       "channel_title": "TBPN",
       "source_type": "Additional curated source",
       "published_at": "2026-11-12T21:18:11Z",
-      "view_count": 68728,
+      "view_count": 69413,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=z8_hlGA51ck"
-    },
-    {
-      "video_id": "TSr_qLZ-8YY",
-      "title": "It took me 30 harsh years to learn what I’ll teach you in just 27 minutes",
-      "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-      "channel_title": "Dan Martell",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-11T13:00:02Z",
-      "view_count": 52726,
-      "duration_minutes": 27,
-      "url": "https://www.youtube.com/watch?v=TSr_qLZ-8YY"
     },
     {
       "video_id": "B7b_2LaWOzs",
@@ -436,7 +414,7 @@
       "channel_title": "Starter Story",
       "source_type": "Additional curated source",
       "published_at": "2026-11-15T18:00:33Z",
-      "view_count": 52508,
+      "view_count": 57946,
       "duration_minutes": 13,
       "url": "https://www.youtube.com/watch?v=B7b_2LaWOzs"
     },
@@ -447,20 +425,42 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-11-12T18:54:51Z",
-      "view_count": 46688,
+      "view_count": 48730,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=2BZ38nJ9ItY"
     },
     {
-      "video_id": "cU9uOHRWDmE",
-      "title": "Explosive Growth & Near-Death Survival | Vlad Tenev, Robinhood",
+      "video_id": "DzRNC73IVLs",
+      "title": "Whats the worst business advice you've heard?",
+      "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+      "channel_title": "Dan Martell",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-12T15:03:05Z",
+      "view_count": 41410,
+      "duration_minutes": 0,
+      "url": "https://www.youtube.com/watch?v=DzRNC73IVLs"
+    },
+    {
+      "video_id": "WY0cdD4gNoQ",
+      "title": "Meta’s Muse: Inside the launch of the most successful consumer product this year | Mona Sarantakos",
+      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
+      "channel_title": "Lenny's Podcast",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-15T13:30:37Z",
+      "view_count": 36717,
+      "duration_minutes": 87,
+      "url": "https://www.youtube.com/watch?v=WY0cdD4gNoQ"
+    },
+    {
+      "video_id": "yP1SuvpM3OY",
+      "title": "Why Elon Musk Ignores Productivity Routines",
       "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
       "channel_title": "David Senra",
       "source_type": "Independent creator",
-      "published_at": "2026-11-11T13:00:26Z",
-      "view_count": 39066,
-      "duration_minutes": 71,
-      "url": "https://www.youtube.com/watch?v=cU9uOHRWDmE"
+      "published_at": "2026-11-13T00:40:35Z",
+      "view_count": 34836,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=yP1SuvpM3OY"
     }
   ]
 }

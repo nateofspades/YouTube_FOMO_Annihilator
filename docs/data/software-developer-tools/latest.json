@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-11-17T19:05:30.322378Z",
+  "generated_at": "2026-11-18T17:38:24.052681Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -25,14 +25,14 @@
       "handle": "@MicrosoftDeveloper",
       "source_type": "Official company",
       "channel_id": "UCsMica-v34Irf9KVTh6xx-g",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "AWS Developers",
       "handle": "@awsdevelopers",
       "source_type": "Official company",
       "channel_id": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Google Cloud Tech",
@@ -60,21 +60,21 @@
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 93
+      "recent_video_count": 65
     },
     {
       "name": "GitLab",
       "handle": "@GitLab",
       "source_type": "Official company",
       "channel_id": "UCnMGQ8QHMAnVIsI3xJrihhg",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "JetBrains",
       "handle": "@JetBrainsTV",
       "source_type": "Official company",
       "channel_id": "UCGp4UBwpTNegd_4nCpuBcow",
-      "recent_video_count": 6
+      "recent_video_count": 12
     },
     {
       "name": "Fireship",
@@ -88,7 +88,7 @@
       "handle": "@freecodecamp",
       "source_type": "Research institution",
       "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Traversy Media",
@@ -125,7 +125,7 @@
       "handle": "@TechWorldwithNana",
       "source_type": "Independent creator",
       "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Hussein Nasser",
@@ -286,7 +286,7 @@
       "handle": "UCSWj8mqQCcrcBlXPi4ThRDQ",
       "source_type": "Additional curated source",
       "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
-      "recent_video_count": 14
+      "recent_video_count": 11
     },
     {
       "name": "Bret Fisher Docker and DevOps",
@@ -328,7 +328,7 @@
       "handle": "UC3RKA4vunFAfrfxiJhPEplw",
       "source_type": "Additional curated source",
       "channel_id": "UC3RKA4vunFAfrfxiJhPEplw",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Computerphile",
@@ -342,7 +342,7 @@
       "handle": "UC6biysICWOJ-C3P4Tyeggzg",
       "source_type": "Additional curated source",
       "channel_id": "UC6biysICWOJ-C3P4Tyeggzg",
-      "recent_video_count": 3
+      "recent_video_count": 5
     },
     {
       "name": "Syntax",
@@ -359,7 +359,7 @@
       "recent_video_count": 1
     }
   ],
-  "candidate_count": 198,
+  "candidate_count": 177,
   "results": [
     {
       "video_id": "ytmawkPTP24",
@@ -368,7 +368,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-11-16T20:18:59Z",
-      "view_count": 1453405,
+      "view_count": 1864825,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=ytmawkPTP24"
     },
@@ -379,7 +379,7 @@
       "channel_title": "Low Level",
       "source_type": "Additional curated source",
       "published_at": "2026-11-12T14:08:52Z",
-      "view_count": 462864,
+      "view_count": 470619,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=Z3xvjzlDWd8"
     },
@@ -390,20 +390,9 @@
       "channel_title": "KodeKloud",
       "source_type": "Additional curated source",
       "published_at": "2026-11-13T12:39:25Z",
-      "view_count": 108576,
+      "view_count": 129731,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=ukxwB7tHY64"
-    },
-    {
-      "video_id": "TteBRlCeqz0",
-      "title": "What I'd Learn Instead of Coding in 2027",
-      "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
-      "channel_title": "Amigoscode",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-12T15:00:18Z",
-      "view_count": 60131,
-      "duration_minutes": 11,
-      "url": "https://www.youtube.com/watch?v=TteBRlCeqz0"
     },
     {
       "video_id": "lAviK2euc9Y",
@@ -412,9 +401,31 @@
       "channel_title": "Gaurav Sen",
       "source_type": "Additional curated source",
       "published_at": "2026-11-17T12:42:53Z",
-      "view_count": 36099,
+      "view_count": 99537,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=lAviK2euc9Y"
+    },
+    {
+      "video_id": "ty277pJL9ec",
+      "title": "Google Just Fixed AI Slop - At Least For Web Devs",
+      "channel_id": "UCFbNIlppjAuEX4znoulh0Cw",
+      "channel_title": "Web Dev Simplified",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-17T17:00:31Z",
+      "view_count": 89241,
+      "duration_minutes": 14,
+      "url": "https://www.youtube.com/watch?v=ty277pJL9ec"
+    },
+    {
+      "video_id": "TteBRlCeqz0",
+      "title": "What I'd Learn Instead of Coding in 2027",
+      "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
+      "channel_title": "Amigoscode",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-12T15:00:18Z",
+      "view_count": 66008,
+      "duration_minutes": 11,
+      "url": "https://www.youtube.com/watch?v=TteBRlCeqz0"
     },
     {
       "video_id": "6R27sCZAYa0",
@@ -423,31 +434,9 @@
       "channel_title": "Christian Lempa",
       "source_type": "Additional curated source",
       "published_at": "2026-11-15T15:00:30Z",
-      "view_count": 33847,
+      "view_count": 38543,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=6R27sCZAYa0"
-    },
-    {
-      "video_id": "bcdZlYPn3BA",
-      "title": "Functional Programming Will Make You a Better Python Developer",
-      "channel_id": "UCVhQ2NnY5Rskt6UjCUkJ_DA",
-      "channel_title": "ArjanCodes",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-13T16:00:38Z",
-      "view_count": 32380,
-      "duration_minutes": 14,
-      "url": "https://www.youtube.com/watch?v=bcdZlYPn3BA"
-    },
-    {
-      "video_id": "HYUNbJMe5Hc",
-      "title": "the cure for ai burnout",
-      "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
-      "channel_title": "Syntax",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-13T13:00:06Z",
-      "view_count": 31833,
-      "duration_minutes": 8,
-      "url": "https://www.youtube.com/watch?v=HYUNbJMe5Hc"
     },
     {
       "video_id": "PjYcrCEzV6M",
@@ -456,20 +445,31 @@
       "channel_title": "Traversy Media",
       "source_type": "Independent creator",
       "published_at": "2026-11-16T15:30:10Z",
-      "view_count": 28015,
+      "view_count": 35901,
       "duration_minutes": 35,
       "url": "https://www.youtube.com/watch?v=PjYcrCEzV6M"
     },
     {
-      "video_id": "UYgFF47blb0",
-      "title": "Let CSS figure out the layout",
-      "channel_id": "UCJZv4d5rbIKd4QHMPkcABCw",
-      "channel_title": "Kevin Powell",
+      "video_id": "bcdZlYPn3BA",
+      "title": "Functional Programming Will Make You a Better Python Developer",
+      "channel_id": "UCVhQ2NnY5Rskt6UjCUkJ_DA",
+      "channel_title": "ArjanCodes",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-11T14:00:15Z",
-      "view_count": 22195,
-      "duration_minutes": 4,
-      "url": "https://www.youtube.com/watch?v=UYgFF47blb0"
+      "published_at": "2026-11-13T16:00:38Z",
+      "view_count": 35667,
+      "duration_minutes": 14,
+      "url": "https://www.youtube.com/watch?v=bcdZlYPn3BA"
+    },
+    {
+      "video_id": "ybe6EGe_wjo",
+      "title": "Learn Data Structures and Algorithms in Python with Visualizations",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "channel_title": "freeCodeCamp.org",
+      "source_type": "Research institution",
+      "published_at": "2026-11-18T12:37:46Z",
+      "view_count": 35033,
+      "duration_minutes": 146,
+      "url": "https://www.youtube.com/watch?v=ybe6EGe_wjo"
     }
   ]
 }
