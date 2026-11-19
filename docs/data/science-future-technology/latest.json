@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-18T17:38:24.052681Z",
+  "generated_at": "2026-11-19T17:45:12.770266Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,7 +18,7 @@
       "handle": "@veritasium",
       "source_type": "Independent creator",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "PBS Space Time",
@@ -74,7 +74,7 @@
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "European Space Agency",
@@ -88,14 +88,14 @@
       "handle": "@CleoAbram",
       "source_type": "Editorial/media",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Undecided",
       "handle": "@UndecidedTechnology",
       "source_type": "Independent creator",
       "channel_id": "UCjtUS7-SZTi6pXjUbzGHQCg",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Everything Electric",
@@ -118,7 +118,7 @@
       "handle": "@fermilab",
       "source_type": "Research institution",
       "channel_id": "UCD5B6VoXv41fJ-IW8Wrhz9A",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Applied Science",
@@ -139,7 +139,7 @@
       "handle": "@TwoBitDaVinci",
       "source_type": "Independent creator",
       "channel_id": "UCEgYhf84VjXDz-W7a9-rdCQ",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Branch Education",
@@ -174,7 +174,7 @@
       "handle": "UCUHW94eEFW7hkUMVaZz4eDg",
       "source_type": "Additional curated source",
       "channel_id": "UCUHW94eEFW7hkUMVaZz4eDg",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "MinuteEarth",
@@ -202,14 +202,14 @@
       "handle": "UCEIwxahdLz7bap-VDs9h35A",
       "source_type": "Additional curated source",
       "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Technology Connections",
       "handle": "UCy0tKL1T7wFoYcxCe0xjN6Q",
       "source_type": "Additional curated source",
       "channel_id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Stuff Made Here",
@@ -230,7 +230,7 @@
       "handle": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "source_type": "Additional curated source",
       "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "GreatScott!",
@@ -272,7 +272,7 @@
       "handle": "UC1yNl2E66ZzKApQdRuTQ4tw",
       "source_type": "Additional curated source",
       "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Anton Petrov",
@@ -286,14 +286,14 @@
       "handle": "UCYNbYGl89UUowy8oXkipC-Q",
       "source_type": "Additional curated source",
       "channel_id": "UCYNbYGl89UUowy8oXkipC-Q",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Astrum",
       "handle": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "source_type": "Additional curated source",
       "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "StarTalk",
@@ -342,7 +342,7 @@
       "handle": "UCxzC4EngIsMrPmbm6Nxvb-A",
       "source_type": "Additional curated source",
       "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "recent_video_count": 8
+      "recent_video_count": 6
     },
     {
       "name": "Primal Space",
@@ -359,7 +359,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 110,
+  "candidate_count": 105,
   "results": [
     {
       "video_id": "mtPYKd1kX4I",
@@ -368,7 +368,7 @@
       "channel_title": "Anton Petrov",
       "source_type": "Additional curated source",
       "published_at": "2026-11-13T22:00:26Z",
-      "view_count": 2887182,
+      "view_count": 3252782,
       "duration_minutes": 18,
       "url": "https://www.youtube.com/watch?v=mtPYKd1kX4I"
     },
@@ -379,31 +379,9 @@
       "channel_title": "ColdFusion",
       "source_type": "Additional curated source",
       "published_at": "2026-11-15T16:06:25Z",
-      "view_count": 2734564,
+      "view_count": 2788281,
       "duration_minutes": 26,
       "url": "https://www.youtube.com/watch?v=PptRrzYY61w"
-    },
-    {
-      "video_id": "XqQ19mdaXbc",
-      "title": "How Flat Is “Flat”? We Went Nano #microscope #engineering #science #ad",
-      "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "channel_title": "Hacksmith Industries",
-      "source_type": "Official company",
-      "published_at": "2026-11-12T17:00:08Z",
-      "view_count": 2266108,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=XqQ19mdaXbc"
-    },
-    {
-      "video_id": "AQFrpZaOpcQ",
-      "title": "[4K] Watch the FIRST Orbital Starship Catch!!!",
-      "channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
-      "channel_title": "Everyday Astronaut",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-14T22:24:11Z",
-      "view_count": 1680461,
-      "duration_minutes": 222,
-      "url": "https://www.youtube.com/watch?v=AQFrpZaOpcQ"
     },
     {
       "video_id": "wfGo-1kM9OQ",
@@ -412,20 +390,20 @@
       "channel_title": "MinuteEarth",
       "source_type": "Additional curated source",
       "published_at": "2026-11-13T18:32:06Z",
-      "view_count": 1625982,
+      "view_count": 1775379,
       "duration_minutes": 5,
       "url": "https://www.youtube.com/watch?v=wfGo-1kM9OQ"
     },
     {
-      "video_id": "m2oGDCvDmdE",
-      "title": "Why Did SpaceX's Superheavy Booster Not Return To Tower?",
-      "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "channel_title": "Scott Manley",
+      "video_id": "AQFrpZaOpcQ",
+      "title": "[4K] Watch the FIRST Orbital Starship Catch!!!",
+      "channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
+      "channel_title": "Everyday Astronaut",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-14T06:01:52Z",
-      "view_count": 1145466,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=m2oGDCvDmdE"
+      "published_at": "2026-11-14T22:24:11Z",
+      "view_count": 1683492,
+      "duration_minutes": 222,
+      "url": "https://www.youtube.com/watch?v=AQFrpZaOpcQ"
     },
     {
       "video_id": "yXJFIm-VBVU",
@@ -434,31 +412,31 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-11-13T15:44:28Z",
-      "view_count": 1028694,
+      "view_count": 1162742,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=yXJFIm-VBVU"
     },
     {
-      "video_id": "V8rT6UI3Crg",
-      "title": "Making Gunpowder From Scratch",
+      "video_id": "m2oGDCvDmdE",
+      "title": "Why Did SpaceX's Superheavy Booster Not Return To Tower?",
+      "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
+      "channel_title": "Scott Manley",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-14T06:01:52Z",
+      "view_count": 1152682,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=m2oGDCvDmdE"
+    },
+    {
+      "video_id": "uXuQF_PPg5U",
+      "title": "Most people don’t understand randomness.",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
-      "published_at": "2026-11-13T14:00:08Z",
-      "view_count": 936509,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=V8rT6UI3Crg"
-    },
-    {
-      "video_id": "hUU_OzfHN9k",
-      "title": "Did AI discover a universal shape to all human language?",
-      "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "channel_title": "StarTalk",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-11T21:41:25Z",
-      "view_count": 787214,
-      "duration_minutes": 2,
-      "url": "https://www.youtube.com/watch?v=hUU_OzfHN9k"
+      "published_at": "2026-11-18T20:29:44Z",
+      "view_count": 1089303,
+      "duration_minutes": 39,
+      "url": "https://www.youtube.com/watch?v=uXuQF_PPg5U"
     },
     {
       "video_id": "rj-G_gmFWtE",
@@ -467,9 +445,31 @@
       "channel_title": "Practical Engineering",
       "source_type": "Independent creator",
       "published_at": "2026-11-17T14:00:10Z",
-      "view_count": 658691,
+      "view_count": 917344,
       "duration_minutes": 23,
       "url": "https://www.youtube.com/watch?v=rj-G_gmFWtE"
+    },
+    {
+      "video_id": "NiVGpee8M7s",
+      "title": "What Voyager 1 Found Beyond the Edge of Our Solar System",
+      "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
+      "channel_title": "Astrum",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-18T17:00:28Z",
+      "view_count": 824048,
+      "duration_minutes": 31,
+      "url": "https://www.youtube.com/watch?v=NiVGpee8M7s"
+    },
+    {
+      "video_id": "wCRzZ0ccP_0",
+      "title": "AI Is Breaking Math. Will It Solve Physics Next?",
+      "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
+      "channel_title": "PBS Space Time",
+      "source_type": "Editorial/media",
+      "published_at": "2026-11-17T20:15:18Z",
+      "view_count": 672653,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=wCRzZ0ccP_0"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-11-18T17:38:24.052681Z",
+  "generated_at": "2026-11-19T17:45:12.770266Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,14 +18,14 @@
       "handle": "@TechCrunch",
       "source_type": "Editorial/media",
       "channel_id": "UCCjyq_K1Xwfg8Lndy7lKMpA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "a16z",
       "handle": "@a16z",
       "source_type": "Venture capital",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 11
+      "recent_video_count": 12
     },
     {
       "name": "Sequoia Capital",
@@ -67,14 +67,14 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "My First Million",
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "MicroConf",
@@ -95,21 +95,21 @@
       "handle": "@Slidebean",
       "source_type": "Official company",
       "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
-      "recent_video_count": 1
+      "recent_video_count": 4
     },
     {
       "name": "Bessemer Venture Partners",
       "handle": "@BessemerVenturePartners",
       "source_type": "Venture capital",
       "channel_id": "UCKuHAxZoh99t8uyPQhoDR3A",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Antler Global",
       "handle": "@Antlerglobal",
       "source_type": "Venture capital",
       "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Khosla Ventures",
@@ -158,14 +158,14 @@
       "handle": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "source_type": "Additional curated source",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "recent_video_count": 3
+      "recent_video_count": 1
     },
     {
       "name": "TBPN",
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "Additional curated source",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 27
+      "recent_video_count": 24
     },
     {
       "name": "The Logan Bartlett Show",
@@ -193,14 +193,14 @@
       "handle": "UCH5_L3ytGbBziX0CLuYdQ1Q",
       "source_type": "Additional curated source",
       "channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Bloomberg Technology",
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "Additional curated source",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 45
+      "recent_video_count": 47
     },
     {
       "name": "PitchBook",
@@ -228,7 +228,7 @@
       "handle": "UClebMzrpRNTWVfZXw2jfsSw",
       "source_type": "Additional curated source",
       "channel_id": "UClebMzrpRNTWVfZXw2jfsSw",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "500 Global",
@@ -242,21 +242,21 @@
       "handle": "UC_oji6l_-xwhmZqCxRGuAXw",
       "source_type": "Additional curated source",
       "channel_id": "UC_oji6l_-xwhmZqCxRGuAXw",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Lightspeed Venture Partners",
       "handle": "UCwBTFE_6Bsb_EtmXlW2aTlg",
       "source_type": "Additional curated source",
       "channel_id": "UCwBTFE_6Bsb_EtmXlW2aTlg",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "General Catalyst",
       "handle": "UCRuWcJZWsga67HTE0fcCvbA",
       "source_type": "Additional curated source",
       "channel_id": "UCRuWcJZWsga67HTE0fcCvbA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Accel",
@@ -277,7 +277,7 @@
       "handle": "UCZ7x7yDBbEFCGztD8BYvRhA",
       "source_type": "Additional curated source",
       "channel_id": "UCZ7x7yDBbEFCGztD8BYvRhA",
-      "recent_video_count": 2
+      "recent_video_count": 4
     },
     {
       "name": "Insight Partners",
@@ -326,7 +326,7 @@
       "handle": "UC12JO2IPlEViR-o6SLXKx1A",
       "source_type": "Additional curated source",
       "channel_id": "UC12JO2IPlEViR-o6SLXKx1A",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Arvid Kahl",
@@ -350,7 +350,7 @@
       "recent_video_count": 6
     }
   ],
-  "candidate_count": 209,
+  "candidate_count": 211,
   "results": [
     {
       "video_id": "y1-9yeYLJUo",
@@ -359,42 +359,20 @@
       "channel_title": "Y Combinator",
       "source_type": "Accelerator",
       "published_at": "2026-11-14T23:21:16Z",
-      "view_count": 145806,
+      "view_count": 159040,
       "duration_minutes": 60,
       "url": "https://www.youtube.com/watch?v=y1-9yeYLJUo"
     },
     {
-      "video_id": "1cWZ7Ekff6E",
-      "title": "Use Grok Bot Better Than 99% of People (Full Course)",
-      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "channel_title": "Greg Isenberg",
+      "video_id": "YD8uRumP8cM",
+      "title": "How to Build a 1-Person Business with AI Agents",
+      "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+      "channel_title": "Dan Martell",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-11T18:00:16Z",
-      "view_count": 132587,
-      "duration_minutes": 49,
-      "url": "https://www.youtube.com/watch?v=1cWZ7Ekff6E"
-    },
-    {
-      "video_id": "cSq66DDPsyY",
-      "title": "What We Know About Nvidia's Interim CEO Colette Kress",
-      "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "channel_title": "Bloomberg Tech",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-12T16:40:02Z",
-      "view_count": 86260,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=cSq66DDPsyY"
-    },
-    {
-      "video_id": "cOR50k1hOjU",
-      "title": "Building the Future of Real Estate Investing | Rosenthal, Index Industries",
-      "channel_id": "UCwBTFE_6Bsb_EtmXlW2aTlg",
-      "channel_title": "Lightspeed Venture Partners",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-11T20:38:13Z",
-      "view_count": 83442,
-      "duration_minutes": 21,
-      "url": "https://www.youtube.com/watch?v=cOR50k1hOjU"
+      "published_at": "2026-11-18T14:00:15Z",
+      "view_count": 103627,
+      "duration_minutes": 31,
+      "url": "https://www.youtube.com/watch?v=YD8uRumP8cM"
     },
     {
       "video_id": "z8_hlGA51ck",
@@ -403,7 +381,7 @@
       "channel_title": "TBPN",
       "source_type": "Additional curated source",
       "published_at": "2026-11-12T21:18:11Z",
-      "view_count": 69413,
+      "view_count": 70178,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=z8_hlGA51ck"
     },
@@ -414,31 +392,42 @@
       "channel_title": "Starter Story",
       "source_type": "Additional curated source",
       "published_at": "2026-11-15T18:00:33Z",
-      "view_count": 57946,
+      "view_count": 61048,
       "duration_minutes": 13,
       "url": "https://www.youtube.com/watch?v=B7b_2LaWOzs"
     },
     {
-      "video_id": "2BZ38nJ9ItY",
-      "title": "The billion-dollar app built around one addictive loop",
+      "video_id": "AGwNx57ABfM",
+      "title": "Gimme 92 minutes and I’ll make you disgustingly fast in business",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
       "channel_title": "My First Million",
       "source_type": "Independent creator",
-      "published_at": "2026-11-12T18:54:51Z",
-      "view_count": 48730,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=2BZ38nJ9ItY"
+      "published_at": "2026-11-16T14:22:24Z",
+      "view_count": 53961,
+      "duration_minutes": 91,
+      "url": "https://www.youtube.com/watch?v=AGwNx57ABfM"
     },
     {
-      "video_id": "DzRNC73IVLs",
-      "title": "Whats the worst business advice you've heard?",
-      "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-      "channel_title": "Dan Martell",
+      "video_id": "16PCOFyqAdg",
+      "title": "How To Change Your Entire Life In 24 Hours",
+      "channel_id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
+      "channel_title": "Codie Sanchez",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-12T15:03:05Z",
-      "view_count": 41410,
-      "duration_minutes": 0,
-      "url": "https://www.youtube.com/watch?v=DzRNC73IVLs"
+      "published_at": "2026-11-18T17:00:30Z",
+      "view_count": 45793,
+      "duration_minutes": 14,
+      "url": "https://www.youtube.com/watch?v=16PCOFyqAdg"
+    },
+    {
+      "video_id": "h_aA1-R70E8",
+      "title": "OpenAI’s Cofounder & Research Chief Explain Self-Improving AI",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "Venture capital",
+      "published_at": "2026-11-17T17:41:29Z",
+      "view_count": 42697,
+      "duration_minutes": 16,
+      "url": "https://www.youtube.com/watch?v=h_aA1-R70E8"
     },
     {
       "video_id": "WY0cdD4gNoQ",
@@ -447,9 +436,20 @@
       "channel_title": "Lenny's Podcast",
       "source_type": "Independent creator",
       "published_at": "2026-11-15T13:30:37Z",
-      "view_count": 36717,
+      "view_count": 42500,
       "duration_minutes": 87,
       "url": "https://www.youtube.com/watch?v=WY0cdD4gNoQ"
+    },
+    {
+      "video_id": "vKobP6DkC1E",
+      "title": "Build a 1 Person Media Machine With Grok Bot",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "channel_title": "Greg Isenberg",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-18T22:10:02Z",
+      "view_count": 39445,
+      "duration_minutes": 51,
+      "url": "https://www.youtube.com/watch?v=vKobP6DkC1E"
     },
     {
       "video_id": "yP1SuvpM3OY",
@@ -458,7 +458,7 @@
       "channel_title": "David Senra",
       "source_type": "Independent creator",
       "published_at": "2026-11-13T00:40:35Z",
-      "view_count": 34836,
+      "view_count": 38056,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=yP1SuvpM3OY"
     }
