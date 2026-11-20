@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-11-19T17:45:12.770266Z",
+  "generated_at": "2026-11-20T17:22:50.604528Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "UCJIfeSCssxSC_Dhc5s7woww",
       "source_type": "AI podcast",
       "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "recent_video_count": 22
+      "recent_video_count": 18
     },
     {
       "name": "Dwarkesh Patel",
@@ -25,7 +25,7 @@
       "handle": "UCxBcwypKK-W3GHd_RZ9FZrQ",
       "source_type": "AI podcast",
       "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Cognitive Revolution",
@@ -46,14 +46,14 @@
       "handle": "UC7kjWIK1H8tfmFlzZO-wHMw",
       "source_type": "AI podcast",
       "channel_id": "UC7kjWIK1H8tfmFlzZO-wHMw",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Practical AI",
       "handle": "UC9tpZnMLKv5vbZIGuIIPmNg",
       "source_type": "AI podcast",
       "channel_id": "UC9tpZnMLKv5vbZIGuIIPmNg",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "The AI Breakdown",
@@ -67,7 +67,7 @@
       "handle": "UCdHpbfqjELZmhqY3k0ELGcQ",
       "source_type": "AI podcast",
       "channel_id": "UCdHpbfqjELZmhqY3k0ELGcQ",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "The Gradient",
@@ -88,14 +88,14 @@
       "handle": "UCgx8lqX3QsHgH0bQq7-EHVg",
       "source_type": "AI podcast",
       "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
-      "recent_video_count": 12
+      "recent_video_count": 9
     },
     {
       "name": "AI Agents Podcast",
       "handle": "UCIkU9Fe0OccRmqBMXRm1Q7A",
       "source_type": "AI podcast",
       "channel_id": "UCIkU9Fe0OccRmqBMXRm1Q7A",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "The AI Daily Brief",
@@ -109,7 +109,7 @@
       "handle": "UCZcR2SVWaGWNlMqPxvQS3vw",
       "source_type": "AI podcast",
       "channel_id": "UCZcR2SVWaGWNlMqPxvQS3vw",
-      "recent_video_count": 5
+      "recent_video_count": 3
     },
     {
       "name": "Machine Learning Street Talk",
@@ -123,7 +123,7 @@
       "handle": "UC-o9u9QL4zXzBwjvT1gmzNg",
       "source_type": "AI podcast",
       "channel_id": "UC-o9u9QL4zXzBwjvT1gmzNg",
-      "recent_video_count": 9
+      "recent_video_count": 7
     },
     {
       "name": "AI For Humans",
@@ -144,7 +144,7 @@
       "handle": "UCG6qpjVnBTTT8wLGBygANOQ",
       "source_type": "AI podcast",
       "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
-      "recent_video_count": 16
+      "recent_video_count": 17
     },
     {
       "name": "Interconnects",
@@ -165,7 +165,7 @@
       "handle": "UCaKiCexVhZ459j9sZ2e7XdQ",
       "source_type": "AI podcast",
       "channel_id": "UCaKiCexVhZ459j9sZ2e7XdQ",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Data Skeptic",
@@ -186,7 +186,7 @@
       "handle": "UCRYY7IEbkHLH_ScJCu9eWDQ",
       "source_type": "AI podcast",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Software Engineering Daily",
@@ -228,21 +228,21 @@
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "AI podcast",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 24
+      "recent_video_count": 22
     },
     {
       "name": "Decoder with Nilay Patel",
       "handle": "UCYRwJnCWfBqFHEHrgc18FFw",
       "source_type": "AI podcast",
       "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
-      "recent_video_count": 16
+      "recent_video_count": 14
     },
     {
       "name": "The Vergecast",
       "handle": "UCVHdvAX5-R8y5l9xp6nroBQ",
       "source_type": "AI podcast",
       "channel_id": "UCVHdvAX5-R8y5l9xp6nroBQ",
-      "recent_video_count": 3
+      "recent_video_count": 0
     },
     {
       "name": "AXRP",
@@ -319,7 +319,7 @@
       "playlist_id": "PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj",
       "source_type": "AI podcast",
       "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "a16z Show",
@@ -340,10 +340,10 @@
       "playlist_id": "PL-BRtcBm4Yj4aKn72p4PjyqHh0ZQFdI1A",
       "source_type": "AI podcast",
       "channel_id": "UCafjal1QYJ3rb0Y9xZk1Ezg",
-      "recent_video_count": 3
+      "recent_video_count": 2
     }
   ],
-  "candidate_count": 194,
+  "candidate_count": 178,
   "results": [
     {
       "video_id": "SeGUXN8XIu8",
@@ -352,42 +352,20 @@
       "channel_title": "Dwarkesh Patel",
       "source_type": "AI podcast",
       "published_at": "2026-11-15T01:05:37Z",
-      "view_count": 115716,
+      "view_count": 148995,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=SeGUXN8XIu8"
     },
     {
-      "video_id": "P6-_knLbuuk",
-      "title": "The Scariest AI Report I’ve Ever Seen. Anthropic Redacted Parts of It.",
-      "channel_id": "UCafjal1QYJ3rb0Y9xZk1Ezg",
-      "channel_title": "80,000 Hours",
+      "video_id": "CsnWkIpIbxM",
+      "title": "Muse and Dots: Putting Personal AI Assistants to Work | EP 145",
+      "channel_id": "UCIkU9Fe0OccRmqBMXRm1Q7A",
+      "channel_title": "AI Agents Podcast",
       "source_type": "AI podcast",
-      "published_at": "2026-11-12T18:39:38Z",
-      "view_count": 84334,
-      "duration_minutes": 15,
-      "url": "https://www.youtube.com/watch?v=P6-_knLbuuk"
-    },
-    {
-      "video_id": "z8_hlGA51ck",
-      "title": "\"Jensen Huang's Exit Could Change the AI Industry Forever\" - Dylan Patel",
-      "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "channel_title": "TBPN",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-12T21:18:11Z",
-      "view_count": 70178,
-      "duration_minutes": 31,
-      "url": "https://www.youtube.com/watch?v=z8_hlGA51ck"
-    },
-    {
-      "video_id": "GVP-bqBAStw",
-      "title": "Why the AI world will never be the same",
-      "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
-      "channel_title": "Machine Gods",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-13T02:32:15Z",
-      "view_count": 38685,
-      "duration_minutes": 19,
-      "url": "https://www.youtube.com/watch?v=GVP-bqBAStw"
+      "published_at": "2026-11-17T15:00:08Z",
+      "view_count": 49741,
+      "duration_minutes": 43,
+      "url": "https://www.youtube.com/watch?v=CsnWkIpIbxM"
     },
     {
       "video_id": "g_67TmQ8lGY",
@@ -396,7 +374,7 @@
       "channel_title": "a16z",
       "source_type": "AI podcast",
       "published_at": "2026-11-16T15:30:10Z",
-      "view_count": 31996,
+      "view_count": 35390,
       "duration_minutes": 63,
       "url": "https://www.youtube.com/watch?v=g_67TmQ8lGY"
     },
@@ -407,42 +385,20 @@
       "channel_title": "Decoder with Nilay Patel",
       "source_type": "AI podcast",
       "published_at": "2026-11-14T14:00:26Z",
-      "view_count": 28004,
+      "view_count": 28594,
       "duration_minutes": 70,
       "url": "https://www.youtube.com/watch?v=dOwqsYtXp6k"
     },
     {
-      "video_id": "CsnWkIpIbxM",
-      "title": "Muse and Dots: Putting Personal AI Assistants to Work | EP 145",
-      "channel_id": "UCIkU9Fe0OccRmqBMXRm1Q7A",
-      "channel_title": "AI Agents Podcast",
+      "video_id": "V9Nb_VZsMkM",
+      "title": "The New Congress Will Act on AI. After A Catastrophe. | Rob Wiblin",
+      "channel_id": "UCafjal1QYJ3rb0Y9xZk1Ezg",
+      "channel_title": "80,000 Hours",
       "source_type": "AI podcast",
-      "published_at": "2026-11-17T15:00:08Z",
-      "view_count": 27228,
-      "duration_minutes": 43,
-      "url": "https://www.youtube.com/watch?v=CsnWkIpIbxM"
-    },
-    {
-      "video_id": "sQKvJbzgFRU",
-      "title": "Claude Just Leveled Up AI Again. Nvidia CEO Jensen Huang Did Not.",
-      "channel_id": "UCghJTNTO9kcDeUFXMuSDGLQ",
-      "channel_title": "AI For Humans",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-13T14:45:36Z",
-      "view_count": 12950,
-      "duration_minutes": 56,
-      "url": "https://www.youtube.com/watch?v=sQKvJbzgFRU"
-    },
-    {
-      "video_id": "Dt7Q_VQxGHc",
-      "title": "Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.",
-      "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-      "channel_title": "The AI Daily Brief: Artificial Intelligence News",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-12T18:44:15Z",
-      "view_count": 12146,
-      "duration_minutes": 29,
-      "url": "https://www.youtube.com/watch?v=Dt7Q_VQxGHc"
+      "published_at": "2026-11-13T18:22:06Z",
+      "view_count": 17061,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=V9Nb_VZsMkM"
     },
     {
       "video_id": "y9AALMeAeGI",
@@ -451,9 +407,53 @@
       "channel_title": "NVIDIA",
       "source_type": "AI podcast",
       "published_at": "2026-11-18T11:00:32Z",
-      "view_count": 10515,
+      "view_count": 12130,
       "duration_minutes": 17,
       "url": "https://www.youtube.com/watch?v=y9AALMeAeGI"
+    },
+    {
+      "video_id": "BFI2iykN0Yc",
+      "title": "“AI has eaten tactical programming”",
+      "channel_id": "UCPbwhExawYrn9xxI21TFfyw",
+      "channel_title": "The Pragmatic Engineer",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-14T16:00:17Z",
+      "view_count": 8629,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=BFI2iykN0Yc"
+    },
+    {
+      "video_id": "ncz5aYl385k",
+      "title": "AI is overhyped: The reality of autonomy in drone warfare | Russia-Ukraine War - Military Analysis",
+      "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
+      "channel_title": "Lex Clips",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-13T21:00:10Z",
+      "view_count": 8412,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=ncz5aYl385k"
+    },
+    {
+      "video_id": "zXrty-ZAIUo",
+      "title": "7 Things AI-Native Companies Do Differently",
+      "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
+      "channel_title": "The AI Daily Brief: Artificial Intelligence News",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-17T01:24:07Z",
+      "view_count": 7669,
+      "duration_minutes": 22,
+      "url": "https://www.youtube.com/watch?v=zXrty-ZAIUo"
+    },
+    {
+      "video_id": "wX8nDtGIfYA",
+      "title": "⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC",
+      "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
+      "channel_title": "Latent Space",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-18T20:00:20Z",
+      "view_count": 4848,
+      "duration_minutes": 54,
+      "url": "https://www.youtube.com/watch?v=wX8nDtGIfYA"
     }
   ]
 }

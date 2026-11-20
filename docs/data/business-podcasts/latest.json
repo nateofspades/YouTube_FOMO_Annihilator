@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-11-19T17:45:12.770266Z",
+  "generated_at": "2026-11-20T17:22:50.604528Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@TheDiaryOfACEO",
       "source_type": "Business podcast",
       "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "My First Million",
@@ -88,7 +88,7 @@
       "handle": "@20VC",
       "source_type": "Business podcast",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 5
+      "recent_video_count": 7
     },
     {
       "name": "a16z",
@@ -102,14 +102,14 @@
       "handle": "@TheProfGPod",
       "source_type": "Business podcast",
       "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "recent_video_count": 16
+      "recent_video_count": 15
     },
     {
       "name": "Pivot with Kara Swisher and Scott Galloway",
       "handle": "@pivot",
       "source_type": "Business podcast",
       "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "recent_video_count": 11
+      "recent_video_count": 9
     },
     {
       "name": "Tim Ferriss",
@@ -158,7 +158,7 @@
       "handle": "UCGX7nGXpz-CmO_Arg-cgJ7A",
       "source_type": "Business podcast",
       "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
-      "recent_video_count": 42
+      "recent_video_count": 39
     },
     {
       "name": "The Jordan Harbinger Show",
@@ -200,7 +200,7 @@
       "handle": "UCcVgQ0ziCT3cIYSfs6uaHQg",
       "source_type": "Business podcast",
       "channel_id": "UCcVgQ0ziCT3cIYSfs6uaHQg",
-      "recent_video_count": 12
+      "recent_video_count": 11
     },
     {
       "name": "Entrepreneurs on Fire",
@@ -214,14 +214,14 @@
       "handle": "UC4g1niWj3_eXiBPERvatsFA",
       "source_type": "Business podcast",
       "channel_id": "UC4g1niWj3_eXiBPERvatsFA",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "The Best One Yet",
       "handle": "UCly3md3CbnTFJP83lVUEcjw",
       "source_type": "Business podcast",
       "channel_id": "UCly3md3CbnTFJP83lVUEcjw",
-      "recent_video_count": 11
+      "recent_video_count": 10
     },
     {
       "name": "Marketing Against the Grain",
@@ -235,7 +235,7 @@
       "handle": "UCTJmkA2-u7Kyblm5_P6tKdA",
       "source_type": "Business podcast",
       "channel_id": "UCTJmkA2-u7Kyblm5_P6tKdA",
-      "recent_video_count": 24
+      "recent_video_count": 22
     },
     {
       "name": "The Colin and Samir Show",
@@ -249,14 +249,14 @@
       "playlist_id": "PLkL7BvJXiqSQu3i72hSrG4vUkDuaneHuB",
       "source_type": "Business podcast",
       "channel_id": "UCIaH-gZIVC432YRjNVvnyCA",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "The School of Greatness",
       "playlist_id": "PLMG5w22POeeykqONbfGi00m4AqxhnzmWc",
       "source_type": "Business podcast",
       "channel_id": "UCKsP3v2JeT2hWI_HzkxWiMA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Impact Theory",
@@ -277,7 +277,7 @@
       "playlist_id": "PLZgCX3KJ3XGAq-6Ewy4ClI88EIYDxJsaS",
       "source_type": "Business podcast",
       "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "recent_video_count": 3
+      "recent_video_count": 1
     },
     {
       "name": "Animal Spirits Podcast",
@@ -350,7 +350,7 @@
       "recent_video_count": 0
     }
   ],
-  "candidate_count": 262,
+  "candidate_count": 254,
   "results": [
     {
       "video_id": "1mDHHi398ig",
@@ -359,7 +359,7 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-11-16T08:00:26Z",
-      "view_count": 5503584,
+      "view_count": 6015202,
       "duration_minutes": 124,
       "url": "https://www.youtube.com/watch?v=1mDHHi398ig"
     },
@@ -370,7 +370,7 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-11-14T02:50:18Z",
-      "view_count": 1168288,
+      "view_count": 1182939,
       "duration_minutes": 85,
       "url": "https://www.youtube.com/watch?v=Uv2w4VTU-iQ"
     },
@@ -381,20 +381,9 @@
       "channel_title": "PBD Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-11-13T22:51:44Z",
-      "view_count": 484400,
+      "view_count": 485802,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=X1WFZnQcouA"
-    },
-    {
-      "video_id": "WsQ92ngfTRQ",
-      "title": "Nvidia CEO Jensen Huang Resigns: So What Happens Now?",
-      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
-      "source_type": "Business podcast",
-      "published_at": "2026-11-12T19:50:43Z",
-      "view_count": 382969,
-      "duration_minutes": 32,
-      "url": "https://www.youtube.com/watch?v=WsQ92ngfTRQ"
     },
     {
       "video_id": "oVPXgRs0IdI",
@@ -403,31 +392,31 @@
       "channel_title": "Alex Hormozi",
       "source_type": "Business podcast",
       "published_at": "2026-11-16T22:13:05Z",
-      "view_count": 261172,
+      "view_count": 305789,
       "duration_minutes": 202,
       "url": "https://www.youtube.com/watch?v=oVPXgRs0IdI"
     },
     {
-      "video_id": "SMkgh2rMTE4",
-      "title": "Michael Lewis: DOGE’s Young Men Led With Cruelty and Contempt",
+      "video_id": "yTCA3vnkbzI",
+      "title": "The Fight Over Nvidia Raging Inside Trump’s Cabinet",
+      "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
+      "channel_title": "Pivot with Kara Swisher and Scott Galloway",
+      "source_type": "Business podcast",
+      "published_at": "2026-11-17T14:00:15Z",
+      "view_count": 235945,
+      "duration_minutes": 69,
+      "url": "https://www.youtube.com/watch?v=yTCA3vnkbzI"
+    },
+    {
+      "video_id": "FeqRUnCPq-s",
+      "title": "Should you still pay for your adult kids?",
       "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
       "channel_title": "The Prof G Pod – Scott Galloway",
       "source_type": "Business podcast",
-      "published_at": "2026-11-12T21:00:06Z",
-      "view_count": 259294,
-      "duration_minutes": 55,
-      "url": "https://www.youtube.com/watch?v=SMkgh2rMTE4"
-    },
-    {
-      "video_id": "EfnyQtt0Qgk",
-      "title": "Housing Expert: Here's EXACTLY When To Buy A Home — And What To AVOID! | Jason Oppenheim",
-      "channel_id": "UCMSYZVlQmyG8_2MkIKzg0kw",
-      "channel_title": "The Iced Coffee Hour",
-      "source_type": "Business podcast",
-      "published_at": "2026-11-15T17:00:37Z",
-      "view_count": 159684,
-      "duration_minutes": 98,
-      "url": "https://www.youtube.com/watch?v=EfnyQtt0Qgk"
+      "published_at": "2026-11-15T14:26:20Z",
+      "view_count": 213478,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=FeqRUnCPq-s"
     },
     {
       "video_id": "y1-9yeYLJUo",
@@ -436,31 +425,42 @@
       "channel_title": "Y Combinator",
       "source_type": "Business podcast",
       "published_at": "2026-11-14T23:21:16Z",
-      "view_count": 159040,
+      "view_count": 172391,
       "duration_minutes": 60,
       "url": "https://www.youtube.com/watch?v=y1-9yeYLJUo"
     },
     {
-      "video_id": "V8yOSpJ6D1c",
-      "title": "Why a $2 Billion Law Firm Suddenly Collapsed | Odd Lots",
-      "channel_id": "UChF5O40UBqAc82I7-i5ig6A",
-      "channel_title": "Bloomberg Podcasts",
+      "video_id": "EfnyQtt0Qgk",
+      "title": "Housing Expert: Here's EXACTLY When To Buy A Home — And What To AVOID! | Jason Oppenheim",
+      "channel_id": "UCMSYZVlQmyG8_2MkIKzg0kw",
+      "channel_title": "The Iced Coffee Hour",
       "source_type": "Business podcast",
-      "published_at": "2026-11-13T09:10:46Z",
-      "view_count": 120016,
-      "duration_minutes": 59,
-      "url": "https://www.youtube.com/watch?v=V8yOSpJ6D1c"
+      "published_at": "2026-11-15T17:00:37Z",
+      "view_count": 165812,
+      "duration_minutes": 98,
+      "url": "https://www.youtube.com/watch?v=EfnyQtt0Qgk"
     },
     {
-      "video_id": "731fH2N2rdI",
-      "title": "Damn it, Jensen! | TCAF 268",
-      "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "channel_title": "The Compound",
+      "video_id": "aCqUDSEA7kE",
+      "title": "Elon's No-Commission Motivation Trick",
+      "channel_id": "UCLtTf_uKt0Itd0NG7txrwXA",
+      "channel_title": "The Knowledge Project Podcast",
       "source_type": "Business podcast",
-      "published_at": "2026-11-13T11:00:15Z",
-      "view_count": 114908,
-      "duration_minutes": 75,
-      "url": "https://www.youtube.com/watch?v=731fH2N2rdI"
+      "published_at": "2026-11-14T02:04:28Z",
+      "view_count": 107770,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=aCqUDSEA7kE"
+    },
+    {
+      "video_id": "AGwNx57ABfM",
+      "title": "Gimme 92 minutes and I’ll make you disgustingly fast in business",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
+      "source_type": "Business podcast",
+      "published_at": "2026-11-16T14:22:24Z",
+      "view_count": 64720,
+      "duration_minutes": 91,
+      "url": "https://www.youtube.com/watch?v=AGwNx57ABfM"
     }
   ]
 }

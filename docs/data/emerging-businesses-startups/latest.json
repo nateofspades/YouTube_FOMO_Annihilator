@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-11-19T17:45:12.770266Z",
+  "generated_at": "2026-11-20T17:22:50.604528Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -53,7 +53,7 @@
       "handle": "@20vc",
       "source_type": "Venture capital",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 5
+      "recent_video_count": 7
     },
     {
       "name": "Acquired",
@@ -95,7 +95,7 @@
       "handle": "@Slidebean",
       "source_type": "Official company",
       "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
-      "recent_video_count": 4
+      "recent_video_count": 2
     },
     {
       "name": "Bessemer Venture Partners",
@@ -130,7 +130,7 @@
       "handle": "UC6hlQ0x6kPbAGjYkoz53cvA",
       "source_type": "Official company",
       "channel_id": "UC6hlQ0x6kPbAGjYkoz53cvA",
-      "recent_video_count": 9
+      "recent_video_count": 5
     },
     {
       "name": "Startup Grind",
@@ -144,7 +144,7 @@
       "handle": "@DavidSenra",
       "source_type": "Independent creator",
       "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "recent_video_count": 7
+      "recent_video_count": 5
     },
     {
       "name": "Starter Story",
@@ -165,7 +165,7 @@
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "Additional curated source",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 24
+      "recent_video_count": 22
     },
     {
       "name": "The Logan Bartlett Show",
@@ -179,28 +179,28 @@
       "handle": "UChpWgrkJY_i7F6wwI_TOnrg",
       "source_type": "Additional curated source",
       "channel_id": "UChpWgrkJY_i7F6wwI_TOnrg",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Entrepreneur",
       "handle": "UCNFGSWVOdVWEe9XJNnfTdyQ",
       "source_type": "Additional curated source",
       "channel_id": "UCNFGSWVOdVWEe9XJNnfTdyQ",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "CNBC Make It",
       "handle": "UCH5_L3ytGbBziX0CLuYdQ1Q",
       "source_type": "Additional curated source",
       "channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Bloomberg Technology",
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "Additional curated source",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 47
+      "recent_video_count": 40
     },
     {
       "name": "PitchBook",
@@ -242,7 +242,7 @@
       "handle": "UC_oji6l_-xwhmZqCxRGuAXw",
       "source_type": "Additional curated source",
       "channel_id": "UC_oji6l_-xwhmZqCxRGuAXw",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Lightspeed Venture Partners",
@@ -340,7 +340,7 @@
       "handle": "UCA-mWX9CvCTVFWRMb9bKc9w",
       "source_type": "Additional curated source",
       "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-      "recent_video_count": 17
+      "recent_video_count": 18
     },
     {
       "name": "Codie Sanchez",
@@ -350,7 +350,7 @@
       "recent_video_count": 6
     }
   ],
-  "candidate_count": 211,
+  "candidate_count": 197,
   "results": [
     {
       "video_id": "y1-9yeYLJUo",
@@ -359,7 +359,7 @@
       "channel_title": "Y Combinator",
       "source_type": "Accelerator",
       "published_at": "2026-11-14T23:21:16Z",
-      "view_count": 159040,
+      "view_count": 172391,
       "duration_minutes": 60,
       "url": "https://www.youtube.com/watch?v=y1-9yeYLJUo"
     },
@@ -370,42 +370,9 @@
       "channel_title": "Dan Martell",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T14:00:15Z",
-      "view_count": 103627,
+      "view_count": 144079,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=YD8uRumP8cM"
-    },
-    {
-      "video_id": "z8_hlGA51ck",
-      "title": "\"Jensen Huang's Exit Could Change the AI Industry Forever\" - Dylan Patel",
-      "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "channel_title": "TBPN",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-12T21:18:11Z",
-      "view_count": 70178,
-      "duration_minutes": 31,
-      "url": "https://www.youtube.com/watch?v=z8_hlGA51ck"
-    },
-    {
-      "video_id": "B7b_2LaWOzs",
-      "title": "I built this app on the side for fun. It just hit $100K",
-      "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
-      "channel_title": "Starter Story",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-15T18:00:33Z",
-      "view_count": 61048,
-      "duration_minutes": 13,
-      "url": "https://www.youtube.com/watch?v=B7b_2LaWOzs"
-    },
-    {
-      "video_id": "AGwNx57ABfM",
-      "title": "Gimme 92 minutes and I’ll make you disgustingly fast in business",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-16T14:22:24Z",
-      "view_count": 53961,
-      "duration_minutes": 91,
-      "url": "https://www.youtube.com/watch?v=AGwNx57ABfM"
     },
     {
       "video_id": "16PCOFyqAdg",
@@ -414,31 +381,42 @@
       "channel_title": "Codie Sanchez",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T17:00:30Z",
-      "view_count": 45793,
+      "view_count": 88842,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=16PCOFyqAdg"
     },
     {
-      "video_id": "h_aA1-R70E8",
-      "title": "OpenAI’s Cofounder & Research Chief Explain Self-Improving AI",
-      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "channel_title": "a16z",
+      "video_id": "QJcB8Xm6K_Q",
+      "title": "Can a common household pest replace 50 years of multi-million-dollar bioreactor infrastructure?",
+      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
+      "channel_title": "Antler Global",
       "source_type": "Venture capital",
-      "published_at": "2026-11-17T17:41:29Z",
-      "view_count": 42697,
-      "duration_minutes": 16,
-      "url": "https://www.youtube.com/watch?v=h_aA1-R70E8"
+      "published_at": "2026-11-17T11:08:39Z",
+      "view_count": 72730,
+      "duration_minutes": 0,
+      "url": "https://www.youtube.com/watch?v=QJcB8Xm6K_Q"
     },
     {
-      "video_id": "WY0cdD4gNoQ",
-      "title": "Meta’s Muse: Inside the launch of the most successful consumer product this year | Mona Sarantakos",
-      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "channel_title": "Lenny's Podcast",
+      "video_id": "AGwNx57ABfM",
+      "title": "Gimme 92 minutes and I’ll make you disgustingly fast in business",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "channel_title": "My First Million",
       "source_type": "Independent creator",
-      "published_at": "2026-11-15T13:30:37Z",
-      "view_count": 42500,
-      "duration_minutes": 87,
-      "url": "https://www.youtube.com/watch?v=WY0cdD4gNoQ"
+      "published_at": "2026-11-16T14:22:24Z",
+      "view_count": 64674,
+      "duration_minutes": 91,
+      "url": "https://www.youtube.com/watch?v=AGwNx57ABfM"
+    },
+    {
+      "video_id": "R8loy37E_lg",
+      "title": "“If I Were Jensen, Here’s What I’d Do” — Travis Kalanick",
+      "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
+      "channel_title": "TBPN",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-18T17:45:50Z",
+      "view_count": 64663,
+      "duration_minutes": 22,
+      "url": "https://www.youtube.com/watch?v=R8loy37E_lg"
     },
     {
       "video_id": "vKobP6DkC1E",
@@ -447,20 +425,42 @@
       "channel_title": "Greg Isenberg",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T22:10:02Z",
-      "view_count": 39445,
+      "view_count": 63452,
       "duration_minutes": 51,
       "url": "https://www.youtube.com/watch?v=vKobP6DkC1E"
     },
     {
-      "video_id": "yP1SuvpM3OY",
-      "title": "Why Elon Musk Ignores Productivity Routines",
-      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "channel_title": "David Senra",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-13T00:40:35Z",
-      "view_count": 38056,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=yP1SuvpM3OY"
+      "video_id": "B7b_2LaWOzs",
+      "title": "I built this app on the side for fun. It just hit $100K",
+      "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
+      "channel_title": "Starter Story",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-15T18:00:33Z",
+      "view_count": 63276,
+      "duration_minutes": 13,
+      "url": "https://www.youtube.com/watch?v=B7b_2LaWOzs"
+    },
+    {
+      "video_id": "7hl7fTCKE5s",
+      "title": "why CGI has gotten exponentially worse (it's not AI)",
+      "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
+      "channel_title": "Slidebean",
+      "source_type": "Official company",
+      "published_at": "2026-11-18T17:59:07Z",
+      "view_count": 50036,
+      "duration_minutes": 34,
+      "url": "https://www.youtube.com/watch?v=7hl7fTCKE5s"
+    },
+    {
+      "video_id": "h_aA1-R70E8",
+      "title": "OpenAI’s Cofounder & Research Chief Explain Self-Improving AI",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "Venture capital",
+      "published_at": "2026-11-17T17:41:29Z",
+      "view_count": 50009,
+      "duration_minutes": 16,
+      "url": "https://www.youtube.com/watch?v=h_aA1-R70E8"
     }
   ]
 }

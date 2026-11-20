@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-11-19T17:45:12.770266Z",
+  "generated_at": "2026-11-20T17:22:50.604528Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -25,21 +25,21 @@
       "handle": "@MicrosoftDeveloper",
       "source_type": "Official company",
       "channel_id": "UCsMica-v34Irf9KVTh6xx-g",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "AWS Developers",
       "handle": "@awsdevelopers",
       "source_type": "Official company",
       "channel_id": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Google Cloud Tech",
       "handle": "@googlecloudtech",
       "source_type": "Official company",
       "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "recent_video_count": 17
+      "recent_video_count": 16
     },
     {
       "name": "Cloudflare",
@@ -60,28 +60,28 @@
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 27
+      "recent_video_count": 212
     },
     {
       "name": "GitLab",
       "handle": "@GitLab",
       "source_type": "Official company",
       "channel_id": "UCnMGQ8QHMAnVIsI3xJrihhg",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "JetBrains",
       "handle": "@JetBrainsTV",
       "source_type": "Official company",
       "channel_id": "UCGp4UBwpTNegd_4nCpuBcow",
-      "recent_video_count": 14
+      "recent_video_count": 18
     },
     {
       "name": "Fireship",
       "handle": "@Fireship",
       "source_type": "Independent creator",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "freeCodeCamp.org",
@@ -146,7 +146,7 @@
       "handle": "@LaravelPHP",
       "source_type": "Official company",
       "channel_id": "UCfO2GiQwb-cwJTb1CuRSkwg",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Programming with Mosh",
@@ -202,7 +202,7 @@
       "handle": "UC2KfmYEM4KCuA1ZurravgYw",
       "source_type": "Additional curated source",
       "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "CodeAesthetic",
@@ -258,7 +258,7 @@
       "handle": "UCmXmlB4-HJytD7wek0Uo97A",
       "source_type": "Additional curated source",
       "channel_id": "UCmXmlB4-HJytD7wek0Uo97A",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "ArjanCodes",
@@ -286,7 +286,7 @@
       "handle": "UCSWj8mqQCcrcBlXPi4ThRDQ",
       "source_type": "Additional curated source",
       "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
-      "recent_video_count": 11
+      "recent_video_count": 10
     },
     {
       "name": "Bret Fisher Docker and DevOps",
@@ -321,7 +321,7 @@
       "handle": "UCRPMAqdtSgd0Ipeef7iFsKw",
       "source_type": "Additional curated source",
       "channel_id": "UCRPMAqdtSgd0Ipeef7iFsKw",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "CodeOpinion",
@@ -342,14 +342,14 @@
       "handle": "UC6biysICWOJ-C3P4Tyeggzg",
       "source_type": "Additional curated source",
       "channel_id": "UC6biysICWOJ-C3P4Tyeggzg",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Syntax",
       "handle": "UCyU5wkjgQYGRB0hIHMwm2Sg",
       "source_type": "Additional curated source",
       "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Supabase",
@@ -359,7 +359,7 @@
       "recent_video_count": 1
     }
   ],
-  "candidate_count": 141,
+  "candidate_count": 332,
   "results": [
     {
       "video_id": "ytmawkPTP24",
@@ -368,7 +368,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-11-16T20:18:59Z",
-      "view_count": 2146357,
+      "view_count": 2301637,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=ytmawkPTP24"
     },
@@ -379,31 +379,9 @@
       "channel_title": "Web Dev Simplified",
       "source_type": "Independent creator",
       "published_at": "2026-11-17T17:00:31Z",
-      "view_count": 152723,
+      "view_count": 179414,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=ty277pJL9ec"
-    },
-    {
-      "video_id": "ukxwB7tHY64",
-      "title": "Why Do You Need a VPN If You Already Have HTTPS?",
-      "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
-      "channel_title": "KodeKloud",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-13T12:39:25Z",
-      "view_count": 152318,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=ukxwB7tHY64"
-    },
-    {
-      "video_id": "lAviK2euc9Y",
-      "title": "LLD is dead. So I made the course free.",
-      "channel_id": "UCRPMAqdtSgd0Ipeef7iFsKw",
-      "channel_title": "Gaurav Sen",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-17T12:42:53Z",
-      "view_count": 110290,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=lAviK2euc9Y"
     },
     {
       "video_id": "ybe6EGe_wjo",
@@ -412,9 +390,42 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-11-18T12:37:46Z",
-      "view_count": 95517,
+      "view_count": 118903,
       "duration_minutes": 146,
       "url": "https://www.youtube.com/watch?v=ybe6EGe_wjo"
+    },
+    {
+      "video_id": "lAviK2euc9Y",
+      "title": "LLD is dead. So I made the course free.",
+      "channel_id": "UCRPMAqdtSgd0Ipeef7iFsKw",
+      "channel_title": "Gaurav Sen",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-17T12:42:53Z",
+      "view_count": 117776,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=lAviK2euc9Y"
+    },
+    {
+      "video_id": "9fArZYfJ0kA",
+      "title": "How Cloudflare Stops a 31 Tbps DDoS Attack",
+      "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
+      "channel_title": "KodeKloud",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-14T13:09:53Z",
+      "view_count": 115760,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=9fArZYfJ0kA"
+    },
+    {
+      "video_id": "aRIFzzr_Mi0",
+      "title": "EmbeddingGemma 2: How natively multimodal embeddings work",
+      "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "channel_title": "Google for Developers",
+      "source_type": "Official company",
+      "published_at": "2026-11-17T17:00:29Z",
+      "view_count": 49880,
+      "duration_minutes": 5,
+      "url": "https://www.youtube.com/watch?v=aRIFzzr_Mi0"
     },
     {
       "video_id": "QycP3EBGEwo",
@@ -423,7 +434,7 @@
       "channel_title": "Low Level",
       "source_type": "Additional curated source",
       "published_at": "2026-11-16T16:12:07Z",
-      "view_count": 41540,
+      "view_count": 44368,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=QycP3EBGEwo"
     },
@@ -434,7 +445,7 @@
       "channel_title": "Christian Lempa",
       "source_type": "Additional curated source",
       "published_at": "2026-11-15T15:00:30Z",
-      "view_count": 41271,
+      "view_count": 43684,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=6R27sCZAYa0"
     },
@@ -445,31 +456,20 @@
       "channel_title": "Traversy Media",
       "source_type": "Independent creator",
       "published_at": "2026-11-16T15:30:10Z",
-      "view_count": 40191,
+      "view_count": 43066,
       "duration_minutes": 35,
       "url": "https://www.youtube.com/watch?v=PjYcrCEzV6M"
     },
     {
-      "video_id": "yELe1A6Ts-8",
-      "title": "Is Learning to Code Still Worth It in 2027?",
-      "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
-      "channel_title": "Amigoscode",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-16T17:00:17Z",
-      "view_count": 38753,
-      "duration_minutes": 14,
-      "url": "https://www.youtube.com/watch?v=yELe1A6Ts-8"
-    },
-    {
-      "video_id": "aRIFzzr_Mi0",
-      "title": "EmbeddingGemma 2: How natively multimodal embeddings work",
-      "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
-      "channel_title": "Google for Developers",
+      "video_id": "6P1polyfAqM",
+      "title": "What is the Elephant-Goldfish Model (EGM)? Fresh-eyes AI review for specs and code",
+      "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
+      "channel_title": "Google Cloud Tech",
       "source_type": "Official company",
-      "published_at": "2026-11-17T17:00:29Z",
-      "view_count": 38377,
-      "duration_minutes": 5,
-      "url": "https://www.youtube.com/watch?v=aRIFzzr_Mi0"
+      "published_at": "2026-11-18T20:00:18Z",
+      "view_count": 40749,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=6P1polyfAqM"
     }
   ]
 }
