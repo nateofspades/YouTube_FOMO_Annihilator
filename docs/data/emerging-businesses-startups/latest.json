@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-11-20T17:22:50.604528Z",
+  "generated_at": "2026-11-21T16:27:42.413068Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "TechCrunch",
@@ -25,7 +25,7 @@
       "handle": "@a16z",
       "source_type": "Venture capital",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 12
+      "recent_video_count": 13
     },
     {
       "name": "Sequoia Capital",
@@ -46,14 +46,14 @@
       "handle": "@LennysPodcast",
       "source_type": "Independent creator",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 1
+      "recent_video_count": 4
     },
     {
       "name": "20VC",
       "handle": "@20vc",
       "source_type": "Venture capital",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "Acquired",
@@ -67,7 +67,7 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 8
+      "recent_video_count": 10
     },
     {
       "name": "My First Million",
@@ -102,7 +102,7 @@
       "handle": "@BessemerVenturePartners",
       "source_type": "Venture capital",
       "channel_id": "UCKuHAxZoh99t8uyPQhoDR3A",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Antler Global",
@@ -130,7 +130,7 @@
       "handle": "UC6hlQ0x6kPbAGjYkoz53cvA",
       "source_type": "Official company",
       "channel_id": "UC6hlQ0x6kPbAGjYkoz53cvA",
-      "recent_video_count": 5
+      "recent_video_count": 2
     },
     {
       "name": "Startup Grind",
@@ -144,7 +144,7 @@
       "handle": "@DavidSenra",
       "source_type": "Independent creator",
       "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Starter Story",
@@ -158,14 +158,14 @@
       "handle": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "source_type": "Additional curated source",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "TBPN",
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "Additional curated source",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 22
+      "recent_video_count": 21
     },
     {
       "name": "The Logan Bartlett Show",
@@ -179,7 +179,7 @@
       "handle": "UChpWgrkJY_i7F6wwI_TOnrg",
       "source_type": "Additional curated source",
       "channel_id": "UChpWgrkJY_i7F6wwI_TOnrg",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Entrepreneur",
@@ -207,7 +207,7 @@
       "handle": "UC4rBao48na0v__j3Xvu0T-g",
       "source_type": "Additional curated source",
       "channel_id": "UC4rBao48na0v__j3Xvu0T-g",
-      "recent_video_count": 2
+      "recent_video_count": 0
     },
     {
       "name": "Crunchbase",
@@ -242,14 +242,14 @@
       "handle": "UC_oji6l_-xwhmZqCxRGuAXw",
       "source_type": "Additional curated source",
       "channel_id": "UC_oji6l_-xwhmZqCxRGuAXw",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Lightspeed Venture Partners",
       "handle": "UCwBTFE_6Bsb_EtmXlW2aTlg",
       "source_type": "Additional curated source",
       "channel_id": "UCwBTFE_6Bsb_EtmXlW2aTlg",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "General Catalyst",
@@ -277,7 +277,7 @@
       "handle": "UCZ7x7yDBbEFCGztD8BYvRhA",
       "source_type": "Additional curated source",
       "channel_id": "UCZ7x7yDBbEFCGztD8BYvRhA",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Insight Partners",
@@ -350,7 +350,7 @@
       "recent_video_count": 6
     }
   ],
-  "candidate_count": 197,
+  "candidate_count": 202,
   "results": [
     {
       "video_id": "y1-9yeYLJUo",
@@ -359,7 +359,7 @@
       "channel_title": "Y Combinator",
       "source_type": "Accelerator",
       "published_at": "2026-11-14T23:21:16Z",
-      "view_count": 172391,
+      "view_count": 182006,
       "duration_minutes": 60,
       "url": "https://www.youtube.com/watch?v=y1-9yeYLJUo"
     },
@@ -370,7 +370,7 @@
       "channel_title": "Dan Martell",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T14:00:15Z",
-      "view_count": 144079,
+      "view_count": 161822,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=YD8uRumP8cM"
     },
@@ -381,20 +381,9 @@
       "channel_title": "Codie Sanchez",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T17:00:30Z",
-      "view_count": 88842,
+      "view_count": 115838,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=16PCOFyqAdg"
-    },
-    {
-      "video_id": "QJcB8Xm6K_Q",
-      "title": "Can a common household pest replace 50 years of multi-million-dollar bioreactor infrastructure?",
-      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "channel_title": "Antler Global",
-      "source_type": "Venture capital",
-      "published_at": "2026-11-17T11:08:39Z",
-      "view_count": 72730,
-      "duration_minutes": 0,
-      "url": "https://www.youtube.com/watch?v=QJcB8Xm6K_Q"
     },
     {
       "video_id": "AGwNx57ABfM",
@@ -403,20 +392,20 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-11-16T14:22:24Z",
-      "view_count": 64674,
+      "view_count": 73902,
       "duration_minutes": 91,
       "url": "https://www.youtube.com/watch?v=AGwNx57ABfM"
     },
     {
-      "video_id": "R8loy37E_lg",
-      "title": "“If I Were Jensen, Here’s What I’d Do” — Travis Kalanick",
-      "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "channel_title": "TBPN",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-18T17:45:50Z",
-      "view_count": 64663,
-      "duration_minutes": 22,
-      "url": "https://www.youtube.com/watch?v=R8loy37E_lg"
+      "video_id": "QJcB8Xm6K_Q",
+      "title": "Can a common household pest replace 50 years of multi-million-dollar bioreactor infrastructure?",
+      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
+      "channel_title": "Antler Global",
+      "source_type": "Venture capital",
+      "published_at": "2026-11-17T11:08:39Z",
+      "view_count": 72751,
+      "duration_minutes": 0,
+      "url": "https://www.youtube.com/watch?v=QJcB8Xm6K_Q"
     },
     {
       "video_id": "vKobP6DkC1E",
@@ -425,9 +414,20 @@
       "channel_title": "Greg Isenberg",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T22:10:02Z",
-      "view_count": 63452,
+      "view_count": 71707,
       "duration_minutes": 51,
       "url": "https://www.youtube.com/watch?v=vKobP6DkC1E"
+    },
+    {
+      "video_id": "R8loy37E_lg",
+      "title": "“If I Were Jensen, Here’s What I’d Do” — Travis Kalanick",
+      "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
+      "channel_title": "TBPN",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-18T17:45:50Z",
+      "view_count": 67038,
+      "duration_minutes": 22,
+      "url": "https://www.youtube.com/watch?v=R8loy37E_lg"
     },
     {
       "video_id": "B7b_2LaWOzs",
@@ -436,18 +436,18 @@
       "channel_title": "Starter Story",
       "source_type": "Additional curated source",
       "published_at": "2026-11-15T18:00:33Z",
-      "view_count": 63276,
+      "view_count": 65099,
       "duration_minutes": 13,
       "url": "https://www.youtube.com/watch?v=B7b_2LaWOzs"
     },
     {
       "video_id": "7hl7fTCKE5s",
-      "title": "why CGI has gotten exponentially worse (it's not AI)",
+      "title": "Hollywood has an extremely awkward AI dilemma",
       "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
       "channel_title": "Slidebean",
       "source_type": "Official company",
       "published_at": "2026-11-18T17:59:07Z",
-      "view_count": 50036,
+      "view_count": 58885,
       "duration_minutes": 34,
       "url": "https://www.youtube.com/watch?v=7hl7fTCKE5s"
     },
@@ -458,7 +458,7 @@
       "channel_title": "a16z",
       "source_type": "Venture capital",
       "published_at": "2026-11-17T17:41:29Z",
-      "view_count": 50009,
+      "view_count": 53977,
       "duration_minutes": 16,
       "url": "https://www.youtube.com/watch?v=h_aA1-R70E8"
     }

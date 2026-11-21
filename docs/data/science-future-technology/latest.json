@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-20T17:22:50.604528Z",
+  "generated_at": "2026-11-21T16:27:42.413068Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@kurzgesagt",
       "source_type": "Independent creator",
       "channel_id": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Veritasium",
@@ -53,7 +53,7 @@
       "handle": "@MarkRober",
       "source_type": "Independent creator",
       "channel_id": "UCY1kMZp36IQSyNx_9h4mpCg",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Hacksmith Industries",
@@ -74,21 +74,21 @@
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "European Space Agency",
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Cleo Abram",
       "handle": "@CleoAbram",
       "source_type": "Editorial/media",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Undecided",
@@ -153,7 +153,7 @@
       "handle": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
       "source_type": "Additional curated source",
       "channel_id": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "3Blue1Brown",
@@ -181,7 +181,7 @@
       "handle": "UCeiYXex_fwgYDonaTcSIk6w",
       "source_type": "Additional curated source",
       "channel_id": "UCeiYXex_fwgYDonaTcSIk6w",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "NileRed",
@@ -202,7 +202,7 @@
       "handle": "UCEIwxahdLz7bap-VDs9h35A",
       "source_type": "Additional curated source",
       "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Technology Connections",
@@ -251,7 +251,7 @@
       "handle": "UC5_Y-BKzq1uW_2rexWkUzlA",
       "source_type": "Additional curated source",
       "channel_id": "UC5_Y-BKzq1uW_2rexWkUzlA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Asianometry",
@@ -272,7 +272,7 @@
       "handle": "UC1yNl2E66ZzKApQdRuTQ4tw",
       "source_type": "Additional curated source",
       "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Anton Petrov",
@@ -300,7 +300,7 @@
       "handle": "UCqoAEDirJPjEUFcF2FklnBA",
       "source_type": "Additional curated source",
       "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "recent_video_count": 5
+      "recent_video_count": 7
     },
     {
       "name": "Fraser Cain",
@@ -335,21 +335,21 @@
       "handle": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "source_type": "Additional curated source",
       "channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "Scott Manley",
       "handle": "UCxzC4EngIsMrPmbm6Nxvb-A",
       "source_type": "Additional curated source",
       "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Primal Space",
       "handle": "UClZbmi9JzfnB2CEb0fG8iew",
       "source_type": "Additional curated source",
       "channel_id": "UClZbmi9JzfnB2CEb0fG8iew",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "TED-Ed",
@@ -359,18 +359,18 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 104,
+  "candidate_count": 105,
   "results": [
     {
-      "video_id": "mtPYKd1kX4I",
-      "title": "Animals in Chornobyl Aren't Mutating, Something Stranger Is Happening",
-      "channel_id": "UCciQ8wFcVoIIMi-lfu8-cjQ",
-      "channel_title": "Anton Petrov",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-13T22:00:26Z",
-      "view_count": 3435643,
-      "duration_minutes": 18,
-      "url": "https://www.youtube.com/watch?v=mtPYKd1kX4I"
+      "video_id": "uXuQF_PPg5U",
+      "title": "Randomness is a lie. Let me explain",
+      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channel_title": "Veritasium",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-18T20:29:44Z",
+      "view_count": 2842816,
+      "duration_minutes": 39,
+      "url": "https://www.youtube.com/watch?v=uXuQF_PPg5U"
     },
     {
       "video_id": "PptRrzYY61w",
@@ -379,42 +379,9 @@
       "channel_title": "ColdFusion",
       "source_type": "Additional curated source",
       "published_at": "2026-11-15T16:06:25Z",
-      "view_count": 2818920,
+      "view_count": 2842473,
       "duration_minutes": 26,
       "url": "https://www.youtube.com/watch?v=PptRrzYY61w"
-    },
-    {
-      "video_id": "uXuQF_PPg5U",
-      "title": "Randomness is a lie. Let me explain",
-      "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "channel_title": "Veritasium",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-18T20:29:44Z",
-      "view_count": 2277336,
-      "duration_minutes": 39,
-      "url": "https://www.youtube.com/watch?v=uXuQF_PPg5U"
-    },
-    {
-      "video_id": "wfGo-1kM9OQ",
-      "title": "Why Do We Have 3 Or 4 Holes?",
-      "channel_id": "UCeiYXex_fwgYDonaTcSIk6w",
-      "channel_title": "MinuteEarth",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-13T18:32:06Z",
-      "view_count": 1871773,
-      "duration_minutes": 5,
-      "url": "https://www.youtube.com/watch?v=wfGo-1kM9OQ"
-    },
-    {
-      "video_id": "AQFrpZaOpcQ",
-      "title": "[4K] Watch the FIRST Orbital Starship Catch!!!",
-      "channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
-      "channel_title": "Everyday Astronaut",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-14T22:24:11Z",
-      "view_count": 1686054,
-      "duration_minutes": 222,
-      "url": "https://www.youtube.com/watch?v=AQFrpZaOpcQ"
     },
     {
       "video_id": "NiVGpee8M7s",
@@ -423,31 +390,20 @@
       "channel_title": "Astrum",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T17:00:28Z",
-      "view_count": 1439157,
+      "view_count": 1850202,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=NiVGpee8M7s"
     },
     {
-      "video_id": "m2oGDCvDmdE",
-      "title": "Why Did SpaceX's Superheavy Booster Not Return To Tower?",
-      "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "channel_title": "Scott Manley",
+      "video_id": "AQFrpZaOpcQ",
+      "title": "[4K] Watch the FIRST Orbital Starship Catch!!!",
+      "channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
+      "channel_title": "Everyday Astronaut",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-14T06:01:52Z",
-      "view_count": 1155220,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=m2oGDCvDmdE"
-    },
-    {
-      "video_id": "rj-G_gmFWtE",
-      "title": "Why Are There So Many Different Transmission Towers?",
-      "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
-      "channel_title": "Practical Engineering",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-17T14:00:10Z",
-      "view_count": 1119724,
-      "duration_minutes": 23,
-      "url": "https://www.youtube.com/watch?v=rj-G_gmFWtE"
+      "published_at": "2026-11-14T22:24:11Z",
+      "view_count": 1689081,
+      "duration_minutes": 222,
+      "url": "https://www.youtube.com/watch?v=AQFrpZaOpcQ"
     },
     {
       "video_id": "FcbwVXk83U8",
@@ -456,20 +412,64 @@
       "channel_title": "Technology Connections",
       "source_type": "Additional curated source",
       "published_at": "2026-11-19T14:59:21Z",
-      "view_count": 956474,
+      "view_count": 1392163,
       "duration_minutes": 38,
       "url": "https://www.youtube.com/watch?v=FcbwVXk83U8"
     },
     {
-      "video_id": "rkPSB5WjL5o",
-      "title": "Saturn’s Rings Are Disappearing",
+      "video_id": "rj-G_gmFWtE",
+      "title": "Why Are There So Many Different Transmission Towers?",
+      "channel_id": "UCMOqf8ab-42UUQIdVoKwjlQ",
+      "channel_title": "Practical Engineering",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-17T14:00:10Z",
+      "view_count": 1255909,
+      "duration_minutes": 23,
+      "url": "https://www.youtube.com/watch?v=rj-G_gmFWtE"
+    },
+    {
+      "video_id": "UlBFeDhGzx0",
+      "title": "Why Robots Suck At Hands",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
-      "published_at": "2026-11-15T16:49:03Z",
-      "view_count": 879382,
+      "published_at": "2026-11-20T14:55:26Z",
+      "view_count": 1250907,
       "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=rkPSB5WjL5o"
+      "url": "https://www.youtube.com/watch?v=UlBFeDhGzx0"
+    },
+    {
+      "video_id": "HDoPPFsVHmw",
+      "title": "Neil & Jordan Confront Conspiracies | Cosmic Queries #116",
+      "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
+      "channel_title": "StarTalk",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-17T18:04:49Z",
+      "view_count": 954924,
+      "duration_minutes": 80,
+      "url": "https://www.youtube.com/watch?v=HDoPPFsVHmw"
+    },
+    {
+      "video_id": "wCRzZ0ccP_0",
+      "title": "AI Is Breaking Math. Will It Solve Physics Next?",
+      "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
+      "channel_title": "PBS Space Time",
+      "source_type": "Editorial/media",
+      "published_at": "2026-11-17T20:15:18Z",
+      "view_count": 863550,
+      "duration_minutes": 25,
+      "url": "https://www.youtube.com/watch?v=wCRzZ0ccP_0"
+    },
+    {
+      "video_id": "mOK8wbVAyOU",
+      "title": "Those Record-Breaking Early Galaxies Aren't Galaxies At All",
+      "channel_id": "UCciQ8wFcVoIIMi-lfu8-cjQ",
+      "channel_title": "Anton Petrov",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-16T22:00:31Z",
+      "view_count": 768223,
+      "duration_minutes": 17,
+      "url": "https://www.youtube.com/watch?v=mOK8wbVAyOU"
     }
   ]
 }
