@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-11-21T16:27:42.413068Z",
+  "generated_at": "2026-11-22T16:43:35.454648Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "TechCrunch",
@@ -74,7 +74,7 @@
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "MicroConf",
@@ -130,7 +130,7 @@
       "handle": "UC6hlQ0x6kPbAGjYkoz53cvA",
       "source_type": "Official company",
       "channel_id": "UC6hlQ0x6kPbAGjYkoz53cvA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Startup Grind",
@@ -144,7 +144,7 @@
       "handle": "@DavidSenra",
       "source_type": "Independent creator",
       "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Starter Story",
@@ -179,7 +179,7 @@
       "handle": "UChpWgrkJY_i7F6wwI_TOnrg",
       "source_type": "Additional curated source",
       "channel_id": "UChpWgrkJY_i7F6wwI_TOnrg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Entrepreneur",
@@ -228,7 +228,7 @@
       "handle": "UClebMzrpRNTWVfZXw2jfsSw",
       "source_type": "Additional curated source",
       "channel_id": "UClebMzrpRNTWVfZXw2jfsSw",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "500 Global",
@@ -347,22 +347,11 @@
       "handle": "UC5fI3kxC-ewZ6ZXEYgznM7g",
       "source_type": "Additional curated source",
       "channel_id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
-      "recent_video_count": 6
+      "recent_video_count": 5
     }
   ],
-  "candidate_count": 202,
+  "candidate_count": 197,
   "results": [
-    {
-      "video_id": "y1-9yeYLJUo",
-      "title": "The Rise Of AI Coworkers",
-      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "channel_title": "Y Combinator",
-      "source_type": "Accelerator",
-      "published_at": "2026-11-14T23:21:16Z",
-      "view_count": 182006,
-      "duration_minutes": 60,
-      "url": "https://www.youtube.com/watch?v=y1-9yeYLJUo"
-    },
     {
       "video_id": "YD8uRumP8cM",
       "title": "How to Build a 1-Person Business with AI Agents",
@@ -370,7 +359,7 @@
       "channel_title": "Dan Martell",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T14:00:15Z",
-      "view_count": 161822,
+      "view_count": 177410,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=YD8uRumP8cM"
     },
@@ -381,9 +370,20 @@
       "channel_title": "Codie Sanchez",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T17:00:30Z",
-      "view_count": 115838,
+      "view_count": 134290,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=16PCOFyqAdg"
+    },
+    {
+      "video_id": "TtOoLanFzGw",
+      "title": "Why AI Has DHH Working 16-Hour Days",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "Venture capital",
+      "published_at": "2026-11-20T15:39:04Z",
+      "view_count": 132615,
+      "duration_minutes": 52,
+      "url": "https://www.youtube.com/watch?v=TtOoLanFzGw"
     },
     {
       "video_id": "AGwNx57ABfM",
@@ -392,20 +392,20 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-11-16T14:22:24Z",
-      "view_count": 73902,
+      "view_count": 83765,
       "duration_minutes": 91,
       "url": "https://www.youtube.com/watch?v=AGwNx57ABfM"
     },
     {
-      "video_id": "QJcB8Xm6K_Q",
-      "title": "Can a common household pest replace 50 years of multi-million-dollar bioreactor infrastructure?",
-      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "channel_title": "Antler Global",
-      "source_type": "Venture capital",
-      "published_at": "2026-11-17T11:08:39Z",
-      "view_count": 72751,
-      "duration_minutes": 0,
-      "url": "https://www.youtube.com/watch?v=QJcB8Xm6K_Q"
+      "video_id": "7hl7fTCKE5s",
+      "title": "Hollywood has an extremely awkward AI dilemma",
+      "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
+      "channel_title": "Slidebean",
+      "source_type": "Official company",
+      "published_at": "2026-11-18T17:59:07Z",
+      "view_count": 80968,
+      "duration_minutes": 34,
+      "url": "https://www.youtube.com/watch?v=7hl7fTCKE5s"
     },
     {
       "video_id": "vKobP6DkC1E",
@@ -414,9 +414,20 @@
       "channel_title": "Greg Isenberg",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T22:10:02Z",
-      "view_count": 71707,
+      "view_count": 77251,
       "duration_minutes": 51,
       "url": "https://www.youtube.com/watch?v=vKobP6DkC1E"
+    },
+    {
+      "video_id": "QJcB8Xm6K_Q",
+      "title": "Can a common household pest replace 50 years of multi-million-dollar bioreactor infrastructure?",
+      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
+      "channel_title": "Antler Global",
+      "source_type": "Venture capital",
+      "published_at": "2026-11-17T11:08:39Z",
+      "view_count": 72753,
+      "duration_minutes": 0,
+      "url": "https://www.youtube.com/watch?v=QJcB8Xm6K_Q"
     },
     {
       "video_id": "R8loy37E_lg",
@@ -425,7 +436,7 @@
       "channel_title": "TBPN",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T17:45:50Z",
-      "view_count": 67038,
+      "view_count": 68706,
       "duration_minutes": 22,
       "url": "https://www.youtube.com/watch?v=R8loy37E_lg"
     },
@@ -436,31 +447,20 @@
       "channel_title": "Starter Story",
       "source_type": "Additional curated source",
       "published_at": "2026-11-15T18:00:33Z",
-      "view_count": 65099,
+      "view_count": 66750,
       "duration_minutes": 13,
       "url": "https://www.youtube.com/watch?v=B7b_2LaWOzs"
     },
     {
-      "video_id": "7hl7fTCKE5s",
-      "title": "Hollywood has an extremely awkward AI dilemma",
-      "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
-      "channel_title": "Slidebean",
-      "source_type": "Official company",
-      "published_at": "2026-11-18T17:59:07Z",
-      "view_count": 58885,
-      "duration_minutes": 34,
-      "url": "https://www.youtube.com/watch?v=7hl7fTCKE5s"
-    },
-    {
-      "video_id": "h_aA1-R70E8",
-      "title": "OpenAI’s Cofounder & Research Chief Explain Self-Improving AI",
-      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "channel_title": "a16z",
-      "source_type": "Venture capital",
-      "published_at": "2026-11-17T17:41:29Z",
-      "view_count": 53977,
-      "duration_minutes": 16,
-      "url": "https://www.youtube.com/watch?v=h_aA1-R70E8"
+      "video_id": "Ko-rV1vj-Tk",
+      "title": "Inside California’s Modern-Day Gold Rush",
+      "channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
+      "channel_title": "CNBC Make It",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-21T15:00:30Z",
+      "view_count": 42290,
+      "duration_minutes": 18,
+      "url": "https://www.youtube.com/watch?v=Ko-rV1vj-Tk"
     }
   ]
 }

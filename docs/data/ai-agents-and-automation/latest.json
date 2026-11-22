@@ -1,7 +1,7 @@
 {
   "slug": "ai-agents-and-automation",
   "title": "AI agents and automation",
-  "generated_at": "2026-11-21T16:27:42.413068Z",
+  "generated_at": "2026-11-22T16:43:35.454648Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@allaboutai",
       "source_type": "AI agent and automation",
       "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Alex Finn",
@@ -25,7 +25,7 @@
       "handle": "@matthew_berman",
       "source_type": "AI agent and automation",
       "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Cole Medin",
@@ -39,21 +39,21 @@
       "handle": "@Futurepedia_io",
       "source_type": "AI agent and automation",
       "channel_id": "UC_RovKmk0OCbuZjA8f08opw",
-      "recent_video_count": 6
+      "recent_video_count": 4
     },
     {
       "name": "Nate Herk",
       "handle": "@NateHerk",
       "source_type": "AI agent and automation",
       "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
-      "recent_video_count": 19
+      "recent_video_count": 21
     },
     {
       "name": "Krish Naik",
       "handle": "@krishnaik06",
       "source_type": "AI agent and automation",
       "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "AI Code King",
@@ -144,7 +144,7 @@
       "handle": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
       "source_type": "AI agent and automation",
       "channel_id": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Tina Huang",
@@ -305,7 +305,7 @@
       "handle": "UCxVxcTULO9cFU6SB9qVaisQ",
       "source_type": "AI agent and automation",
       "channel_id": "UCxVxcTULO9cFU6SB9qVaisQ",
-      "recent_video_count": 15
+      "recent_video_count": 14
     },
     {
       "name": "AI Foundations",
@@ -326,14 +326,14 @@
       "handle": "UCLKPca3kwwd-B59HNr-_lvA",
       "source_type": "AI agent and automation",
       "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
-      "recent_video_count": 12
+      "recent_video_count": 11
     },
     {
       "name": "Sabrina Ramonov",
       "handle": "UCiGWNa6QK6CiKPvv5-YPv8g",
       "source_type": "AI agent and automation",
       "channel_id": "UCiGWNa6QK6CiKPvv5-YPv8g",
-      "recent_video_count": 16
+      "recent_video_count": 15
     },
     {
       "name": "LowCode Agency",
@@ -357,7 +357,7 @@
       "recent_video_count": 4
     }
   ],
-  "candidate_count": 244,
+  "candidate_count": 241,
   "results": [
     {
       "video_id": "UCL4K36SHp0",
@@ -366,7 +366,7 @@
       "channel_title": "AI Engineer",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-16T13:00:07Z",
-      "view_count": 905214,
+      "view_count": 997648,
       "duration_minutes": 20,
       "url": "https://www.youtube.com/watch?v=UCL4K36SHp0"
     },
@@ -377,7 +377,7 @@
       "channel_title": "NetworkChuck",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-18T17:36:28Z",
-      "view_count": 407960,
+      "view_count": 449685,
       "duration_minutes": 37,
       "url": "https://www.youtube.com/watch?v=c5TSRxrDEK8"
     },
@@ -388,7 +388,7 @@
       "channel_title": "OpenAI",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-17T17:55:40Z",
-      "view_count": 355153,
+      "view_count": 358636,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4"
     },
@@ -399,7 +399,7 @@
       "channel_title": "Nick Saraev",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-16T22:21:02Z",
-      "view_count": 288965,
+      "view_count": 292682,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=kM7lnhS_uE8"
     },
@@ -410,20 +410,9 @@
       "channel_title": "Jack Roberts",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-15T19:10:46Z",
-      "view_count": 150088,
+      "view_count": 156004,
       "duration_minutes": 27,
       "url": "https://www.youtube.com/watch?v=FbiOr73tRPk"
-    },
-    {
-      "video_id": "j5BDkyEcML4",
-      "title": "Claude Can Do WAY More Than You Think (New Features)",
-      "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
-      "channel_title": "Riley Brown",
-      "source_type": "AI agent and automation",
-      "published_at": "2026-11-14T19:50:15Z",
-      "view_count": 116954,
-      "duration_minutes": 22,
-      "url": "https://www.youtube.com/watch?v=j5BDkyEcML4"
     },
     {
       "video_id": "ZjDycWzWQbU",
@@ -432,7 +421,7 @@
       "channel_title": "Prompt Engineering",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-19T06:14:26Z",
-      "view_count": 108009,
+      "view_count": 114238,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=ZjDycWzWQbU"
     },
@@ -443,7 +432,7 @@
       "channel_title": "Greg Isenberg",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-18T22:10:02Z",
-      "view_count": 71707,
+      "view_count": 77270,
       "duration_minutes": 51,
       "url": "https://www.youtube.com/watch?v=vKobP6DkC1E"
     },
@@ -454,7 +443,7 @@
       "channel_title": "Krish Naik",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-18T05:21:14Z",
-      "view_count": 62948,
+      "view_count": 66590,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=USiUp4kF3yE"
     },
@@ -465,9 +454,20 @@
       "channel_title": "IBM Technology",
       "source_type": "AI agent and automation",
       "published_at": "2026-11-19T12:00:08Z",
-      "view_count": 57127,
+      "view_count": 63056,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=4LINhsEZEDI"
+    },
+    {
+      "video_id": "QmOVQ-xOwXw",
+      "title": "Something scary is happening at Google...",
+      "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+      "channel_title": "Alex Finn",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-20T20:38:24Z",
+      "view_count": 59288,
+      "duration_minutes": 20,
+      "url": "https://www.youtube.com/watch?v=QmOVQ-xOwXw"
     }
   ]
 }

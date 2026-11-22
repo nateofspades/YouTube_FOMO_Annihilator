@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-21T16:27:42.413068Z",
+  "generated_at": "2026-11-22T16:43:35.454648Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -88,7 +88,7 @@
       "handle": "@CleoAbram",
       "source_type": "Editorial/media",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Undecided",
@@ -132,7 +132,7 @@
       "handle": "@periodicvideos",
       "source_type": "Editorial/media",
       "channel_id": "UCtESv1e7ntJaLJYKIO1FoYw",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Two Bit da Vinci",
@@ -160,7 +160,7 @@
       "handle": "UCYO_jab_esuFRV4b17AJtAw",
       "source_type": "Additional curated source",
       "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "SciShow",
@@ -230,7 +230,7 @@
       "handle": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "source_type": "Additional curated source",
       "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "GreatScott!",
@@ -265,7 +265,7 @@
       "handle": "UC4QZ_LsYcvcq7qOsOhpAX4A",
       "source_type": "Additional curated source",
       "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Sabine Hossenfelder",
@@ -321,7 +321,7 @@
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 8
+      "recent_video_count": 10
     },
     {
       "name": "SpaceX",
@@ -335,14 +335,14 @@
       "handle": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "source_type": "Additional curated source",
       "channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
-      "recent_video_count": 8
+      "recent_video_count": 5
     },
     {
       "name": "Scott Manley",
       "handle": "UCxzC4EngIsMrPmbm6Nxvb-A",
       "source_type": "Additional curated source",
       "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Primal Space",
@@ -359,7 +359,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 105,
+  "candidate_count": 104,
   "results": [
     {
       "video_id": "uXuQF_PPg5U",
@@ -368,20 +368,9 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-11-18T20:29:44Z",
-      "view_count": 2842816,
+      "view_count": 3285339,
       "duration_minutes": 39,
       "url": "https://www.youtube.com/watch?v=uXuQF_PPg5U"
-    },
-    {
-      "video_id": "PptRrzYY61w",
-      "title": "The NVIDIA Scandal Goes Deeper than You Think",
-      "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
-      "channel_title": "ColdFusion",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-15T16:06:25Z",
-      "view_count": 2842473,
-      "duration_minutes": 26,
-      "url": "https://www.youtube.com/watch?v=PptRrzYY61w"
     },
     {
       "video_id": "NiVGpee8M7s",
@@ -390,20 +379,20 @@
       "channel_title": "Astrum",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T17:00:28Z",
-      "view_count": 1850202,
+      "view_count": 2201955,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=NiVGpee8M7s"
     },
     {
-      "video_id": "AQFrpZaOpcQ",
-      "title": "[4K] Watch the FIRST Orbital Starship Catch!!!",
-      "channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
-      "channel_title": "Everyday Astronaut",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-14T22:24:11Z",
-      "view_count": 1689081,
-      "duration_minutes": 222,
-      "url": "https://www.youtube.com/watch?v=AQFrpZaOpcQ"
+      "video_id": "UlBFeDhGzx0",
+      "title": "Why Robots Suck At Hands",
+      "channel_id": "UC415bOPUcGSamy543abLmRA",
+      "channel_title": "Cleo Abram",
+      "source_type": "Editorial/media",
+      "published_at": "2026-11-20T14:55:26Z",
+      "view_count": 1761727,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=UlBFeDhGzx0"
     },
     {
       "video_id": "FcbwVXk83U8",
@@ -412,7 +401,7 @@
       "channel_title": "Technology Connections",
       "source_type": "Additional curated source",
       "published_at": "2026-11-19T14:59:21Z",
-      "view_count": 1392163,
+      "view_count": 1685213,
       "duration_minutes": 38,
       "url": "https://www.youtube.com/watch?v=FcbwVXk83U8"
     },
@@ -423,20 +412,9 @@
       "channel_title": "Practical Engineering",
       "source_type": "Independent creator",
       "published_at": "2026-11-17T14:00:10Z",
-      "view_count": 1255909,
+      "view_count": 1357051,
       "duration_minutes": 23,
       "url": "https://www.youtube.com/watch?v=rj-G_gmFWtE"
-    },
-    {
-      "video_id": "UlBFeDhGzx0",
-      "title": "Why Robots Suck At Hands",
-      "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "channel_title": "Cleo Abram",
-      "source_type": "Editorial/media",
-      "published_at": "2026-11-20T14:55:26Z",
-      "view_count": 1250907,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=UlBFeDhGzx0"
     },
     {
       "video_id": "HDoPPFsVHmw",
@@ -445,7 +423,7 @@
       "channel_title": "StarTalk",
       "source_type": "Additional curated source",
       "published_at": "2026-11-17T18:04:49Z",
-      "view_count": 954924,
+      "view_count": 1056188,
       "duration_minutes": 80,
       "url": "https://www.youtube.com/watch?v=HDoPPFsVHmw"
     },
@@ -456,7 +434,7 @@
       "channel_title": "PBS Space Time",
       "source_type": "Editorial/media",
       "published_at": "2026-11-17T20:15:18Z",
-      "view_count": 863550,
+      "view_count": 920232,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=wCRzZ0ccP_0"
     },
@@ -467,9 +445,31 @@
       "channel_title": "Anton Petrov",
       "source_type": "Additional curated source",
       "published_at": "2026-11-16T22:00:31Z",
-      "view_count": 768223,
+      "view_count": 807255,
       "duration_minutes": 17,
       "url": "https://www.youtube.com/watch?v=mOK8wbVAyOU"
+    },
+    {
+      "video_id": "h5xhE0Nur_o",
+      "title": "This El Niño Could Permanently Change Our World",
+      "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
+      "channel_title": "New Scientist",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-18T17:59:46Z",
+      "view_count": 648420,
+      "duration_minutes": 41,
+      "url": "https://www.youtube.com/watch?v=h5xhE0Nur_o"
+    },
+    {
+      "video_id": "tDrGZPt4qIY",
+      "title": "The Worst Possible Swing Technique",
+      "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
+      "channel_title": "Steve Mould",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-20T22:51:34Z",
+      "view_count": 624957,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=tDrGZPt4qIY"
     }
   ]
 }

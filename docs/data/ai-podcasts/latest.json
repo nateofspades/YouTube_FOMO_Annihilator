@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-11-21T16:27:42.413068Z",
+  "generated_at": "2026-11-22T16:43:35.454648Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,7 +18,7 @@
       "handle": "UCXl4i9dYBrFOabk0xGmbkRA",
       "source_type": "AI podcast",
       "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Latent Space",
@@ -39,7 +39,7 @@
       "handle": "UCSI7h9hydQ40K5MJHnCrQvw",
       "source_type": "AI podcast",
       "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "The TWIML AI Podcast",
@@ -53,7 +53,7 @@
       "handle": "UC9tpZnMLKv5vbZIGuIIPmNg",
       "source_type": "AI podcast",
       "channel_id": "UC9tpZnMLKv5vbZIGuIIPmNg",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "The AI Breakdown",
@@ -123,7 +123,7 @@
       "handle": "UC-o9u9QL4zXzBwjvT1gmzNg",
       "source_type": "AI podcast",
       "channel_id": "UC-o9u9QL4zXzBwjvT1gmzNg",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "AI For Humans",
@@ -144,7 +144,7 @@
       "handle": "UCG6qpjVnBTTT8wLGBygANOQ",
       "source_type": "AI podcast",
       "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
-      "recent_video_count": 20
+      "recent_video_count": 23
     },
     {
       "name": "Interconnects",
@@ -165,7 +165,7 @@
       "handle": "UCaKiCexVhZ459j9sZ2e7XdQ",
       "source_type": "AI podcast",
       "channel_id": "UCaKiCexVhZ459j9sZ2e7XdQ",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Data Skeptic",
@@ -346,15 +346,26 @@
   "candidate_count": 170,
   "results": [
     {
-      "video_id": "SeGUXN8XIu8",
-      "title": "The Next 4 Years of AI Will Look Nothing Like the Last 4",
+      "video_id": "TtOoLanFzGw",
+      "title": "Why AI Has DHH Working 16-Hour Days",
+      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "channel_title": "a16z",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-20T15:39:04Z",
+      "view_count": 132615,
+      "duration_minutes": 52,
+      "url": "https://www.youtube.com/watch?v=TtOoLanFzGw"
+    },
+    {
+      "video_id": "-PQpJAdp7gw",
+      "title": "How Hackers Got Into OpenAI’s Code and Anthropic’s Slack - Paul Christiano",
       "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
       "channel_title": "Dwarkesh Patel",
       "source_type": "AI podcast",
-      "published_at": "2026-11-15T01:05:37Z",
-      "view_count": 193387,
+      "published_at": "2026-11-18T17:00:30Z",
+      "view_count": 95266,
       "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=SeGUXN8XIu8"
+      "url": "https://www.youtube.com/watch?v=-PQpJAdp7gw"
     },
     {
       "video_id": "CsnWkIpIbxM",
@@ -363,31 +374,20 @@
       "channel_title": "AI Agents Podcast",
       "source_type": "AI podcast",
       "published_at": "2026-11-17T15:00:08Z",
-      "view_count": 54516,
+      "view_count": 54458,
       "duration_minutes": 43,
       "url": "https://www.youtube.com/watch?v=CsnWkIpIbxM"
     },
     {
-      "video_id": "g_67TmQ8lGY",
-      "title": "What History Tells Us About the AI Revolution | Tyler Cowen & Alex Imas",
-      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "channel_title": "a16z",
+      "video_id": "yTR5sD5KwD4",
+      "title": "Jensen Huang’s fall makes Anthropic’s IPO look even stranger",
+      "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
+      "channel_title": "Decoder with Nilay Patel",
       "source_type": "AI podcast",
-      "published_at": "2026-11-16T15:30:10Z",
-      "view_count": 37092,
-      "duration_minutes": 63,
-      "url": "https://www.youtube.com/watch?v=g_67TmQ8lGY"
-    },
-    {
-      "video_id": "y9AALMeAeGI",
-      "title": "Can Open Source Make AI Agents Safer?",
-      "channel_id": "UCHuiy8bXnmK5nisYHUd1J5g",
-      "channel_title": "NVIDIA",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-18T11:00:32Z",
-      "view_count": 12889,
-      "duration_minutes": 17,
-      "url": "https://www.youtube.com/watch?v=y9AALMeAeGI"
+      "published_at": "2026-11-21T14:00:20Z",
+      "view_count": 30323,
+      "duration_minutes": 36,
+      "url": "https://www.youtube.com/watch?v=yTR5sD5KwD4"
     },
     {
       "video_id": "4bQ56LV_m3o",
@@ -396,20 +396,9 @@
       "channel_title": "Machine Gods",
       "source_type": "AI podcast",
       "published_at": "2026-11-20T12:00:01Z",
-      "view_count": 12792,
+      "view_count": 16236,
       "duration_minutes": 54,
       "url": "https://www.youtube.com/watch?v=4bQ56LV_m3o"
-    },
-    {
-      "video_id": "io7qhEjJoik",
-      "title": "What a Squirrel Does That LLMs Don't (Michael Tomasello)",
-      "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
-      "channel_title": "Machine Learning Street Talk",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-19T14:22:11Z",
-      "view_count": 11409,
-      "duration_minutes": 67,
-      "url": "https://www.youtube.com/watch?v=io7qhEjJoik"
     },
     {
       "video_id": "8kUT9jtv_pQ",
@@ -418,9 +407,31 @@
       "channel_title": "TBPN",
       "source_type": "AI podcast",
       "published_at": "2026-11-21T01:08:28Z",
-      "view_count": 8626,
+      "view_count": 14389,
       "duration_minutes": 28,
       "url": "https://www.youtube.com/watch?v=8kUT9jtv_pQ"
+    },
+    {
+      "video_id": "y9AALMeAeGI",
+      "title": "Can Open Source Make AI Agents Safer?",
+      "channel_id": "UCHuiy8bXnmK5nisYHUd1J5g",
+      "channel_title": "NVIDIA",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-18T11:00:32Z",
+      "view_count": 13787,
+      "duration_minutes": 17,
+      "url": "https://www.youtube.com/watch?v=y9AALMeAeGI"
+    },
+    {
+      "video_id": "io7qhEjJoik",
+      "title": "What a Squirrel Does That LLMs Don't (Michael Tomasello)",
+      "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+      "channel_title": "Machine Learning Street Talk",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-19T14:22:11Z",
+      "view_count": 12899,
+      "duration_minutes": 67,
+      "url": "https://www.youtube.com/watch?v=io7qhEjJoik"
     },
     {
       "video_id": "HNabUUctCCQ",
@@ -429,20 +440,9 @@
       "channel_title": "80,000 Hours",
       "source_type": "AI podcast",
       "published_at": "2026-11-19T17:09:46Z",
-      "view_count": 8439,
+      "view_count": 10123,
       "duration_minutes": 107,
       "url": "https://www.youtube.com/watch?v=HNabUUctCCQ"
-    },
-    {
-      "video_id": "zXrty-ZAIUo",
-      "title": "7 Things AI-Native Companies Do Differently",
-      "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-      "channel_title": "The AI Daily Brief: Artificial Intelligence News",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-17T01:24:07Z",
-      "view_count": 7908,
-      "duration_minutes": 22,
-      "url": "https://www.youtube.com/watch?v=zXrty-ZAIUo"
     },
     {
       "video_id": "NfpqdDnK_kQ",
@@ -451,7 +451,7 @@
       "channel_title": "AI For Humans",
       "source_type": "AI podcast",
       "published_at": "2026-11-20T14:45:02Z",
-      "view_count": 7331,
+      "view_count": 9153,
       "duration_minutes": 64,
       "url": "https://www.youtube.com/watch?v=NfpqdDnK_kQ"
     }
