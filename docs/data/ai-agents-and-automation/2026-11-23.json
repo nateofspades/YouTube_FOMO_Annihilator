@@ -1,0 +1,473 @@
+{
+  "slug": "ai-agents-and-automation",
+  "title": "AI agents and automation",
+  "generated_at": "2026-11-23T20:38:04.410521Z",
+  "time_zone": "America/New_York",
+  "window_days": 7,
+  "universe_version": 1,
+  "source_channels": [
+    {
+      "name": "All About AI",
+      "handle": "@allaboutai",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Alex Finn",
+      "handle": "@AlexFinnOfficial",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Matthew Berman",
+      "handle": "@matthew_berman",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "recent_video_count": 6
+    },
+    {
+      "name": "Cole Medin",
+      "handle": "@ColeMedin",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCMwVTLZIRRUyyVrkjDpn4pA",
+      "recent_video_count": 5
+    },
+    {
+      "name": "Futurepedia",
+      "handle": "@Futurepedia_io",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC_RovKmk0OCbuZjA8f08opw",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Nate Herk",
+      "handle": "@NateHerk",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+      "recent_video_count": 22
+    },
+    {
+      "name": "Krish Naik",
+      "handle": "@krishnaik06",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "recent_video_count": 2
+    },
+    {
+      "name": "AI Code King",
+      "handle": "@AICodeKing",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC0m81bQuthaQZmFbXEY9QSw",
+      "recent_video_count": 7
+    },
+    {
+      "name": "IndyDevDan",
+      "handle": "@IndyDevDan",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC_x36zCEGilGpB1m-V4gmjg",
+      "recent_video_count": 1
+    },
+    {
+      "name": "1littlecoder",
+      "handle": "@1littlecoder",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCpV_X0VrL8-jg3t6wYGS-1g",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Fireship",
+      "handle": "@Fireship",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Tech With Tim",
+      "handle": "@TechWithTim",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+      "recent_video_count": 7
+    },
+    {
+      "name": "NetworkChuck",
+      "handle": "@NetworkChuck",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC9x0AN7BWHpCDHSm9NiJFJQ",
+      "recent_video_count": 4
+    },
+    {
+      "name": "Greg Isenberg",
+      "handle": "@GregIsenberg",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "recent_video_count": 4
+    },
+    {
+      "name": "How I AI",
+      "handle": "@howiaipodcast",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
+      "recent_video_count": 4
+    },
+    {
+      "name": "IBM Technology",
+      "handle": "@IBMTechnology",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "recent_video_count": 8
+    },
+    {
+      "name": "Weights & Biases",
+      "handle": "@WeightsBiases",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCAoex7Afqs1bWf5Xy8xaSfQ",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Hugging Face",
+      "handle": "@huggingface",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Liam Ottley",
+      "handle": "UCui4jxDaMb53Gdh-AZUTPAg",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCui4jxDaMb53Gdh-AZUTPAg",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Nick Saraev",
+      "handle": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Tina Huang",
+      "handle": "UC2UXDak6o7rBm23k3Vv5dww",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC2UXDak6o7rBm23k3Vv5dww",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Dave Ebbelaar",
+      "handle": "UCn8ujwUInbJkBhffxqAPBVQ",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCn8ujwUInbJkBhffxqAPBVQ",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Riley Brown",
+      "handle": "UCMcoud_ZW7cfxeIugBflSBw",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
+      "recent_video_count": 6
+    },
+    {
+      "name": "Sam Witteveen",
+      "handle": "UC55ODQSvARtgSyc8ThfiepQ",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC55ODQSvARtgSyc8ThfiepQ",
+      "recent_video_count": 3
+    },
+    {
+      "name": "AI Jason",
+      "handle": "UCrXSVX9a1mj8l0CMLwKgMVw",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCrXSVX9a1mj8l0CMLwKgMVw",
+      "recent_video_count": 0
+    },
+    {
+      "name": "n8n",
+      "handle": "UCiHVTkJtWSdc9N3h0nUGWLg",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCiHVTkJtWSdc9N3h0nUGWLg",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Make",
+      "handle": "UC8KWRrf8wqyowmWhXJ9DRjQ",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC8KWRrf8wqyowmWhXJ9DRjQ",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Zapier",
+      "handle": "UCEvsxF4Z12vwpwDUaU02yiA",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCEvsxF4Z12vwpwDUaU02yiA",
+      "recent_video_count": 15
+    },
+    {
+      "name": "LangChain",
+      "handle": "UCC-lyoTfSrcJzA1ab3APAgw",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+      "recent_video_count": 26
+    },
+    {
+      "name": "LlamaIndex",
+      "handle": "UCeRjipR4_SsCddq9VZ2AeKg",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCeRjipR4_SsCddq9VZ2AeKg",
+      "recent_video_count": 1
+    },
+    {
+      "name": "CrewAI",
+      "handle": "UCTulKzR5sldNq2eAxxdaEuA",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCTulKzR5sldNq2eAxxdaEuA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Pydantic",
+      "handle": "UCVC1GrIK_002p3V1D94VO9A",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCVC1GrIK_002p3V1D94VO9A",
+      "recent_video_count": 2
+    },
+    {
+      "name": "OpenAI",
+      "handle": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "recent_video_count": 23
+    },
+    {
+      "name": "Anthropic",
+      "handle": "UCrDwWp7EBBv4NwvScIpBDOA",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCrDwWp7EBBv4NwvScIpBDOA",
+      "recent_video_count": 2
+    },
+    {
+      "name": "Cursor",
+      "handle": "UC6YYHJzM6PhZ2Yey9BQiUaw",
+      "source_type": "AI agent and automation",
+      "channel_id": "UC6YYHJzM6PhZ2Yey9BQiUaw",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Replit",
+      "handle": "UCgoJjdR6-7AMu9fDitb6nVw",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCgoJjdR6-7AMu9fDitb6nVw",
+      "recent_video_count": 8
+    },
+    {
+      "name": "Supabase",
+      "handle": "UCNTVzV1InxHV-YR0fSajqPQ",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCNTVzV1InxHV-YR0fSajqPQ",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Vercel",
+      "handle": "UCLq8gNoee7oXM7MvTdjyQvA",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCLq8gNoee7oXM7MvTdjyQvA",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Lovable",
+      "handle": "UCds72zs2EzQRmhqbLLCmD4A",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCds72zs2EzQRmhqbLLCmD4A",
+      "recent_video_count": 1
+    },
+    {
+      "name": "Simon Willison",
+      "handle": "UCPzGwk1N5ea7sV3S2c2x1kg",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCPzGwk1N5ea7sV3S2c2x1kg",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Matt Pocock",
+      "handle": "UCswG6FSbgZjbWtdf_hMLaow",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCswG6FSbgZjbWtdf_hMLaow",
+      "recent_video_count": 3
+    },
+    {
+      "name": "Brian Casel",
+      "handle": "UCSxPE9PHHxQUEt6ajGmQyMA",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCSxPE9PHHxQUEt6ajGmQyMA",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Jack Roberts",
+      "handle": "UCxVxcTULO9cFU6SB9qVaisQ",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCxVxcTULO9cFU6SB9qVaisQ",
+      "recent_video_count": 13
+    },
+    {
+      "name": "AI Foundations",
+      "handle": "UCWZwfV3ICOt3uEPpW6hYK4g",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCWZwfV3ICOt3uEPpW6hYK4g",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Mervin Praison",
+      "handle": "UCWTyktbw5JYoSBduu8LsBgQ",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCWTyktbw5JYoSBduu8LsBgQ",
+      "recent_video_count": 3
+    },
+    {
+      "name": "AI Engineer",
+      "handle": "UCLKPca3kwwd-B59HNr-_lvA",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "recent_video_count": 11
+    },
+    {
+      "name": "Sabrina Ramonov",
+      "handle": "UCiGWNa6QK6CiKPvv5-YPv8g",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCiGWNa6QK6CiKPvv5-YPv8g",
+      "recent_video_count": 15
+    },
+    {
+      "name": "LowCode Agency",
+      "handle": "UCT5Nq5woayDZTBqeVkczetg",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCT5Nq5woayDZTBqeVkczetg",
+      "recent_video_count": 4
+    },
+    {
+      "name": "VoloBuilds",
+      "handle": "UCBr1IoxBAF9RDPdTzb6459g",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCBr1IoxBAF9RDPdTzb6459g",
+      "recent_video_count": 0
+    },
+    {
+      "name": "Prompt Engineering",
+      "handle": "UCDq7SjbgRKty5TgGafW8Clg",
+      "source_type": "AI agent and automation",
+      "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+      "recent_video_count": 3
+    }
+  ],
+  "candidate_count": 236,
+  "results": [
+    {
+      "video_id": "mU8WKII1gpk",
+      "title": "How to Actually Code with AI (ft. Matt Pocock)",
+      "channel_id": "UC9x0AN7BWHpCDHSm9NiJFJQ",
+      "channel_title": "NetworkChuck",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-20T17:25:28Z",
+      "view_count": 500807,
+      "duration_minutes": 123,
+      "url": "https://www.youtube.com/watch?v=mU8WKII1gpk"
+    },
+    {
+      "video_id": "C1zYX5jwqq4",
+      "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "channel_title": "OpenAI",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-17T17:55:40Z",
+      "view_count": 363293,
+      "duration_minutes": 2,
+      "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4"
+    },
+    {
+      "video_id": "kM7lnhS_uE8",
+      "title": "Something strange is happening to the internet right now",
+      "channel_id": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+      "channel_title": "Nick Saraev",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-16T22:21:02Z",
+      "view_count": 296021,
+      "duration_minutes": 6,
+      "url": "https://www.youtube.com/watch?v=kM7lnhS_uE8"
+    },
+    {
+      "video_id": "ZjDycWzWQbU",
+      "title": "Gemini 4 Neon: Between Hydrogen and Carbon",
+      "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+      "channel_title": "Prompt Engineering",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-19T06:14:26Z",
+      "view_count": 118998,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=ZjDycWzWQbU"
+    },
+    {
+      "video_id": "vKobP6DkC1E",
+      "title": "Build a 1 Person Media Machine With Grok Bot",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "channel_title": "Greg Isenberg",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-18T22:10:02Z",
+      "view_count": 82791,
+      "duration_minutes": 51,
+      "url": "https://www.youtube.com/watch?v=vKobP6DkC1E"
+    },
+    {
+      "video_id": "xRJMiaUoD_8",
+      "title": "The Sweet Side of the Bitter Lesson — Thariq Shihipar, Independent",
+      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channel_title": "AI Engineer",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-19T20:00:09Z",
+      "view_count": 72764,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=xRJMiaUoD_8"
+    },
+    {
+      "video_id": "QmOVQ-xOwXw",
+      "title": "Something scary is happening at Google...",
+      "channel_id": "UCfQNB91qRP_5ILeu_S_bSkg",
+      "channel_title": "Alex Finn",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-20T20:38:24Z",
+      "view_count": 70887,
+      "duration_minutes": 20,
+      "url": "https://www.youtube.com/watch?v=QmOVQ-xOwXw"
+    },
+    {
+      "video_id": "USiUp4kF3yE",
+      "title": "4 New Udemy AI Courses for 2027: AI FDE, Codex, Governance & Production Engineering",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "channel_title": "Krish Naik",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-18T05:21:14Z",
+      "view_count": 68967,
+      "duration_minutes": 14,
+      "url": "https://www.youtube.com/watch?v=USiUp4kF3yE"
+    },
+    {
+      "video_id": "4LINhsEZEDI",
+      "title": "4 Types of AI Agent Loops: From Human-Led to Autonomous",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "channel_title": "IBM Technology",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-19T12:00:08Z",
+      "view_count": 68695,
+      "duration_minutes": 9,
+      "url": "https://www.youtube.com/watch?v=4LINhsEZEDI"
+    },
+    {
+      "video_id": "ln1KbRyJdt8",
+      "title": "Anthropic Just Shipped Claude 2.0 (Master it in 15 minutes)",
+      "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+      "channel_title": "Tech With Tim",
+      "source_type": "AI agent and automation",
+      "published_at": "2026-11-20T17:53:30Z",
+      "view_count": 58841,
+      "duration_minutes": 14,
+      "url": "https://www.youtube.com/watch?v=ln1KbRyJdt8"
+    }
+  ]
+}

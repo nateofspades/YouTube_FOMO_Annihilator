@@ -1,7 +1,7 @@
 {
   "slug": "ai",
   "title": "AI news",
-  "generated_at": "2026-11-22T16:43:35.454648Z",
+  "generated_at": "2026-11-23T20:38:04.410521Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 2,
@@ -39,28 +39,28 @@
       "handle": "@AllAboutAI",
       "source_type": "AI-focused channel",
       "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "The AI Advantage",
       "handle": "@aiadvantage",
       "source_type": "AI-focused channel",
       "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ",
-      "recent_video_count": 3
+      "recent_video_count": 6
     },
     {
       "name": "Aitrepreneur",
       "handle": "@aitrepreneur",
       "source_type": "AI-focused channel",
       "channel_id": "UCEAbqW0HFB_UxZoUDO0kJBw",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Two Minute Papers",
       "handle": "@TwoMinutePapers",
       "source_type": "AI-focused channel",
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Google DeepMind",
@@ -74,7 +74,7 @@
       "handle": "@openai",
       "source_type": "AI-focused channel",
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "recent_video_count": 22
+      "recent_video_count": 23
     },
     {
       "name": "Anthropic",
@@ -88,7 +88,7 @@
       "handle": "@HuggingFace",
       "source_type": "AI-focused channel",
       "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Wes Roth",
@@ -102,14 +102,14 @@
       "handle": "UCKelCK4ZaO6HeEI1KQjqzWA",
       "source_type": "AI-focused channel",
       "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Nate B Jones",
       "handle": "UC0C-17n9iuUQPylguM1d-lQ",
       "source_type": "AI-focused channel",
       "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "AI Search",
@@ -123,14 +123,14 @@
       "handle": "UCwSozl89jl2zUDzQ4jGJD3g",
       "source_type": "AI-focused channel",
       "channel_id": "UCwSozl89jl2zUDzQ4jGJD3g",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Matthew Berman",
       "handle": "UCawZsQWqfGSbCI5yjkdVkTA",
       "source_type": "AI-focused channel",
       "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Fireship",
@@ -186,7 +186,7 @@
       "handle": "UCddiUEpeqJcYeBxX1IVBKvQ",
       "source_type": "AI-focused channel",
       "channel_id": "UCddiUEpeqJcYeBxX1IVBKvQ",
-      "recent_video_count": 19
+      "recent_video_count": 20
     },
     {
       "name": "Bloomberg Technology",
@@ -200,7 +200,7 @@
       "handle": "UCrp_UI8XtuYfpiqluWLD7Lw",
       "source_type": "AI-focused channel",
       "channel_id": "UCrp_UI8XtuYfpiqluWLD7Lw",
-      "recent_video_count": 228
+      "recent_video_count": 237
     },
     {
       "name": "TechCrunch",
@@ -228,7 +228,7 @@
       "handle": "UC8LUzR34nNX8KH3Edd0un1g",
       "source_type": "AI-focused channel",
       "channel_id": "UC8LUzR34nNX8KH3Edd0un1g",
-      "recent_video_count": 5
+      "recent_video_count": 7
     },
     {
       "name": "The AI Epiphany",
@@ -277,7 +277,7 @@
       "handle": "UCHuiy8bXnmK5nisYHUd1J5g",
       "source_type": "AI-focused channel",
       "channel_id": "UCHuiy8bXnmK5nisYHUd1J5g",
-      "recent_video_count": 10
+      "recent_video_count": 8
     },
     {
       "name": "Microsoft",
@@ -312,7 +312,7 @@
       "handle": "UCYqxnCFtaC4-iC_bwt2bRLg",
       "source_type": "AI-focused channel",
       "channel_id": "UCYqxnCFtaC4-iC_bwt2bRLg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Stability AI",
@@ -326,7 +326,7 @@
       "handle": "UCUBqu_z5uP0AZhYtuyFZB3g",
       "source_type": "AI-focused channel",
       "channel_id": "UCUBqu_z5uP0AZhYtuyFZB3g",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "AI Engineer",
@@ -347,10 +347,10 @@
       "handle": "UCdHpbfqjELZmhqY3k0ELGcQ",
       "source_type": "AI-focused channel",
       "channel_id": "UCdHpbfqjELZmhqY3k0ELGcQ",
-      "recent_video_count": 4
+      "recent_video_count": 5
     }
   ],
-  "candidate_count": 491,
+  "candidate_count": 504,
   "results": [
     {
       "video_id": "uJG53ligJt4",
@@ -359,42 +359,31 @@
       "channel_title": "NVIDIA",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-18T18:36:18Z",
-      "view_count": 4468085,
+      "view_count": 6061780,
       "duration_minutes": 48,
       "url": "https://www.youtube.com/watch?v=uJG53ligJt4"
     },
     {
-      "video_id": "ytmawkPTP24",
-      "title": "Why Microsoft couldn’t fix its own servers for 36 hours...",
+      "video_id": "rMaMe32qQkA",
+      "title": "If you’ve deployed anything since 2015, I have bad news...",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
       "channel_title": "Fireship",
       "source_type": "AI-focused channel",
-      "published_at": "2026-11-16T20:18:59Z",
-      "view_count": 2393315,
+      "published_at": "2026-11-20T19:49:02Z",
+      "view_count": 1109009,
       "duration_minutes": 6,
-      "url": "https://www.youtube.com/watch?v=ytmawkPTP24"
+      "url": "https://www.youtube.com/watch?v=rMaMe32qQkA"
     },
     {
-      "video_id": "UCL4K36SHp0",
-      "title": "How I cloned Adobe with AI — Brandon Thomas, ArtCraft",
-      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
-      "channel_title": "AI Engineer",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-11-16T13:00:07Z",
-      "view_count": 997648,
-      "duration_minutes": 20,
-      "url": "https://www.youtube.com/watch?v=UCL4K36SHp0"
-    },
-    {
-      "video_id": "ytfzbmLCTas",
-      "title": "Majorana 2 Explained: The road to 1000x improvement",
+      "video_id": "ZR4v1c4CClc",
+      "title": "Microsoft Ignite: Opening Keynote 2026",
       "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
       "channel_title": "Microsoft",
       "source_type": "AI-focused channel",
-      "published_at": "2026-11-16T19:27:54Z",
-      "view_count": 862718,
-      "duration_minutes": 8,
-      "url": "https://www.youtube.com/watch?v=ytfzbmLCTas"
+      "published_at": "2026-11-17T20:38:29Z",
+      "view_count": 835966,
+      "duration_minutes": 146,
+      "url": "https://www.youtube.com/watch?v=ZR4v1c4CClc"
     },
     {
       "video_id": "6WD2dZsJU9I",
@@ -403,7 +392,7 @@
       "channel_title": "TechLinked",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-19T02:27:11Z",
-      "view_count": 555578,
+      "view_count": 568752,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=6WD2dZsJU9I"
     },
@@ -414,7 +403,7 @@
       "channel_title": "CNBC Television",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-17T13:38:39Z",
-      "view_count": 499723,
+      "view_count": 507988,
       "duration_minutes": 4,
       "url": "https://www.youtube.com/watch?v=eYDIDemcXz0"
     },
@@ -425,7 +414,7 @@
       "channel_title": "Theo - t3․gg",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-20T15:40:19Z",
-      "view_count": 452332,
+      "view_count": 498252,
       "duration_minutes": 33,
       "url": "https://www.youtube.com/watch?v=HQlk9RGx2dk"
     },
@@ -436,7 +425,7 @@
       "channel_title": "Anthropic",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-19T21:03:23Z",
-      "view_count": 399939,
+      "view_count": 466067,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=sof3vW4mHTs"
     },
@@ -447,7 +436,7 @@
       "channel_title": "OpenAI",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-17T17:55:40Z",
-      "view_count": 358636,
+      "view_count": 363293,
       "duration_minutes": 2,
       "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4"
     },
@@ -458,9 +447,20 @@
       "channel_title": "Matthew Berman",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-20T02:37:36Z",
-      "view_count": 259291,
+      "view_count": 270672,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=5eON_8rgKzk"
+    },
+    {
+      "video_id": "DFexUtE1vVA",
+      "title": "AI Just Cracked One Of The Worlds BIGGEST Mystery",
+      "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
+      "channel_title": "TheAIGRID",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-11-20T23:45:37Z",
+      "view_count": 256420,
+      "duration_minutes": 30,
+      "url": "https://www.youtube.com/watch?v=DFexUtE1vVA"
     }
   ]
 }

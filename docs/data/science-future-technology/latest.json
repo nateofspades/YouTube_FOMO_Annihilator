@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-22T16:43:35.454648Z",
+  "generated_at": "2026-11-23T20:38:04.410521Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -32,7 +32,7 @@
       "handle": "@smartereveryday",
       "source_type": "Independent creator",
       "channel_id": "UC6107grRI4m0o2-emgoDnAA",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Real Engineering",
@@ -60,7 +60,7 @@
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Boston Dynamics",
@@ -74,14 +74,14 @@
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "European Space Agency",
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Cleo Abram",
@@ -139,7 +139,7 @@
       "handle": "@TwoBitDaVinci",
       "source_type": "Independent creator",
       "channel_id": "UCEgYhf84VjXDz-W7a9-rdCQ",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Branch Education",
@@ -167,7 +167,7 @@
       "handle": "UCZYTClx2T1of7BRZ86-8fow",
       "source_type": "Additional curated source",
       "channel_id": "UCZYTClx2T1of7BRZ86-8fow",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "minutephysics",
@@ -286,7 +286,7 @@
       "handle": "UCYNbYGl89UUowy8oXkipC-Q",
       "source_type": "Additional curated source",
       "channel_id": "UCYNbYGl89UUowy8oXkipC-Q",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Astrum",
@@ -300,7 +300,7 @@
       "handle": "UCqoAEDirJPjEUFcF2FklnBA",
       "source_type": "Additional curated source",
       "channel_id": "UCqoAEDirJPjEUFcF2FklnBA",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "Fraser Cain",
@@ -335,14 +335,14 @@
       "handle": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "source_type": "Additional curated source",
       "channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
-      "recent_video_count": 5
+      "recent_video_count": 3
     },
     {
       "name": "Scott Manley",
       "handle": "UCxzC4EngIsMrPmbm6Nxvb-A",
       "source_type": "Additional curated source",
       "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Primal Space",
@@ -359,7 +359,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 104,
+  "candidate_count": 105,
   "results": [
     {
       "video_id": "uXuQF_PPg5U",
@@ -368,7 +368,7 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-11-18T20:29:44Z",
-      "view_count": 3285339,
+      "view_count": 3719112,
       "duration_minutes": 39,
       "url": "https://www.youtube.com/watch?v=uXuQF_PPg5U"
     },
@@ -379,7 +379,7 @@
       "channel_title": "Astrum",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T17:00:28Z",
-      "view_count": 2201955,
+      "view_count": 2487447,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=NiVGpee8M7s"
     },
@@ -390,7 +390,7 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-11-20T14:55:26Z",
-      "view_count": 1761727,
+      "view_count": 2060375,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=UlBFeDhGzx0"
     },
@@ -401,7 +401,7 @@
       "channel_title": "Technology Connections",
       "source_type": "Additional curated source",
       "published_at": "2026-11-19T14:59:21Z",
-      "view_count": 1685213,
+      "view_count": 1920675,
       "duration_minutes": 38,
       "url": "https://www.youtube.com/watch?v=FcbwVXk83U8"
     },
@@ -412,7 +412,7 @@
       "channel_title": "Practical Engineering",
       "source_type": "Independent creator",
       "published_at": "2026-11-17T14:00:10Z",
-      "view_count": 1357051,
+      "view_count": 1440661,
       "duration_minutes": 23,
       "url": "https://www.youtube.com/watch?v=rj-G_gmFWtE"
     },
@@ -423,7 +423,7 @@
       "channel_title": "StarTalk",
       "source_type": "Additional curated source",
       "published_at": "2026-11-17T18:04:49Z",
-      "view_count": 1056188,
+      "view_count": 1169823,
       "duration_minutes": 80,
       "url": "https://www.youtube.com/watch?v=HDoPPFsVHmw"
     },
@@ -434,7 +434,7 @@
       "channel_title": "PBS Space Time",
       "source_type": "Editorial/media",
       "published_at": "2026-11-17T20:15:18Z",
-      "view_count": 920232,
+      "view_count": 974569,
       "duration_minutes": 25,
       "url": "https://www.youtube.com/watch?v=wCRzZ0ccP_0"
     },
@@ -445,9 +445,20 @@
       "channel_title": "Anton Petrov",
       "source_type": "Additional curated source",
       "published_at": "2026-11-16T22:00:31Z",
-      "view_count": 807255,
+      "view_count": 830512,
       "duration_minutes": 17,
       "url": "https://www.youtube.com/watch?v=mOK8wbVAyOU"
+    },
+    {
+      "video_id": "5LKDAW7Xx4Y",
+      "title": "This Simple Experiment Breaks Your Intuition About Pressure",
+      "channel_id": "UC1VLQPn9cYSqx8plbk9RxxQ",
+      "channel_title": "The Action Lab",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-21T16:02:12Z",
+      "view_count": 802850,
+      "duration_minutes": 12,
+      "url": "https://www.youtube.com/watch?v=5LKDAW7Xx4Y"
     },
     {
       "video_id": "h5xhE0Nur_o",
@@ -456,20 +467,9 @@
       "channel_title": "New Scientist",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T17:59:46Z",
-      "view_count": 648420,
+      "view_count": 793743,
       "duration_minutes": 41,
       "url": "https://www.youtube.com/watch?v=h5xhE0Nur_o"
-    },
-    {
-      "video_id": "tDrGZPt4qIY",
-      "title": "The Worst Possible Swing Technique",
-      "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
-      "channel_title": "Steve Mould",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-20T22:51:34Z",
-      "view_count": 624957,
-      "duration_minutes": 19,
-      "url": "https://www.youtube.com/watch?v=tDrGZPt4qIY"
     }
   ]
 }
