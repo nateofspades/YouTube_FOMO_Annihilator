@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-11-23T20:38:04.410521Z",
+  "generated_at": "2026-11-24T19:44:32.726160Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "TechCrunch",
@@ -25,14 +25,14 @@
       "handle": "@a16z",
       "source_type": "Venture capital",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 12
+      "recent_video_count": 10
     },
     {
       "name": "Sequoia Capital",
       "handle": "@sequoiacapital",
       "source_type": "Venture capital",
       "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "This Week in Startups",
@@ -46,7 +46,7 @@
       "handle": "@LennysPodcast",
       "source_type": "Independent creator",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 6
+      "recent_video_count": 8
     },
     {
       "name": "20VC",
@@ -67,14 +67,14 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 10
+      "recent_video_count": 12
     },
     {
       "name": "My First Million",
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "MicroConf",
@@ -95,7 +95,7 @@
       "handle": "@Slidebean",
       "source_type": "Official company",
       "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Bessemer Venture Partners",
@@ -109,14 +109,14 @@
       "handle": "@Antlerglobal",
       "source_type": "Venture capital",
       "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "recent_video_count": 6
+      "recent_video_count": 3
     },
     {
       "name": "Khosla Ventures",
       "handle": "@KhoslaVentures1",
       "source_type": "Venture capital",
       "channel_id": "UCF92qR15QflJFGO7c_PeT-g",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "NFX",
@@ -158,14 +158,14 @@
       "handle": "UCPjNBjflYl0-HQtUvOx0Ibw",
       "source_type": "Additional curated source",
       "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "recent_video_count": 4
+      "recent_video_count": 6
     },
     {
       "name": "TBPN",
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "Additional curated source",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 21
+      "recent_video_count": 18
     },
     {
       "name": "The Logan Bartlett Show",
@@ -193,14 +193,14 @@
       "handle": "UCH5_L3ytGbBziX0CLuYdQ1Q",
       "source_type": "Additional curated source",
       "channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Bloomberg Technology",
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "Additional curated source",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 40
+      "recent_video_count": 34
     },
     {
       "name": "PitchBook",
@@ -228,7 +228,7 @@
       "handle": "UClebMzrpRNTWVfZXw2jfsSw",
       "source_type": "Additional curated source",
       "channel_id": "UClebMzrpRNTWVfZXw2jfsSw",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "500 Global",
@@ -242,14 +242,14 @@
       "handle": "UC_oji6l_-xwhmZqCxRGuAXw",
       "source_type": "Additional curated source",
       "channel_id": "UC_oji6l_-xwhmZqCxRGuAXw",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Lightspeed Venture Partners",
       "handle": "UCwBTFE_6Bsb_EtmXlW2aTlg",
       "source_type": "Additional curated source",
       "channel_id": "UCwBTFE_6Bsb_EtmXlW2aTlg",
-      "recent_video_count": 6
+      "recent_video_count": 4
     },
     {
       "name": "General Catalyst",
@@ -277,7 +277,7 @@
       "handle": "UCZ7x7yDBbEFCGztD8BYvRhA",
       "source_type": "Additional curated source",
       "channel_id": "UCZ7x7yDBbEFCGztD8BYvRhA",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Insight Partners",
@@ -340,7 +340,7 @@
       "handle": "UCA-mWX9CvCTVFWRMb9bKc9w",
       "source_type": "Additional curated source",
       "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
-      "recent_video_count": 16
+      "recent_video_count": 15
     },
     {
       "name": "Codie Sanchez",
@@ -350,7 +350,7 @@
       "recent_video_count": 6
     }
   ],
-  "candidate_count": 200,
+  "candidate_count": 190,
   "results": [
     {
       "video_id": "TtOoLanFzGw",
@@ -359,7 +359,7 @@
       "channel_title": "a16z",
       "source_type": "Venture capital",
       "published_at": "2026-11-20T15:39:04Z",
-      "view_count": 218135,
+      "view_count": 267103,
       "duration_minutes": 52,
       "url": "https://www.youtube.com/watch?v=TtOoLanFzGw"
     },
@@ -370,7 +370,7 @@
       "channel_title": "Dan Martell",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T14:00:15Z",
-      "view_count": 197424,
+      "view_count": 210833,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=YD8uRumP8cM"
     },
@@ -381,7 +381,7 @@
       "channel_title": "Codie Sanchez",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T17:00:30Z",
-      "view_count": 156175,
+      "view_count": 170337,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=16PCOFyqAdg"
     },
@@ -392,9 +392,20 @@
       "channel_title": "Slidebean",
       "source_type": "Official company",
       "published_at": "2026-11-18T17:59:07Z",
-      "view_count": 106355,
+      "view_count": 118209,
       "duration_minutes": 34,
       "url": "https://www.youtube.com/watch?v=7hl7fTCKE5s"
+    },
+    {
+      "video_id": "bHe4q7CfcIA",
+      "title": "Jensen Huang Returns to Nvidia Offices",
+      "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
+      "channel_title": "Bloomberg Tech",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-23T21:54:45Z",
+      "view_count": 101426,
+      "duration_minutes": 0,
+      "url": "https://www.youtube.com/watch?v=bHe4q7CfcIA"
     },
     {
       "video_id": "vKobP6DkC1E",
@@ -403,20 +414,20 @@
       "channel_title": "Greg Isenberg",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T22:10:02Z",
-      "view_count": 82791,
+      "view_count": 87349,
       "duration_minutes": 51,
       "url": "https://www.youtube.com/watch?v=vKobP6DkC1E"
     },
     {
-      "video_id": "QJcB8Xm6K_Q",
-      "title": "Can a common household pest replace 50 years of multi-million-dollar bioreactor infrastructure?",
-      "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "channel_title": "Antler Global",
-      "source_type": "Venture capital",
-      "published_at": "2026-11-17T11:08:39Z",
-      "view_count": 72744,
-      "duration_minutes": 0,
-      "url": "https://www.youtube.com/watch?v=QJcB8Xm6K_Q"
+      "video_id": "Ko-rV1vj-Tk",
+      "title": "Inside California’s Modern-Day Gold Rush",
+      "channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
+      "channel_title": "CNBC Make It",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-21T15:00:30Z",
+      "view_count": 71147,
+      "duration_minutes": 18,
+      "url": "https://www.youtube.com/watch?v=Ko-rV1vj-Tk"
     },
     {
       "video_id": "R8loy37E_lg",
@@ -425,7 +436,7 @@
       "channel_title": "TBPN",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T17:45:50Z",
-      "view_count": 69740,
+      "view_count": 70094,
       "duration_minutes": 22,
       "url": "https://www.youtube.com/watch?v=R8loy37E_lg"
     },
@@ -436,31 +447,20 @@
       "channel_title": "Starter Story",
       "source_type": "Additional curated source",
       "published_at": "2026-11-18T18:00:30Z",
-      "view_count": 64843,
+      "view_count": 66975,
       "duration_minutes": 14,
       "url": "https://www.youtube.com/watch?v=PoEJ9t9rUb4"
     },
     {
-      "video_id": "Ko-rV1vj-Tk",
-      "title": "Inside California’s Modern-Day Gold Rush",
-      "channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
-      "channel_title": "CNBC Make It",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-21T15:00:30Z",
-      "view_count": 62995,
-      "duration_minutes": 18,
-      "url": "https://www.youtube.com/watch?v=Ko-rV1vj-Tk"
-    },
-    {
-      "video_id": "EAZq8Ly98Ls",
-      "title": "Proof you don’t need a clever idea to make crazy money",
-      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "channel_title": "My First Million",
-      "source_type": "Independent creator",
-      "published_at": "2026-11-18T14:00:16Z",
-      "view_count": 48214,
-      "duration_minutes": 67,
-      "url": "https://www.youtube.com/watch?v=EAZq8Ly98Ls"
+      "video_id": "lwfewYL7X0o",
+      "title": "Jacob Coxon vs. Robin Hanson: Should We Slow Down AI?",
+      "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "channel_title": "Y Combinator",
+      "source_type": "Accelerator",
+      "published_at": "2026-11-19T15:00:34Z",
+      "view_count": 51487,
+      "duration_minutes": 66,
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o"
     }
   ]
 }

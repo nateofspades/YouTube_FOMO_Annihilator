@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-11-23T20:38:04.410521Z",
+  "generated_at": "2026-11-24T19:44:32.726160Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "UCJIfeSCssxSC_Dhc5s7woww",
       "source_type": "AI podcast",
       "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "recent_video_count": 13
+      "recent_video_count": 15
     },
     {
       "name": "Dwarkesh Patel",
@@ -25,21 +25,21 @@
       "handle": "UCxBcwypKK-W3GHd_RZ9FZrQ",
       "source_type": "AI podcast",
       "channel_id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Cognitive Revolution",
       "handle": "UCjNRVMBVI30Sak_p6HRWhIA",
       "source_type": "AI podcast",
       "channel_id": "UCjNRVMBVI30Sak_p6HRWhIA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "No Priors",
       "handle": "UCSI7h9hydQ40K5MJHnCrQvw",
       "source_type": "AI podcast",
       "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "The TWIML AI Podcast",
@@ -53,7 +53,7 @@
       "handle": "UC9tpZnMLKv5vbZIGuIIPmNg",
       "source_type": "AI podcast",
       "channel_id": "UC9tpZnMLKv5vbZIGuIIPmNg",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "The AI Breakdown",
@@ -109,7 +109,7 @@
       "handle": "UCZcR2SVWaGWNlMqPxvQS3vw",
       "source_type": "AI podcast",
       "channel_id": "UCZcR2SVWaGWNlMqPxvQS3vw",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Machine Learning Street Talk",
@@ -123,7 +123,7 @@
       "handle": "UC-o9u9QL4zXzBwjvT1gmzNg",
       "source_type": "AI podcast",
       "channel_id": "UC-o9u9QL4zXzBwjvT1gmzNg",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "AI For Humans",
@@ -144,7 +144,7 @@
       "handle": "UCG6qpjVnBTTT8wLGBygANOQ",
       "source_type": "AI podcast",
       "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
-      "recent_video_count": 23
+      "recent_video_count": 19
     },
     {
       "name": "Interconnects",
@@ -207,7 +207,7 @@
       "handle": "UCKPSmMfDsXTKrCZApukcJ7A",
       "source_type": "AI podcast",
       "channel_id": "UCKPSmMfDsXTKrCZApukcJ7A",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "ChinaTalk",
@@ -228,14 +228,14 @@
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "AI podcast",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 21
+      "recent_video_count": 18
     },
     {
       "name": "Decoder with Nilay Patel",
       "handle": "UCYRwJnCWfBqFHEHrgc18FFw",
       "source_type": "AI podcast",
       "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
-      "recent_video_count": 16
+      "recent_video_count": 13
     },
     {
       "name": "The Vergecast",
@@ -256,14 +256,14 @@
       "handle": "UCXi7Hg2nSB40ujzM2CMtF-Q",
       "source_type": "AI podcast",
       "channel_id": "UCXi7Hg2nSB40ujzM2CMtF-Q",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Gradient Dissent",
       "playlist_id": "PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_",
       "source_type": "AI podcast",
       "channel_id": "UCBp3w4DCEC64FZr4k9ROxig",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "NVIDIA AI Podcast",
@@ -298,7 +298,7 @@
       "playlist_id": "PLISstAySqk7KNRW1vfsjTqJnm4lXXBgPe",
       "source_type": "AI podcast",
       "channel_id": "UCg3pI4p6OKSFrDVZcwRIx8A",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "The AI Fix",
@@ -340,10 +340,10 @@
       "playlist_id": "PL-BRtcBm4Yj4aKn72p4PjyqHh0ZQFdI1A",
       "source_type": "AI podcast",
       "channel_id": "UCafjal1QYJ3rb0Y9xZk1Ezg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     }
   ],
-  "candidate_count": 174,
+  "candidate_count": 167,
   "results": [
     {
       "video_id": "TtOoLanFzGw",
@@ -352,7 +352,7 @@
       "channel_title": "a16z",
       "source_type": "AI podcast",
       "published_at": "2026-11-20T15:39:04Z",
-      "view_count": 218135,
+      "view_count": 267274,
       "duration_minutes": 52,
       "url": "https://www.youtube.com/watch?v=TtOoLanFzGw"
     },
@@ -363,20 +363,9 @@
       "channel_title": "Dwarkesh Patel",
       "source_type": "AI podcast",
       "published_at": "2026-11-18T17:00:30Z",
-      "view_count": 99144,
+      "view_count": 100596,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=-PQpJAdp7gw"
-    },
-    {
-      "video_id": "CsnWkIpIbxM",
-      "title": "Muse and Dots: Putting Personal AI Assistants to Work | EP 145",
-      "channel_id": "UCIkU9Fe0OccRmqBMXRm1Q7A",
-      "channel_title": "AI Agents Podcast",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-17T15:00:08Z",
-      "view_count": 54422,
-      "duration_minutes": 43,
-      "url": "https://www.youtube.com/watch?v=CsnWkIpIbxM"
     },
     {
       "video_id": "yTR5sD5KwD4",
@@ -385,18 +374,40 @@
       "channel_title": "Decoder with Nilay Patel",
       "source_type": "AI podcast",
       "published_at": "2026-11-21T14:00:20Z",
-      "view_count": 39043,
+      "view_count": 40672,
       "duration_minutes": 36,
       "url": "https://www.youtube.com/watch?v=yTR5sD5KwD4"
     },
     {
+      "video_id": "vPn0-l0HYrE",
+      "title": "Build AI Factories, Not One-Off Automations | EP 146",
+      "channel_id": "UCIkU9Fe0OccRmqBMXRm1Q7A",
+      "channel_title": "AI Agents Podcast",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-20T15:00:12Z",
+      "view_count": 32798,
+      "duration_minutes": 50,
+      "url": "https://www.youtube.com/watch?v=vPn0-l0HYrE"
+    },
+    {
+      "video_id": "1kO779yEakM",
+      "title": "Ep. 253: How Runway Is Transforming Creative Work With AI Agents",
+      "channel_id": "UCdHpbfqjELZmhqY3k0ELGcQ",
+      "channel_title": "The Artificial Intelligence Show Podcast",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-19T10:00:20Z",
+      "view_count": 24828,
+      "duration_minutes": 32,
+      "url": "https://www.youtube.com/watch?v=1kO779yEakM"
+    },
+    {
       "video_id": "4bQ56LV_m3o",
-      "title": "More than a trillion dollars of value | The unlikely rise of Anthropic",
+      "title": "The unlikely rise of Anthropic | started from the bottom now we’re here",
       "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
       "channel_title": "Machine Gods",
       "source_type": "AI podcast",
       "published_at": "2026-11-20T12:00:01Z",
-      "view_count": 18784,
+      "view_count": 20335,
       "duration_minutes": 54,
       "url": "https://www.youtube.com/watch?v=4bQ56LV_m3o"
     },
@@ -407,20 +418,9 @@
       "channel_title": "TBPN",
       "source_type": "AI podcast",
       "published_at": "2026-11-21T01:08:28Z",
-      "view_count": 17100,
+      "view_count": 17494,
       "duration_minutes": 28,
       "url": "https://www.youtube.com/watch?v=8kUT9jtv_pQ"
-    },
-    {
-      "video_id": "1kO779yEakM",
-      "title": "Ep. 253: How Runway Is Transforming Creative Work With AI Agents",
-      "channel_id": "UCdHpbfqjELZmhqY3k0ELGcQ",
-      "channel_title": "The Artificial Intelligence Show Podcast",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-19T10:00:20Z",
-      "view_count": 15481,
-      "duration_minutes": 32,
-      "url": "https://www.youtube.com/watch?v=1kO779yEakM"
     },
     {
       "video_id": "y9AALMeAeGI",
@@ -429,7 +429,7 @@
       "channel_title": "NVIDIA",
       "source_type": "AI podcast",
       "published_at": "2026-11-18T11:00:32Z",
-      "view_count": 15174,
+      "view_count": 16160,
       "duration_minutes": 17,
       "url": "https://www.youtube.com/watch?v=y9AALMeAeGI"
     },
@@ -440,7 +440,7 @@
       "channel_title": "Machine Learning Street Talk",
       "source_type": "AI podcast",
       "published_at": "2026-11-19T14:22:11Z",
-      "view_count": 14102,
+      "view_count": 14541,
       "duration_minutes": 67,
       "url": "https://www.youtube.com/watch?v=io7qhEjJoik"
     },
@@ -451,7 +451,7 @@
       "channel_title": "80,000 Hours",
       "source_type": "AI podcast",
       "published_at": "2026-11-19T17:09:46Z",
-      "view_count": 11494,
+      "view_count": 12404,
       "duration_minutes": 107,
       "url": "https://www.youtube.com/watch?v=HNabUUctCCQ"
     }
