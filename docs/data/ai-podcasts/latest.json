@@ -1,7 +1,7 @@
 {
   "slug": "ai-podcasts",
   "title": "AI podcasts",
-  "generated_at": "2026-11-24T19:44:32.726160Z",
+  "generated_at": "2026-11-25T18:52:07.962145Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,14 +11,14 @@
       "handle": "UCJIfeSCssxSC_Dhc5s7woww",
       "source_type": "AI podcast",
       "channel_id": "UCJIfeSCssxSC_Dhc5s7woww",
-      "recent_video_count": 15
+      "recent_video_count": 18
     },
     {
       "name": "Dwarkesh Patel",
       "handle": "UCXl4i9dYBrFOabk0xGmbkRA",
       "source_type": "AI podcast",
       "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Latent Space",
@@ -39,21 +39,21 @@
       "handle": "UCSI7h9hydQ40K5MJHnCrQvw",
       "source_type": "AI podcast",
       "channel_id": "UCSI7h9hydQ40K5MJHnCrQvw",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "The TWIML AI Podcast",
       "handle": "UC7kjWIK1H8tfmFlzZO-wHMw",
       "source_type": "AI podcast",
       "channel_id": "UC7kjWIK1H8tfmFlzZO-wHMw",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Practical AI",
       "handle": "UC9tpZnMLKv5vbZIGuIIPmNg",
       "source_type": "AI podcast",
       "channel_id": "UC9tpZnMLKv5vbZIGuIIPmNg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "The AI Breakdown",
@@ -88,7 +88,7 @@
       "handle": "UCgx8lqX3QsHgH0bQq7-EHVg",
       "source_type": "AI podcast",
       "channel_id": "UCgx8lqX3QsHgH0bQq7-EHVg",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "AI Agents Podcast",
@@ -102,28 +102,28 @@
       "handle": "UCKelCK4ZaO6HeEI1KQjqzWA",
       "source_type": "AI podcast",
       "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Hard Fork",
       "handle": "UCZcR2SVWaGWNlMqPxvQS3vw",
       "source_type": "AI podcast",
       "channel_id": "UCZcR2SVWaGWNlMqPxvQS3vw",
-      "recent_video_count": 5
+      "recent_video_count": 8
     },
     {
       "name": "Machine Learning Street Talk",
       "handle": "UCMLtBahI5DMrt0NPvDSoIRQ",
       "source_type": "AI podcast",
       "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
-      "recent_video_count": 3
+      "recent_video_count": 6
     },
     {
       "name": "Eye on AI",
       "handle": "UC-o9u9QL4zXzBwjvT1gmzNg",
       "source_type": "AI podcast",
       "channel_id": "UC-o9u9QL4zXzBwjvT1gmzNg",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "AI For Humans",
@@ -144,7 +144,7 @@
       "handle": "UCG6qpjVnBTTT8wLGBygANOQ",
       "source_type": "AI podcast",
       "channel_id": "UCG6qpjVnBTTT8wLGBygANOQ",
-      "recent_video_count": 19
+      "recent_video_count": 20
     },
     {
       "name": "Interconnects",
@@ -158,14 +158,14 @@
       "handle": "UCPbwhExawYrn9xxI21TFfyw",
       "source_type": "AI podcast",
       "channel_id": "UCPbwhExawYrn9xxI21TFfyw",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Big Technology Podcast",
       "handle": "UCaKiCexVhZ459j9sZ2e7XdQ",
       "source_type": "AI podcast",
       "channel_id": "UCaKiCexVhZ459j9sZ2e7XdQ",
-      "recent_video_count": 5
+      "recent_video_count": 6
     },
     {
       "name": "Data Skeptic",
@@ -186,7 +186,7 @@
       "handle": "UCRYY7IEbkHLH_ScJCu9eWDQ",
       "source_type": "AI podcast",
       "channel_id": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "recent_video_count": 4
+      "recent_video_count": 6
     },
     {
       "name": "Software Engineering Daily",
@@ -228,21 +228,21 @@
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "AI podcast",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 18
+      "recent_video_count": 20
     },
     {
       "name": "Decoder with Nilay Patel",
       "handle": "UCYRwJnCWfBqFHEHrgc18FFw",
       "source_type": "AI podcast",
       "channel_id": "UCYRwJnCWfBqFHEHrgc18FFw",
-      "recent_video_count": 13
+      "recent_video_count": 11
     },
     {
       "name": "The Vergecast",
       "handle": "UCVHdvAX5-R8y5l9xp6nroBQ",
       "source_type": "AI podcast",
       "channel_id": "UCVHdvAX5-R8y5l9xp6nroBQ",
-      "recent_video_count": 3
+      "recent_video_count": 6
     },
     {
       "name": "AXRP",
@@ -270,7 +270,7 @@
       "playlist_id": "PLZHnYvH1qtOZ3tS6azbUnzVcGa1uTCEKe",
       "source_type": "AI podcast",
       "channel_id": "UCHuiy8bXnmK5nisYHUd1J5g",
-      "recent_video_count": 3
+      "recent_video_count": 1
     },
     {
       "name": "The Data Exchange",
@@ -312,7 +312,7 @@
       "playlist_id": "PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
       "source_type": "AI podcast",
       "channel_id": "UCjIMtrzxYc0lblGhmOgC_CA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Google DeepMind: The Podcast",
@@ -326,7 +326,7 @@
       "playlist_id": "PLM4u6XbiXf5rnUvH5NLdV_It2QLgbHBDZ",
       "source_type": "AI podcast",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Training Data (Sequoia)",
@@ -343,7 +343,7 @@
       "recent_video_count": 3
     }
   ],
-  "candidate_count": 167,
+  "candidate_count": 180,
   "results": [
     {
       "video_id": "TtOoLanFzGw",
@@ -352,20 +352,9 @@
       "channel_title": "a16z",
       "source_type": "AI podcast",
       "published_at": "2026-11-20T15:39:04Z",
-      "view_count": 267274,
+      "view_count": 297520,
       "duration_minutes": 52,
       "url": "https://www.youtube.com/watch?v=TtOoLanFzGw"
-    },
-    {
-      "video_id": "-PQpJAdp7gw",
-      "title": "How Hackers Got Into OpenAI’s Code and Anthropic’s Slack - Paul Christiano",
-      "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
-      "channel_title": "Dwarkesh Patel",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-18T17:00:30Z",
-      "view_count": 100596,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=-PQpJAdp7gw"
     },
     {
       "video_id": "yTR5sD5KwD4",
@@ -374,9 +363,20 @@
       "channel_title": "Decoder with Nilay Patel",
       "source_type": "AI podcast",
       "published_at": "2026-11-21T14:00:20Z",
-      "view_count": 40672,
+      "view_count": 41721,
       "duration_minutes": 36,
       "url": "https://www.youtube.com/watch?v=yTR5sD5KwD4"
+    },
+    {
+      "video_id": "aRvrREUmm5g",
+      "title": "One of AI’s most careful thinkers finally sounds the alarm | Paul Christiano (The Hinton Lectures)",
+      "channel_id": "UCafjal1QYJ3rb0Y9xZk1Ezg",
+      "channel_title": "80,000 Hours",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-24T16:43:28Z",
+      "view_count": 40762,
+      "duration_minutes": 117,
+      "url": "https://www.youtube.com/watch?v=aRvrREUmm5g"
     },
     {
       "video_id": "vPn0-l0HYrE",
@@ -385,20 +385,20 @@
       "channel_title": "AI Agents Podcast",
       "source_type": "AI podcast",
       "published_at": "2026-11-20T15:00:12Z",
-      "view_count": 32798,
+      "view_count": 32743,
       "duration_minutes": 50,
       "url": "https://www.youtube.com/watch?v=vPn0-l0HYrE"
     },
     {
-      "video_id": "1kO779yEakM",
-      "title": "Ep. 253: How Runway Is Transforming Creative Work With AI Agents",
-      "channel_id": "UCdHpbfqjELZmhqY3k0ELGcQ",
-      "channel_title": "The Artificial Intelligence Show Podcast",
+      "video_id": "K42jlW-THdo",
+      "title": "When 6 Years of AI Progress Happens in 6 Months  - Paul Christiano",
+      "channel_id": "UCXl4i9dYBrFOabk0xGmbkRA",
+      "channel_title": "Dwarkesh Patel",
       "source_type": "AI podcast",
-      "published_at": "2026-11-19T10:00:20Z",
-      "view_count": 24828,
-      "duration_minutes": 32,
-      "url": "https://www.youtube.com/watch?v=1kO779yEakM"
+      "published_at": "2026-11-24T21:06:48Z",
+      "view_count": 32605,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=K42jlW-THdo"
     },
     {
       "video_id": "4bQ56LV_m3o",
@@ -407,9 +407,20 @@
       "channel_title": "Machine Gods",
       "source_type": "AI podcast",
       "published_at": "2026-11-20T12:00:01Z",
-      "view_count": 20335,
+      "view_count": 21400,
       "duration_minutes": 54,
       "url": "https://www.youtube.com/watch?v=4bQ56LV_m3o"
+    },
+    {
+      "video_id": "tRaFbDFBl_A",
+      "title": "OpenAI’s Noam Brown: Why Game Theory Didn’t Lead to General Intelligence (Live at No Limit Finals)",
+      "channel_id": "UCWrF0oN6unbXrWsTN7RctTw",
+      "channel_title": "Sequoia Capital",
+      "source_type": "AI podcast",
+      "published_at": "2026-11-24T13:00:22Z",
+      "view_count": 18089,
+      "duration_minutes": 31,
+      "url": "https://www.youtube.com/watch?v=tRaFbDFBl_A"
     },
     {
       "video_id": "8kUT9jtv_pQ",
@@ -418,20 +429,9 @@
       "channel_title": "TBPN",
       "source_type": "AI podcast",
       "published_at": "2026-11-21T01:08:28Z",
-      "view_count": 17494,
+      "view_count": 17649,
       "duration_minutes": 28,
       "url": "https://www.youtube.com/watch?v=8kUT9jtv_pQ"
-    },
-    {
-      "video_id": "y9AALMeAeGI",
-      "title": "Can Open Source Make AI Agents Safer?",
-      "channel_id": "UCHuiy8bXnmK5nisYHUd1J5g",
-      "channel_title": "NVIDIA",
-      "source_type": "AI podcast",
-      "published_at": "2026-11-18T11:00:32Z",
-      "view_count": 16160,
-      "duration_minutes": 17,
-      "url": "https://www.youtube.com/watch?v=y9AALMeAeGI"
     },
     {
       "video_id": "io7qhEjJoik",
@@ -440,20 +440,20 @@
       "channel_title": "Machine Learning Street Talk",
       "source_type": "AI podcast",
       "published_at": "2026-11-19T14:22:11Z",
-      "view_count": 14541,
+      "view_count": 14926,
       "duration_minutes": 67,
       "url": "https://www.youtube.com/watch?v=io7qhEjJoik"
     },
     {
-      "video_id": "HNabUUctCCQ",
-      "title": "Why China Is Going After Anthropic",
-      "channel_id": "UCafjal1QYJ3rb0Y9xZk1Ezg",
-      "channel_title": "80,000 Hours",
+      "video_id": "GWoMi5h2O5o",
+      "title": "What Defines AI's Winners — With Brian Rosso",
+      "channel_id": "UCaKiCexVhZ459j9sZ2e7XdQ",
+      "channel_title": "Big Technology",
       "source_type": "AI podcast",
-      "published_at": "2026-11-19T17:09:46Z",
-      "view_count": 12404,
-      "duration_minutes": 107,
-      "url": "https://www.youtube.com/watch?v=HNabUUctCCQ"
+      "published_at": "2026-11-19T21:18:03Z",
+      "view_count": 13526,
+      "duration_minutes": 24,
+      "url": "https://www.youtube.com/watch?v=GWoMi5h2O5o"
     }
   ]
 }

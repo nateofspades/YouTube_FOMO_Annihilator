@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-11-24T19:44:32.726160Z",
+  "generated_at": "2026-11-25T18:52:07.962145Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@GitHub",
       "source_type": "Official company",
       "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
-      "recent_video_count": 14
+      "recent_video_count": 13
     },
     {
       "name": "Google for Developers",
@@ -32,21 +32,21 @@
       "handle": "@awsdevelopers",
       "source_type": "Official company",
       "channel_id": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "recent_video_count": 8
+      "recent_video_count": 6
     },
     {
       "name": "Google Cloud Tech",
       "handle": "@googlecloudtech",
       "source_type": "Official company",
       "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "recent_video_count": 16
+      "recent_video_count": 15
     },
     {
       "name": "Cloudflare",
       "handle": "UCgv3xMy6kECn0boYP9d2o-g",
       "source_type": "Official company",
       "channel_id": "UCgv3xMy6kECn0boYP9d2o-g",
-      "recent_video_count": 0
+      "recent_video_count": 2
     },
     {
       "name": "Docker",
@@ -60,42 +60,42 @@
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 589
+      "recent_video_count": 591
     },
     {
       "name": "GitLab",
       "handle": "@GitLab",
       "source_type": "Official company",
       "channel_id": "UCnMGQ8QHMAnVIsI3xJrihhg",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "JetBrains",
       "handle": "@JetBrainsTV",
       "source_type": "Official company",
       "channel_id": "UCGp4UBwpTNegd_4nCpuBcow",
-      "recent_video_count": 24
+      "recent_video_count": 17
     },
     {
       "name": "Fireship",
       "handle": "@Fireship",
       "source_type": "Independent creator",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "freeCodeCamp.org",
       "handle": "@freecodecamp",
       "source_type": "Research institution",
       "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Traversy Media",
       "handle": "@TraversyMedia",
       "source_type": "Independent creator",
       "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Web Dev Simplified",
@@ -125,7 +125,7 @@
       "handle": "@TechWorldwithNana",
       "source_type": "Independent creator",
       "channel_id": "UCdngmbVKX1Tgre699-XLlUA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Hussein Nasser",
@@ -146,7 +146,7 @@
       "handle": "@LaravelPHP",
       "source_type": "Official company",
       "channel_id": "UCfO2GiQwb-cwJTb1CuRSkwg",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Programming with Mosh",
@@ -167,14 +167,14 @@
       "handle": "UCSJbGtTlrDami-tDGPUV9-w",
       "source_type": "Additional curated source",
       "channel_id": "UCSJbGtTlrDami-tDGPUV9-w",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Kevin Powell",
       "handle": "UCJZv4d5rbIKd4QHMPkcABCw",
       "source_type": "Additional curated source",
       "channel_id": "UCJZv4d5rbIKd4QHMPkcABCw",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "The Coding Train",
@@ -258,7 +258,7 @@
       "handle": "UCmXmlB4-HJytD7wek0Uo97A",
       "source_type": "Additional curated source",
       "channel_id": "UCmXmlB4-HJytD7wek0Uo97A",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "ArjanCodes",
@@ -286,7 +286,7 @@
       "handle": "UCSWj8mqQCcrcBlXPi4ThRDQ",
       "source_type": "Additional curated source",
       "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
-      "recent_video_count": 14
+      "recent_video_count": 15
     },
     {
       "name": "Bret Fisher Docker and DevOps",
@@ -328,7 +328,7 @@
       "handle": "UC3RKA4vunFAfrfxiJhPEplw",
       "source_type": "Additional curated source",
       "channel_id": "UC3RKA4vunFAfrfxiJhPEplw",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Computerphile",
@@ -342,7 +342,7 @@
       "handle": "UC6biysICWOJ-C3P4Tyeggzg",
       "source_type": "Additional curated source",
       "channel_id": "UC6biysICWOJ-C3P4Tyeggzg",
-      "recent_video_count": 6
+      "recent_video_count": 4
     },
     {
       "name": "Syntax",
@@ -356,10 +356,10 @@
       "handle": "UCNTVzV1InxHV-YR0fSajqPQ",
       "source_type": "Additional curated source",
       "channel_id": "UCNTVzV1InxHV-YR0fSajqPQ",
-      "recent_video_count": 1
+      "recent_video_count": 2
     }
   ],
-  "candidate_count": 725,
+  "candidate_count": 720,
   "results": [
     {
       "video_id": "jP9yjEDlc4k",
@@ -368,7 +368,7 @@
       "channel_title": "Fireship",
       "source_type": "Independent creator",
       "published_at": "2026-11-23T19:14:30Z",
-      "view_count": 1232678,
+      "view_count": 1476755,
       "duration_minutes": 5,
       "url": "https://www.youtube.com/watch?v=jP9yjEDlc4k"
     },
@@ -379,20 +379,9 @@
       "channel_title": "KodeKloud",
       "source_type": "Additional curated source",
       "published_at": "2026-11-20T18:51:22Z",
-      "view_count": 211207,
+      "view_count": 221139,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=9wXdEXdKGbU"
-    },
-    {
-      "video_id": "ybe6EGe_wjo",
-      "title": "Learn Data Structures and Algorithms in Python with Visualizations",
-      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
-      "channel_title": "freeCodeCamp.org",
-      "source_type": "Research institution",
-      "published_at": "2026-11-18T12:37:46Z",
-      "view_count": 161043,
-      "duration_minutes": 146,
-      "url": "https://www.youtube.com/watch?v=ybe6EGe_wjo"
     },
     {
       "video_id": "2sS9XS-Fw90",
@@ -401,9 +390,20 @@
       "channel_title": "Google Cloud Tech",
       "source_type": "Official company",
       "published_at": "2026-11-19T17:00:13Z",
-      "view_count": 76984,
+      "view_count": 80397,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=2sS9XS-Fw90"
+    },
+    {
+      "video_id": "rCx4SCd4N-s",
+      "title": "Microsoft Azure AI Fundamentals (AI-901) Certification Course",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "channel_title": "freeCodeCamp.org",
+      "source_type": "Research institution",
+      "published_at": "2026-11-24T15:35:26Z",
+      "view_count": 51656,
+      "duration_minutes": 283,
+      "url": "https://www.youtube.com/watch?v=rCx4SCd4N-s"
     },
     {
       "video_id": "FI-3eCbVN9s",
@@ -412,9 +412,31 @@
       "channel_title": "Gaurav Sen",
       "source_type": "Additional curated source",
       "published_at": "2026-11-23T15:24:16Z",
-      "view_count": 42666,
+      "view_count": 49990,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=FI-3eCbVN9s"
+    },
+    {
+      "video_id": "NOvx9jRmZME",
+      "title": "The Dev Floor · Ep 1 (Part 2) – “The Issue With New Hires”",
+      "channel_id": "UCGp4UBwpTNegd_4nCpuBcow",
+      "channel_title": "JetBrains",
+      "source_type": "Official company",
+      "published_at": "2026-11-24T09:02:46Z",
+      "view_count": 45387,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=NOvx9jRmZME"
+    },
+    {
+      "video_id": "NNS4a9_nY44",
+      "title": "TypeScript Crash Course 2027: Everything You Need To Know",
+      "channel_id": "UC29ju8bIPH5as8OGnQzwJyA",
+      "channel_title": "Traversy Media",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-23T17:06:50Z",
+      "view_count": 41058,
+      "duration_minutes": 22,
+      "url": "https://www.youtube.com/watch?v=NNS4a9_nY44"
     },
     {
       "video_id": "oiCQqRYNgsg",
@@ -423,7 +445,7 @@
       "channel_title": "Docker",
       "source_type": "Official company",
       "published_at": "2026-11-19T17:00:02Z",
-      "view_count": 39023,
+      "view_count": 39542,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=oiCQqRYNgsg"
     },
@@ -434,7 +456,7 @@
       "channel_title": "Google for Developers",
       "source_type": "Official company",
       "published_at": "2026-11-20T20:00:04Z",
-      "view_count": 36802,
+      "view_count": 37840,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=WN-JK-hMAyg"
     },
@@ -445,31 +467,9 @@
       "channel_title": "JavaScript Mastery",
       "source_type": "Additional curated source",
       "published_at": "2026-11-20T13:00:15Z",
-      "view_count": 36147,
+      "view_count": 37443,
       "duration_minutes": 31,
       "url": "https://www.youtube.com/watch?v=dYUQY4LJoIg"
-    },
-    {
-      "video_id": "fLi2HivlhAI",
-      "title": "Convince us that Effect.ts is good",
-      "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
-      "channel_title": "Syntax",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-18T12:00:02Z",
-      "view_count": 34500,
-      "duration_minutes": 51,
-      "url": "https://www.youtube.com/watch?v=fLi2HivlhAI"
-    },
-    {
-      "video_id": "xoBm-KUZwHs",
-      "title": "How to Stay in Control When AI Writes Your Code",
-      "channel_id": "UCVhQ2NnY5Rskt6UjCUkJ_DA",
-      "channel_title": "ArjanCodes",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-20T16:00:36Z",
-      "view_count": 29988,
-      "duration_minutes": 21,
-      "url": "https://www.youtube.com/watch?v=xoBm-KUZwHs"
     }
   ]
 }

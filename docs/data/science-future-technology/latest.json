@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-24T19:44:32.726160Z",
+  "generated_at": "2026-11-25T18:52:07.962145Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -18,7 +18,7 @@
       "handle": "@veritasium",
       "source_type": "Independent creator",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "PBS Space Time",
@@ -67,21 +67,21 @@
       "handle": "@BostonDynamics",
       "source_type": "Official company",
       "channel_id": "UC7vVhkEfw4nOGp8TyDk7RcQ",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "NASA",
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "European Space Agency",
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "Cleo Abram",
@@ -202,7 +202,7 @@
       "handle": "UCEIwxahdLz7bap-VDs9h35A",
       "source_type": "Additional curated source",
       "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Technology Connections",
@@ -244,7 +244,7 @@
       "handle": "UCS0N5baNlQWJCUrhCEo8WlA",
       "source_type": "Additional curated source",
       "channel_id": "UCS0N5baNlQWJCUrhCEo8WlA",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "New Mind",
@@ -265,7 +265,7 @@
       "handle": "UC4QZ_LsYcvcq7qOsOhpAX4A",
       "source_type": "Additional curated source",
       "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Sabine Hossenfelder",
@@ -307,21 +307,21 @@
       "handle": "UCogrSQkBJn1KF0N9I4oM7eQ",
       "source_type": "Additional curated source",
       "channel_id": "UCogrSQkBJn1KF0N9I4oM7eQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "The Royal Institution",
       "handle": "UCYeF244yNGuFefuFKqxIAXw",
       "source_type": "Additional curated source",
       "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "New Scientist",
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 9
+      "recent_video_count": 7
     },
     {
       "name": "SpaceX",
@@ -335,7 +335,7 @@
       "handle": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
       "source_type": "Additional curated source",
       "channel_id": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
-      "recent_video_count": 3
+      "recent_video_count": 0
     },
     {
       "name": "Scott Manley",
@@ -359,7 +359,7 @@
       "recent_video_count": 2
     }
   ],
-  "candidate_count": 106,
+  "candidate_count": 102,
   "results": [
     {
       "video_id": "uXuQF_PPg5U",
@@ -368,20 +368,9 @@
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
       "published_at": "2026-11-18T20:29:44Z",
-      "view_count": 4061443,
+      "view_count": 4387949,
       "duration_minutes": 39,
       "url": "https://www.youtube.com/watch?v=uXuQF_PPg5U"
-    },
-    {
-      "video_id": "NiVGpee8M7s",
-      "title": "What Voyager 1 Found Beyond the Edge of Our Solar System",
-      "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
-      "channel_title": "Astrum",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-18T17:00:28Z",
-      "view_count": 2628832,
-      "duration_minutes": 31,
-      "url": "https://www.youtube.com/watch?v=NiVGpee8M7s"
     },
     {
       "video_id": "UlBFeDhGzx0",
@@ -390,7 +379,7 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-11-20T14:55:26Z",
-      "view_count": 2203766,
+      "view_count": 2287696,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=UlBFeDhGzx0"
     },
@@ -401,20 +390,9 @@
       "channel_title": "Technology Connections",
       "source_type": "Additional curated source",
       "published_at": "2026-11-19T14:59:21Z",
-      "view_count": 2032918,
+      "view_count": 2124648,
       "duration_minutes": 38,
       "url": "https://www.youtube.com/watch?v=FcbwVXk83U8"
-    },
-    {
-      "video_id": "wCRzZ0ccP_0",
-      "title": "AI Is Breaking Math. Will It Solve Physics Next?",
-      "channel_id": "UC7_gcs09iThXybpVgjHZ_7g",
-      "channel_title": "PBS Space Time",
-      "source_type": "Editorial/media",
-      "published_at": "2026-11-17T20:15:18Z",
-      "view_count": 1010788,
-      "duration_minutes": 25,
-      "url": "https://www.youtube.com/watch?v=wCRzZ0ccP_0"
     },
     {
       "video_id": "YuE19s4h5eU",
@@ -423,20 +401,9 @@
       "channel_title": "Anton Petrov",
       "source_type": "Additional curated source",
       "published_at": "2026-11-22T22:00:19Z",
-      "view_count": 939471,
+      "view_count": 1277449,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=YuE19s4h5eU"
-    },
-    {
-      "video_id": "h5xhE0Nur_o",
-      "title": "This El Niño Could Permanently Change Our World",
-      "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "channel_title": "New Scientist",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-18T17:59:46Z",
-      "view_count": 903606,
-      "duration_minutes": 41,
-      "url": "https://www.youtube.com/watch?v=h5xhE0Nur_o"
     },
     {
       "video_id": "5LKDAW7Xx4Y",
@@ -445,7 +412,7 @@
       "channel_title": "The Action Lab",
       "source_type": "Additional curated source",
       "published_at": "2026-11-21T16:02:12Z",
-      "view_count": 894566,
+      "view_count": 964763,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=5LKDAW7Xx4Y"
     },
@@ -456,7 +423,7 @@
       "channel_title": "Steve Mould",
       "source_type": "Additional curated source",
       "published_at": "2026-11-20T22:51:34Z",
-      "view_count": 818231,
+      "view_count": 863760,
       "duration_minutes": 19,
       "url": "https://www.youtube.com/watch?v=tDrGZPt4qIY"
     },
@@ -467,9 +434,42 @@
       "channel_title": "SmarterEveryDay",
       "source_type": "Independent creator",
       "published_at": "2026-11-23T15:00:07Z",
-      "view_count": 488337,
+      "view_count": 776101,
       "duration_minutes": 73,
       "url": "https://www.youtube.com/watch?v=J5xUnREwFhw"
+    },
+    {
+      "video_id": "cldstYb9RaA",
+      "title": "We Finally Saw a Supernova Exploding... And It Solved a Huge Mystery",
+      "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
+      "channel_title": "Astrum",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-24T17:00:07Z",
+      "view_count": 537058,
+      "duration_minutes": 52,
+      "url": "https://www.youtube.com/watch?v=cldstYb9RaA"
+    },
+    {
+      "video_id": "onzuuYXSNSc",
+      "title": "Investigating the Lightning @museumofscience",
+      "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "channel_title": "ElectroBOOM",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-22T16:00:00Z",
+      "view_count": 519350,
+      "duration_minutes": 20,
+      "url": "https://www.youtube.com/watch?v=onzuuYXSNSc"
+    },
+    {
+      "video_id": "CW0ncdqUQrg",
+      "title": "Solar Panels Are doing Something NO ONE Saw Coming...",
+      "channel_id": "UCEgYhf84VjXDz-W7a9-rdCQ",
+      "channel_title": "Two Bit da Vinci",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-21T12:47:20Z",
+      "view_count": 518241,
+      "duration_minutes": 20,
+      "url": "https://www.youtube.com/watch?v=CW0ncdqUQrg"
     }
   ]
 }

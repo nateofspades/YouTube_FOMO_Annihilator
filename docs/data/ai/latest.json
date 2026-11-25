@@ -1,7 +1,7 @@
 {
   "slug": "ai",
   "title": "AI news",
-  "generated_at": "2026-11-24T19:44:32.726160Z",
+  "generated_at": "2026-11-25T18:52:07.962145Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 2,
@@ -60,21 +60,21 @@
       "handle": "@TwoMinutePapers",
       "source_type": "AI-focused channel",
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Google DeepMind",
       "handle": "@googledeepmind",
       "source_type": "AI-focused channel",
       "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
-      "recent_video_count": 4
+      "recent_video_count": 2
     },
     {
       "name": "OpenAI",
       "handle": "@openai",
       "source_type": "AI-focused channel",
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "recent_video_count": 24
+      "recent_video_count": 26
     },
     {
       "name": "Anthropic",
@@ -95,21 +95,21 @@
       "handle": "UCqcbQf6yw5KzRoDDcZ_wBSw",
       "source_type": "AI-focused channel",
       "channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
-      "recent_video_count": 6
+      "recent_video_count": 4
     },
     {
       "name": "The AI Daily Brief",
       "handle": "UCKelCK4ZaO6HeEI1KQjqzWA",
       "source_type": "AI-focused channel",
       "channel_id": "UCKelCK4ZaO6HeEI1KQjqzWA",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Nate B Jones",
       "handle": "UC0C-17n9iuUQPylguM1d-lQ",
       "source_type": "AI-focused channel",
       "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "AI Search",
@@ -137,14 +137,14 @@
       "handle": "UCsBjURrPoezykLs9EqgamOA",
       "source_type": "AI-focused channel",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "IBM Technology",
       "handle": "UCKWaEZ-_VweaEx1j62do_vQ",
       "source_type": "AI-focused channel",
       "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "Theo - t3.gg",
@@ -165,7 +165,7 @@
       "handle": "UCZcR2SVWaGWNlMqPxvQS3vw",
       "source_type": "AI-focused channel",
       "channel_id": "UCZcR2SVWaGWNlMqPxvQS3vw",
-      "recent_video_count": 5
+      "recent_video_count": 8
     },
     {
       "name": "TechLinked",
@@ -179,28 +179,28 @@
       "handle": "UCOmcA3f_RrH6b9NmcNa4tdg",
       "source_type": "AI-focused channel",
       "channel_id": "UCOmcA3f_RrH6b9NmcNa4tdg",
-      "recent_video_count": 27
+      "recent_video_count": 24
     },
     {
       "name": "The Verge",
       "handle": "UCddiUEpeqJcYeBxX1IVBKvQ",
       "source_type": "AI-focused channel",
       "channel_id": "UCddiUEpeqJcYeBxX1IVBKvQ",
-      "recent_video_count": 17
+      "recent_video_count": 19
     },
     {
       "name": "Bloomberg Technology",
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "AI-focused channel",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 34
+      "recent_video_count": 30
     },
     {
       "name": "CNBC Television",
       "handle": "UCrp_UI8XtuYfpiqluWLD7Lw",
       "source_type": "AI-focused channel",
       "channel_id": "UCrp_UI8XtuYfpiqluWLD7Lw",
-      "recent_video_count": 250
+      "recent_video_count": 236
     },
     {
       "name": "TechCrunch",
@@ -228,7 +228,7 @@
       "handle": "UC8LUzR34nNX8KH3Edd0un1g",
       "source_type": "AI-focused channel",
       "channel_id": "UC8LUzR34nNX8KH3Edd0un1g",
-      "recent_video_count": 7
+      "recent_video_count": 8
     },
     {
       "name": "The AI Epiphany",
@@ -270,28 +270,28 @@
       "handle": "UCcIXc5mJsHVYTZR1maL5l9w",
       "source_type": "AI-focused channel",
       "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "NVIDIA",
       "handle": "UCHuiy8bXnmK5nisYHUd1J5g",
       "source_type": "AI-focused channel",
       "channel_id": "UCHuiy8bXnmK5nisYHUd1J5g",
-      "recent_video_count": 13
+      "recent_video_count": 11
     },
     {
       "name": "Microsoft",
       "handle": "UCFtEEv80fQVKkD4h1PF-Xqw",
       "source_type": "AI-focused channel",
       "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
-      "recent_video_count": 5
+      "recent_video_count": 2
     },
     {
       "name": "Google",
       "handle": "UCK8sQmJBp8GCxrOtXWBpyEA",
       "source_type": "AI-focused channel",
       "channel_id": "UCK8sQmJBp8GCxrOtXWBpyEA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Meta AI",
@@ -305,14 +305,14 @@
       "handle": "UC5-pBdfdA3KUo-vq72l-umA",
       "source_type": "AI-focused channel",
       "channel_id": "UC5-pBdfdA3KUo-vq72l-umA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Perplexity",
       "handle": "UCYqxnCFtaC4-iC_bwt2bRLg",
       "source_type": "AI-focused channel",
       "channel_id": "UCYqxnCFtaC4-iC_bwt2bRLg",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Stability AI",
@@ -350,19 +350,8 @@
       "recent_video_count": 5
     }
   ],
-  "candidate_count": 509,
+  "candidate_count": 484,
   "results": [
-    {
-      "video_id": "uJG53ligJt4",
-      "title": "NVIDIA SC26 Special Address",
-      "channel_id": "UCHuiy8bXnmK5nisYHUd1J5g",
-      "channel_title": "NVIDIA",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-11-18T18:36:18Z",
-      "view_count": 7550467,
-      "duration_minutes": 48,
-      "url": "https://www.youtube.com/watch?v=uJG53ligJt4"
-    },
     {
       "video_id": "jP9yjEDlc4k",
       "title": "Opus just lost to the last company you'd expect...",
@@ -370,20 +359,31 @@
       "channel_title": "Fireship",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-23T19:14:30Z",
-      "view_count": 1232678,
+      "view_count": 1476755,
       "duration_minutes": 5,
       "url": "https://www.youtube.com/watch?v=jP9yjEDlc4k"
     },
     {
-      "video_id": "ZR4v1c4CClc",
-      "title": "Microsoft Ignite: Opening Keynote 2026",
-      "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
-      "channel_title": "Microsoft",
+      "video_id": "5dsUNJHZmxk",
+      "title": "‘Big Short’ investor Steve Eisman on Nvidia: This whole story has the whiff of corruption about it",
+      "channel_id": "UCrp_UI8XtuYfpiqluWLD7Lw",
+      "channel_title": "CNBC Television",
       "source_type": "AI-focused channel",
-      "published_at": "2026-11-17T20:38:29Z",
-      "view_count": 840938,
-      "duration_minutes": 146,
-      "url": "https://www.youtube.com/watch?v=ZR4v1c4CClc"
+      "published_at": "2026-11-24T13:41:52Z",
+      "view_count": 702925,
+      "duration_minutes": 8,
+      "url": "https://www.youtube.com/watch?v=5dsUNJHZmxk"
+    },
+    {
+      "video_id": "FORdPIWOH5k",
+      "title": "Is Gemini our path to AGI?",
+      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "channel_title": "Google DeepMind",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-11-19T19:58:06Z",
+      "view_count": 648533,
+      "duration_minutes": 47,
+      "url": "https://www.youtube.com/watch?v=FORdPIWOH5k"
     },
     {
       "video_id": "6WD2dZsJU9I",
@@ -392,20 +392,9 @@
       "channel_title": "TechLinked",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-19T02:27:11Z",
-      "view_count": 574070,
+      "view_count": 577333,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=6WD2dZsJU9I"
-    },
-    {
-      "video_id": "HQlk9RGx2dk",
-      "title": "Where was Google hiding this?",
-      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
-      "channel_title": "Theo - t3․gg",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-11-20T15:40:19Z",
-      "view_count": 519107,
-      "duration_minutes": 33,
-      "url": "https://www.youtube.com/watch?v=HQlk9RGx2dk"
     },
     {
       "video_id": "sof3vW4mHTs",
@@ -414,20 +403,31 @@
       "channel_title": "Anthropic",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-19T21:03:23Z",
-      "view_count": 511374,
+      "view_count": 539727,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=sof3vW4mHTs"
     },
     {
-      "video_id": "DvJ6rp5Rwo4",
-      "title": "This is a pretty healthy correction in tech, says Fundstrat's Tom Lee",
-      "channel_id": "UCrp_UI8XtuYfpiqluWLD7Lw",
-      "channel_title": "CNBC Television",
+      "video_id": "HQlk9RGx2dk",
+      "title": "Where was Google hiding this?",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "channel_title": "Theo - t3․gg",
       "source_type": "AI-focused channel",
-      "published_at": "2026-11-19T21:04:39Z",
-      "view_count": 343117,
-      "duration_minutes": 5,
-      "url": "https://www.youtube.com/watch?v=DvJ6rp5Rwo4"
+      "published_at": "2026-11-20T15:40:19Z",
+      "view_count": 531849,
+      "duration_minutes": 33,
+      "url": "https://www.youtube.com/watch?v=HQlk9RGx2dk"
+    },
+    {
+      "video_id": "h4tHDFCPmQE",
+      "title": "Vibe Coding vs. Agentic Coding: Which Should You Use?",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "channel_title": "IBM Technology",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-11-23T12:00:09Z",
+      "view_count": 280099,
+      "duration_minutes": 9,
+      "url": "https://www.youtube.com/watch?v=h4tHDFCPmQE"
     },
     {
       "video_id": "5eON_8rgKzk",
@@ -436,7 +436,7 @@
       "channel_title": "Matthew Berman",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-20T02:37:36Z",
-      "view_count": 275272,
+      "view_count": 278708,
       "duration_minutes": 10,
       "url": "https://www.youtube.com/watch?v=5eON_8rgKzk"
     },
@@ -447,20 +447,20 @@
       "channel_title": "TheAIGRID",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-20T23:45:37Z",
-      "view_count": 259903,
+      "view_count": 261546,
       "duration_minutes": 30,
       "url": "https://www.youtube.com/watch?v=DFexUtE1vVA"
     },
     {
-      "video_id": "FORdPIWOH5k",
-      "title": "Is Gemini our path to AGI?",
-      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
-      "channel_title": "Google DeepMind",
+      "video_id": "bj3JTd-ezYg",
+      "title": "Riemann solved, unforced Navier-Stokes, realtime waifus, new GPT, Gemini Neon: AI NEWS",
+      "channel_id": "UCIgnGlGkVRhd4qNFcEwLL4A",
+      "channel_title": "AI Search",
       "source_type": "AI-focused channel",
-      "published_at": "2026-11-19T19:58:06Z",
-      "view_count": 257462,
-      "duration_minutes": 47,
-      "url": "https://www.youtube.com/watch?v=FORdPIWOH5k"
+      "published_at": "2026-11-22T03:30:59Z",
+      "view_count": 253582,
+      "duration_minutes": 34,
+      "url": "https://www.youtube.com/watch?v=bj3JTd-ezYg"
     }
   ]
 }
