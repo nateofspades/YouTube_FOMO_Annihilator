@@ -1,7 +1,7 @@
 {
   "slug": "science-future-technology",
   "title": "Science and future technology",
-  "generated_at": "2026-11-25T18:52:07.962145Z",
+  "generated_at": "2026-11-26T18:40:46.537281Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -60,7 +60,7 @@
       "handle": "@hacksmith",
       "source_type": "Official company",
       "channel_id": "UCjgpFI5dU-D1-kh9H1muoxQ",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Boston Dynamics",
@@ -74,21 +74,21 @@
       "handle": "@NASA",
       "source_type": "Government",
       "channel_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "European Space Agency",
       "handle": "@EuropeanSpaceAgency",
       "source_type": "Government",
       "channel_id": "UCIBaDdAbGlFDeS33shmlD0A",
-      "recent_video_count": 9
+      "recent_video_count": 13
     },
     {
       "name": "Cleo Abram",
       "handle": "@CleoAbram",
       "source_type": "Editorial/media",
       "channel_id": "UC415bOPUcGSamy543abLmRA",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Undecided",
@@ -102,7 +102,7 @@
       "handle": "@fullychargedshow",
       "source_type": "Editorial/media",
       "channel_id": "UCzz4CoEgSgWNs9ZAvRMhW2A",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "IBM Research",
@@ -209,7 +209,7 @@
       "handle": "UCy0tKL1T7wFoYcxCe0xjN6Q",
       "source_type": "Additional curated source",
       "channel_id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Stuff Made Here",
@@ -230,7 +230,7 @@
       "handle": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
       "source_type": "Additional curated source",
       "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "GreatScott!",
@@ -251,7 +251,7 @@
       "handle": "UC5_Y-BKzq1uW_2rexWkUzlA",
       "source_type": "Additional curated source",
       "channel_id": "UC5_Y-BKzq1uW_2rexWkUzlA",
-      "recent_video_count": 0
+      "recent_video_count": 1
     },
     {
       "name": "Asianometry",
@@ -272,7 +272,7 @@
       "handle": "UC1yNl2E66ZzKApQdRuTQ4tw",
       "source_type": "Additional curated source",
       "channel_id": "UC1yNl2E66ZzKApQdRuTQ4tw",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Anton Petrov",
@@ -286,14 +286,14 @@
       "handle": "UCYNbYGl89UUowy8oXkipC-Q",
       "source_type": "Additional curated source",
       "channel_id": "UCYNbYGl89UUowy8oXkipC-Q",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Astrum",
       "handle": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "source_type": "Additional curated source",
       "channel_id": "UC-9b7aDP6ZN0coj9-xFnrtw",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "StarTalk",
@@ -307,21 +307,21 @@
       "handle": "UCogrSQkBJn1KF0N9I4oM7eQ",
       "source_type": "Additional curated source",
       "channel_id": "UCogrSQkBJn1KF0N9I4oM7eQ",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "The Royal Institution",
       "handle": "UCYeF244yNGuFefuFKqxIAXw",
       "source_type": "Additional curated source",
       "channel_id": "UCYeF244yNGuFefuFKqxIAXw",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "New Scientist",
       "handle": "UCt5OA3LingpZBeEyPYmputQ",
       "source_type": "Additional curated source",
       "channel_id": "UCt5OA3LingpZBeEyPYmputQ",
-      "recent_video_count": 7
+      "recent_video_count": 9
     },
     {
       "name": "SpaceX",
@@ -342,7 +342,7 @@
       "handle": "UCxzC4EngIsMrPmbm6Nxvb-A",
       "source_type": "Additional curated source",
       "channel_id": "UCxzC4EngIsMrPmbm6Nxvb-A",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "Primal Space",
@@ -356,21 +356,21 @@
       "handle": "UCsooa4yRKGN_zEE8iknghZA",
       "source_type": "Additional curated source",
       "channel_id": "UCsooa4yRKGN_zEE8iknghZA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     }
   ],
-  "candidate_count": 102,
+  "candidate_count": 108,
   "results": [
     {
-      "video_id": "uXuQF_PPg5U",
-      "title": "Randomness is a lie. Let me explain",
+      "video_id": "WbM7GP7QoEM",
+      "title": "Scientists Said This Wave Was Impossible",
       "channel_id": "UCHnyfMqiRRG1u-2MsSQLbXA",
       "channel_title": "Veritasium",
       "source_type": "Independent creator",
-      "published_at": "2026-11-18T20:29:44Z",
-      "view_count": 4387949,
-      "duration_minutes": 39,
-      "url": "https://www.youtube.com/watch?v=uXuQF_PPg5U"
+      "published_at": "2026-11-25T14:00:52Z",
+      "view_count": 5701171,
+      "duration_minutes": 28,
+      "url": "https://www.youtube.com/watch?v=WbM7GP7QoEM"
     },
     {
       "video_id": "UlBFeDhGzx0",
@@ -379,20 +379,9 @@
       "channel_title": "Cleo Abram",
       "source_type": "Editorial/media",
       "published_at": "2026-11-20T14:55:26Z",
-      "view_count": 2287696,
+      "view_count": 2383378,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=UlBFeDhGzx0"
-    },
-    {
-      "video_id": "FcbwVXk83U8",
-      "title": "It's a Fiber Optic Christmas (or... was)",
-      "channel_id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
-      "channel_title": "Technology Connections",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-19T14:59:21Z",
-      "view_count": 2124648,
-      "duration_minutes": 38,
-      "url": "https://www.youtube.com/watch?v=FcbwVXk83U8"
     },
     {
       "video_id": "YuE19s4h5eU",
@@ -401,7 +390,7 @@
       "channel_title": "Anton Petrov",
       "source_type": "Additional curated source",
       "published_at": "2026-11-22T22:00:19Z",
-      "view_count": 1277449,
+      "view_count": 1447840,
       "duration_minutes": 15,
       "url": "https://www.youtube.com/watch?v=YuE19s4h5eU"
     },
@@ -412,20 +401,9 @@
       "channel_title": "The Action Lab",
       "source_type": "Additional curated source",
       "published_at": "2026-11-21T16:02:12Z",
-      "view_count": 964763,
+      "view_count": 1010635,
       "duration_minutes": 12,
       "url": "https://www.youtube.com/watch?v=5LKDAW7Xx4Y"
-    },
-    {
-      "video_id": "tDrGZPt4qIY",
-      "title": "The Worst Possible Swing Technique",
-      "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
-      "channel_title": "Steve Mould",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-20T22:51:34Z",
-      "view_count": 863760,
-      "duration_minutes": 19,
-      "url": "https://www.youtube.com/watch?v=tDrGZPt4qIY"
     },
     {
       "video_id": "J5xUnREwFhw",
@@ -434,9 +412,31 @@
       "channel_title": "SmarterEveryDay",
       "source_type": "Independent creator",
       "published_at": "2026-11-23T15:00:07Z",
-      "view_count": 776101,
+      "view_count": 923897,
       "duration_minutes": 73,
       "url": "https://www.youtube.com/watch?v=J5xUnREwFhw"
+    },
+    {
+      "video_id": "tDrGZPt4qIY",
+      "title": "The Worst Possible Swing Technique",
+      "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
+      "channel_title": "Steve Mould",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-20T22:51:34Z",
+      "view_count": 891002,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=tDrGZPt4qIY"
+    },
+    {
+      "video_id": "UWvObtGg6Rk",
+      "title": "Something Strange is Going on With NVIDIA",
+      "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
+      "channel_title": "ColdFusion",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-25T16:27:29Z",
+      "view_count": 787483,
+      "duration_minutes": 19,
+      "url": "https://www.youtube.com/watch?v=UWvObtGg6Rk"
     },
     {
       "video_id": "cldstYb9RaA",
@@ -445,20 +445,9 @@
       "channel_title": "Astrum",
       "source_type": "Additional curated source",
       "published_at": "2026-11-24T17:00:07Z",
-      "view_count": 537058,
+      "view_count": 753540,
       "duration_minutes": 52,
       "url": "https://www.youtube.com/watch?v=cldstYb9RaA"
-    },
-    {
-      "video_id": "onzuuYXSNSc",
-      "title": "Investigating the Lightning @museumofscience",
-      "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
-      "channel_title": "ElectroBOOM",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-22T16:00:00Z",
-      "view_count": 519350,
-      "duration_minutes": 20,
-      "url": "https://www.youtube.com/watch?v=onzuuYXSNSc"
     },
     {
       "video_id": "CW0ncdqUQrg",
@@ -467,9 +456,20 @@
       "channel_title": "Two Bit da Vinci",
       "source_type": "Independent creator",
       "published_at": "2026-11-21T12:47:20Z",
-      "view_count": 518241,
+      "view_count": 573110,
       "duration_minutes": 20,
       "url": "https://www.youtube.com/watch?v=CW0ncdqUQrg"
+    },
+    {
+      "video_id": "onzuuYXSNSc",
+      "title": "Investigating the Lightning @museumofscience",
+      "channel_id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "channel_title": "ElectroBOOM",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-22T16:00:00Z",
+      "view_count": 543737,
+      "duration_minutes": 20,
+      "url": "https://www.youtube.com/watch?v=onzuuYXSNSc"
     }
   ]
 }

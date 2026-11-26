@@ -1,7 +1,7 @@
 {
   "slug": "emerging-businesses-startups",
   "title": "Emerging businesses and startups",
-  "generated_at": "2026-11-25T18:52:07.962145Z",
+  "generated_at": "2026-11-26T18:40:46.537281Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -11,7 +11,7 @@
       "handle": "@ycombinator",
       "source_type": "Accelerator",
       "channel_id": "UCcefcZRL2oaA_uBNeo5UOWg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "TechCrunch",
@@ -25,7 +25,7 @@
       "handle": "@a16z",
       "source_type": "Venture capital",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 7
+      "recent_video_count": 4
     },
     {
       "name": "Sequoia Capital",
@@ -46,14 +46,14 @@
       "handle": "@LennysPodcast",
       "source_type": "Independent creator",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 9
+      "recent_video_count": 10
     },
     {
       "name": "20VC",
       "handle": "@20vc",
       "source_type": "Venture capital",
       "channel_id": "UCf0PBRjhf0rF8fWBIxTuoWA",
-      "recent_video_count": 9
+      "recent_video_count": 11
     },
     {
       "name": "Acquired",
@@ -67,14 +67,14 @@
       "handle": "@mastersofscale_",
       "source_type": "Editorial/media",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 11
+      "recent_video_count": 8
     },
     {
       "name": "My First Million",
       "handle": "@myfirstmillionpod",
       "source_type": "Independent creator",
       "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "MicroConf",
@@ -95,21 +95,21 @@
       "handle": "@Slidebean",
       "source_type": "Official company",
       "channel_id": "UC4bq21IPPbpu0Qrsl7LW0sw",
-      "recent_video_count": 5
+      "recent_video_count": 3
     },
     {
       "name": "Bessemer Venture Partners",
       "handle": "@BessemerVenturePartners",
       "source_type": "Venture capital",
       "channel_id": "UCKuHAxZoh99t8uyPQhoDR3A",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Antler Global",
       "handle": "@Antlerglobal",
       "source_type": "Venture capital",
       "channel_id": "UCNZ4UuDLoboBZimPDKq-0PA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Khosla Ventures",
@@ -130,7 +130,7 @@
       "handle": "UC6hlQ0x6kPbAGjYkoz53cvA",
       "source_type": "Official company",
       "channel_id": "UC6hlQ0x6kPbAGjYkoz53cvA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Startup Grind",
@@ -151,7 +151,7 @@
       "handle": "UChhw6DlKKTQ9mYSpTfXUYqA",
       "source_type": "Additional curated source",
       "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
-      "recent_video_count": 8
+      "recent_video_count": 9
     },
     {
       "name": "Greg Isenberg",
@@ -165,7 +165,7 @@
       "handle": "UC-DRzaGnL_vtBUpCFH5M0tg",
       "source_type": "Additional curated source",
       "channel_id": "UC-DRzaGnL_vtBUpCFH5M0tg",
-      "recent_video_count": 20
+      "recent_video_count": 18
     },
     {
       "name": "The Logan Bartlett Show",
@@ -200,7 +200,7 @@
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "Additional curated source",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 30
+      "recent_video_count": 25
     },
     {
       "name": "PitchBook",
@@ -242,7 +242,7 @@
       "handle": "UC_oji6l_-xwhmZqCxRGuAXw",
       "source_type": "Additional curated source",
       "channel_id": "UC_oji6l_-xwhmZqCxRGuAXw",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "Lightspeed Venture Partners",
@@ -277,7 +277,7 @@
       "handle": "UCZ7x7yDBbEFCGztD8BYvRhA",
       "source_type": "Additional curated source",
       "channel_id": "UCZ7x7yDBbEFCGztD8BYvRhA",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "Insight Partners",
@@ -326,7 +326,7 @@
       "handle": "UC12JO2IPlEViR-o6SLXKx1A",
       "source_type": "Additional curated source",
       "channel_id": "UC12JO2IPlEViR-o6SLXKx1A",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Arvid Kahl",
@@ -350,7 +350,7 @@
       "recent_video_count": 5
     }
   ],
-  "candidate_count": 182,
+  "candidate_count": 165,
   "results": [
     {
       "video_id": "TtOoLanFzGw",
@@ -359,20 +359,9 @@
       "channel_title": "a16z",
       "source_type": "Venture capital",
       "published_at": "2026-11-20T15:39:04Z",
-      "view_count": 297520,
+      "view_count": 314752,
       "duration_minutes": 52,
       "url": "https://www.youtube.com/watch?v=TtOoLanFzGw"
-    },
-    {
-      "video_id": "bHe4q7CfcIA",
-      "title": "Jensen Huang Returns to Nvidia Offices",
-      "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "channel_title": "Bloomberg Tech",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-23T21:54:45Z",
-      "view_count": 127368,
-      "duration_minutes": 0,
-      "url": "https://www.youtube.com/watch?v=bHe4q7CfcIA"
     },
     {
       "video_id": "Ki1QMLMkt0A",
@@ -381,7 +370,7 @@
       "channel_title": "Slidebean",
       "source_type": "Official company",
       "published_at": "2026-11-25T02:01:19Z",
-      "view_count": 119666,
+      "view_count": 234726,
       "duration_minutes": 34,
       "url": "https://www.youtube.com/watch?v=Ki1QMLMkt0A"
     },
@@ -392,42 +381,53 @@
       "channel_title": "Y Combinator",
       "source_type": "Accelerator",
       "published_at": "2026-11-24T15:00:08Z",
-      "view_count": 97408,
+      "view_count": 197126,
       "duration_minutes": 16,
       "url": "https://www.youtube.com/watch?v=-ieJwYq4j-o"
     },
     {
-      "video_id": "vKobP6DkC1E",
-      "title": "Build a 1 Person Media Machine With Grok Bot",
-      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
-      "channel_title": "Greg Isenberg",
+      "video_id": "bHe4q7CfcIA",
+      "title": "Jensen Huang Returns to Nvidia Offices",
+      "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
+      "channel_title": "Bloomberg Tech",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-18T22:10:02Z",
-      "view_count": 90858,
-      "duration_minutes": 51,
-      "url": "https://www.youtube.com/watch?v=vKobP6DkC1E"
+      "published_at": "2026-11-23T21:54:45Z",
+      "view_count": 129992,
+      "duration_minutes": 0,
+      "url": "https://www.youtube.com/watch?v=bHe4q7CfcIA"
     },
     {
-      "video_id": "yb5MSmJ6WBM",
-      "title": "The Hidden GTA VI Cash Cow",
-      "channel_id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
-      "channel_title": "Codie Sanchez",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-19T18:04:22Z",
-      "view_count": 84760,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=yb5MSmJ6WBM"
-    },
-    {
-      "video_id": "Ko-rV1vj-Tk",
-      "title": "Inside California’s Modern-Day Gold Rush",
+      "video_id": "z9Cd0WqlFwQ",
+      "title": "I Make $323K/Year In DC – And Spend Less Than $20K/Year",
       "channel_id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
       "channel_title": "CNBC Make It",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-21T15:00:30Z",
-      "view_count": 77209,
-      "duration_minutes": 18,
-      "url": "https://www.youtube.com/watch?v=Ko-rV1vj-Tk"
+      "published_at": "2026-11-25T17:00:09Z",
+      "view_count": 127723,
+      "duration_minutes": 8,
+      "url": "https://www.youtube.com/watch?v=z9Cd0WqlFwQ"
+    },
+    {
+      "video_id": "ZoklIEHm9K8",
+      "title": "10 things that will dramatically improve the quality of your life (under $100)",
+      "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+      "channel_title": "Dan Martell",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-25T14:00:27Z",
+      "view_count": 113254,
+      "duration_minutes": 26,
+      "url": "https://www.youtube.com/watch?v=ZoklIEHm9K8"
+    },
+    {
+      "video_id": "tCY7zMknCJQ",
+      "title": "Gemini 4 Neon: the most underrated model of the year",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "channel_title": "Greg Isenberg",
+      "source_type": "Additional curated source",
+      "published_at": "2026-11-20T23:45:43Z",
+      "view_count": 82325,
+      "duration_minutes": 16,
+      "url": "https://www.youtube.com/watch?v=tCY7zMknCJQ"
     },
     {
       "video_id": "H15B1j0SAmI",
@@ -436,31 +436,31 @@
       "channel_title": "My First Million",
       "source_type": "Independent creator",
       "published_at": "2026-11-23T14:00:38Z",
-      "view_count": 56859,
+      "view_count": 62737,
       "duration_minutes": 51,
       "url": "https://www.youtube.com/watch?v=H15B1j0SAmI"
     },
     {
-      "video_id": "h92qG1zAcG0",
-      "title": "Anthropic IPO: The AI World Wonder | Bessemer Venture Partners",
-      "channel_id": "UCKuHAxZoh99t8uyPQhoDR3A",
-      "channel_title": "Bessemer Venture Partners",
-      "source_type": "Venture capital",
-      "published_at": "2026-11-19T16:53:37Z",
-      "view_count": 53147,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=h92qG1zAcG0"
+      "video_id": "hRtmV1mCBSE",
+      "title": "Why “everyone becoming a builder” isn't working",
+      "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
+      "channel_title": "Lenny's Podcast",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-22T13:30:32Z",
+      "view_count": 58112,
+      "duration_minutes": 82,
+      "url": "https://www.youtube.com/watch?v=hRtmV1mCBSE"
     },
     {
-      "video_id": "6g6cHbZNk2U",
-      "title": "I launched my 43rd startup in Dubai",
-      "channel_id": "UC12JO2IPlEViR-o6SLXKx1A",
-      "channel_title": "Marc Lou",
-      "source_type": "Additional curated source",
-      "published_at": "2026-11-19T11:15:37Z",
-      "view_count": 49721,
-      "duration_minutes": 13,
-      "url": "https://www.youtube.com/watch?v=6g6cHbZNk2U"
+      "video_id": "w0oOxs0WKNk",
+      "title": "Jensen Huang, AI & Why Founders Are Irreplaceable | Tobi Lütke, Shopify",
+      "channel_id": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "channel_title": "David Senra",
+      "source_type": "Independent creator",
+      "published_at": "2026-11-22T13:00:05Z",
+      "view_count": 45896,
+      "duration_minutes": 70,
+      "url": "https://www.youtube.com/watch?v=w0oOxs0WKNk"
     }
   ]
 }
