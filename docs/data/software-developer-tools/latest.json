@@ -1,7 +1,7 @@
 {
   "slug": "software-developer-tools",
   "title": "Software and developer tools",
-  "generated_at": "2026-11-26T18:40:46.537281Z",
+  "generated_at": "2026-11-27T18:30:27.086471Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -32,14 +32,14 @@
       "handle": "@awsdevelopers",
       "source_type": "Official company",
       "channel_id": "UCT-nPlVzJI-ccQXlxjSvJmw",
-      "recent_video_count": 4
+      "recent_video_count": 2
     },
     {
       "name": "Google Cloud Tech",
       "handle": "@googlecloudtech",
       "source_type": "Official company",
       "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
-      "recent_video_count": 13
+      "recent_video_count": 11
     },
     {
       "name": "Cloudflare",
@@ -60,7 +60,7 @@
       "handle": "@cncf",
       "source_type": "Research institution",
       "channel_id": "UCvqbFHwN-nwalWPjPUKpvTA",
-      "recent_video_count": 589
+      "recent_video_count": 380
     },
     {
       "name": "GitLab",
@@ -74,14 +74,14 @@
       "handle": "@JetBrainsTV",
       "source_type": "Official company",
       "channel_id": "UCGp4UBwpTNegd_4nCpuBcow",
-      "recent_video_count": 18
+      "recent_video_count": 16
     },
     {
       "name": "Fireship",
       "handle": "@Fireship",
       "source_type": "Independent creator",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "freeCodeCamp.org",
@@ -146,7 +146,7 @@
       "handle": "@LaravelPHP",
       "source_type": "Official company",
       "channel_id": "UCfO2GiQwb-cwJTb1CuRSkwg",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Programming with Mosh",
@@ -167,7 +167,7 @@
       "handle": "UCSJbGtTlrDami-tDGPUV9-w",
       "source_type": "Additional curated source",
       "channel_id": "UCSJbGtTlrDami-tDGPUV9-w",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Kevin Powell",
@@ -202,7 +202,7 @@
       "handle": "UC2KfmYEM4KCuA1ZurravgYw",
       "source_type": "Additional curated source",
       "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
-      "recent_video_count": 3
+      "recent_video_count": 2
     },
     {
       "name": "CodeAesthetic",
@@ -258,7 +258,7 @@
       "handle": "UCmXmlB4-HJytD7wek0Uo97A",
       "source_type": "Additional curated source",
       "channel_id": "UCmXmlB4-HJytD7wek0Uo97A",
-      "recent_video_count": 11
+      "recent_video_count": 12
     },
     {
       "name": "ArjanCodes",
@@ -342,14 +342,14 @@
       "handle": "UC6biysICWOJ-C3P4Tyeggzg",
       "source_type": "Additional curated source",
       "channel_id": "UC6biysICWOJ-C3P4Tyeggzg",
-      "recent_video_count": 2
+      "recent_video_count": 0
     },
     {
       "name": "Syntax",
       "handle": "UCyU5wkjgQYGRB0hIHMwm2Sg",
       "source_type": "Additional curated source",
       "channel_id": "UCyU5wkjgQYGRB0hIHMwm2Sg",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Supabase",
@@ -359,18 +359,18 @@
       "recent_video_count": 1
     }
   ],
-  "candidate_count": 712,
+  "candidate_count": 495,
   "results": [
     {
-      "video_id": "jP9yjEDlc4k",
-      "title": "Opus just lost to the last company you'd expect...",
+      "video_id": "Jatwf_XOncE",
+      "title": "17 million lines of AI slop just cracked a 167-year-old math problem...",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
       "channel_title": "Fireship",
       "source_type": "Independent creator",
-      "published_at": "2026-11-23T19:14:30Z",
-      "view_count": 1596119,
-      "duration_minutes": 5,
-      "url": "https://www.youtube.com/watch?v=jP9yjEDlc4k"
+      "published_at": "2026-11-25T17:19:51Z",
+      "view_count": 1700034,
+      "duration_minutes": 6,
+      "url": "https://www.youtube.com/watch?v=Jatwf_XOncE"
     },
     {
       "video_id": "9wXdEXdKGbU",
@@ -379,7 +379,7 @@
       "channel_title": "KodeKloud",
       "source_type": "Additional curated source",
       "published_at": "2026-11-20T18:51:22Z",
-      "view_count": 227302,
+      "view_count": 232181,
       "duration_minutes": 3,
       "url": "https://www.youtube.com/watch?v=9wXdEXdKGbU"
     },
@@ -390,7 +390,7 @@
       "channel_title": "Traversy Media",
       "source_type": "Independent creator",
       "published_at": "2026-11-25T15:40:35Z",
-      "view_count": 71350,
+      "view_count": 102670,
       "duration_minutes": 11,
       "url": "https://www.youtube.com/watch?v=6Qk9X1qzcm4"
     },
@@ -401,7 +401,7 @@
       "channel_title": "JetBrains",
       "source_type": "Official company",
       "published_at": "2026-11-24T09:02:46Z",
-      "view_count": 64975,
+      "view_count": 75623,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=NOvx9jRmZME"
     },
@@ -412,7 +412,7 @@
       "channel_title": "freeCodeCamp.org",
       "source_type": "Research institution",
       "published_at": "2026-11-24T15:35:26Z",
-      "view_count": 60616,
+      "view_count": 65754,
       "duration_minutes": 283,
       "url": "https://www.youtube.com/watch?v=rCx4SCd4N-s"
     },
@@ -423,7 +423,7 @@
       "channel_title": "Gaurav Sen",
       "source_type": "Additional curated source",
       "published_at": "2026-11-23T15:24:16Z",
-      "view_count": 55570,
+      "view_count": 59584,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=FI-3eCbVN9s"
     },
@@ -434,9 +434,20 @@
       "channel_title": "Google Cloud Tech",
       "source_type": "Official company",
       "published_at": "2026-11-23T17:04:05Z",
-      "view_count": 53393,
+      "view_count": 58137,
       "duration_minutes": 28,
       "url": "https://www.youtube.com/watch?v=BKVDdL1InsA"
+    },
+    {
+      "video_id": "fpQcDQJQLhg",
+      "title": "Google Antigravity in action: Building an offline wildlife field guide",
+      "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "channel_title": "Google for Developers",
+      "source_type": "Official company",
+      "published_at": "2026-11-23T20:00:28Z",
+      "view_count": 49088,
+      "duration_minutes": 1,
+      "url": "https://www.youtube.com/watch?v=fpQcDQJQLhg"
     },
     {
       "video_id": "ICLA157JrpM",
@@ -445,31 +456,20 @@
       "channel_title": "Christian Lempa",
       "source_type": "Additional curated source",
       "published_at": "2026-11-24T15:00:38Z",
-      "view_count": 39466,
+      "view_count": 44579,
       "duration_minutes": 26,
       "url": "https://www.youtube.com/watch?v=ICLA157JrpM"
     },
     {
-      "video_id": "WN-JK-hMAyg",
-      "title": "Google Antigravity and Gemini 4: Creating an interactive MIDI mapped 3D world",
-      "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
-      "channel_title": "Google for Developers",
-      "source_type": "Official company",
-      "published_at": "2026-11-20T20:00:04Z",
-      "view_count": 38792,
-      "duration_minutes": 1,
-      "url": "https://www.youtube.com/watch?v=WN-JK-hMAyg"
-    },
-    {
-      "video_id": "dYUQY4LJoIg",
-      "title": "GTA 6 Took 13 Years. Your Portfolio Takes 30 Minutes.",
-      "channel_id": "UCmXmlB4-HJytD7wek0Uo97A",
-      "channel_title": "JavaScript Mastery",
+      "video_id": "UAZt9y_EMGY",
+      "title": "I'm done Coding with AI",
+      "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
+      "channel_title": "Amigoscode",
       "source_type": "Additional curated source",
-      "published_at": "2026-11-20T13:00:15Z",
-      "view_count": 38656,
-      "duration_minutes": 31,
-      "url": "https://www.youtube.com/watch?v=dYUQY4LJoIg"
+      "published_at": "2026-11-23T17:00:08Z",
+      "view_count": 41410,
+      "duration_minutes": 15,
+      "url": "https://www.youtube.com/watch?v=UAZt9y_EMGY"
     }
   ]
 }

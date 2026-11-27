@@ -1,7 +1,7 @@
 {
   "slug": "ai",
   "title": "AI news",
-  "generated_at": "2026-11-26T18:40:46.537281Z",
+  "generated_at": "2026-11-27T18:30:27.086471Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 2,
@@ -11,7 +11,7 @@
       "handle": "@aiexplained-official",
       "source_type": "AI-focused channel",
       "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Matt Wolfe",
@@ -39,14 +39,14 @@
       "handle": "@AllAboutAI",
       "source_type": "AI-focused channel",
       "channel_id": "UCR9j1jqqB5Rse69wjUnbYwA",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "The AI Advantage",
       "handle": "@aiadvantage",
       "source_type": "AI-focused channel",
       "channel_id": "UCHhYXsLBEVVnbvsq57n1MTQ",
-      "recent_video_count": 4
+      "recent_video_count": 5
     },
     {
       "name": "Aitrepreneur",
@@ -60,35 +60,35 @@
       "handle": "@TwoMinutePapers",
       "source_type": "AI-focused channel",
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "Google DeepMind",
       "handle": "@googledeepmind",
       "source_type": "AI-focused channel",
       "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "OpenAI",
       "handle": "@openai",
       "source_type": "AI-focused channel",
       "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
-      "recent_video_count": 25
+      "recent_video_count": 18
     },
     {
       "name": "Anthropic",
       "handle": "@anthropic-ai",
       "source_type": "AI-focused channel",
       "channel_id": "UCrDwWp7EBBv4NwvScIpBDOA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Hugging Face",
       "handle": "@HuggingFace",
       "source_type": "AI-focused channel",
       "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
-      "recent_video_count": 1
+      "recent_video_count": 2
     },
     {
       "name": "Wes Roth",
@@ -130,35 +130,35 @@
       "handle": "UCawZsQWqfGSbCI5yjkdVkTA",
       "source_type": "AI-focused channel",
       "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "recent_video_count": 10
+      "recent_video_count": 7
     },
     {
       "name": "Fireship",
       "handle": "UCsBjURrPoezykLs9EqgamOA",
       "source_type": "AI-focused channel",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "IBM Technology",
       "handle": "UCKWaEZ-_VweaEx1j62do_vQ",
       "source_type": "AI-focused channel",
       "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
-      "recent_video_count": 7
+      "recent_video_count": 6
     },
     {
       "name": "Theo - t3.gg",
       "handle": "UCbRP3c757lWg9M-U7TyEkXA",
       "source_type": "AI-focused channel",
       "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "AI For Humans",
       "handle": "UCghJTNTO9kcDeUFXMuSDGLQ",
       "source_type": "AI-focused channel",
       "channel_id": "UCghJTNTO9kcDeUFXMuSDGLQ",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Hard Fork",
@@ -172,35 +172,35 @@
       "handle": "UCeeFfhMcJa1kjtfZAGskOCA",
       "source_type": "AI-focused channel",
       "channel_id": "UCeeFfhMcJa1kjtfZAGskOCA",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "CNET",
       "handle": "UCOmcA3f_RrH6b9NmcNa4tdg",
       "source_type": "AI-focused channel",
       "channel_id": "UCOmcA3f_RrH6b9NmcNa4tdg",
-      "recent_video_count": 19
+      "recent_video_count": 12
     },
     {
       "name": "The Verge",
       "handle": "UCddiUEpeqJcYeBxX1IVBKvQ",
       "source_type": "AI-focused channel",
       "channel_id": "UCddiUEpeqJcYeBxX1IVBKvQ",
-      "recent_video_count": 18
+      "recent_video_count": 13
     },
     {
       "name": "Bloomberg Technology",
       "handle": "UCrM7B7SL_g1edFOnmj-SDKg",
       "source_type": "AI-focused channel",
       "channel_id": "UCrM7B7SL_g1edFOnmj-SDKg",
-      "recent_video_count": 25
+      "recent_video_count": 27
     },
     {
       "name": "CNBC Television",
       "handle": "UCrp_UI8XtuYfpiqluWLD7Lw",
       "source_type": "AI-focused channel",
       "channel_id": "UCrp_UI8XtuYfpiqluWLD7Lw",
-      "recent_video_count": 202
+      "recent_video_count": 178
     },
     {
       "name": "TechCrunch",
@@ -221,7 +221,7 @@
       "handle": "UCFQDtftsHGzSh1-TReNT4lA",
       "source_type": "AI-focused channel",
       "channel_id": "UCFQDtftsHGzSh1-TReNT4lA",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "The Rundown AI",
@@ -270,14 +270,14 @@
       "handle": "UCcIXc5mJsHVYTZR1maL5l9w",
       "source_type": "AI-focused channel",
       "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
-      "recent_video_count": 2
+      "recent_video_count": 1
     },
     {
       "name": "NVIDIA",
       "handle": "UCHuiy8bXnmK5nisYHUd1J5g",
       "source_type": "AI-focused channel",
       "channel_id": "UCHuiy8bXnmK5nisYHUd1J5g",
-      "recent_video_count": 9
+      "recent_video_count": 8
     },
     {
       "name": "Microsoft",
@@ -326,7 +326,7 @@
       "handle": "UCUBqu_z5uP0AZhYtuyFZB3g",
       "source_type": "AI-focused channel",
       "channel_id": "UCUBqu_z5uP0AZhYtuyFZB3g",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "AI Engineer",
@@ -350,29 +350,18 @@
       "recent_video_count": 5
     }
   ],
-  "candidate_count": 428,
+  "candidate_count": 380,
   "results": [
     {
-      "video_id": "jP9yjEDlc4k",
-      "title": "Opus just lost to the last company you'd expect...",
+      "video_id": "Jatwf_XOncE",
+      "title": "17 million lines of AI slop just cracked a 167-year-old math problem...",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
       "channel_title": "Fireship",
       "source_type": "AI-focused channel",
-      "published_at": "2026-11-23T19:14:30Z",
-      "view_count": 1596119,
-      "duration_minutes": 5,
-      "url": "https://www.youtube.com/watch?v=jP9yjEDlc4k"
-    },
-    {
-      "video_id": "FORdPIWOH5k",
-      "title": "Is Gemini our path to AGI?",
-      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
-      "channel_title": "Google DeepMind",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-11-19T19:58:06Z",
-      "view_count": 1086749,
-      "duration_minutes": 47,
-      "url": "https://www.youtube.com/watch?v=FORdPIWOH5k"
+      "published_at": "2026-11-25T17:19:51Z",
+      "view_count": 1700034,
+      "duration_minutes": 6,
+      "url": "https://www.youtube.com/watch?v=Jatwf_XOncE"
     },
     {
       "video_id": "5dsUNJHZmxk",
@@ -381,42 +370,9 @@
       "channel_title": "CNBC Television",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-24T13:41:52Z",
-      "view_count": 886707,
+      "view_count": 945090,
       "duration_minutes": 8,
       "url": "https://www.youtube.com/watch?v=5dsUNJHZmxk"
-    },
-    {
-      "video_id": "sof3vW4mHTs",
-      "title": "The making of Anthropic",
-      "channel_id": "UCrDwWp7EBBv4NwvScIpBDOA",
-      "channel_title": "Anthropic",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-11-19T21:03:23Z",
-      "view_count": 561764,
-      "duration_minutes": 15,
-      "url": "https://www.youtube.com/watch?v=sof3vW4mHTs"
-    },
-    {
-      "video_id": "HQlk9RGx2dk",
-      "title": "Where was Google hiding this?",
-      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
-      "channel_title": "Theo - t3․gg",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-11-20T15:40:19Z",
-      "view_count": 542674,
-      "duration_minutes": 33,
-      "url": "https://www.youtube.com/watch?v=HQlk9RGx2dk"
-    },
-    {
-      "video_id": "lKfft75VvfQ",
-      "title": "The “Good Guys” Just Sold Out",
-      "channel_id": "UCeeFfhMcJa1kjtfZAGskOCA",
-      "channel_title": "TechLinked",
-      "source_type": "AI-focused channel",
-      "published_at": "2026-11-21T02:07:54Z",
-      "view_count": 497191,
-      "duration_minutes": 13,
-      "url": "https://www.youtube.com/watch?v=lKfft75VvfQ"
     },
     {
       "video_id": "h4tHDFCPmQE",
@@ -425,31 +381,42 @@
       "channel_title": "IBM Technology",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-23T12:00:09Z",
-      "view_count": 447550,
+      "view_count": 589610,
       "duration_minutes": 9,
       "url": "https://www.youtube.com/watch?v=h4tHDFCPmQE"
     },
     {
-      "video_id": "5eON_8rgKzk",
-      "title": "Gemini 4 Neon is ridiculous...",
-      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
-      "channel_title": "Matthew Berman",
+      "video_id": "lKfft75VvfQ",
+      "title": "The “Good Guys” Just Sold Out",
+      "channel_id": "UCeeFfhMcJa1kjtfZAGskOCA",
+      "channel_title": "TechLinked",
       "source_type": "AI-focused channel",
-      "published_at": "2026-11-20T02:37:36Z",
-      "view_count": 281446,
-      "duration_minutes": 10,
-      "url": "https://www.youtube.com/watch?v=5eON_8rgKzk"
+      "published_at": "2026-11-21T02:07:54Z",
+      "view_count": 500514,
+      "duration_minutes": 13,
+      "url": "https://www.youtube.com/watch?v=lKfft75VvfQ"
     },
     {
-      "video_id": "DFexUtE1vVA",
-      "title": "AI Just Cracked One Of The Worlds BIGGEST Mystery",
-      "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
-      "channel_title": "TheAIGRID",
+      "video_id": "B2rFx4Fy1us",
+      "title": "If you like Open Models, I'm sorry",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "channel_title": "Theo - t3․gg",
       "source_type": "AI-focused channel",
-      "published_at": "2026-11-20T23:45:37Z",
-      "view_count": 262533,
-      "duration_minutes": 30,
-      "url": "https://www.youtube.com/watch?v=DFexUtE1vVA"
+      "published_at": "2026-11-22T15:00:39Z",
+      "view_count": 329671,
+      "duration_minutes": 40,
+      "url": "https://www.youtube.com/watch?v=B2rFx4Fy1us"
+    },
+    {
+      "video_id": "JNexz3Tbiu8",
+      "title": "Build the Workshop Before the Software Factory — Armin Ronacher, Earendil",
+      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channel_title": "AI Engineer",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-11-22T20:00:27Z",
+      "view_count": 271396,
+      "duration_minutes": 20,
+      "url": "https://www.youtube.com/watch?v=JNexz3Tbiu8"
     },
     {
       "video_id": "1jPdehG3Hms",
@@ -458,9 +425,42 @@
       "channel_title": "Two Minute Papers",
       "source_type": "AI-focused channel",
       "published_at": "2026-11-23T07:37:52Z",
-      "view_count": 262415,
+      "view_count": 267167,
       "duration_minutes": 6,
       "url": "https://www.youtube.com/watch?v=1jPdehG3Hms"
+    },
+    {
+      "video_id": "bj3JTd-ezYg",
+      "title": "Riemann solved, unforced Navier-Stokes, realtime waifus, new GPT, Gemini Neon: AI NEWS",
+      "channel_id": "UCIgnGlGkVRhd4qNFcEwLL4A",
+      "channel_title": "AI Search",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-11-22T03:30:59Z",
+      "view_count": 266079,
+      "duration_minutes": 34,
+      "url": "https://www.youtube.com/watch?v=bj3JTd-ezYg"
+    },
+    {
+      "video_id": "DFexUtE1vVA",
+      "title": "AI Just Cracked One Of The Worlds BIGGEST Mystery",
+      "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg",
+      "channel_title": "TheAIGRID",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-11-20T23:45:37Z",
+      "view_count": 263247,
+      "duration_minutes": 30,
+      "url": "https://www.youtube.com/watch?v=DFexUtE1vVA"
+    },
+    {
+      "video_id": "xjX3jESpZqs",
+      "title": "Claude JUST solved the Riemann Hypothesis...",
+      "channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "channel_title": "Wes Roth",
+      "source_type": "AI-focused channel",
+      "published_at": "2026-11-21T02:24:48Z",
+      "view_count": 226295,
+      "duration_minutes": 29,
+      "url": "https://www.youtube.com/watch?v=xjX3jESpZqs"
     }
   ]
 }

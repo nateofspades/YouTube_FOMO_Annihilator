@@ -1,7 +1,7 @@
 {
   "slug": "business-podcasts",
   "title": "Business podcasts",
-  "generated_at": "2026-11-26T18:40:46.537281Z",
+  "generated_at": "2026-11-27T18:30:27.086471Z",
   "time_zone": "America/New_York",
   "window_days": 7,
   "universe_version": 1,
@@ -32,7 +32,7 @@
       "handle": "@allin",
       "source_type": "Business podcast",
       "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
-      "recent_video_count": 6
+      "recent_video_count": 7
     },
     {
       "name": "Guy Raz / How I Built This",
@@ -53,14 +53,14 @@
       "handle": "@LennysPodcast",
       "source_type": "Business podcast",
       "channel_id": "UC6t1O76G0jYXOAoYCm153dA",
-      "recent_video_count": 10
+      "recent_video_count": 11
     },
     {
       "name": "Masters of Scale",
       "handle": "@MastersofScale_",
       "source_type": "Business podcast",
       "channel_id": "UCiemDAS1bXMBTx3jIIOukFg",
-      "recent_video_count": 8
+      "recent_video_count": 7
     },
     {
       "name": "Invest Like The Best",
@@ -74,7 +74,7 @@
       "handle": "@tkppodcast",
       "source_type": "Business podcast",
       "channel_id": "UCLtTf_uKt0Itd0NG7txrwXA",
-      "recent_video_count": 2
+      "recent_video_count": 3
     },
     {
       "name": "This Week in Startups",
@@ -95,21 +95,21 @@
       "handle": "@a16z",
       "source_type": "Business podcast",
       "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "recent_video_count": 4
+      "recent_video_count": 2
     },
     {
       "name": "The Prof G Pod – Scott Galloway",
       "handle": "@TheProfGPod",
       "source_type": "Business podcast",
       "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "recent_video_count": 18
+      "recent_video_count": 17
     },
     {
       "name": "Pivot with Kara Swisher and Scott Galloway",
       "handle": "@pivot",
       "source_type": "Business podcast",
       "channel_id": "UCBHGZpDF2fsqPIPi0pNyuTg",
-      "recent_video_count": 12
+      "recent_video_count": 10
     },
     {
       "name": "Tim Ferriss",
@@ -158,7 +158,7 @@
       "handle": "UCGX7nGXpz-CmO_Arg-cgJ7A",
       "source_type": "Business podcast",
       "channel_id": "UCGX7nGXpz-CmO_Arg-cgJ7A",
-      "recent_video_count": 29
+      "recent_video_count": 26
     },
     {
       "name": "The Jordan Harbinger Show",
@@ -172,7 +172,7 @@
       "handle": "UCMSYZVlQmyG8_2MkIKzg0kw",
       "source_type": "Business podcast",
       "channel_id": "UCMSYZVlQmyG8_2MkIKzg0kw",
-      "recent_video_count": 13
+      "recent_video_count": 12
     },
     {
       "name": "The Money Mondays",
@@ -193,14 +193,14 @@
       "handle": "UCncFI0XEvTu7k4er6BgVN9g",
       "source_type": "Business podcast",
       "channel_id": "UCncFI0XEvTu7k4er6BgVN9g",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "Smart Passive Income",
       "handle": "UCcVgQ0ziCT3cIYSfs6uaHQg",
       "source_type": "Business podcast",
       "channel_id": "UCcVgQ0ziCT3cIYSfs6uaHQg",
-      "recent_video_count": 5
+      "recent_video_count": 4
     },
     {
       "name": "Entrepreneurs on Fire",
@@ -221,21 +221,21 @@
       "handle": "UCly3md3CbnTFJP83lVUEcjw",
       "source_type": "Business podcast",
       "channel_id": "UCly3md3CbnTFJP83lVUEcjw",
-      "recent_video_count": 10
+      "recent_video_count": 9
     },
     {
       "name": "Marketing Against the Grain",
       "handle": "UCGtXqPiNV8YC0GMUzY-EUFg",
       "source_type": "Business podcast",
       "channel_id": "UCGtXqPiNV8YC0GMUzY-EUFg",
-      "recent_video_count": 6
+      "recent_video_count": 5
     },
     {
       "name": "Marketing School",
       "handle": "UCTJmkA2-u7Kyblm5_P6tKdA",
       "source_type": "Business podcast",
       "channel_id": "UCTJmkA2-u7Kyblm5_P6tKdA",
-      "recent_video_count": 8
+      "recent_video_count": 5
     },
     {
       "name": "The Colin and Samir Show",
@@ -249,14 +249,14 @@
       "playlist_id": "PLkL7BvJXiqSQu3i72hSrG4vUkDuaneHuB",
       "source_type": "Business podcast",
       "channel_id": "UCIaH-gZIVC432YRjNVvnyCA",
-      "recent_video_count": 3
+      "recent_video_count": 4
     },
     {
       "name": "The School of Greatness",
       "playlist_id": "PLMG5w22POeeykqONbfGi00m4AqxhnzmWc",
       "source_type": "Business podcast",
       "channel_id": "UCKsP3v2JeT2hWI_HzkxWiMA",
-      "recent_video_count": 4
+      "recent_video_count": 3
     },
     {
       "name": "Impact Theory",
@@ -277,7 +277,7 @@
       "playlist_id": "PLZgCX3KJ3XGAq-6Ewy4ClI88EIYDxJsaS",
       "source_type": "Business podcast",
       "channel_id": "UCBRpqrzuuqE8TZcWw75JSdw",
-      "recent_video_count": 1
+      "recent_video_count": 0
     },
     {
       "name": "Animal Spirits Podcast",
@@ -350,7 +350,7 @@
       "recent_video_count": 0
     }
   ],
-  "candidate_count": 227,
+  "candidate_count": 212,
   "results": [
     {
       "video_id": "4Unch--PmW0",
@@ -359,7 +359,7 @@
       "channel_title": "The Diary Of A CEO",
       "source_type": "Business podcast",
       "published_at": "2026-11-23T08:00:32Z",
-      "view_count": 3662541,
+      "view_count": 3959772,
       "duration_minutes": 94,
       "url": "https://www.youtube.com/watch?v=4Unch--PmW0"
     },
@@ -370,18 +370,18 @@
       "channel_title": "All-In Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-11-20T22:28:55Z",
-      "view_count": 977761,
+      "view_count": 988712,
       "duration_minutes": 77,
       "url": "https://www.youtube.com/watch?v=G5w7EyF-aFQ"
     },
     {
       "video_id": "rRI0iH-cpjg",
-      "title": "Once You Understand This, Business Becomes Embarrassingly Simple",
+      "title": "It's Boring, But It Will Make You Rich",
       "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
       "channel_title": "Alex Hormozi",
       "source_type": "Business podcast",
       "published_at": "2026-11-22T14:00:33Z",
-      "view_count": 742622,
+      "view_count": 844533,
       "duration_minutes": 16,
       "url": "https://www.youtube.com/watch?v=rRI0iH-cpjg"
     },
@@ -392,7 +392,7 @@
       "channel_title": "Pivot with Kara Swisher and Scott Galloway",
       "source_type": "Business podcast",
       "published_at": "2026-11-23T21:21:34Z",
-      "view_count": 693847,
+      "view_count": 700690,
       "duration_minutes": 28,
       "url": "https://www.youtube.com/watch?v=xNDm-XSV-D8"
     },
@@ -403,20 +403,9 @@
       "channel_title": "PBD Podcast",
       "source_type": "Business podcast",
       "published_at": "2026-11-24T16:39:19Z",
-      "view_count": 347123,
+      "view_count": 359662,
       "duration_minutes": 129,
       "url": "https://www.youtube.com/watch?v=XPLS5_T51no"
-    },
-    {
-      "video_id": "TtOoLanFzGw",
-      "title": "Why AI Has DHH Working 16-Hour Days",
-      "channel_id": "UC9cn0TuPq4dnbTY-CBsm8XA",
-      "channel_title": "a16z",
-      "source_type": "Business podcast",
-      "published_at": "2026-11-20T15:39:04Z",
-      "view_count": 314827,
-      "duration_minutes": 52,
-      "url": "https://www.youtube.com/watch?v=TtOoLanFzGw"
     },
     {
       "video_id": "n9B7a2DCmNw",
@@ -425,31 +414,9 @@
       "channel_title": "The Iced Coffee Hour",
       "source_type": "Business podcast",
       "published_at": "2026-11-22T20:00:08Z",
-      "view_count": 258700,
+      "view_count": 279456,
       "duration_minutes": 1,
       "url": "https://www.youtube.com/watch?v=n9B7a2DCmNw"
-    },
-    {
-      "video_id": "9kmyP_rskNo",
-      "title": "Jensen's return to Nvidia reflects peak idolatry",
-      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
-      "channel_title": "The Prof G Pod – Scott Galloway",
-      "source_type": "Business podcast",
-      "published_at": "2026-11-23T16:36:54Z",
-      "view_count": 216176,
-      "duration_minutes": 3,
-      "url": "https://www.youtube.com/watch?v=9kmyP_rskNo"
-    },
-    {
-      "video_id": "zoGoRBYKQrg",
-      "title": "The Perfect Storm Reshaping The Global Economy - Steve Keen (4K)",
-      "channel_id": "UCIaH-gZIVC432YRjNVvnyCA",
-      "channel_title": "Chris Williamson",
-      "source_type": "Business podcast",
-      "published_at": "2026-11-21T16:00:37Z",
-      "view_count": 213887,
-      "duration_minutes": 90,
-      "url": "https://www.youtube.com/watch?v=zoGoRBYKQrg"
     },
     {
       "video_id": "-ieJwYq4j-o",
@@ -458,9 +425,42 @@
       "channel_title": "Y Combinator",
       "source_type": "Business podcast",
       "published_at": "2026-11-24T15:00:08Z",
-      "view_count": 197510,
+      "view_count": 251105,
       "duration_minutes": 16,
       "url": "https://www.youtube.com/watch?v=-ieJwYq4j-o"
+    },
+    {
+      "video_id": "zoGoRBYKQrg",
+      "title": "The Perfect Storm Reshaping The Global Economy - Steve Keen (4K)",
+      "channel_id": "UCIaH-gZIVC432YRjNVvnyCA",
+      "channel_title": "Chris Williamson",
+      "source_type": "Business podcast",
+      "published_at": "2026-11-21T16:00:37Z",
+      "view_count": 223415,
+      "duration_minutes": 90,
+      "url": "https://www.youtube.com/watch?v=zoGoRBYKQrg"
+    },
+    {
+      "video_id": "9kmyP_rskNo",
+      "title": "Jensen's return to Nvidia reflects peak idolatry",
+      "channel_id": "UC1E1SVcVyU3ntWMSQEp38Yw",
+      "channel_title": "The Prof G Pod – Scott Galloway",
+      "source_type": "Business podcast",
+      "published_at": "2026-11-23T16:36:54Z",
+      "view_count": 217174,
+      "duration_minutes": 3,
+      "url": "https://www.youtube.com/watch?v=9kmyP_rskNo"
+    },
+    {
+      "video_id": "tCY7zMknCJQ",
+      "title": "Gemini 4 Neon: the most underrated model of the year",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "channel_title": "Greg Isenberg",
+      "source_type": "Business podcast",
+      "published_at": "2026-11-20T23:45:43Z",
+      "view_count": 85120,
+      "duration_minutes": 16,
+      "url": "https://www.youtube.com/watch?v=tCY7zMknCJQ"
     }
   ]
 }
